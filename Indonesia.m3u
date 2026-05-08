@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 08:00:07AM - 08-05-2026
-# Total Channel Found: 5429 Channel
+# Update Time: 01:03:10AM - 09-05-2026
+# Total Channel Found: 5433 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -4215,7 +4215,7 @@ https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/FreshDance.m
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/music/musikindonesia.jpg" group-title="MUSIC", MUSIK INDONESIA
-https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
+http://103.58.160.157:8278/720-MUSIKINDONESIA/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64c37e710e086a0009e824ab/colorLogoPNG.png" group-title="MUSIC", NOW 70s
 https://tglmp03.akamaized.net/out/v1/f904e7d47bd245efb58c55581e5acf71/manifest.mpd
@@ -16291,8 +16291,20 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.m
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/movies/cinemax.jpg" group-title="MOVIES", CINEMAX 🇵🇭
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
 
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="NasioNaL DiGitaL 📡", !NSERT
+http://103.58.160.157:8278/720-INSERT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="NasioNaL DiGitaL 📡", BALI TV
+http://103.58.160.157:8278/720-BALITV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="NasioNaL DiGitaL 📡", EAT & GO
+http://103.58.160.157:8278/720-EATNGO/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://get.perfecttv.net/logo/indosiar.png" group-title="NasioNaL DiGitaL 📡", Indosiar D
 http://103.66.62.83:8000/play/a00o/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="NasioNaL DiGitaL 📡", WARNER BROS.TV
+http://103.58.160.157:8278/720-WARNERTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png" group-title="Undefined", Stara TV Bojonegoro
 https://bojonegoro.staratv.id/hls/stream.m3u8
