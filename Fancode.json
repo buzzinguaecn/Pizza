@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://contact2.me/lpMKn8",
-    "last update time": "11:54:16 PM 12-05-2026",
+    "last update time": "01:30:18 AM 13-05-2026",
     "webtv": "https://contact2.me/lpMKn8",
     "matches": [
         {
@@ -34,20 +34,6 @@
         },
         {
             "event_category": "Football",
-            "title": "RC Celta vs Levante (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131182_5427_CEV_LE_FC-Web.png",
-            "team_1": "RC Celta",
-            "team_2": "Levante",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "RC Celta vs Levante",
-            "match_id": 131182,
-            "startTime": "10:30:00 PM 12-05-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/131182_english_hls_628be32e0d70501_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/131182_english_hls_628be32e0d70501_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
             "title": "Real Betis vs Elche CF (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131181_5427_RB_ELC_FC-Web.png",
             "team_1": "Real Betis",
@@ -75,18 +61,32 @@
             "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142151_english_hls_8c758cdae578773_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Tennis",
-            "title": "Day 7 - BNP Paribas Arena vs Rome (ATP Masters Internazionali BNL d'Italia 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
-            "team_1": "Day 7 - BNP Paribas Arena",
-            "team_2": "Rome",
+            "event_category": "Football",
+            "title": "Southampton F.C. vs Middlesbrough F.C. (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Southampton-vs-Middlesbrough-fc-web.jpg",
+            "team_1": "Southampton F.C.",
+            "team_2": "Middlesbrough F.C.",
             "status": "LIVE",
-            "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
-            "match_name": "Day 7 - BNP Paribas Arena",
-            "match_id": 142231,
-            "startTime": "02:30:00 PM 12-05-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142231_english_hls_10cb4a2f2925142_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142231_english_hls_10cb4a2f2925142_1ta-di_h264/index.m3u8"
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Southampton F.C. vs Middlesbrough F.C.",
+            "match_id": 142500,
+            "startTime": "12:30:00 AM 13-05-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142500_english_hls_82e8868ef954084_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142500_english_hls_82e8868ef954084_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "CA Osasuna vs Atletico de Madrid (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131186_5427_OSN_ATL_FC-Web.png",
+            "team_1": "CA Osasuna",
+            "team_2": "Atletico de Madrid",
+            "status": "LIVE",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "CA Osasuna vs Atletico de Madrid",
+            "match_id": 131186,
+            "startTime": "01:00:00 AM 13-05-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/131186_english_hls_026f2c657951821_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/131186_english_hls_026f2c657951821_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -118,20 +118,6 @@
         },
         {
             "event_category": "Tennis",
-            "title": "Day 7 - Pietrangeli vs Rome (ATP Masters Internazionali BNL d'Italia 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
-            "team_1": "Day 7 - Pietrangeli",
-            "team_2": "Rome",
-            "status": "LIVE",
-            "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
-            "match_name": "Day 7 - Pietrangeli",
-            "match_id": 142641,
-            "startTime": "06:30:00 PM 12-05-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142641_english_hls_bffc9b3f6a69667_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142641_english_hls_bffc9b3f6a69667_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
             "title": "Day 7 - T A Tirante vs D Medvedev vs Rome (ATP Masters Internazionali BNL d'Italia 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
             "team_1": "Day 7 - T A Tirante vs D Medvedev",
@@ -143,6 +129,20 @@
             "startTime": "11:30:00 PM 12-05-2026",
             "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142640_english_hls_f92eb4169685719_1ta-di_h264/index.m3u8",
             "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142640_english_hls_f92eb4169685719_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "RC Celta vs Levante (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131182_5427_CEV_LE_FC-Web.png",
+            "team_1": "RC Celta",
+            "team_2": "Levante",
+            "status": "LIVE",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "RC Celta vs Levante",
+            "match_id": 131182,
+            "startTime": "10:30:00 PM 12-05-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/131182_english_hls_628be32e0d70501_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/131182_english_hls_628be32e0d70501_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -167,30 +167,6 @@
             "match_name": "Papua New Guinea vs Samoa",
             "match_id": 142314,
             "startTime": "06:00:00 AM 13-05-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Southampton F.C. vs Middlesbrough F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Southampton-vs-Middlesbrough-fc-web.jpg",
-            "team_1": "Southampton F.C.",
-            "team_2": "Middlesbrough F.C.",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Southampton F.C. vs Middlesbrough F.C.",
-            "match_id": 142500,
-            "startTime": "12:30:00 AM 13-05-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "CA Osasuna vs Atletico de Madrid (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131186_5427_OSN_ATL_FC-Web.png",
-            "team_1": "CA Osasuna",
-            "team_2": "Atletico de Madrid",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "CA Osasuna vs Atletico de Madrid",
-            "match_id": 131186,
-            "startTime": "01:00:00 AM 13-05-2026"
         },
         {
             "event_category": "Cricket",
@@ -373,18 +349,6 @@
             "startTime": "05:30:00 PM 13-05-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Stockport County vs Stevenage (League One 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Stockport County",
-            "team_2": "Stevenage",
-            "status": "UPCOMING",
-            "event_name": "League One 2025-26",
-            "match_name": "Stockport County vs Stevenage",
-            "match_id": 142491,
-            "startTime": "12:30:00 AM 14-05-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Indonesia vs Papua New Guinea (ICC Men's T20 WC EAP Sub-regional Qualifier A + B)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
@@ -395,6 +359,18 @@
             "match_name": "Indonesia vs Papua New Guinea",
             "match_id": 142316,
             "startTime": "06:00:00 AM 14-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Stockport County vs Stevenage (League One 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Stockport County",
+            "team_2": "Stevenage",
+            "status": "UPCOMING",
+            "event_name": "League One 2025-26",
+            "match_name": "Stockport County vs Stevenage",
+            "match_id": 142491,
+            "startTime": "12:30:00 AM 14-05-2026"
         },
         {
             "event_category": "Cricket",
@@ -467,6 +443,30 @@
             "match_name": "Japan Women vs Australia Women",
             "match_id": 142254,
             "startTime": "12:30:00 PM 14-05-2026"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "Lightning Lions vs River Ranger (Young Star Kabaddi League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
+            "team_1": "Lightning Lions",
+            "team_2": "River Ranger",
+            "status": "UPCOMING",
+            "event_name": "Young Star Kabaddi League 2026",
+            "match_name": "Lightning Lions vs River Ranger",
+            "match_id": 142483,
+            "startTime": "03:00:00 PM 14-05-2026"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "Goat Warriors vs Raging Bulls (Young Star Kabaddi League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
+            "team_1": "Goat Warriors",
+            "team_2": "Raging Bulls",
+            "status": "UPCOMING",
+            "event_name": "Young Star Kabaddi League 2026",
+            "match_name": "Goat Warriors vs Raging Bulls",
+            "match_id": 142484,
+            "startTime": "04:20:00 PM 14-05-2026"
         }
     ]
 }
