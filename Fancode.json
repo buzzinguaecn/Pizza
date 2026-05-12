@@ -1,9 +1,37 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://contact2.me/lpMKn8",
-    "last update time": "05:51:30 AM 12-05-2026",
+    "last update time": "08:14:18 AM 12-05-2026",
     "webtv": "https://contact2.me/lpMKn8",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Vanuatu vs Samoa (ICC Men's T20 WC EAP Sub-regional Qualifier A + B)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
+            "team_1": "Vanuatu",
+            "team_2": "Samoa",
+            "status": "LIVE",
+            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B",
+            "match_name": "Vanuatu vs Samoa",
+            "match_id": 142312,
+            "startTime": "06:00:00 AM 12-05-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142312_english_hls_4f63786ccc8559_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142312_english_hls_4f63786ccc8559_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Minerva Academy FC vs Classic Football Academy (Dream Sports Championship Football 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png",
+            "team_1": "Minerva Academy FC",
+            "team_2": "Classic Football Academy",
+            "status": "LIVE",
+            "event_name": "Dream Sports Championship Football 2026",
+            "match_name": "Minerva Academy FC vs Classic Football Academy",
+            "match_id": 142372,
+            "startTime": "07:30:00 AM 12-05-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/s3/c6053e15-748c-4705-bbc0-5881a539218d/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/s3/c6053e15-748c-4705-bbc0-5881a539218d/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Bangladesh vs Pakistan (Pakistan tour of Bangladesh 2026)",
@@ -63,18 +91,6 @@
             "match_name": "Trinidad & Tobago Red Force vs Barbados Pride",
             "match_id": 141956,
             "startTime": "07:30:00 PM 10-05-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Samoa vs Vanuatu (ICC Men's T20 WC EAP Sub-regional Qualifier A + B)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
-            "team_1": "Samoa",
-            "team_2": "Vanuatu",
-            "status": "UPCOMING",
-            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B",
-            "match_name": "Samoa vs Vanuatu",
-            "match_id": 142312,
-            "startTime": "06:00:00 AM 12-05-2026"
         },
         {
             "event_category": "Cricket",
@@ -161,6 +177,30 @@
             "startTime": "11:30:00 PM 12-05-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Southampton F.C. vs Middlesbrough F.C. (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Southampton-vs-Middlesbrough-fc-web.jpg",
+            "team_1": "Southampton F.C.",
+            "team_2": "Middlesbrough F.C.",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Southampton F.C. vs Middlesbrough F.C.",
+            "match_id": 142500,
+            "startTime": "12:30:00 AM 13-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "CA Osasuna vs Atletico de Madrid (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131186_5427_OSN_ATL_FC-Web.png",
+            "team_1": "CA Osasuna",
+            "team_2": "Atletico de Madrid",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "CA Osasuna vs Atletico de Madrid",
+            "match_id": 131186,
+            "startTime": "01:00:00 AM 13-05-2026"
+        },
+        {
             "event_category": "Kabaddi",
             "title": "Lightning Lions vs Raging Bulls (Young Star Kabaddi League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
@@ -185,18 +225,6 @@
             "startTime": "12:00:00 PM 12-05-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Southampton F.C. vs Middlesbrough F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Southampton-vs-Middlesbrough-fc-web.jpg",
-            "team_1": "Southampton F.C.",
-            "team_2": "Middlesbrough F.C.",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Southampton F.C. vs Middlesbrough F.C.",
-            "match_id": 142500,
-            "startTime": "12:30:00 AM 13-05-2026"
-        },
-        {
             "event_category": "Kabaddi",
             "title": "Jungle Panthers vs River Ranger (Young Star Kabaddi League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
@@ -219,18 +247,6 @@
             "match_name": "Roaring Rhinos vs Raging Bulls",
             "match_id": 142473,
             "startTime": "03:00:00 PM 12-05-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "CA Osasuna vs Atletico de Madrid (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131186_5427_OSN_ATL_FC-Web.png",
-            "team_1": "CA Osasuna",
-            "team_2": "Atletico de Madrid",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "CA Osasuna vs Atletico de Madrid",
-            "match_id": 131186,
-            "startTime": "01:00:00 AM 13-05-2026"
         },
         {
             "event_category": "Kabaddi",
@@ -258,27 +274,27 @@
         },
         {
             "event_category": "Football",
-            "title": "TBC vs TBC (Dream Sports Championship Football 2026)",
+            "title": "Bengaluru Football Club vs Punjab FC Junior (Dream Sports Championship Football 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "team_1": "Bengaluru Football Club",
+            "team_2": "Punjab FC Junior",
             "status": "UPCOMING",
             "event_name": "Dream Sports Championship Football 2026",
-            "match_name": "TBC vs TBC",
+            "match_name": "Bengaluru Football Club vs Punjab FC Junior",
             "match_id": 142373,
             "startTime": "04:00:00 PM 12-05-2026"
         },
         {
-            "event_category": "Football",
-            "title": "TBC vs TBC (Dream Sports Championship Football 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "event_category": "Cricket",
+            "title": "Vanuatu vs Cook Islands (ICC Men's T20 WC EAP Sub-regional Qualifier A + B)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
+            "team_1": "Vanuatu",
+            "team_2": "Cook Islands",
             "status": "UPCOMING",
-            "event_name": "Dream Sports Championship Football 2026",
-            "match_name": "TBC vs TBC",
-            "match_id": 142372,
-            "startTime": "04:00:00 PM 12-05-2026"
+            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B",
+            "match_name": "Vanuatu vs Cook Islands",
+            "match_id": 142315,
+            "startTime": "10:30:00 AM 13-05-2026"
         },
         {
             "event_category": "Tennis",
@@ -303,18 +319,6 @@
             "match_name": "ATP Masters Internazionali BNL d'Italia 2026",
             "match_id": 142232,
             "startTime": "05:30:00 PM 12-05-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Vanuatu vs Cook Islands (ICC Men's T20 WC EAP Sub-regional Qualifier A + B)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
-            "team_1": "Vanuatu",
-            "team_2": "Cook Islands",
-            "status": "UPCOMING",
-            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B",
-            "match_name": "Vanuatu vs Cook Islands",
-            "match_id": 142315,
-            "startTime": "10:30:00 AM 13-05-2026"
         },
         {
             "event_category": "Kabaddi",
