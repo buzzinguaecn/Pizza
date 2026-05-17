@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 12:48:07AM - 17-05-2026
-# Total Channel Found: 375 Channel
+# Update Time: 07:59:14AM - 17-05-2026
+# Total Channel Found: 377 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -546,7 +546,7 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 https://live-stream.iblups.com/live/a5ae024a1bbc4a05a68debbc9d379db6bb6a6da3.m3u8
 
 #EXTINF:-1 tvg-id="RaiSport.it@HD" tvg-logo="https://i.imgur.com/6PEevOM.png" group-title="Sports", Rai Sport HD
-https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+https://srv1.adriatelekom.com/RaiSport/index.m3u8
 
 #EXTINF:-1 tvg-id="RealitateaSportiva.ro@SD" tvg-logo="https://i.imgur.com/BaEyZto.png" group-title="Sports", Realitatea Sportiva
 https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
@@ -1107,6 +1107,12 @@ https://stm.sinalmycn.com/21006/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZy
 
 #EXTINF:-1 tvg-id="SporTVAlternativo.br@SD" tvg-logo="https://i.imgur.com/8M5dLEb.png" group-title="Sports", SporTV Alternativo
 https://stm.sinalmycn.com/19024/video.m3u8
+
+#EXTINF:-1 tvg-id="SPOTV.id@SD" tvg-logo="https://i.imgur.com/HaoVsm5.png" group-title="Sports", SPOTV
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119515.m3u8
+
+#EXTINF:-1 tvg-id="SPOTV2.id@SD" tvg-logo="https://i.imgur.com/YD8fbTH.png" group-title="Sports", SPOTV 2
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119516.m3u8
 
 #EXTINF:-1 tvg-id="StarSports1Tamil.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_TAMIL/images/LOGO_HD/image.png" group-title="Sports", Star Sports 1 Tamil HD
 http://103.122.249.134:8000/play/a04e
