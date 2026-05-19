@@ -85,9 +85,10 @@ http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwYm1HYJ/resized-300x180-ffffff-16.jpg" group-title="Sports Live Event",T Sports
-http://203.18.159.115/T_Sports_TG_josharmy007/index.m3u8
-https://satoshi-cors.herokuapp.com/https://padmaonline.duckdns.org:8088/T-SportHD/index.m3u8
+https://playztv-apps.pages.dev/tsports/index.m3u8
 http://103.151.60.204/bdixbd.net/tracks-v1/index.m3u8
+http://103.59.176.72:8083/live1/tracks-v1a1/mono.m3u8?token=123
+https://amitomar.hoichoi.pro/bdixbd.net/index.fmp4.m3u8
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-ariana/index.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
@@ -558,7 +559,7 @@ http://103.175.73.12:8080/live/80/80_0.m3u8
 #🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PxNJTbZP/image.jpg" group-title="Sports", Star Sports Select 1
-http://103.175.73.12:8080/live/281/281_0.m3u8
+http://103.59.176.72:8083/ss_select_1/tracks-v1a1/mono.m3u8?token=123
 #https://live.dinesh29.com.np/stream/jiotvplus/starsportsselect1/master.m3u8
 
 
@@ -601,7 +602,7 @@ http://103.175.73.12:8080/live/73/73_0.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Sx4trrVy/image.jpg" group-title="Sports", Star Sports 1
-http://103.175.73.12:8080/live/66/66_0.m3u8
+http://103.59.176.72:8083/live3/tracks-v1a1/mono.m3u8?token=123
 #https://crichd.workspace-sultanarabi161.workers.dev/live/star1in.m3u8
 #https://tvsen7.aynaott.com/sspts1/index.m3u8
 #https://tvsen5.aynaott.com/c9EpzZ6fQBJ3/index.m3u8
@@ -610,7 +611,7 @@ http://103.175.73.12:8080/live/66/66_0.m3u8
 http://103.175.73.12:8080/live/65/65_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85zmvH5B/image.jpg" group-title="Sports", Star Sports 1 HINDI
-http://103.175.73.12:8080/live/70/70_0.m3u8
+http://103.59.176.72:8083/ss1_hindi/tracks-v1a1/mono.m3u8?token=123
 #https://crichd.workspace-sultanarabi161.workers.dev/live/starhindi.m3u8
 #✅https://starsportshindiii.pages.dev/index.m3u8 
 #https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1hindi/master.m3u8
@@ -689,7 +690,10 @@ https://live.dinesh29.com.np/stream/jiotvplus/starsports2kannada/master.m3u8
 
 #👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DPZRPqKs/Sirome-TV-4.jpg" group-title="Sports", Star Sports 3
-http://103.175.73.12:8080/live/69/69_0.m3u8
+http://103.59.176.72:8083/ss_select_2/tracks-v1a1/mono.m3u8?token=123
+http://103.59.176.72:8083/star_sports_3/tracks-v1a1/mono.m3u8?token=123
+
+
 
 
 #👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇
