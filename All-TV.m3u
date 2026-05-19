@@ -57,9 +57,9 @@
 
 
 
-#✅ All-TV - 🟢 SonyLiv Groups UPDATED - 🟢 - 2026-05-19 11:49:12AM BD Time
+#✅ All-TV - 🟢 SonyLiv Groups UPDATED - 🟢 - 2026-05-19 12:12:40PM BD Time
 
-#✅ All-TV - 🟢 Groups UPDATED - 🟢 - 2026-05-19 11:49:12AM BD Time
+#✅ All-TV - 🟢 Groups UPDATED - 🟢 - 2026-05-19 12:12:40PM BD Time
 # --- Live Event Group ---
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png" group-title="Live Event", Bangladesh vs Pakistan (Pakistan tour of Bangladesh 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142161_english_hls_e85dce235994710_1ta-di_h264/index.m3u8
@@ -94,7 +94,7 @@ https://bd-mc-fblive.fancode.com/mumbai/142741_english_hls_351bc6c7ad12695_1ta-d
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zGKf71B1/image.jpg" group-title="Bangladeshi", PSL 2026
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CMcQ0zF6/image.jpg" group-title="Bangladeshi", All Sports
-http://198.195.239.50:8095/Tsports/index.m3u8
+http://103.59.176.72:8083/live1/tracks-v1a1/mono.m3u8?token=123
 https://amitomar.hoichoi.pro/bdixbd.net/index.fmp4.m3u8
 https://1nyaler.screenistream.xyz/stream/122/index.m3u8
 http://103.229.254.25:7001/play/a0dn/index.m3u
@@ -102,23 +102,27 @@ https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 http://31.148.48.15/Match_Strana/index.m3u8
 #http://103.175.242.10:8080/tsports1/index.m3u8
-#http://xui.mainserver.cc/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.m3u8
-#http://103.99.249.139/sonyten3/index.m3u8
-#http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8
-#http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8
 #http://stvlive.net:8080/sonyten5/tracks-v1/mono.m3u8
+#http://198.195.239.50:8095/Tsports/index.m3u8
+
+
 
 
 
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/05z8212R/image.jpg" group-title="Bangladeshi", IPL 2026
+http://103.59.176.72:8083/live3/tracks-v1a1/mono.m3u8?token=123
+http://103.59.176.72:8083/ss1_hindi/tracks-v1a1/mono.m3u8?token=123
+http://103.59.176.72:8083/star_sports_3/tracks-v1a1/mono.m3u8?token=123
 http://premimum.online/live/jen12345/jen54321/158442.ts
 http://premimum.online/live/jen12345/jen54321/114479.ts
 http://premimum.online/live/jen12345/jen54321/703297.ts
 http://premimum.online/live/jen12345/jen54321/703301.ts
 http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/19146/index.m3u8
 http://103.229.254.25:7001/play/a0dn/index.m3u8
+http://103.59.176.72:8083/ss_select_2/tracks-v1a1/mono.m3u8?token=123
+
 
 
 
@@ -126,7 +130,7 @@ http://103.229.254.25:7001/play/a0dn/index.m3u8
 https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Pr2JPQsS/image.jpg" group-title="Bangladeshi", Premier League
-https://1nyaler.screenistream.xyz/stream/122/index.m3u8
+http://103.59.176.72:8083/ss_select_1/tracks-v1a1/mono.m3u8?token=123
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKh40hSc/image.jpg" group-title="Bangladeshi", Bundesliga
@@ -149,12 +153,14 @@ https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwYm1HYJ/resized-300x180-ffffff-16.jpg" group-title="Bangladeshi",T Sports
-http://198.195.239.50:8095/Tsports/index.m3u8
 https://playztv-apps.pages.dev/tsports/index.m3u8
-https://mflixott.com/tv/plusbox/live/TSports/index.m3u8
-https://mflixott.com/tv/plusbox/live/TSportsHD/index.m3u8
+http://103.151.60.204/bdixbd.net/tracks-v1/index.m3u8
+http://103.59.176.72:8083/live1/tracks-v1a1/mono.m3u8?token=123
+https://amitomar.hoichoi.pro/bdixbd.net/index.fmp4.m3u8
 
-
+#https://mflixott.com/tv/plusbox/live/TSports/index.m3u8
+#https://mflixott.com/tv/plusbox/live/TSportsHD/index.m3u8
+#http://198.195.239.50:8095/Tsports/index.m3u8
 #https://futbollive.online/T-Sports/tracks-v1a1/mono.m3u8
 #https://amitomar.bdixbd.net/hoichoi.pro1/tracks-v1/index.m3u8
 #http://203.18.159.115/TSPORTS/tracks-v1a1/mono.m3u8
@@ -415,11 +421,12 @@ http://103.229.254.25:7001/play/a05q/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cj70MbY/image.jpg" group-title="Bangladeshi", Duronto
-https://tvsen4.aynaott.com/durontotv/index.m3u8
+http://103.59.176.72:8083/duronto_tv/tracks-v1a1/mono.m3u8?token=123
 http://103.229.254.25:7001/play/a05k/index.m3u8
-#https://raw.githubusercontent.com/alamteacafe/Live/main/Sorry.mp4
 #https://tvsen5.aynaott.com/durontotv/index.m3u8
 #https://bongoflixbd.top/bk/10.m3u8?user=bongoflix&pass=eaminvai
+#https://tvsen4.aynaott.com/durontotv/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cLjx6jQD/image.jpg" group-title="Bangladeshi", Deepto TV
@@ -557,6 +564,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2ycJtMmp/image.jpg" group-title="Bangladeshi", Nagorik TV
 http://starshare.cx:80/PeH5kPWFfG/infamous7funny/3802
+http://103.59.176.72:8083/nagorik_tv/tracks-v1a1/mono.m3u8?token=123
 #http://116.204.149.16/nagorik/index.m3u8
 #https://satoshi-cors.herokuapp.com/http://116.204.149.16/nagorik/tracks-v1a1/mono.m3u8
 #https://bongoflixbd.top/nagorik.m3u8?user=bongoflix&pass=eaminvai
@@ -599,8 +607,9 @@ https://flc2.technohaat.com/kidscreation_test/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pdJT7Yj1/image.jpg" group-title="Bangladeshi", My TV
-https://mytvbangla.com/0.m3u8
+http://103.59.176.72:8083/mytv/tracks-v1a1/mono.m3u8?token=123
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8
+#https://mytvbangla.com/0.m3u8
 #https://tvsen6.aynaott.com/mytv/index.m3u8
 
 
@@ -750,7 +759,7 @@ https://raw.githubusercontent.com/alamteacafe/Live/main/Sorry.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2QrsxNS/image.jpg" group-title="Bangladeshi", Global TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8
-https://edge2.roarzone.info:8447/roarzone/edge3/global-tv/index.m3u8
+http://103.59.176.72:8083/global_hd/tracks-v1a1/mono.m3u8?token=123
 #https://tvsen6.aynaott.com/globaltvhd/index.m3u8
 
 
@@ -1766,12 +1775,15 @@ http://starshare.cx:80/PeH5kPWFfG/infamous7funny/869
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gt7VxrNx/image.jpg" group-title="Indian-Bangla", Star Jalsha
 http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8
+http://103.59.176.72:8083/live2/tracks-v1a1/mono.m3u8?token=123
 http://starshare.cx:80/PeH5kPWFfG/infamous7funny/198
 http://starshare.cx:80/PeH5kPWFfG/infamous7funny/8540
 http://starshare.cx:80/PeH5kPWFfG/infamous7funny/98883
-http://103.229.254.25:7001/play/a075/index.m3u8
-https://playztv-apps.pages.dev/star-jalsha/index.m3u8
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
+
+
+#https://playztv-apps.pages.dev/star-jalsha/index.m3u8
+#http://103.229.254.25:7001/play/a075/index.m3u8
 #https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
 #https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 #https://bongoflixbd.top/bk/30.m3u8?user=bongoflix&pass=eaminvai
@@ -1782,12 +1794,14 @@ https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RcS6984/image.jpg" group-title="Indian-Bangla", Star-Jalsha Movies
-http://103.229.254.25:7001/play/a0dt/index.m3u8
+http://103.59.176.72:8083/live4/tracks-v1a1/mono.m3u8?token=123
 http://starshare.cx:80/PeH5kPWFfG/infamous7funny/425
 http://starshare.cx:80/PeH5kPWFfG/infamous7funny/375335
 http://starshare.cx:80/PeH5kPWFfG/infamous7funny/98884
 #https://aynapubluc.vercel.app/api/stream/f07177e9-d1a9-48b4-8e2e-1718d098bbfb.m3u8
 #https://bongoflixbd.top/bk/31.m3u8?user=bongoflix&pass=eaminvai
+#http://103.229.254.25:7001/play/a0dt/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Indian-Bangla", Zee Bangla
 http://starshare.cx:80/PeH5kPWFfG/infamous7funny/435
