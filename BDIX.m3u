@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 08:10:23AM - 20-05-2026
-# Total Channel Found: 1171 Channel
+# Update Time: 08:09:37AM - 21-05-2026
+# Total Channel Found: 1172 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -1521,10 +1521,10 @@ http://204.199.242.203:58000/play/a06q/index.m3u8
 http://8.243.126.131:8000/play/a0jt/index.m3u8
 
 #EXTINF:-1 group-title="USA 1", ESPN 3 HD
-http://8.243.126.131:8000/play/a0d4/index.m3u8
+http://8.243.126.131:8000/play/a0nz/index.m3u8
 
 #EXTINF:-1 group-title="USA 1", ESPN 3 HD
-http://8.243.126.131:8000/play/a0d4/index.m3u8
+http://8.243.126.131:8000/play/a0nz/index.m3u8
 
 #EXTINF:-1 group-title="USA 1", ESPN 4
 http://8.243.126.131:8000/play/a0ju/index.m3u8
@@ -1749,7 +1749,7 @@ http://8.243.126.131:8000/play/a0mc/index.m3u8
 http://8.243.126.131:8000/play/a0e3/index.m3u8
 
 #EXTINF:-1 group-title="USA 1", Telesur
-http://8.243.126.131:8000/play/a0pa/index.m3u8
+http://8.243.126.131:8000/play/a0og/index.m3u8
 
 #EXTINF:-1 group-title="USA 1", Televida RD
 http://8.243.126.131:8000/play/a0ew/index.m3u8
@@ -2454,13 +2454,13 @@ http://38.41.8.1:8000/play/a14h
 http://204.199.242.203:58000/play/a02s/index.m3u8
 
 #EXTINF:-1 group-title="USA 3", ESPN
-http://8.243.126.131:8000/play/a0gd/index.m3u8
+http://38.41.8.1:8000/play/a07r
 
 #EXTINF:-1 group-title="USA 3", ESPN 2 HD
 http://204.199.242.203:58000/play/a06q/index.m3u8
 
 #EXTINF:-1 group-title="USA 3", ESPN 3 HD
-http://8.243.126.131:8000/play/a0d4/index.m3u8
+http://8.243.126.131:8000/play/a0nz/index.m3u8
 
 #EXTINF:-1 group-title="USA 3", ESPN 4
 http://8.243.126.131:8000/play/a0ju/index.m3u8
@@ -3474,6 +3474,9 @@ http://8.243.126.131:8000/play/a0ob/index.m3u8
 
 #EXTINF:-1 group-title="-", Disney Jr.
 http://8.243.126.131:8000/play/a0oj/index.m3u8
+
+#EXTINF:-1 group-title="-", ESPN - MEXICO
+http://8.243.126.131:8000/play/a0gd/index.m3u8
 
 #EXTINF:-1 group-title="-", ESPN PRIMUN HD
 http://8.243.126.131:8000/play/a0lu/index.m3u8
