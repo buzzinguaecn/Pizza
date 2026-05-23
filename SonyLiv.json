@@ -1,7 +1,7 @@
 {
     "name": "SonyLiv Live Matches Data in Json",
     "telegram": "https://contact2.me/lpMKn8",
-    "last update time": "08:44:04 PM 23-05-2026",
+    "last update time": "09:47:37 PM 23-05-2026",
     "webtv": "https://contact2.me/lpMKn8",
     "matches": [
         {
@@ -13,28 +13,15 @@
             "audioLanguageName": "ENG",
             "event_name": "New Zealand Women's Tour of England 2026",
             "match_name": "2nd T20I - 23 May 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2118981/EnglandW2305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779590347~acl=/*~id=71655761600648704608685443748625~hmac=d9e78689874b4432172be894564a7dfa5aeaaabbcf680a52d14c139462ce3971",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2118981/EnglandW2305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779590347~acl=/*~id=71655761600648704608685443748625~hmac=d9e78689874b4432172be894564a7dfa5aeaaabbcf680a52d14c139462ce3971",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2118981/EnglandW2305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779590347~acl=/*~id=71655761600648704608685443748625~hmac=d9e78689874b4432172be894564a7dfa5aeaaabbcf680a52d14c139462ce3971"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090530595_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017615/177749374548611_IFL_RD13_Diamond_Harbour_FC_vs_Shillong_Lajong_FC_Live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Star Cement Indian Football League 2025-26",
-            "match_name": "Diamond Harbour FC vs Shillong Lajong FC - 23 May 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/IFL_Raja2305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779590347~acl=/*~id=71655761600648704608685443748625~hmac=d9e78689874b4432172be894564a7dfa5aeaaabbcf680a52d14c139462ce3971",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/IFL_Raja2305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779590347~acl=/*~id=71655761600648704608685443748625~hmac=d9e78689874b4432172be894564a7dfa5aeaaabbcf680a52d14c139462ce3971",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/IFL_Raja2305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779590347~acl=/*~id=71655761600648704608685443748625~hmac=d9e78689874b4432172be894564a7dfa5aeaaabbcf680a52d14c139462ce3971"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2118981/EnglandW2305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779594003~acl=/*~id=55002189397066049164246843565616~hmac=303ad9ec13c5a2282876b65ff3830a622bde939a3780abc83aa92e6800ff88e8",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2118981/EnglandW2305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779594003~acl=/*~id=55002189397066049164246843565616~hmac=303ad9ec13c5a2282876b65ff3830a622bde939a3780abc83aa92e6800ff88e8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2118981/EnglandW2305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779594003~acl=/*~id=55002189397066049164246843565616~hmac=303ad9ec13c5a2282876b65ff3830a622bde939a3780abc83aa92e6800ff88e8"
         },
         {
             "event_category": "Tennis",
             "isLive": false,
             "contentId": 1090529753,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018224/177948361898316_RG26_round1_Djokovic_vs_Perricard_23may_dated_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018256/1779547699599398_RG26_round1_Djokovic_vs_Perricard_23may_dated_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Roland-Garros 2026"
