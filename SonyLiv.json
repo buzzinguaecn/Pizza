@@ -1,22 +1,9 @@
 {
     "name": "SonyLiv Live Matches Data in Json",
     "telegram": "https://contact2.me/lpMKn8",
-    "last update time": "09:47:37 PM 23-05-2026",
+    "last update time": "10:52:54 PM 23-05-2026",
     "webtv": "https://contact2.me/lpMKn8",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090530596_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018140/1779197445808297_EngW_vs_NZW_2t20i_19may_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "New Zealand Women's Tour of England 2026",
-            "match_name": "2nd T20I - 23 May 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2118981/EnglandW2305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779594003~acl=/*~id=55002189397066049164246843565616~hmac=303ad9ec13c5a2282876b65ff3830a622bde939a3780abc83aa92e6800ff88e8",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2118981/EnglandW2305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779594003~acl=/*~id=55002189397066049164246843565616~hmac=303ad9ec13c5a2282876b65ff3830a622bde939a3780abc83aa92e6800ff88e8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2118981/EnglandW2305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779594003~acl=/*~id=55002189397066049164246843565616~hmac=303ad9ec13c5a2282876b65ff3830a622bde939a3780abc83aa92e6800ff88e8"
-        },
         {
             "event_category": "Tennis",
             "isLive": false,
