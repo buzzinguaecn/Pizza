@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 08:55:50PM - 27-05-2026
-# Total Channel Found: 370 Channel
+# Update Time: 07:59:10AM - 28-05-2026
+# Total Channel Found: 373 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -987,6 +987,15 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
 #EXTINF:-1 tvg-id="CBCSport.az@HD" tvg-logo="https://i.imgur.com/3mEdjuq.png" group-title="Sports", CBC Sport HD
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CCTVBilliards.cn@HD" tvg-logo="https://i.imgur.com/WK3keM9.png" group-title="Sports", CCTV-Billiards
+http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+
+#EXTINF:-1 tvg-id="CCTVGolfTennis.cn@HD" tvg-logo="https://i.imgur.com/iqJJTmH.png" group-title="Sports", CCTV-Golf & Tennis
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+
+#EXTINF:-1 tvg-id="CCTVStormFootball.cn@HD" tvg-logo="https://i.imgur.com/Fy6HkX0.png" group-title="Sports", CCTV-Storm Football
+http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 
 #EXTINF:-1 tvg-id="DeportesTVC.hn@SD" tvg-logo="https://i.imgur.com/Y1t8xkL.png" group-title="Sports", Deportes TVC
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8
