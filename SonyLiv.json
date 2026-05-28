@@ -1,87 +1,9 @@
 {
     "name": "SonyLiv Live Matches Data in Json",
     "telegram": "https://contact2.me/lpMKn8",
-    "last update time": "02:09:14 AM 29-05-2026",
+    "last update time": "04:05:39 AM 29-05-2026",
     "webtv": "https://contact2.me/lpMKn8",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090531897_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018618/1779975587789534_ENGvsIND_Womens_1st_T20I_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India Women's Tour of England 2026",
-            "match_name": "1st T20I - 28 May 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/EnglandW2805/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780041618~acl=/*~id=16087810057449821793120501448700~hmac=7cedc47792d801ef18f83561d286910207292dce995726b6640796066ecd945a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/EnglandW2805/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780041618~acl=/*~id=16087810057449821793120501448700~hmac=7cedc47792d801ef18f83561d286910207292dce995726b6640796066ecd945a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/EnglandW2805/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780041618~acl=/*~id=16087810057449821793120501448700~hmac=7cedc47792d801ef18f83561d286910207292dce995726b6640796066ecd945a"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090531897_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018618/1779975587789534_ENGvsIND_Womens_1st_T20I_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India Women's Tour of England 2026",
-            "match_name": "1st T20I - 28 May 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/EnglandW2805/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780041618~acl=/*~id=16087810057449821793120501448700~hmac=7cedc47792d801ef18f83561d286910207292dce995726b6640796066ecd945a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/EnglandW2805/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780041618~acl=/*~id=16087810057449821793120501448700~hmac=7cedc47792d801ef18f83561d286910207292dce995726b6640796066ecd945a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/EnglandW2805/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780041618~acl=/*~id=16087810057449821793120501448700~hmac=7cedc47792d801ef18f83561d286910207292dce995726b6640796066ecd945a"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090531897_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018618/1779975587789534_ENGvsIND_Womens_1st_T20I_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India Women's Tour of England 2026",
-            "match_name": "1st T20I - 28 May 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/EnglandW2805/TAM/std_lrh-800300010.m3u8?hdnea=exp=1780041618~acl=/*~id=16087810057449821793120501448700~hmac=7cedc47792d801ef18f83561d286910207292dce995726b6640796066ecd945a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/EnglandW2805/TAM/std_lrh-800300010.m3u8?hdnea=exp=1780041618~acl=/*~id=16087810057449821793120501448700~hmac=7cedc47792d801ef18f83561d286910207292dce995726b6640796066ecd945a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/EnglandW2805/TAM/std_lrh-800300010.m3u8?hdnea=exp=1780041618~acl=/*~id=16087810057449821793120501448700~hmac=7cedc47792d801ef18f83561d286910207292dce995726b6640796066ecd945a"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090531897_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018618/1779975587789534_ENGvsIND_Womens_1st_T20I_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India Women's Tour of England 2026",
-            "match_name": "1st T20I - 28 May 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/EnglandW2805/TEL/std_lrh-800300010.m3u8?hdnea=exp=1780041618~acl=/*~id=16087810057449821793120501448700~hmac=7cedc47792d801ef18f83561d286910207292dce995726b6640796066ecd945a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/EnglandW2805/TEL/std_lrh-800300010.m3u8?hdnea=exp=1780041618~acl=/*~id=16087810057449821793120501448700~hmac=7cedc47792d801ef18f83561d286910207292dce995726b6640796066ecd945a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/EnglandW2805/TEL/std_lrh-800300010.m3u8?hdnea=exp=1780041618~acl=/*~id=16087810057449821793120501448700~hmac=7cedc47792d801ef18f83561d286910207292dce995726b6640796066ecd945a"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090531897_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018618/1779975587789534_ENGvsIND_Womens_1st_T20I_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India Women's Tour of England 2026",
-            "match_name": "1st T20I - 28 May 2026 [KAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/EnglandW2805/KAN/std_lrh-800300010.m3u8?hdnea=exp=1780041618~acl=/*~id=16087810057449821793120501448700~hmac=7cedc47792d801ef18f83561d286910207292dce995726b6640796066ecd945a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/EnglandW2805/KAN/std_lrh-800300010.m3u8?hdnea=exp=1780041618~acl=/*~id=16087810057449821793120501448700~hmac=7cedc47792d801ef18f83561d286910207292dce995726b6640796066ecd945a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/EnglandW2805/KAN/std_lrh-800300010.m3u8?hdnea=exp=1780041618~acl=/*~id=16087810057449821793120501448700~hmac=7cedc47792d801ef18f83561d286910207292dce995726b6640796066ecd945a"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": "1090529786_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018584/1779883182000631_RG26_Collignon_vs_Shelton_landscape_thumb_SP.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Roland-Garros 2026",
-            "match_name": "Court Suzanne Lenglen - 28 May 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/RG_Day5_2805/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780041618~acl=/*~id=16087810057449821793120501448700~hmac=7cedc47792d801ef18f83561d286910207292dce995726b6640796066ecd945a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/RG_Day5_2805/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780041618~acl=/*~id=16087810057449821793120501448700~hmac=7cedc47792d801ef18f83561d286910207292dce995726b6640796066ecd945a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/RG_Day5_2805/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780041618~acl=/*~id=16087810057449821793120501448700~hmac=7cedc47792d801ef18f83561d286910207292dce995726b6640796066ecd945a"
-        },
         {
             "event_category": "Football",
             "isLive": false,
@@ -92,15 +14,6 @@
             "event_name": "Upcoming - PSG vs Arsenal - Prime Time - UEFA Champions League 2025-26"
         },
         {
-            "event_category": "Fight Sports",
-            "isLive": false,
-            "contentId": 1090530689,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018453/1779812410436829_RTUFC_Ming_Shi_vs_Puja_Tomar_26may_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Shi Ming vs Puja Tomar - Road To UFC"
-        },
-        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090529533,
@@ -108,6 +21,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - India Women's Tour of England 2026"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": false,
+            "contentId": 1090530689,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018453/1779812410436829_RTUFC_Ming_Shi_vs_Puja_Tomar_26may_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Shi Ming vs Puja Tomar - Road To UFC"
         },
         {
             "event_category": "Football",
