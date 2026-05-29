@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 02:04:20AM - 29-05-2026
-# Total Channel Found: 373 Channel
+# Update Time: 08:06:03AM - 29-05-2026
+# Total Channel Found: 376 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -1023,6 +1023,15 @@ https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u
 
 #EXTINF:-1 tvg-id="geFast.br@SD" tvg-logo="https://i.ibb.co/WGXHDnF/logo-ge-fast.png" group-title="Sports", ge Fast
 https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KSASports1.sa@SD" tvg-logo="https://i.imgur.com/ONKNOAp.png" group-title="Sports", KSA Sports 1
+https://aloula-redirect.vercel.app/9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KSASports2.sa@SD" tvg-logo="https://i.imgur.com/v8ULLqg.png" group-title="Sports", KSA Sports 2
+https://aloula-redirect.vercel.app/10/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KSASports3.sa@SD" tvg-logo="https://i.imgur.com/BXfCvez.png" group-title="Sports", KSA Sports 3
+https://aloula-redirect.vercel.app/16/playlist.m3u8
 
 #EXTINF:-1 tvg-id="L1Max.pe@SD" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Sports", L1 Max
 https://live20.bozztv.com/akamaissh101/ssh101/l1maxhd/playlist.m3u8
