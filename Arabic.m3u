@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 08:05:45AM - 29-05-2026
-# Total Channel Found: 388 Channel
+# Update Time: 03:33:19PM - 29-05-2026
+# Total Channel Found: 392 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -375,7 +375,7 @@ https://arrafidain.tvplayer.online/arrafidaintv/source/playlist.m3u8
 https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S6LcTJv.png" group-title="Religious", Al Sunnah Al Nabawiyah TV
-http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+https://aloula-redirect.vercel.app/6/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OI1HQv5.png" group-title="Religious", Al Wilayah
 https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8
@@ -1177,8 +1177,20 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cDkIDIA.png" group-title="Sports", El-Heddaf TV
 https://live.elheddaftv.com:8081/elheddaf/index.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ONKNOAp.png" group-title="Sports", KSA Sports 1
+https://aloula-redirect.vercel.app/9/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v8ULLqg.png" group-title="Sports", KSA Sports 2
+https://aloula-redirect.vercel.app/10/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BXfCvez.png" group-title="Sports", KSA Sports 3
+https://aloula-redirect.vercel.app/16/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/500px-Thmanyah_Logo.svg.png" group-title="Sports", Thmanyah 1
 https://dflive.app.tc/20.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/500px-Thmanyah_Logo.svg.png" group-title="Sports", Thmanyah 3
 https://dflive.app.tc/61.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AKa1X9d.png" group-title="Classic", Thikrayat TV
+https://aloula-redirect.vercel.app/3/playlist.m3u8
