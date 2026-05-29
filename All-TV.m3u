@@ -138,6 +138,7 @@ https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwYm1HYJ/resized-300x180-ffffff-16.jpg" group-title="Bangladeshi",T Sports
+https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1779283784&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3b4c5a2cfa872fa7f91ffbfb4aa0f658
 https://playztv-apps.pages.dev/tsports/index.m3u8
 http://103.151.60.204/bdixbd.net/tracks-v1/index.m3u8
 http://103.59.176.72:8083/live1/tracks-v1a1/mono.m3u8?token=123
@@ -168,8 +169,9 @@ https://amitomar.hoichoi.pro/bdixbd.net/index.fmp4.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rytcs49Y/image.jpg" group-title="Bangladeshi", A Sports 
-http://198.195.239.50:8095/Eurosport/index.m3u8
-http://103.229.254.25:7001/play/a087/index.m3u8
+https://tvsen6.aynaott.com/asports/index.m3u8?e=1779283785&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=356b906bf972b824782bb58c1ce0bb22
+#http://198.195.239.50:8095/Eurosport/index.m3u8
+#http://103.229.254.25:7001/play/a087/index.m3u8
 #https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=88
 #https://crichd.workspace-sultanarabi161.workers.dev/live/asportshd.m3u8
 #http://203.18.159.115/ASPORTSHD/tracks-v1a1/mono.m3u8
@@ -182,6 +184,7 @@ http://103.229.254.25:7001/play/a087/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QDHtZxg/image.jpg" group-title="Bangladeshi", PTV Sports
+https://tvsen5.aynaott.com/PtvSports/index.m3u8?e=1779283784&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=db1789e36c278bf538489fac263e0ffb
 https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8
 #http://198.195.239.50:8095/PTV-kutta/video.m3u8
 #http://203.18.159.115/PTVSPORTSHD/tracks-v1a1/mono.m3u8
@@ -406,6 +409,7 @@ http://103.229.254.25:7001/play/a05q/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cj70MbY/image.jpg" group-title="Bangladeshi", Duronto
+https://tvsen6.aynaott.com/durontotv-live/index.m3u8?e=1779283757&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3da514e08a15c80daed60a18b3f423fa
 http://103.59.176.72:8083/duronto_tv/tracks-v1a1/mono.m3u8?token=123
 http://103.229.254.25:7001/play/a05k/index.m3u8
 #https://tvsen5.aynaott.com/durontotv/index.m3u8
