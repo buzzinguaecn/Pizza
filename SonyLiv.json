@@ -1,7 +1,7 @@
 {
     "name": "SonyLiv Live Matches Data in Json",
     "telegram": "https://contact2.me/lpMKn8",
-    "last update time": "10:24:10 PM 31-05-2026",
+    "last update time": "10:59:03 PM 31-05-2026",
     "webtv": "https://contact2.me/lpMKn8",
     "matches": [
         {
@@ -13,22 +13,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Roland-Garros 2026",
             "match_name": "Mirra Andreeva vs Jil Teichmann - Women's Singles - 31 May 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/RG_SL_Da3105/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780287323~acl=/*~id=56959038237355102638814552420349~hmac=ffe76547e52913ec2f45a79b4ced9bcc2222756f151734cb6d56917309c704b0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/RG_SL_Da3105/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780287323~acl=/*~id=56959038237355102638814552420349~hmac=ffe76547e52913ec2f45a79b4ced9bcc2222756f151734cb6d56917309c704b0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/RG_SL_Da3105/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780287323~acl=/*~id=56959038237355102638814552420349~hmac=ffe76547e52913ec2f45a79b4ced9bcc2222756f151734cb6d56917309c704b0"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090531805_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018842/1780153854379172_VitalityBlast26_Mens_Warwickshire_vs_Northampton_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Vitality Blast 2026",
-            "match_name": "Warwickshire vs Northampton - 31 May 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/Vitality3105/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780287323~acl=/*~id=56959038237355102638814552420349~hmac=ffe76547e52913ec2f45a79b4ced9bcc2222756f151734cb6d56917309c704b0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/Vitality3105/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780287323~acl=/*~id=56959038237355102638814552420349~hmac=ffe76547e52913ec2f45a79b4ced9bcc2222756f151734cb6d56917309c704b0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/Vitality3105/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780287323~acl=/*~id=56959038237355102638814552420349~hmac=ffe76547e52913ec2f45a79b4ced9bcc2222756f151734cb6d56917309c704b0"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/RG_SL_Da3105/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780289753~acl=/*~id=92743584392123238407638164346435~hmac=f315a7d845c973f095484699c6767fc083cb24246a9ef6cb8b505f7e0426b85d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/RG_SL_Da3105/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780289753~acl=/*~id=92743584392123238407638164346435~hmac=f315a7d845c973f095484699c6767fc083cb24246a9ef6cb8b505f7e0426b85d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/RG_SL_Da3105/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780289753~acl=/*~id=92743584392123238407638164346435~hmac=f315a7d845c973f095484699c6767fc083cb24246a9ef6cb8b505f7e0426b85d"
         },
         {
             "event_category": "Cricket",
