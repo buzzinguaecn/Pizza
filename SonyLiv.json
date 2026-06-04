@@ -1,22 +1,9 @@
 {
     "name": "SonyLiv Live Matches Data in Json",
     "telegram": "https://contact2.me/lpMKn8",
-    "last update time": "01:51:24 AM 05-06-2026",
+    "last update time": "02:23:52 AM 05-06-2026",
     "webtv": "https://contact2.me/lpMKn8",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090533667_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018899/1780191604262918_INT_Friendlies26_Spain_vs_Iraq_31may_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA International Friendlies",
-            "match_name": "Spain vs Iraq - 4 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000377/UEFA_Spa0406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780645856~acl=/*~id=64400434481988556165603510233774~hmac=51d31ea17951d42f3f3154413c16e607ee5f105e823cb01e0a083af5996ed890",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000377/UEFA_Spa0406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780645856~acl=/*~id=64400434481988556165603510233774~hmac=51d31ea17951d42f3f3154413c16e607ee5f105e823cb01e0a083af5996ed890",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000377/UEFA_Spa0406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780645856~acl=/*~id=64400434481988556165603510233774~hmac=51d31ea17951d42f3f3154413c16e607ee5f105e823cb01e0a083af5996ed890"
-        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -26,9 +13,22 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA International Friendlies",
             "match_name": "France vs Côte d'Ivoire - 5 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/UEFA_Fra0406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780645856~acl=/*~id=64400434481988556165603510233774~hmac=51d31ea17951d42f3f3154413c16e607ee5f105e823cb01e0a083af5996ed890",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/UEFA_Fra0406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780645856~acl=/*~id=64400434481988556165603510233774~hmac=51d31ea17951d42f3f3154413c16e607ee5f105e823cb01e0a083af5996ed890",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/UEFA_Fra0406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780645856~acl=/*~id=64400434481988556165603510233774~hmac=51d31ea17951d42f3f3154413c16e607ee5f105e823cb01e0a083af5996ed890"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/UEFA_Fra0406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780647674~acl=/*~id=85021267270272311743332034756771~hmac=e6f36a3352ed0ffdc4ec989ee1e8b84c302c2b32375edf4d4d879343c6c9fea8",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/UEFA_Fra0406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780647674~acl=/*~id=85021267270272311743332034756771~hmac=e6f36a3352ed0ffdc4ec989ee1e8b84c302c2b32375edf4d4d879343c6c9fea8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/UEFA_Fra0406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780647674~acl=/*~id=85021267270272311743332034756771~hmac=e6f36a3352ed0ffdc4ec989ee1e8b84c302c2b32375edf4d4d879343c6c9fea8"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090533667_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018899/1780191604262918_INT_Friendlies26_Spain_vs_Iraq_31may_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA International Friendlies",
+            "match_name": "Spain vs Iraq - 4 Jun 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000377/UEFA_Spa0406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780647674~acl=/*~id=85021267270272311743332034756771~hmac=e6f36a3352ed0ffdc4ec989ee1e8b84c302c2b32375edf4d4d879343c6c9fea8",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000377/UEFA_Spa0406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780647674~acl=/*~id=85021267270272311743332034756771~hmac=e6f36a3352ed0ffdc4ec989ee1e8b84c302c2b32375edf4d4d879343c6c9fea8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000377/UEFA_Spa0406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780647674~acl=/*~id=85021267270272311743332034756771~hmac=e6f36a3352ed0ffdc4ec989ee1e8b84c302c2b32375edf4d4d879343c6c9fea8"
         },
         {
             "event_category": "Cricket",
@@ -39,9 +39,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Vitality Blast 2026",
             "match_name": "Somerset vs Glamorgan - 4 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/Vitality0406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780645856~acl=/*~id=64400434481988556165603510233774~hmac=51d31ea17951d42f3f3154413c16e607ee5f105e823cb01e0a083af5996ed890",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/Vitality0406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780645856~acl=/*~id=64400434481988556165603510233774~hmac=51d31ea17951d42f3f3154413c16e607ee5f105e823cb01e0a083af5996ed890",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/Vitality0406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780645856~acl=/*~id=64400434481988556165603510233774~hmac=51d31ea17951d42f3f3154413c16e607ee5f105e823cb01e0a083af5996ed890"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/Vitality0406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780647674~acl=/*~id=85021267270272311743332034756771~hmac=e6f36a3352ed0ffdc4ec989ee1e8b84c302c2b32375edf4d4d879343c6c9fea8",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/Vitality0406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780647674~acl=/*~id=85021267270272311743332034756771~hmac=e6f36a3352ed0ffdc4ec989ee1e8b84c302c2b32375edf4d4d879343c6c9fea8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/Vitality0406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780647674~acl=/*~id=85021267270272311743332034756771~hmac=e6f36a3352ed0ffdc4ec989ee1e8b84c302c2b32375edf4d4d879343c6c9fea8"
         },
         {
             "event_category": "Cricket",
