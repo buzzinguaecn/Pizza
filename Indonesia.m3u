@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 08:13:28AM - 05-06-2026
-# Total Channel Found: 5446 Channel
+# Update Time: 03:28:55PM - 05-06-2026
+# Total Channel Found: 5447 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -16338,6 +16338,9 @@ https://afbtv.siar.us/live/afbtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="General", JTV Madiun
 http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="General", JTV Madura
+http://122.248.43.242:1935/JTVMADURA/_definst_/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="General", JTV Malang
 http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8
