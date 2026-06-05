@@ -84,17 +84,14 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VNXyN2RR/ezgif-85161a866c2cae9c.gif" group-title="Bangladeshi", Live Now
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zGKf71B1/image.jpg" group-title="Bangladeshi", PSL 2026
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9Qjm8cTd/IMG-20260605-233715-896.jpg" group-title="Bangladeshi", San Marino 🆚 Bangladesh 
-http://27.124.71.27/T-Sports/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi", San Marino 🆚 Bangladesh 
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CMcQ0zF6/image.jpg" group-title="Bangladeshi", All Sports
+http://27.124.71.27/T-Sports/index.m3u8
 https://playztv-apps.pages.dev/tsports/index.m3u8
 http://103.151.60.204/bdixbd.net/tracks-v1/index.m3u8
-
-
-
-
 https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 http://31.148.48.15/Match_Strana/index.m3u8
@@ -433,6 +430,10 @@ http://103.229.254.25:7001/play/a05r/index.m3u8
 #https://bongoflixbd.top/bk/8.m3u8?user=bongoflix&pass=eaminvai
 #https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8?sessId=2597917
 
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fs1hGmZ2/20260606-014907.png" group-title="Bangladeshi", Channel 1
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/index.m3u8
 
 
 
