@@ -223,9 +223,9 @@ http://27.124.71.27/Willow_Extra/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kD3GbR1d/resized-300x180-ffffff-14.jpg" group-title="Bangladeshi", Makka
-https://cdn10jtedge.indihometv.com/atm/DASH/alquran/manifest.mpd
-https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/makkah.stream/tracks-v1a1/mono.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
+#https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
+#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/makkah.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvhkC0X4/image.jpg" group-title="Bangladeshi", Makka TV
 https://ncdn.telewebion.com/labbayk/live/playlist.m3u8
