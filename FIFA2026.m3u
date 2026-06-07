@@ -22,8 +22,16 @@ https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_r
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/buzzinguaecn/Logo/main/Sports/Fifa2026.jpg" group-title="FIFA 2026",FIFA
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/buzzinguaecn/Logo/main/Sports/Fifa2026.jpg" group-title="FIFA 2026 - USA", Fox Sports 2
+https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1779283790&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=cbb7f40b4af7be51a91e0629a5ac7238
 
 
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/buzzinguaecn/Logo/main/Sports/PTV_FIFA%20.jpg" group-title="FIFA 2026 - PK", PTV Sports
+https://tvsen5.aynaott.com/PtvSports/index.m3u8?e=1779283784&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=db1789e36c278bf538489fac263e0ffb
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/buzzinguaecn/Logo/main/Sports/T%20Sports-FIFA.jpg" group-title="FIFA 2026 - BD", BTV
@@ -42,8 +50,7 @@ http://103.204.43.87:8080/live/1/1/266.m3u8
 http://103.204.43.87:8080/live/1/1/264.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/buzzinguaecn/Logo/main/Sports/Fifa2026.jpg" group-title="FIFA 2026", Fox Sports 2
-https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1779283790&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=cbb7f40b4af7be51a91e0629a5ac7238
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/buzzinguaecn/Logo/main/Sports/Fifa2026.jpg" group-title="FIFA 2026", beIN Sports 1
 http://27.124.71.27/beIN_Sports_1/index.m3u8
