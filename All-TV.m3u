@@ -368,7 +368,7 @@ http://103.229.254.25:7001/play/a06t/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwYm1HYJ/resized-300x180-ffffff-16.jpg" group-title="Bangladeshi",T-Sports
-http://stvlive.net:8080/tsports1/index.m3u8
+http://198.195.239.50:8095/Tsports/index.m3u8
 
 
 
@@ -524,8 +524,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://satoshi-cors.herokuapp.com/http://116.204.149.16/banglatv/mono.m3u8
 http://103.229.254.25:7001/play/a06c/index.m3u8
 #https://tvsen6.aynaott.com/banglatv/index.m3u8
-#https://raw.giTV
-http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8ubusercontent.com/alamteacafe/Live/gh_pages/sorry.mp4
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3x4Rfj67/resized-300x180-ffffff-26.jpg" group-title="Bangladeshi", Bangla-TV Europe
 https://byphdgllyk.gpcdn.net/hls/banglatveurope/0_1/index.m3u8
@@ -565,12 +564,10 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2ycJtMmp/image.jpg" group-title="Bangladeshi", Nagorik TV
 http://starshare.cx:80/PeH5kPWFfG/infamous7funny/3802
-http://103.59.176.72:8083/nagorik_tv/tracks-v1a1/mono.m3u8?token=123
+http://198.195.239.50:8095/nagorik/index.m3u8
 #http://116.204.149.16/nagorik/index.m3u8
 #https://satoshi-cors.herokuapp.com/http://116.204.149.16/nagorik/tracks-v1a1/mono.m3u8
-#https://bongoflixbd.top/nagorik.m3u8?user=bongoflix&pass=eaminvai
-#https://raw.githubusercontent.com/alamteacafe/Live/main/Sorry.mp4
-#http://103.175.242.10:8080/nagorik/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cHDX13zw/image.jpg" group-title="Bangladeshi", Ekhon TV
