@@ -25,7 +25,12 @@ https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_r
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/buzzinguaecn/Logo/main/Sports/Fifa2026.jpg" group-title="FIFA 2026 - USA", Fox Sports 2
 https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1779283790&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=cbb7f40b4af7be51a91e0629a5ac7238
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/buzzinguaecn/Logo/main/Sports/Tyc-Sports-FIFA.jpg" group-title="FIFA 2026 - Argentina", Tyc Sports
+http://cdn.tv-rds.workers.dev/TYCSPT.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/buzzinguaecn/Logo/main/Sports/Craze-TV-FIFA.png" group-title="FIFA 2026 - Brazil", Caze TV
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
 
 
@@ -34,13 +39,13 @@ https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1779283790&u=78be6644-0a65-48
 https://tvsen5.aynaott.com/PtvSports/index.m3u8?e=1779283784&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=db1789e36c278bf538489fac263e0ffb
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/buzzinguaecn/Logo/main/Sports/T%20Sports-FIFA.jpg" group-title="FIFA 2026 - BD", BTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/buzzinguaecn/Logo/main/Sports/BTV_FIFA%20.jpg" group-title="FIFA 2026 - BD", BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/buzzinguaecn/Logo/main/Sports/T%20Sports-FIFA.jpg" group-title="FIFA 2026 - BD", T Sports
 https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/buzzinguaecn/Logo/main/Sports/T%20Sports-FIFA.jpg" group-title="FIFA 2026 - BD", Somoy TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/buzzinguaecn/Logo/main/Sports/SomoyTV-FIFA.jpg" group-title="FIFA 2026 - BD", Somoy TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/buzzinguaecn/Logo/main/Sports/Unite8-Sports-2-Fifa%20.jpg" group-title="FIFA 2026 - BD IND", Unite8 Sports 1
