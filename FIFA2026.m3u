@@ -44,6 +44,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/buzzinguaecn/Logo/main/Sports/T%20Sports-FIFA.jpg" group-title="FIFA 2026 - BD", T Sports
 https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
+https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1779283784&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3b4c5a2cfa872fa7f91ffbfb4aa0f658
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/buzzinguaecn/Logo/main/Sports/SomoyTV-FIFA.jpg" group-title="FIFA 2026 - BD", Somoy TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
@@ -53,6 +55,7 @@ http://103.204.43.87:8080/live/1/1/266.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/buzzinguaecn/Logo/main/Sports/Unite8-Sports%20.jpeg" group-title="FIFA 2026 - BD IND", Unite8 Sports 2
 http://103.204.43.87:8080/live/1/1/264.m3u8
+http://66.102.126.10:8000/play/a022/index.m3u8
 
 
 
@@ -81,8 +84,7 @@ http://145.239.5.177:80/559/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/buzzinguaecn/Logo/main/Sports/Fifa2026.jpg" group-title="FIFA 2026", beIN Sports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/buzzinguaecn/Logo/main/Sports/Fifa2026.jpg" group-title="FIFA 2026", T Sports HD
-https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1779283784&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3b4c5a2cfa872fa7f91ffbfb4aa0f658
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/buzzinguaecn/Logo/main/Sports/Fifa2026.jpg" group-title="FIFA 2026", Eurosport HD
 https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
