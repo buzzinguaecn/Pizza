@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 01:05:13AM - 08-06-2026
-# Total Channel Found: 388 Channel
+# Update Time: 08:36:16AM - 08-06-2026
+# Total Channel Found: 390 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -177,10 +177,10 @@ https://proped3fhg87.airspace-cdn.cbsivideo.com/golazo-live-dai/master/golazo-li
 https://propee33f9c2.airspace-cdn.cbsivideo.com/index.m3u8
 
 #EXTINF:-1 tvg-id="CCTV5.cn@SD" tvg-logo="https://i.imgur.com/nbmnGwE.png" group-title="Sports", CCTV-5
-http://192.151.150.154/live/cctv5hd.m3u8
+http://123.175.209.52:9003/hls/5/index.m3u8
 
 #EXTINF:-1 tvg-id="CCTV5Plus.cn@SD" tvg-logo="https://i.imgur.com/OK8mdJV.png" group-title="Sports", CCTV-5+
-http://192.151.150.154/live/cctv5p.m3u8
+http://123.175.209.52:9003/hls/6/index.m3u8
 
 #EXTINF:-1 tvg-id="CCTV16.cn@SD" tvg-logo="https://i.imgur.com/ZzV6JQp.png" group-title="Sports", CCTV-16
 http://74.91.26.218:82/live/cctv16hd.m3u8
@@ -678,7 +678,7 @@ http://116.90.120.151:8000/play/a0je/index.m3u8
 http://ptu.ridsys.in/riptv/live/STAR_SPORTS_TAMIL/index.m3u8
 
 #EXTINF:-1 tvg-id="StarSports2.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" group-title="Sports", Star Sports 2 HD
-http://116.90.120.151:8000/play/a0jb/index.m3u8
+https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 
 #EXTINF:-1 tvg-id="StarSports2Hindi.in@SD" tvg-logo="https://i.imgur.com/kHerF19.png" group-title="Sports", Star Sports 2 Hindi
 http://116.90.120.151:8000/play/a0jc/index.m3u8
@@ -1126,6 +1126,9 @@ https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%204.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen4.in@Telugu" tvg-logo="https://dtil.tmsimg.com/assets/s149166_ld_h15_aa.png?lock=720x540" group-title="Sports", Sony Sports Ten 4 Telugu
 https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%204%20HD.m3u8
 
+#EXTINF:-1 tvg-id="Sport.uz@SD" tvg-logo="https://i.imgur.com/2WJE9CM.png" group-title="Sports", Sport
+https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Sport1.hu@SD" tvg-logo="https://i.imgur.com/X5X3tKC.png" group-title="Sports", Sport 1
 http://46.149.191.217:9005/play/a017
 
@@ -1161,6 +1164,9 @@ http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119515.m3u8
 
 #EXTINF:-1 tvg-id="SPOTV2.id@SD" tvg-logo="https://i.imgur.com/YD8fbTH.png" group-title="Sports", SPOTV 2
 http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119516.m3u8
+
+#EXTINF:-1 tvg-id="StarSports1.in@SD" tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Sports", Star Sports 1
+https://tvsen7.aynaott.com/sspts1/index.m3u8
 
 #EXTINF:-1 tvg-id="SuperTennis.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/960px-SuperTennis_-_Logo_2016.svg.png" group-title="Sports", SuperTennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
