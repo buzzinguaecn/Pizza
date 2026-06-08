@@ -1,9 +1,22 @@
 {
     "name": "SonyLiv Live Matches Data in Json",
     "telegram": "https://contact2.me/lpMKn8",
-    "last update time": "11:17:58 PM 08-06-2026",
+    "last update time": "12:35:06 AM 09-06-2026",
     "webtv": "https://contact2.me/lpMKn8",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090534252_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780627525081941_INT_Friendlies26_Netherlands_vs_Uzbekistan_4jun_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA International Friendlies",
+            "match_name": "Netherlands vs Uzbekistan - 9 Jun 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/IF_NedVs0806/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780986544~acl=/*~id=75018853714734848960249892570743~hmac=c9e46f1efc06094dae915b470311b3ebe6ade9f4d09cf112d75a21e802ca4505",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/IF_NedVs0806/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780986544~acl=/*~id=75018853714734848960249892570743~hmac=c9e46f1efc06094dae915b470311b3ebe6ade9f4d09cf112d75a21e802ca4505",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/IF_NedVs0806/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780986544~acl=/*~id=75018853714734848960249892570743~hmac=c9e46f1efc06094dae915b470311b3ebe6ade9f4d09cf112d75a21e802ca4505"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
@@ -30,6 +43,24 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - New Zealand's Blockbuster Home Season"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090534439,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019449/1780938522326787_IndvsAfg_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India A vs Afghanistan A - Talent TV Cup"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090534440,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019449/1780938526929787_tri_series_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Talent TV Cup - Team 'A' ODI Tri Series"
         }
     ]
 }
