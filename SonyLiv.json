@@ -1,7 +1,7 @@
 {
     "name": "SonyLiv Live Matches Data in Json",
     "telegram": "https://contact2.me/lpMKn8",
-    "last update time": "08:38:47 PM 09-06-2026",
+    "last update time": "10:20:29 PM 09-06-2026",
     "webtv": "https://contact2.me/lpMKn8",
     "matches": [
         {
@@ -13,9 +13,9 @@
             "audioLanguageName": "HIN",
             "event_name": "Chhattisgarh Cricket Premier League 2026",
             "match_name": "Raipur Rhinos vs Raigarh Lions - 9 Jun 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0906/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781058837~acl=/*~id=73957188444341488424151051007432~hmac=295c93fcb79e2ce0e03f81b3b05b8b4ce57a3b0abd8df5538663a5c67adcc500",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0906/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781058837~acl=/*~id=73957188444341488424151051007432~hmac=295c93fcb79e2ce0e03f81b3b05b8b4ce57a3b0abd8df5538663a5c67adcc500",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0906/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781058837~acl=/*~id=73957188444341488424151051007432~hmac=295c93fcb79e2ce0e03f81b3b05b8b4ce57a3b0abd8df5538663a5c67adcc500"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0906/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781064318~acl=/*~id=65214657652819709998711753523150~hmac=9015d2f014dd6cf9ae546c952880575d1bbb1b15ec107242eff31f4f4163ff26",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0906/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781064318~acl=/*~id=65214657652819709998711753523150~hmac=9015d2f014dd6cf9ae546c952880575d1bbb1b15ec107242eff31f4f4163ff26",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0906/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781064318~acl=/*~id=65214657652819709998711753523150~hmac=9015d2f014dd6cf9ae546c952880575d1bbb1b15ec107242eff31f4f4163ff26"
         },
         {
             "event_category": "Football",
@@ -26,9 +26,22 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA International Friendlies",
             "match_name": "Armenia vs Moldova  - 9 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/IF_Armen0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781058837~acl=/*~id=73957188444341488424151051007432~hmac=295c93fcb79e2ce0e03f81b3b05b8b4ce57a3b0abd8df5538663a5c67adcc500",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/IF_Armen0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781058837~acl=/*~id=73957188444341488424151051007432~hmac=295c93fcb79e2ce0e03f81b3b05b8b4ce57a3b0abd8df5538663a5c67adcc500",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/IF_Armen0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781058837~acl=/*~id=73957188444341488424151051007432~hmac=295c93fcb79e2ce0e03f81b3b05b8b4ce57a3b0abd8df5538663a5c67adcc500"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/IF_Armen0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781064318~acl=/*~id=65214657652819709998711753523150~hmac=9015d2f014dd6cf9ae546c952880575d1bbb1b15ec107242eff31f4f4163ff26",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/IF_Armen0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781064318~acl=/*~id=65214657652819709998711753523150~hmac=9015d2f014dd6cf9ae546c952880575d1bbb1b15ec107242eff31f4f4163ff26",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/IF_Armen0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781064318~acl=/*~id=65214657652819709998711753523150~hmac=9015d2f014dd6cf9ae546c952880575d1bbb1b15ec107242eff31f4f4163ff26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090534457_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780627874146941_INT_Friendlies26_Belarus_vs_Burkina_Faso_4jun_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA International Friendlies",
+            "match_name": "Belarus vs Burkina Faso  - 9 Jun 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/IF_Belar0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781064318~acl=/*~id=65214657652819709998711753523150~hmac=9015d2f014dd6cf9ae546c952880575d1bbb1b15ec107242eff31f4f4163ff26",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/IF_Belar0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781064318~acl=/*~id=65214657652819709998711753523150~hmac=9015d2f014dd6cf9ae546c952880575d1bbb1b15ec107242eff31f4f4163ff26",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/IF_Belar0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781064318~acl=/*~id=65214657652819709998711753523150~hmac=9015d2f014dd6cf9ae546c952880575d1bbb1b15ec107242eff31f4f4163ff26"
         },
         {
             "event_category": "Cricket",
