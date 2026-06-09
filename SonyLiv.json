@@ -1,21 +1,34 @@
 {
     "name": "SonyLiv Live Matches Data in Json",
     "telegram": "https://contact2.me/lpMKn8",
-    "last update time": "07:32:46 PM 09-06-2026",
+    "last update time": "08:38:47 PM 09-06-2026",
     "webtv": "https://contact2.me/lpMKn8",
     "matches": [
         {
             "event_category": "Cricket",
             "isLive": true,
             "contentId": "1090534434_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019418/178086291755785_CCPL26_Rajnandgaon_Panthers_vs_Bastar_Bisons_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019418/178086321650285_CCPL26_Raipur_Rhinos_vs_Raigarh_Lions_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 3",
             "audioLanguageName": "HIN",
             "event_name": "Chhattisgarh Cricket Premier League 2026",
-            "match_name": "Rajnandgaon Panthers vs Bastar Bisons - 9 Jun 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0906/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781054585~acl=/*~id=03997853564330735405152302102043~hmac=bd50cb66ad74ce03a7c85f32feaa0ac2cef5fab274b17b3bcfb5df2f4a124040",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0906/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781054585~acl=/*~id=03997853564330735405152302102043~hmac=bd50cb66ad74ce03a7c85f32feaa0ac2cef5fab274b17b3bcfb5df2f4a124040",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0906/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781054585~acl=/*~id=03997853564330735405152302102043~hmac=bd50cb66ad74ce03a7c85f32feaa0ac2cef5fab274b17b3bcfb5df2f4a124040"
+            "match_name": "Raipur Rhinos vs Raigarh Lions - 9 Jun 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0906/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781058837~acl=/*~id=73957188444341488424151051007432~hmac=295c93fcb79e2ce0e03f81b3b05b8b4ce57a3b0abd8df5538663a5c67adcc500",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0906/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781058837~acl=/*~id=73957188444341488424151051007432~hmac=295c93fcb79e2ce0e03f81b3b05b8b4ce57a3b0abd8df5538663a5c67adcc500",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0906/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781058837~acl=/*~id=73957188444341488424151051007432~hmac=295c93fcb79e2ce0e03f81b3b05b8b4ce57a3b0abd8df5538663a5c67adcc500"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090534456_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780624346659941_INT_Friendlies26_Armenia_vs_Moldova_4jun_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA International Friendlies",
+            "match_name": "Armenia vs Moldova  - 9 Jun 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/IF_Armen0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781058837~acl=/*~id=73957188444341488424151051007432~hmac=295c93fcb79e2ce0e03f81b3b05b8b4ce57a3b0abd8df5538663a5c67adcc500",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/IF_Armen0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781058837~acl=/*~id=73957188444341488424151051007432~hmac=295c93fcb79e2ce0e03f81b3b05b8b4ce57a3b0abd8df5538663a5c67adcc500",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/IF_Armen0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781058837~acl=/*~id=73957188444341488424151051007432~hmac=295c93fcb79e2ce0e03f81b3b05b8b4ce57a3b0abd8df5538663a5c67adcc500"
         },
         {
             "event_category": "Cricket",
