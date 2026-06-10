@@ -53,26 +53,62 @@
 # 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Football 🟢🟢🟢🟢🟢🟢
 
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Colombia%20U19%0AVS%0ATunisia%20U23%0ATournoi%20Maurice%20Revello&font=Oswald" group-title="SAWARID سواريد - Football", Colombia U19 VS Tunisia U23 | Tournoi Maurice Revello [Server 1]
+#EXTINF:-1 tvg-id="sonyliv-1090534526" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780625586095940_INT_Friendlies26_Portugal_vs_Nigeria_4jun_landscape_thumb.jpg" group-title="SAWARID سواريد - Football", UEFA International Friendlies | Portugal vs Nigeria  - 11 Jun 2026
+https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8
+
+
+#EXTINF:-1 tvg-id="sonyliv-1090534527" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019432/1780913855004844_INT_Friendlies26_England_vs_Costa_Rica_live_landscape_thumb.jpg" group-title="SAWARID سواريد - Football", UEFA International Friendlies | England vs Costa Rica - 11 Jun 2026
+https://dai.google.com/ssai/event/5pjeNU0iTZWl6XQMSLJ_GA/master.m3u8
+
+
+#EXTINF:-1 tvg-id="tapmad-14365" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17810005401020x576.jpg" group-title="SAWARID سواريد - Football", Portugal vs Nigeria | European Qualifiers FIFA World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781121906~acl=/hls/*~hmac=ae155fb5ca2485363cd15e11e6c2f7864378babd88e20cee30639eb0f7caad9e
+
+
+#EXTINF:-1 tvg-id="tapmad-14366" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17810006971020x576.jpg" group-title="SAWARID سواريد - Football", England vs Costa Rica | European Qualifiers FIFA World Cup 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Malaga%0AVS%0ALas%20Palmas%0ASegunda%20Divisi%C3%B3n&font=Oswald" group-title="SAWARID سواريد - Football", Malaga VS Las Palmas | Segunda División [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/161361/720p/chunks.m3u8?is_vip=false&token=1781199109-Kv4cPTAAP5YTi-4c449ca6f1e4007ded0589fd59613ceeef3b473d-8ef3769ebd68a4f1ae4168c39e6feede
+https://livecdn-bp-iptv.rumsport7.live/live_abr/112520/720p/chunks.m3u8?is_vip=false&token=d48debd4f9902a0f7632976d188047686cbcce8b&x-sign=b78f64bca43231af224f908e46110c9b&x-time=1781120760
 
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Colombia%20U19%0AVS%0ATunisia%20U23%0ATournoi%20Maurice%20Revello&font=Oswald" group-title="SAWARID سواريد - Football", Colombia U19 VS Tunisia U23 | Tournoi Maurice Revello [Server 2]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Malaga%0AVS%0ALas%20Palmas%0ASegunda%20Divisi%C3%B3n&font=Oswald" group-title="SAWARID سواريد - Football", Malaga VS Las Palmas | Segunda División [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/161361/720p/chunks.m3u8?is_vip=false&token=4c449ca6f1e4007ded0589fd59613ceeef3b473d&x-sign=aec810c789649d1896808f20f185913e&x-time=1781112660
+https://livecdn-tc-iptv.rumsport10.live/live_abr/112520/720p/chunks.m3u8?is_vip=false&token=1781207206-Kv4cPTAAP5YTi-d48debd4f9902a0f7632976d188047686cbcce8b-91b8dd1ceae47f5c1aeacac8296f6009
 
 
-#EXTINF:-1 tvg-id="1545470" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Colombia%20U19%20VS%20Tunisia%20U23%20%20Tournoi%20Maurice%20Revello.jpg" group-title="SAWARID سواريد - Football", Colombia U19 vs Tunisia U23 - Tournoi Maurice Revello [161361]
+#EXTINF:-1 tvg-id="1548055" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Malaga%20VS%20Las%20Palmas%20%20Segunda%20Divisi%C3%B3n.jpg" group-title="SAWARID سواريد - Football", Malaga vs Las Palmas - Segunda División [112520]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/161361/720p/chunks.m3u8?is_vip=false&token=1781199055-Kv4cPTAAP5YTi-50cbbd74485885210d0384a693bd2883adffaae9-5a0df587070f265a01b17dfa9f8ae317
+https://livecdn-bp-iptv.rumsport7.live/live_abr/112520/720p/chunks.m3u8?is_vip=false&token=883acfe9f3d64520933a8b33a0f84c5573aa0061&x-sign=207eaa651dd1cf263a3e9005a3b8c84a&x-time=1781120700
 
 
-#EXTINF:-1 tvg-id="1545470" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Colombia%20U19%20VS%20Tunisia%20U23%20%20Tournoi%20Maurice%20Revello.jpg" group-title="SAWARID سواريد - Football", Colombia U19 vs Tunisia U23 - Tournoi Maurice Revello [161361]
+#EXTINF:-1 tvg-id="1548055" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Malaga%20VS%20Las%20Palmas%20%20Segunda%20Divisi%C3%B3n.jpg" group-title="SAWARID سواريد - Football", Malaga vs Las Palmas - Segunda División [112520]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/161361/720p/chunks.m3u8?is_vip=false&token=50cbbd74485885210d0384a693bd2883adffaae9&x-sign=8d28d85ebcf5751fd6ea5edac678d63e&x-time=1781112600
+https://livecdn-tc-iptv.rumsport10.live/live_abr/112520/720p/chunks.m3u8?is_vip=false&token=1781207136-Kv4cPTAAP5YTi-883acfe9f3d64520933a8b33a0f84c5573aa0061-7aac8587182af9d093075c62174588ac
+
+
+#EXTINF:-1 tvg-id="1540358" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Portugal%20VS%20Nigeria%20%20Friendlies.jpg" group-title="SAWARID سواريد - Football", Portugal vs Nigeria - Friendlies [151592]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=883acfe9f3d64520933a8b33a0f84c5573aa0061&x-sign=20cb95ec910d77aa6569bda23cdcd435&x-time=1781120700
+
+
+#EXTINF:-1 tvg-id="1540358" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Portugal%20VS%20Nigeria%20%20Friendlies.jpg" group-title="SAWARID سواريد - Football", Portugal vs Nigeria - Friendlies [151592]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=1781207141-Kv4cPTAAP5YTi-883acfe9f3d64520933a8b33a0f84c5573aa0061-ab79f344b8c417b98b9e81859b37932b
+
+
+#EXTINF:-1 tvg-id="1525494" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20VS%20Costa%20Rica%20%20Friendlies.jpg" group-title="SAWARID سواريد - Football", England vs Costa Rica - Friendlies [450]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=883acfe9f3d64520933a8b33a0f84c5573aa0061&x-sign=034a5a7dce2611b63160713f936c4c93&x-time=1781120700
+
+
+#EXTINF:-1 tvg-id="1525494" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20VS%20Costa%20Rica%20%20Friendlies.jpg" group-title="SAWARID سواريد - Football", England vs Costa Rica - Friendlies [450]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1781207152-Kv4cPTAAP5YTi-883acfe9f3d64520933a8b33a0f84c5573aa0061-a111424f012af2af9408bd64264be8ba
 
 
 # 🆕 SAWARID سواريد - Football 👉 Updateded Done ✅✅✅✅✅✅
@@ -81,42 +117,29 @@ https://livecdn-bp-iptv.rumsport7.live/live_abr/161361/720p/chunks.m3u8?is_vip=f
 # 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
 
 
-# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Cricket 🟢🟢🟢🟢🟢🟢
-
-
-#EXTINF:-1 tvg-id="sonyliv-1090534521" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019418/178086358805885_CCPL26_Bilaspur_Bulls_vs_Surguja_Tigers_landscape_thumb.jpg" group-title="SAWARID سواريد - Cricket", Chhattisgarh Cricket Premier League 2026 | Bilaspur Bulls vs Surguja Tigers - 10 Jun 2026
-https://dai.google.com/ssai/event/seP8U3FeRPKV5OA5RUe6aA/master.m3u8
-
-
-# 🆕 SAWARID سواريد - Cricket 👉 Updateded Done ✅✅✅✅✅✅
-
-
-# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
-
-
 # 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Auto Racing 🟢🟢🟢🟢🟢🟢
 
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=ES1%2C%20FIA%20WEC%2C%20Le%20Mans%2024hours%2C%20Qualifying%0AFIA%20World%20Endurance%20Championship&font=Oswald" group-title="SAWARID سواريد - Auto Racing", ES1, FIA WEC, Le Mans 24hours, Qualifying | FIA World Endurance Championship [Server 1]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=ES1%2C%20FIA%20WEC%2C%20Le%20Mans%2024hours%2C%20Free%20practice%202%0AFIA%20World%20Endurance%20Championship&font=Oswald" group-title="SAWARID سواريد - Auto Racing", ES1, FIA WEC, Le Mans 24hours, Free practice 2 | FIA World Endurance Championship [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1781199114-Kv4cPTAAP5YTi-4c449ca6f1e4007ded0589fd59613ceeef3b473d-d8831541fbec3440ebd6d0162cfd067e
+https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=d48debd4f9902a0f7632976d188047686cbcce8b&x-sign=b2e7e5e314a3e34a59344839e977a5e4&x-time=1781120760
 
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=ES1%2C%20FIA%20WEC%2C%20Le%20Mans%2024hours%2C%20Qualifying%0AFIA%20World%20Endurance%20Championship&font=Oswald" group-title="SAWARID سواريد - Auto Racing", ES1, FIA WEC, Le Mans 24hours, Qualifying | FIA World Endurance Championship [Server 2]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=ES1%2C%20FIA%20WEC%2C%20Le%20Mans%2024hours%2C%20Free%20practice%202%0AFIA%20World%20Endurance%20Championship&font=Oswald" group-title="SAWARID سواريد - Auto Racing", ES1, FIA WEC, Le Mans 24hours, Free practice 2 | FIA World Endurance Championship [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=4c449ca6f1e4007ded0589fd59613ceeef3b473d&x-sign=102c0e7cc2eb073c1b6cfc5b18715928&x-time=1781112660
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1781207211-Kv4cPTAAP5YTi-d48debd4f9902a0f7632976d188047686cbcce8b-106f7ed83566351e33cebd5875db9d65
 
 
-#EXTINF:-1 tvg-id="1629492421" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Auto Racing", ES1, FIA WEC, Le Mans 24hours, Qualifying - FIA World Endurance Championship [1419]
+#EXTINF:-1 tvg-id="1629492446" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Auto Racing", ES1, FIA WEC, Le Mans 24hours, Free practice 2 - FIA World Endurance Championship [1419]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1781199048-Kv4cPTAAP5YTi-50cbbd74485885210d0384a693bd2883adffaae9-26bb2aab3de5b5889a6ed960e863172e
+https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=883acfe9f3d64520933a8b33a0f84c5573aa0061&x-sign=7b997dd154c18edd8298ef6d2ad83c78&x-time=1781120700
 
 
-#EXTINF:-1 tvg-id="1629492421" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Auto Racing", ES1, FIA WEC, Le Mans 24hours, Qualifying - FIA World Endurance Championship [1419]
+#EXTINF:-1 tvg-id="1629492446" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Auto Racing", ES1, FIA WEC, Le Mans 24hours, Free practice 2 - FIA World Endurance Championship [1419]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=50cbbd74485885210d0384a693bd2883adffaae9&x-sign=d5e67f3ac4092b38d1ecec5ebc300950&x-time=1781112600
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1781207147-Kv4cPTAAP5YTi-883acfe9f3d64520933a8b33a0f84c5573aa0061-4bbdc894c1b80eb6e29376baf1f93c48
 
 
 # 🆕 SAWARID سواريد - Auto Racing 👉 Updateded Done ✅✅✅✅✅✅
@@ -125,51 +148,62 @@ https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=fal
 # 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
 
 
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Friendlies 🟢🟢🟢🟢🟢🟢
+
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Portugal%0AVS%0ANigeria%0AFriendlies&font=Oswald" group-title="SAWARID سواريد - Friendlies", Portugal VS Nigeria | Friendlies [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=d48debd4f9902a0f7632976d188047686cbcce8b&x-sign=c76bbba961227949b36109231ebb34db&x-time=1781120760
+
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Portugal%0AVS%0ANigeria%0AFriendlies&font=Oswald" group-title="SAWARID سواريد - Friendlies", Portugal VS Nigeria | Friendlies [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=1781207196-Kv4cPTAAP5YTi-d48debd4f9902a0f7632976d188047686cbcce8b-9c4309c564f03a7b65427e8a4dcc2140
+
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=England%0AVS%0ACosta%20Rica%0AFriendlies&font=Oswald" group-title="SAWARID سواريد - Friendlies", England VS Costa Rica | Friendlies [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=d48debd4f9902a0f7632976d188047686cbcce8b&x-sign=cfdf1b33811b74fb18d973532c38d828&x-time=1781120760
+
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=England%0AVS%0ACosta%20Rica%0AFriendlies&font=Oswald" group-title="SAWARID سواريد - Friendlies", England VS Costa Rica | Friendlies [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1781207216-Kv4cPTAAP5YTi-d48debd4f9902a0f7632976d188047686cbcce8b-36bce1a4a3d3179693c279cabf3386e3
+
+
+# 🆕 SAWARID سواريد - Friendlies 👉 Updateded Done ✅✅✅✅✅✅
+
+
+# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
 # 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Tennis 🟢🟢🟢🟢🟢🟢
-
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%203%0ABOSS%20Open&font=Oswald" group-title="SAWARID سواريد - Tennis", Day 3 | BOSS Open [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1781199098-Kv4cPTAAP5YTi-4c449ca6f1e4007ded0589fd59613ceeef3b473d-16c0367b77e64fd0dc1f0e9169a6afc3
-
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%203%0ABOSS%20Open&font=Oswald" group-title="SAWARID سواريد - Tennis", Day 3 | BOSS Open [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=4c449ca6f1e4007ded0589fd59613ceeef3b473d&x-sign=0756899291381fdc669c285dceac3774&x-time=1781112660
 
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=London%3A%20Day%203%0AWTA%20500&font=Oswald" group-title="SAWARID سواريد - Tennis", London: Day 3 | WTA 500 [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1781199103-Kv4cPTAAP5YTi-4c449ca6f1e4007ded0589fd59613ceeef3b473d-4a37c686f6c64e33bd2d6b740107f206
+https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1781207201-Kv4cPTAAP5YTi-d48debd4f9902a0f7632976d188047686cbcce8b-03d05da6b4c8e25a9ee61824f686133b
 
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=London%3A%20Day%203%0AWTA%20500&font=Oswald" group-title="SAWARID سواريد - Tennis", London: Day 3 | WTA 500 [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=4c449ca6f1e4007ded0589fd59613ceeef3b473d&x-sign=5295d187340ee8e004da8aadeff9d128&x-time=1781112660
-
-
-#EXTINF:-1 tvg-id="1629492417" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Tennis", Day 3 - BOSS Open [24]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1781199035-Kv4cPTAAP5YTi-50cbbd74485885210d0384a693bd2883adffaae9-97e94db1e2952936a1311a989e49a7a0
-
-
-#EXTINF:-1 tvg-id="1629492417" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Tennis", Day 3 - BOSS Open [24]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=50cbbd74485885210d0384a693bd2883adffaae9&x-sign=0e1f08d585e115647e1f40862760b575&x-time=1781112600
+https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=d48debd4f9902a0f7632976d188047686cbcce8b&x-sign=0253f823ab2d837c46d81a827d4a6c67&x-time=1781120760
 
 
 #EXTINF:-1 tvg-id="1629492419" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Tennis", London: Day 3 - WTA 500 [5]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1781199042-Kv4cPTAAP5YTi-50cbbd74485885210d0384a693bd2883adffaae9-ff80f8f51a0b15abf13d8a00352d4ad5
+https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1781207129-Kv4cPTAAP5YTi-883acfe9f3d64520933a8b33a0f84c5573aa0061-10ab1309a4a5ed627b370152acfac146
 
 
 #EXTINF:-1 tvg-id="1629492419" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Tennis", London: Day 3 - WTA 500 [5]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=50cbbd74485885210d0384a693bd2883adffaae9&x-sign=9d33b3d90ef837ea10288f0d897171c4&x-time=1781112600
+https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=883acfe9f3d64520933a8b33a0f84c5573aa0061&x-sign=9339d7f9f57a2f92b75537f2fd1d34a9&x-time=1781120700
 
 
 # 🆕 SAWARID سواريد - Tennis 👉 Updateded Done ✅✅✅✅✅✅
@@ -182,11 +216,11 @@ https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&t
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwYm1HYJ/resized-300x180-ffffff-16.jpg" group-title="Live Event Sports", T Sports
-#AUTO-UPDATED - T Sports ⛔ SKIPPED ⛔ - 2026-06-10 23:44:19 🟡 - 🔄 - 🔴
+#AUTO-UPDATED - T Sports ⛔ SKIPPED ⛔ - 2026-06-11 01:58:08 🟡 - 🔄 - 🔴
 https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1779283784&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3b4c5a2cfa872fa7f91ffbfb4aa0f658
-https://edge2.roarzone.net:8447/roarzone/edge1/1/index.ll.m3u8?token=40f210d30c1b8ff504b3acd678c1087ed6806dd1-6f6e4025b87d1e4c8a800c36142caf78-1781117848-1781107048
-https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1781113274&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c415dbfc95db2fb7d92faeec915ce8fc
-https://tvsen6.aynaott.com/btSport2/index.m3u8?e=1781113274&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2c73298178c24d369581c3b95fb53af9
+https://edge2.roarzone.net:8447/roarzone/edge1/1/index.ll.m3u8?token=a993e262b638ef41457b6e7be813b1b2fb1a0fed-644aef17f5fe2778a76652ab86c61840-1781127243-1781116443
+https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1781123503&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a5853fce11ec50504eb0819f50de4496
+https://tvsen6.aynaott.com/btSport2/index.m3u8?e=1781123503&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a67ee669cd83b7a6cbdb666f3e9124de
 http://27.124.71.27/T-Sports/index.m3u8
 https://playztv-apps.pages.dev/tsports/index.m3u8
 # 🔴 Duplicate Link Found 🔴
@@ -195,31 +229,31 @@ http://103.151.60.204/bdixbd.net/tracks-v1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z58NNHv9/image.jpg" group-title="Live Event Sports", TALK SPORT
-#AUTO-UPDATED - TALK SPORT ✅- 2026-06-10 23:44:19 🟡 - 🔄 - 🔴
-https://edge2.roarzone.net:8447/roarzone/edge5/talk-sport/index.ll.m3u8?token=6ac65acbef11a536fe3ce729858bf89cf1286ba0-4f68906f549c52b3832500ca9c3506bd-1781117847-1781107047
-https://tvsen6.aynaott.com/talkSPORT/index.m3u8?e=1781113275&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=10e642961c89fb3c70c6f4bd458e9cdd
+#AUTO-UPDATED - TALK SPORT ✅- 2026-06-11 01:58:08 🟡 - 🔄 - 🔴
+https://edge2.roarzone.net:8447/roarzone/edge5/talk-sport/index.ll.m3u8?token=00aaec21c059107b5d15f5cacf82a229fa6d7fab-dc8263e4a3ac5d1d8e6473fdf03d4549-1781127242-1781116442
+https://tvsen6.aynaott.com/talkSPORT/index.m3u8?e=1781123503&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=65026580e7328c69a96713563c1ee239
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rytcs49Y/image.jpg" group-title="Live Event Sports", A Sports 
-#AUTO-UPDATED - A Sports ✅- 2026-06-10 23:44:19 🟡 - 🔄 - 🔴
+#AUTO-UPDATED - A Sports ✅- 2026-06-11 01:58:08 🟡 - 🔄 - 🔴
 https://tvsen6.aynaott.com/asports/index.m3u8?e=1779283785&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=356b906bf972b824782bb58c1ce0bb22
-https://edge2.roarzone.net:8447/roarzone/edge5/a-sports/index.ll.m3u8?token=2d7e9796e362719582768342a51d66c652a9f8de-3d9d762e4dcede3e8424135119903caf-1781117848-1781107048
-https://tvsen6.aynaott.com/asports/index.m3u8?e=1781113274&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=dd0f8c4e7ae5ed565936394966b9c134
+https://edge2.roarzone.net:8447/roarzone/edge5/a-sports/index.ll.m3u8?token=a16ed3d2097f85d26b78dd66399bdd086fc87097-ae1f6acfb4b5757e8fafc564cfdc14c1-1781127243-1781116443
+https://tvsen6.aynaott.com/asports/index.m3u8?e=1781123503&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b654dae3d7b19db89fff4e6ce6d80db8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QDHtZxg/image.jpg" group-title="Live Event Sports", PTV Sports
-#AUTO-UPDATED - PTV Sports ✅- 2026-06-10 23:44:19 🟡 - 🔄 - 🔴
+#AUTO-UPDATED - PTV Sports ✅- 2026-06-11 01:58:08 🟡 - 🔄 - 🔴
 https://tvsen5.aynaott.com/PtvSports/index.m3u8?e=1779283784&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=db1789e36c278bf538489fac263e0ffb
 https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/498.ts
-https://tvsen5.aynaott.com/PtvSports/index.m3u8?e=1781113274&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e23274745fc21f67cf5a1a71a1deee68
-https://edge2.roarzone.net:8447/roarzone/edge5/ptv-sports/index.ll.m3u8?token=c9b2a92f36b509770c4f2dd815699a1a1a011a2a-6fd3e4d0b46488beb6e8251a1165664a-1781117848-1781107048
+https://tvsen5.aynaott.com/PtvSports/index.m3u8?e=1781123503&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=5320ba4a41b1a09d4956dd8cc392d4ce
+https://edge2.roarzone.net:8447/roarzone/edge5/ptv-sports/index.ll.m3u8?token=ca010a8e5c484cd4ce241716b844749bb6e9f289-a3278e577071d00f1b3044db6477a237-1781127243-1781116443
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DySZB4wf/image.jpg" group-title="Live Event Sports", Willow Sports
-#AUTO-UPDATED - Willow Sports ⛔ SKIPPED ⛔ - 2026-06-10 23:44:19 🟡 - 🔄 - 🔴
-https://edge2.roarzone.net:8447/roarzone/edge5/willow-tv/index.ll.m3u8?token=449ed9c93ecc372e0e7b9274015c683830bc41ae-f0c19450c0e1c6fe0a2012d8b1002a89-1781117848-1781107048
-https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1781113275&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8e33bc80d636f43603fb35623821d598
+#AUTO-UPDATED - Willow Sports ⛔ SKIPPED ⛔ - 2026-06-11 01:58:08 🟡 - 🔄 - 🔴
+https://edge2.roarzone.net:8447/roarzone/edge5/willow-tv/index.ll.m3u8?token=fe05a38b5fc1521e4badbc30eba39533787a1c6f-76e47d451c5cb3700767e9ea5f79c707-1781127243-1781116443
+https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1781123503&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=dcc0a088737fae26c15873dc0600191c
 https://tvsen5.aynaott.com/willowhd/index.m3u8
 # 🔴 Duplicate Link Found 🔴
 http://27.124.71.27/Willow_Extra/index.m3u8
