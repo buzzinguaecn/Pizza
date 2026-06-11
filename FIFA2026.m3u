@@ -5,6 +5,42 @@ https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKggs865/Whats-App-Image-2026-06-11-at-4-37-56-PM.jpg" group-title="FIFA 2026 - Serbia", beIN Sports 2
+http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
+http://27.124.71.27/beIN_Sports_1/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKggs865/Whats-App-Image-2026-06-11-at-4-37-56-PM.jpg" group-title="FIFA 2026 - France", beIN Sports 3
+http://145.239.5.177/559/mpegts
+http://145.239.5.177:80/559/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/buzzinguaecn/Logo/main/Sports/Fifa2026.jpg" group-title="FIFA 2026",FIFA
@@ -178,5 +214,7 @@ https://tvsen7.aynaott.com/tsn2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/buzzinguaecn/Logo/main/Sports/Fifa2026.jpg" group-title="FIFA 2026", TSN 3
 https://tvsen7.aynaott.com/tsn3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/buzzinguaecn/Logo/main/Sports/Fifa2026.jpg" group-title="FIFA 2026", TUDN 1080
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/buzzinguaecn/Logo/main/Sports/Fifa2026.jpg" group-title="FIFA 2026", TUDN
+http://177.10.184.60:8002/play/a013/index.m3u8
+https://streaming.alwaysdata.net/tudn.php
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTVL9TbgOeYnXUEC2UjoDBYk/m3u8
