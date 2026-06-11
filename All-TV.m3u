@@ -90,15 +90,13 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CMcQ0zF6/image.jpg" group-title="Bangladeshi", All Sports
-http://27.124.71.27/T-Sports/index.m3u8
-https://playztv-apps.pages.dev/tsports/index.m3u8
-http://103.151.60.204/bdixbd.net/tracks-v1/index.m3u8
-https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8
-https://bein-esp-xumo.amagi.tv/playlist.m3u8
-http://31.148.48.15/Match_Strana/index.m3u8
-https://tvsen7.aynaott.com/sspts1/index.m3u8
-http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/19146/index.m3u8
-https://jibon02iptvbdix.jibon02premium.workers.dev/JIBON-JOY-IPL-ULTRA-FAST/index.m3u8
+
+#https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8
+#https://bein-esp-xumo.amagi.tv/playlist.m3u8
+#http://31.148.48.15/Match_Strana/index.m3u8
+#https://tvsen7.aynaott.com/sspts1/index.m3u8
+#http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/19146/index.m3u8
+#https://jibon02iptvbdix.jibon02premium.workers.dev/JIBON-JOY-IPL-ULTRA-FAST/index.m3u8
 #http://103.175.242.10:8080/tsports1/index.m3u8
 #http://stvlive.net:8080/sonyten5/tracks-v1/mono.m3u8
 #http://198.195.239.50:8095/Tsports/index.m3u8
@@ -143,8 +141,8 @@ https://jibon02iptvbdix.jibon02premium.workers.dev/JIBON-JOY-IPL-ULTRA-FAST/inde
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwYm1HYJ/resized-300x180-ffffff-16.jpg" group-title="Bangladeshi",T Sports
-https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1779283784&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3b4c5a2cfa872fa7f91ffbfb4aa0f658
-https://playztv-apps.pages.dev/tsports/index.m3u8
+http://27.124.71.27/T-Sports/index.m3u8
+http://172.16.29.2:8090/hls/tsportshd.m3u8
 http://103.151.60.204/bdixbd.net/tracks-v1/index.m3u8
 
 
