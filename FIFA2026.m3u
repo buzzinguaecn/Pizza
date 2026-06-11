@@ -76,6 +76,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/buzzinguaecn/Logo/main/Sports/T%20Sports-FIFA.jpg" group-title="FIFA 2026 - BD", T Sports
 https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
+http://27.124.71.27/T-Sports/index.m3u8
 https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1779283784&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3b4c5a2cfa872fa7f91ffbfb4aa0f658
 
 
@@ -88,6 +89,28 @@ http://103.204.43.87:8080/live/1/1/266.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/buzzinguaecn/Logo/main/Sports/Unite8-Sports%20.jpeg" group-title="FIFA 2026 - BD IND", Unite8 Sports 2
 http://103.204.43.87:8080/live/1/1/264.m3u8
 http://66.102.126.10:8000/play/a022/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/Kvj2fsr4S8.png" group-title="FIFA 2026 - UK" , DAZN 1 HD
+http://znty.dyndns.org:5010/hls/eleven1.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/Kvj2fsr4S8.png" group-title="FIFA 2026 - UK" , DAZN 2 HD
+http://znty.dyndns.org:5010/hls/eleven2.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/Kvj2fsr4S8.png" group-title="FIFA 2026 - UK" , DAZN 3 HD
+http://znty.dyndns.org:5010/hls/eleven3.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/Kvj2fsr4S8.png" group-title="FIFA 2026 - UK" , DAZN 4 HD
+http://znty.dyndns.org:5010/hls/eleven4.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/Kvj2fsr4S8.png" group-title="FIFA 2026 - UK" , DAZN 5 HD
+http://znty.dyndns.org:5010/hls/eleven5.m3u8
+
 
 
 
