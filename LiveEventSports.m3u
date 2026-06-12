@@ -53,15 +53,28 @@
 # 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Football 🟢🟢🟢🟢🟢🟢
 
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Gold%20Coast%20Suns%0AVS%0AGeelong%20Cats%0AAFL%20Premiership&font=Oswald" group-title="SAWARID سواريد - Football", Gold Coast Suns VS Geelong Cats | AFL Premiership [Server 1]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=FC%20Isloch%20Minsk%20R.%0AVS%0ANaftan%0APremier%20League&font=Oswald" group-title="SAWARID سواريد - Football", FC Isloch Minsk R. VS Naftan | Premier League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=dfc4ad4d3a9c80dd77ab5e005e1777743a7f39de&x-sign=7b6e642ebb09c72e01d72da879b6e3de&x-time=1781262120
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a30625e3/chunks.m3u8?is_vip=false&token=59e4e8963dfa306976466cdf4fc8291a1fb2aa60&x-sign=bdd460d594ebfbbe0607c6367b013427&x-time=1781272020
 
 
-#EXTINF:-1 tvg-id="1629492483" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gold%20Coast%20Suns%20VS%20Geelong%20Cats%20%20AFL%20Premiership.jpg" group-title="SAWARID سواريد - Football", Gold Coast Suns vs Geelong Cats - Unknown League [450]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=FC%20Isloch%20Minsk%20R.%0AVS%0ANaftan%0APremier%20League&font=Oswald" group-title="SAWARID سواريد - Football", FC Isloch Minsk R. VS Naftan | Premier League [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=7adb4531ffed15b234c6ab15b24d0505c5713a04&x-sign=92174d967c6e45b61be8d0e604fb5c01&x-time=1781262060
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a30625e3/chunks.m3u8?is_vip=false&token=1781358427-Kv4cPTAAP5YTi-59e4e8963dfa306976466cdf4fc8291a1fb2aa60-a9876b6d7373a27cda298b9f6c5b56be
+
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Khan%20Tengri%0AVS%0AShakhter%20Karagandy%0A1.%20Division&font=Oswald" group-title="SAWARID سواريد - Football", Khan Tengri VS Shakhter Karagandy | 1. Division [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a09defc3be73d31bcb3f279/chunks.m3u8?is_vip=false&token=59e4e8963dfa306976466cdf4fc8291a1fb2aa60&x-sign=821c93349551b4aed735413d5906afb1&x-time=1781272020
+
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Khan%20Tengri%0AVS%0AShakhter%20Karagandy%0A1.%20Division&font=Oswald" group-title="SAWARID سواريد - Football", Khan Tengri VS Shakhter Karagandy | 1. Division [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a09defc3be73d31bcb3f279/chunks.m3u8?is_vip=false&token=1781358433-Kv4cPTAAP5YTi-59e4e8963dfa306976466cdf4fc8291a1fb2aa60-6e18e7103a3484b51735c374f678842a
 
 
 # 🆕 SAWARID سواريد - Football 👉 Updateded Done ✅✅✅✅✅✅
@@ -73,7 +86,7 @@ https://livecdn-bp-iptv.rumsport7.live/live_abr/450/720p/chunks.m3u8?is_vip=fals
 # 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Cricket 🟢🟢🟢🟢🟢🟢
 
 
-#EXTINF:-1 tvg-id="sonyliv-1090534660" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019541/178118055960699_CCPL26_SF_Bilaspur_Bulls_vs_Bastar_Bisons_landscape_thumb.jpg" group-title="SAWARID سواريد - Cricket", Chhattisgarh Cricket Premier League 2026 | Bilaspur Bulls vs Bastar Bisons - 12 Jun 2026
+#EXTINF:-1 tvg-id="sonyliv-1090534660" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019541/178118003725399_CCPL26_SF_Raigarh_Lions_vs_Raipur_Rhinos_landscape_thumb.jpg" group-title="SAWARID سواريد - Cricket", Chhattisgarh Cricket Premier League 2026 | Raigarh Lions vs Raipur Rhinos - Semi-Final - 12 Jun 2026
 https://dai.google.com/ssai/event/7JLfkzHXQgGvUimwAKPKiw/master.m3u8
 
 
@@ -83,86 +96,32 @@ https://dai.google.com/ssai/event/7JLfkzHXQgGvUimwAKPKiw/master.m3u8
 # 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
 
 
-# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Baseball 🟢🟢🟢🟢🟢🟢
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Auto Racing 🟢🟢🟢🟢🟢🟢
 
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Hanshin%20Tigers%0AVS%0AORIX%20Buffaloes%0ANPB&font=Oswald" group-title="SAWARID سواريد - Baseball", Hanshin Tigers VS ORIX Buffaloes | NPB [Server 1]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Barcelona%2C%20Spain%0AFIA%20Formula%202%20Championship%20Qualifying&font=Oswald" group-title="SAWARID سواريد - Auto Racing", Barcelona, Spain | FIA Formula 2 Championship Qualifying [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781348496-Kv4cPTAAP5YTi-dfc4ad4d3a9c80dd77ab5e005e1777743a7f39de-99ea2676c5a505f2314229f61b6bd666
+https://livecdn-tc-iptv.rumsport10.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=1781358437-Kv4cPTAAP5YTi-59e4e8963dfa306976466cdf4fc8291a1fb2aa60-923a0938fbe64feb353612170e27eb16
 
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Hanshin%20Tigers%0AVS%0AORIX%20Buffaloes%0ANPB&font=Oswald" group-title="SAWARID سواريد - Baseball", Hanshin Tigers VS ORIX Buffaloes | NPB [Server 2]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Barcelona%2C%20Spain%0AFIA%20Formula%202%20Championship%20Qualifying&font=Oswald" group-title="SAWARID سواريد - Auto Racing", Barcelona, Spain | FIA Formula 2 Championship Qualifying [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=dfc4ad4d3a9c80dd77ab5e005e1777743a7f39de&x-sign=feef220d5c944cf136adf8a4f1204822&x-time=1781262060
+https://livecdn-bp-iptv.rumsport7.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=59e4e8963dfa306976466cdf4fc8291a1fb2aa60&x-sign=8a0f1496424b8da1ef6831f683147d27&x-time=1781272020
 
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Chiba%20Lotte%20Marines%0AVS%0AYOKOHAMA%20DeNA%20BAYSTARS%0ANPB&font=Oswald" group-title="SAWARID سواريد - Baseball", Chiba Lotte Marines VS YOKOHAMA DeNA BAYSTARS | NPB [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="1629492982" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Auto Racing", Barcelona, Spain - FIA Formula 2 Championship Qualifying [239]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1781348502-Kv4cPTAAP5YTi-dfc4ad4d3a9c80dd77ab5e005e1777743a7f39de-d19d0a822e18b467c2eb0ef88b95f284
+https://livecdn-tc-iptv.rumsport10.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=1781358354-Kv4cPTAAP5YTi-22e02a407236f4f4a2ac7ac1c6a3b1a0cff2bbbf-6eeebe0e6cd0178080ea38399f32a863
 
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Chiba%20Lotte%20Marines%0AVS%0AYOKOHAMA%20DeNA%20BAYSTARS%0ANPB&font=Oswald" group-title="SAWARID سواريد - Baseball", Chiba Lotte Marines VS YOKOHAMA DeNA BAYSTARS | NPB [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="1629492982" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Auto Racing", Barcelona, Spain - FIA Formula 2 Championship Qualifying [239]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=dfc4ad4d3a9c80dd77ab5e005e1777743a7f39de&x-sign=09c85159a1e3367fadd5eb686fcbbc9e&x-time=1781262060
+https://livecdn-bp-iptv.rumsport7.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=22e02a407236f4f4a2ac7ac1c6a3b1a0cff2bbbf&x-sign=d102566ada0518b3c3121dcb71e7e7b7&x-time=1781271900
 
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Hokkaido%20Nippon-Ham%20Fighters%0AVS%0AChunichi%20Dragons%0ANPB&font=Oswald" group-title="SAWARID سواريد - Baseball", Hokkaido Nippon-Ham Fighters VS Chunichi Dragons | NPB [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1781348513-Kv4cPTAAP5YTi-dfc4ad4d3a9c80dd77ab5e005e1777743a7f39de-aed2c8e87976958d62ee7c1fc31d017c
-
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Hokkaido%20Nippon-Ham%20Fighters%0AVS%0AChunichi%20Dragons%0ANPB&font=Oswald" group-title="SAWARID سواريد - Baseball", Hokkaido Nippon-Ham Fighters VS Chunichi Dragons | NPB [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=dfc4ad4d3a9c80dd77ab5e005e1777743a7f39de&x-sign=967cd42a731b9e47147e3b36087fedca&x-time=1781262060
-
-
-#EXTINF:-1 tvg-id="1629492475" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hanshin%20Tigers%20VS%20ORIX%20Buffaloes%20%20NPB.jpg" group-title="SAWARID سواريد - Baseball", Hanshin Tigers vs Orix Buffaloes - NPB [2]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781348443-Kv4cPTAAP5YTi-7adb4531ffed15b234c6ab15b24d0505c5713a04-79914efb04cbeb972f1996ae9b579a2a
-
-
-#EXTINF:-1 tvg-id="1629492475" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hanshin%20Tigers%20VS%20ORIX%20Buffaloes%20%20NPB.jpg" group-title="SAWARID سواريد - Baseball", Hanshin Tigers vs Orix Buffaloes - NPB [2]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=7adb4531ffed15b234c6ab15b24d0505c5713a04&x-sign=8e801e336af11ba8208435de76516329&x-time=1781262000
-
-
-#EXTINF:-1 tvg-id="1629492477" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tohoku%20Rakuten%20Golden%20Eagles%20VS%20Hiroshima%20Toyo%20Carp%20%20NPB.jpg" group-title="SAWARID سواريد - Baseball", Tohoku Rakuten Golden Eagles vs Hiroshima Toyo Carp - NPB [6]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1781348449-Kv4cPTAAP5YTi-7adb4531ffed15b234c6ab15b24d0505c5713a04-09b94bc55843560a8c9146f2be74d876
-
-
-#EXTINF:-1 tvg-id="1629492477" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tohoku%20Rakuten%20Golden%20Eagles%20VS%20Hiroshima%20Toyo%20Carp%20%20NPB.jpg" group-title="SAWARID سواريد - Baseball", Tohoku Rakuten Golden Eagles vs Hiroshima Toyo Carp - NPB [6]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=7adb4531ffed15b234c6ab15b24d0505c5713a04&x-sign=8ce843799bb81634ad168d74f75eb201&x-time=1781262000
-
-
-#EXTINF:-1 tvg-id="1629492478" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hokkaido%20Nippon-Ham%20Fighters%20VS%20Chunichi%20Dragons%20%20NPB.jpg" group-title="SAWARID سواريد - Baseball", Hokkaido Nippon-Ham Fighters vs Chunichi Dragons - NPB [7]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1781348455-Kv4cPTAAP5YTi-7adb4531ffed15b234c6ab15b24d0505c5713a04-59801e3b775f25296b46d4cec2a6a657
-
-
-#EXTINF:-1 tvg-id="1629492478" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hokkaido%20Nippon-Ham%20Fighters%20VS%20Chunichi%20Dragons%20%20NPB.jpg" group-title="SAWARID سواريد - Baseball", Hokkaido Nippon-Ham Fighters vs Chunichi Dragons - NPB [7]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=7adb4531ffed15b234c6ab15b24d0505c5713a04&x-sign=68e9a11355ca9d1459e373824cc85972&x-time=1781262000
-
-
-#EXTINF:-1 tvg-id="1629492476" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chiba%20Lotte%20Marines%20VS%20YOKOHAMA%20DeNA%20BAYSTARS%20%20NPB.jpg" group-title="SAWARID سواريد - Baseball", Chiba Lotte Marines vs Yokohama DeNA BayStars - NPB [3]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1781348460-Kv4cPTAAP5YTi-7adb4531ffed15b234c6ab15b24d0505c5713a04-a589d4aaa393a57bb69b1c828e9dfa54
-
-
-#EXTINF:-1 tvg-id="1629492476" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chiba%20Lotte%20Marines%20VS%20YOKOHAMA%20DeNA%20BAYSTARS%20%20NPB.jpg" group-title="SAWARID سواريد - Baseball", Chiba Lotte Marines vs Yokohama DeNA BayStars - NPB [3]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=7adb4531ffed15b234c6ab15b24d0505c5713a04&x-sign=edf2c67b1ed7565fa742633ee78f89dd&x-time=1781262060
-
-
-# 🆕 SAWARID سواريد - Baseball 👉 Updateded Done ✅✅✅✅✅✅
+# 🆕 SAWARID سواريد - Auto Racing 👉 Updateded Done ✅✅✅✅✅✅
 
 
 # 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
@@ -171,7 +130,7 @@ https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&t
 # 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Boat Racing 🟢🟢🟢🟢🟢🟢
 
 
-#EXTINF:-1 tvg-id="tapmad-14342" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17811836771020x576.jpg" group-title="SAWARID سواريد - Boat Racing", Session 1 - Q1 E1 Croatia Live | E1 Series 2026
+#EXTINF:-1 tvg-id="tapmad-14347" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17811840391020x576.jpg" group-title="SAWARID سواريد - Boat Racing", Session 2 - Q2 + Q3 + Q4 E1 Croatia Live | E1 Series 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
 
 
@@ -181,18 +140,37 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/ma
 # 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
 
 
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Cycling 🟢🟢🟢🟢🟢🟢
+
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=ES1%2C%20Tour%20Auvergne-Rh%C3%B4ne-Alpes%2C%20Stage%206%0AUCI%20World%20Tour&font=Oswald" group-title="SAWARID سواريد - Cycling", ES1, Tour Auvergne-Rhône-Alpes, Stage 6 | UCI World Tour [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=59e4e8963dfa306976466cdf4fc8291a1fb2aa60&x-sign=be80985f6e4b45e7a3b3404d4d97054a&x-time=1781272020
+
+
+#EXTINF:-1 tvg-id="1629492487" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Cycling", ES1, Tour Auvergne-Rhône-Alpes, Stage 6 - UCI World Tour [1419]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=22e02a407236f4f4a2ac7ac1c6a3b1a0cff2bbbf&x-sign=a901f02fafd79457cf1ed44fcb1bf1e1&x-time=1781271900
+
+
+# 🆕 SAWARID سواريد - Cycling 👉 Updateded Done ✅✅✅✅✅✅
+
+
+# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
 # 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Darts 🟢🟢🟢🟢🟢🟢
 
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=World%20Cup%20of%20Darts%0AWorld%20Cup%20of%20Darts&font=Oswald" group-title="SAWARID سواريد - Darts", World Cup of Darts | World Cup of Darts [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="1629492485" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Darts", Day 2 - Afternoon Session - World Cup of Darts [114415]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=dfc4ad4d3a9c80dd77ab5e005e1777743a7f39de&x-sign=9f6e128befe7fb1892ee93859eea2be2&x-time=1781262120
+https://livecdn-tc-iptv.rumsport10.live/live_abr/114415/720p/chunks.m3u8?is_vip=false&token=1781358344-Kv4cPTAAP5YTi-22e02a407236f4f4a2ac7ac1c6a3b1a0cff2bbbf-6f09657957181a3992179c9a0721b3ac
 
 
-#EXTINF:-1 tvg-id="1629492485" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Darts", Day 2 - Afternoon Session - World Cup of Darts [114414]
+#EXTINF:-1 tvg-id="1629492485" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Darts", Day 2 - Afternoon Session - World Cup of Darts [114415]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=7adb4531ffed15b234c6ab15b24d0505c5713a04&x-sign=0cc42a5d334277bd042765fc8921e85f&x-time=1781262060
+https://livecdn-bp-iptv.rumsport7.live/live_abr/114415/720p/chunks.m3u8?is_vip=false&token=22e02a407236f4f4a2ac7ac1c6a3b1a0cff2bbbf&x-sign=8058af74f0c90988d7523a4961f07a24&x-time=1781271900
 
 
 # 🆕 SAWARID سواريد - Darts 👉 Updateded Done ✅✅✅✅✅✅
@@ -201,35 +179,35 @@ https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=f
 # 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
 
 
-# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Multisports 🟢🟢🟢🟢🟢🟢
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Golf 🟢🟢🟢🟢🟢🟢
 
 
-#EXTINF:-1 tvg-id="tapmad-14502" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17811629811020x576.jpg" group-title="SAWARID سواريد - Multisports", Men's Semi Final B Session - World Cup Budapest, Hungary Live | UIPM 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090534596" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019332/178071040616362_ASIAN_TOUR_GOLF_2026_International_Series_Morocco_day2_6jun_landscape_thumb.jpg" group-title="SAWARID سواريد - Golf", Asian Tour 2026 | International Series Morocco - Day 2 - 12 Jun 2026
+https://dai.google.com/ssai/event/jnpvw9goRV2lb3bMV8Z_Kw/master.m3u8
 
 
-# 🆕 SAWARID سواريد - Multisports 👉 Updateded Done ✅✅✅✅✅✅
+# 🆕 SAWARID سواريد - Golf 👉 Updateded Done ✅✅✅✅✅✅
 
 
 # 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
 
 
-# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Npb 🟢🟢🟢🟢🟢🟢
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Mineiro U20 🟢🟢🟢🟢🟢🟢
 
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Tohoku%20Rakuten%20Golden%20Eagles%0AVS%0AHiroshima%20Toyo%20Carp%0ANPB&font=Oswald" group-title="SAWARID سواريد - Npb", Tohoku Rakuten Golden Eagles VS Hiroshima Toyo Carp | NPB [Server 1]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Atl%C3%A9tico%20Mineiro%20U20%0AVS%0AUberabinha%20U20%0AMineiro%20U20&font=Oswald" group-title="SAWARID سواريد - Mineiro U20", Atlético Mineiro U20 VS Uberabinha U20 | Mineiro U20 [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1781348507-Kv4cPTAAP5YTi-dfc4ad4d3a9c80dd77ab5e005e1777743a7f39de-cf4fddb11a1e2a08a2381a0dc4e4b7d8
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a2afeab4305c2854514a0ab/chunks.m3u8?is_vip=false&token=59e4e8963dfa306976466cdf4fc8291a1fb2aa60&x-sign=c5421a8b772a1bcb2c0393696d756e04&x-time=1781271960
 
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Tohoku%20Rakuten%20Golden%20Eagles%0AVS%0AHiroshima%20Toyo%20Carp%0ANPB&font=Oswald" group-title="SAWARID سواريد - Npb", Tohoku Rakuten Golden Eagles VS Hiroshima Toyo Carp | NPB [Server 2]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Atl%C3%A9tico%20Mineiro%20U20%0AVS%0AUberabinha%20U20%0AMineiro%20U20&font=Oswald" group-title="SAWARID سواريد - Mineiro U20", Atlético Mineiro U20 VS Uberabinha U20 | Mineiro U20 [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=dfc4ad4d3a9c80dd77ab5e005e1777743a7f39de&x-sign=c69637579eade884a90c63f2d6a1eff3&x-time=1781262060
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a2afeab4305c2854514a0ab/chunks.m3u8?is_vip=false&token=1781358417-Kv4cPTAAP5YTi-59e4e8963dfa306976466cdf4fc8291a1fb2aa60-1e231c47375a57c44534bcbda7eff0d3
 
 
-# 🆕 SAWARID سواريد - Npb 👉 Updateded Done ✅✅✅✅✅✅
+# 🆕 SAWARID سواريد - Mineiro U20 👉 Updateded Done ✅✅✅✅✅✅
 
 
 # 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
@@ -241,70 +219,113 @@ https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&t
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%205%0ALibema%20Open&font=Oswald" group-title="SAWARID سواريد - Tennis", Day 5 | Libema Open [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143071/720p/chunks.m3u8?is_vip=false&token=1781348519-Kv4cPTAAP5YTi-dfc4ad4d3a9c80dd77ab5e005e1777743a7f39de-1206aebe120eff50db5c0597c0e24140
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143071/720p/chunks.m3u8?is_vip=false&token=1781358398-Kv4cPTAAP5YTi-59e4e8963dfa306976466cdf4fc8291a1fb2aa60-ebe197570ad91a46a09b873f89dfa94d
 
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%205%0ALibema%20Open&font=Oswald" group-title="SAWARID سواريد - Tennis", Day 5 | Libema Open [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/143071/720p/chunks.m3u8?is_vip=false&token=dfc4ad4d3a9c80dd77ab5e005e1777743a7f39de&x-sign=d2fce6c4db7aa944ce7774ea736900c7&x-time=1781262060
+https://livecdn-bp-iptv.rumsport7.live/live_abr/143071/720p/chunks.m3u8?is_vip=false&token=59e4e8963dfa306976466cdf4fc8291a1fb2aa60&x-sign=d6df4c959d1252edaddd8ec10e1b6a24&x-time=1781271960
 
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%205%0ALibema%20Open&font=Oswald" group-title="SAWARID سواريد - Tennis", Day 5 | Libema Open [Server 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1781348520-Kv4cPTAAP5YTi-dfc4ad4d3a9c80dd77ab5e005e1777743a7f39de-91b5293107d18f22eeaa182b03863141
+https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1781358399-Kv4cPTAAP5YTi-59e4e8963dfa306976466cdf4fc8291a1fb2aa60-0bace725a12732d848ee1d3eccc0bf98
 
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%205%0ALibema%20Open&font=Oswald" group-title="SAWARID سواريد - Tennis", Day 5 | Libema Open [Server 4]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=dfc4ad4d3a9c80dd77ab5e005e1777743a7f39de&x-sign=6b5e34ed3fa07c2412b8f82baac36159&x-time=1781262120
+https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=59e4e8963dfa306976466cdf4fc8291a1fb2aa60&x-sign=c079eb82d94c6a2b9d0e9e7ac40aed33&x-time=1781271960
 
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%205%0ABOSS%20Open&font=Oswald" group-title="SAWARID سواريد - Tennis", Day 5 | BOSS Open [Server 1]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=London%3A%20Day%205%0AWTA%20500&font=Oswald" group-title="SAWARID سواريد - Tennis", London: Day 5 | WTA 500 [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1781348530-Kv4cPTAAP5YTi-dfc4ad4d3a9c80dd77ab5e005e1777743a7f39de-044e75fa35d891719abbccff5eb8f974
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1781358410-Kv4cPTAAP5YTi-59e4e8963dfa306976466cdf4fc8291a1fb2aa60-931eca6e182ce108e8c6ee1f18461207
 
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%205%0ABOSS%20Open&font=Oswald" group-title="SAWARID سواريد - Tennis", Day 5 | BOSS Open [Server 2]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=London%3A%20Day%205%0AWTA%20500&font=Oswald" group-title="SAWARID سواريد - Tennis", London: Day 5 | WTA 500 [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=dfc4ad4d3a9c80dd77ab5e005e1777743a7f39de&x-sign=4742d4ab3f700ae55c7768932cd9be83&x-time=1781262120
+https://livecdn-bp-iptv.rumsport7.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=59e4e8963dfa306976466cdf4fc8291a1fb2aa60&x-sign=ef12085aab0e0fb3b9fb24713e6701be&x-time=1781271960
+
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=London%3A%20Day%205%0AWTA%20500&font=Oswald" group-title="SAWARID سواريد - Tennis", London: Day 5 | WTA 500 [Server 3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1781358411-Kv4cPTAAP5YTi-59e4e8963dfa306976466cdf4fc8291a1fb2aa60-d38f3aca53f571de73923893d6c606fd
+
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=London%3A%20Day%205%0AWTA%20500&font=Oswald" group-title="SAWARID سواريد - Tennis", London: Day 5 | WTA 500 [Server 4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=59e4e8963dfa306976466cdf4fc8291a1fb2aa60&x-sign=201073d716679161acbf78054c7e7ddd&x-time=1781271960
 
 
 #EXTINF:-1 tvg-id="1629492482" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Tennis", Day 5 - Libema Open [143071]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143071/720p/chunks.m3u8?is_vip=false&token=1781348437-Kv4cPTAAP5YTi-7adb4531ffed15b234c6ab15b24d0505c5713a04-53679518e8d7afa72def217dfc376da0
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143071/720p/chunks.m3u8?is_vip=false&token=1781358329-Kv4cPTAAP5YTi-22e02a407236f4f4a2ac7ac1c6a3b1a0cff2bbbf-b444e18bc9b159e534de688a6f04e82f
 
 
 #EXTINF:-1 tvg-id="1629492482" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Tennis", Day 5 - Libema Open [143071]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/143071/720p/chunks.m3u8?is_vip=false&token=7adb4531ffed15b234c6ab15b24d0505c5713a04&x-sign=20bd5d4f1c1f201f0b45a5cb018bf927&x-time=1781262000
+https://livecdn-bp-iptv.rumsport7.live/live_abr/143071/720p/chunks.m3u8?is_vip=false&token=22e02a407236f4f4a2ac7ac1c6a3b1a0cff2bbbf&x-sign=cd181a1a135f6c88f258b9e704652a81&x-time=1781271900
 
 
 #EXTINF:-1 tvg-id="1629492482" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Tennis", Day 5 - Libema Open [8]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1781348438-Kv4cPTAAP5YTi-7adb4531ffed15b234c6ab15b24d0505c5713a04-19ca46bbea9eed4c0c688f3f39e8a863
+https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1781358331-Kv4cPTAAP5YTi-22e02a407236f4f4a2ac7ac1c6a3b1a0cff2bbbf-e23be068fe9c6d8fda460af67191e0f7
 
 
 #EXTINF:-1 tvg-id="1629492482" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Tennis", Day 5 - Libema Open [8]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=7adb4531ffed15b234c6ab15b24d0505c5713a04&x-sign=97299cbdcbc6b449707880128d1bd8b1&x-time=1781262000
+https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=22e02a407236f4f4a2ac7ac1c6a3b1a0cff2bbbf&x-sign=aa70364b396d0bd02cec3017f900cdbc&x-time=1781271900
 
 
-#EXTINF:-1 tvg-id="1629492484" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Tennis", Day 5 - BOSS Open [25]
+#EXTINF:-1 tvg-id="1629492486" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Tennis", London: Day 5 - WTA 500 [143070]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1781348475-Kv4cPTAAP5YTi-7adb4531ffed15b234c6ab15b24d0505c5713a04-9d8807c61b03bbad11761c5989aae8d4
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1781358337-Kv4cPTAAP5YTi-22e02a407236f4f4a2ac7ac1c6a3b1a0cff2bbbf-499f72b49e7b6d1e506ff3e64ef231e5
 
 
-#EXTINF:-1 tvg-id="1629492484" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Tennis", Day 5 - BOSS Open [25]
+#EXTINF:-1 tvg-id="1629492486" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Tennis", London: Day 5 - WTA 500 [143070]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=7adb4531ffed15b234c6ab15b24d0505c5713a04&x-sign=fd555a9ad0ad231fb71c82f56a7be323&x-time=1781262060
+https://livecdn-bp-iptv.rumsport7.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=22e02a407236f4f4a2ac7ac1c6a3b1a0cff2bbbf&x-sign=f639fe96b2e3ea7491227b1b3b8c7c34&x-time=1781271900
+
+
+#EXTINF:-1 tvg-id="1629492486" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Tennis", London: Day 5 - WTA 500 [27]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1781358338-Kv4cPTAAP5YTi-22e02a407236f4f4a2ac7ac1c6a3b1a0cff2bbbf-8284d31b1137d01f802faf74b3ba975a
+
+
+#EXTINF:-1 tvg-id="1629492486" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Tennis", London: Day 5 - WTA 500 [27]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=22e02a407236f4f4a2ac7ac1c6a3b1a0cff2bbbf&x-sign=83b59d5dd0d2500482284362505a6e24&x-time=1781271900
 
 
 # 🆕 SAWARID سواريد - Tennis 👉 Updateded Done ✅✅✅✅✅✅
+
+
+# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - World Cup Of Darts 🟢🟢🟢🟢🟢🟢
+
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=World%20Cup%20of%20Darts%0AWorld%20Cup%20of%20Darts&font=Oswald" group-title="SAWARID سواريد - World Cup Of Darts", World Cup of Darts | World Cup of Darts [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/114415/720p/chunks.m3u8?is_vip=false&token=1781358404-Kv4cPTAAP5YTi-59e4e8963dfa306976466cdf4fc8291a1fb2aa60-3a753bf2a882fe0ece3b86d92b87f3e4
+
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=World%20Cup%20of%20Darts%0AWorld%20Cup%20of%20Darts&font=Oswald" group-title="SAWARID سواريد - World Cup Of Darts", World Cup of Darts | World Cup of Darts [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/114415/720p/chunks.m3u8?is_vip=false&token=59e4e8963dfa306976466cdf4fc8291a1fb2aa60&x-sign=0136e4a61ddee29527f53b0ea0f40867&x-time=1781271960
+
+
+# 🆕 SAWARID سواريد - World Cup Of Darts 👉 Updateded Done ✅✅✅✅✅✅
 
 
 # 🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡 Local Channel Updated  🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡
@@ -314,10 +335,10 @@ https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwYm1HYJ/resized-300x180-ffffff-16.jpg" group-title="Live Event Sports", T Sports
-#AUTO-UPDATED - T Sports ⛔ SKIPPED ⛔ - 2026-06-12 17:03:16 🟡 - 🔄 - 🔴
+#AUTO-UPDATED - T Sports ⛔ SKIPPED ⛔ - 2026-06-12 19:56:02 🟡 - 🔄 - 🔴
 http://172.16.29.2:8090/hls/tsportshd.m3u8
-https://edge2.roarzone.net:8447/roarzone/edge1/1/index.ll.m3u8?token=61099b38dcb82d14edeee41fa4b1752aa58d823a-fb8eb018e42093d722eab8301a0c2423-1781265836-1781255036
-https://edge2.roarzone.net:8447/roarzone/edge2/tsports/index.ll.m3u8?token=d176ba2f21fb9ed13d7c9f951be5d5f3d95a5164-7c4c4446664b244f89b47c956b5459ac-1781265836-1781255036
+https://edge2.roarzone.net:8447/roarzone/edge1/1/index.m3u8?token=0abc775a868419f3bb8b7a00eb99272a65a9fc99-f1e3090946e4dad9d0719d8ab6a133d7-1781277982-1781267182
+https://edge2.roarzone.net:8447/roarzone/edge2/tsports/index.m3u8?token=caec6bb18871d281b3296fc3c6e1772701e8d631-7c66b9482214e0c183bddfababa7a4b9-1781277983-1781267183
 http://27.124.71.27/T-Sports/index.m3u8
 # 🔴 Duplicate Link Found 🔴
 https://playztv-apps.pages.dev/tsports/index.m3u8
@@ -329,19 +350,19 @@ http://103.151.60.204/bdixbd.net/tracks-v1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rytcs49Y/image.jpg" group-title="Live Event Sports", A Sports 
-#AUTO-UPDATED - A Sports ✅- 2026-06-12 17:03:16 🟡 - 🔄 - 🔴
+#AUTO-UPDATED - A Sports ✅- 2026-06-12 19:56:02 🟡 - 🔄 - 🔴
 https://tvsen6.aynaott.com/asports/index.m3u8?e=1779283785&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=356b906bf972b824782bb58c1ce0bb22
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QDHtZxg/image.jpg" group-title="Live Event Sports", PTV Sports
-#AUTO-UPDATED - PTV Sports ✅- 2026-06-12 17:03:16 🟡 - 🔄 - 🔴
+#AUTO-UPDATED - PTV Sports ✅- 2026-06-12 19:56:02 🟡 - 🔄 - 🔴
 https://tvsen5.aynaott.com/PtvSports/index.m3u8?e=1779283784&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=db1789e36c278bf538489fac263e0ffb
 https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/498.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DySZB4wf/image.jpg" group-title="Live Event Sports", Willow Sports
-#AUTO-UPDATED - Willow Sports ⛔ SKIPPED ⛔ - 2026-06-12 17:03:16 🟡 - 🔄 - 🔴
+#AUTO-UPDATED - Willow Sports ⛔ SKIPPED ⛔ - 2026-06-12 19:56:02 🟡 - 🔄 - 🔴
 https://tvsen5.aynaott.com/willowhd/index.m3u8
 # 🔴 Duplicate Link Found 🔴
 http://27.124.71.27/Willow_Extra/index.m3u8
