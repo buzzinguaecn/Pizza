@@ -13,13 +13,13 @@
 https://tvsen5.aynaott.com/PtvSports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4VG4gqK/image.jpg" group-title="FIFA - Canada 🆚 Bosina", T Sports
-http://starhub.pro/live/farhat-3379/67897-913379/18452.ts
-http://172.16.29.2:8090/hls/tsportshd.m3u8
-http://103.151.60.204/bdixbd.net/tracks-v1/index.m3u8
+#http://starhub.pro/live/farhat-3379/67897-913379/18452.ts
+#http://172.16.29.2:8090/hls/tsportshd.m3u8
+#http://103.151.60.204/bdixbd.net/tracks-v1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4VG4gqK/image.jpg" group-title="FIFA - Canada 🆚 Bosina", Somoy TV
-http://starhub.pro/live/farhat-3379/67897-913379/422.ts
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+#https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+#http://starhub.pro/live/farhat-3379/67897-913379/422.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4VG4gqK/image.jpg" group-title="FIFA - Canada 🆚 Bosina", Beain 1(HD)
 http://starhub.pro/live/farhat-3379/67897-913379/744523.ts
