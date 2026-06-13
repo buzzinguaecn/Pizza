@@ -1,0 +1,336 @@
+#EXTM3U
+
+# ---> 1. Normal Channel (সাধারণ লিংক, কোনো সিকিউরিটি নেই)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sg32rDwn/image.jpg" group-title="Bangladeshi", Islamic TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
+
+# ---> 2. Multi-Link Channel (একটি চ্যানেলের একাধিক ব্যাকআপ লিংক)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4VswLcv/resized-300x180-ffffff-1.jpg" group-title="Bangladeshi", BTV NEWS
+https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/d96eb7f4-83c2-4472-9597-3568390a8ebf/index.m3u8
+http://103.229.254.25:7001/play/a065/index.m3u8
+
+# ---> 3. Headers Injected (Referer ও Origin পাস করা আছে)
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="Sports", Star Sports 1
+https://cdn1.zohanayaan.com:1686/hls/star1in.m3u8?md5=v9wcLeFn8oXojxSBZ12QDA&expires=1780855213
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+#EXTVLCOPT:http-origin=https://executeandship.com
+
+# ---> 4. Cookie & User-Agent Injected (BDIX / Toffee এর হাই-সিকিউরিটি লিংক)
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/sy5m-JQBv9knK3AHYTTk/posters/5e40bf0e-633f-4d37-a3b2-3d606f0ac19a.png",[BD] Sony Ten Sports 2 HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_2_hd/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1781021416:KeyName=prod_linear:Signature=rcSwTrhk_Tq8vK2dsR5LOAbjbXGwjYQpKLcTs8S1shWELYjoI9Poc7HXv-WzrxPsKE6VUaQi2uHjiu9o-zoQBQ"}
+
+# ---> 5. URL Based DRM Channel (লাইসেন্স কি হিসেবে URL দেওয়া আছে)
+#EXTINF:-1 tvg-logo="..." group-title="Sports", Star Sports DRM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://drm-server.com/key
+https://live-server.com/dash/stream.mpd
+
+# ---> 6. Hex Key Based DRM Channel (নতুন! যা বর্তমানে আপনার অ্যাপে চলবে না)
+#EXTINF:-1 tvg-id="B0GZD2SZR6" tvg-name="T20 Blast 2026 - Essex vs Kent" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.de6043c4-8a24-464b-b3a1-ce2c84c41450/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",T20 Blast 2026 - Essex vs Kent
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f227dd4841e994bf19edab033ce1327:2137a4788e434591787ba7c892915e73
+https://a57live-pv-ta-amazon.akamaized.net/pdx-nitro/live/clients/dash/enc/aa9aseg7nj/out/v1/62afd00bc6c5481e8de33792c4bc1923/cenc.mpd
+
+# ---> 7. RTMP Streaming Protocol (বর্তমানে আপনার অ্যাপে চলবে না)
+#EXTINF:-1 group-title="Local ISP", Server Stream 1
+rtmp://192.168.1.100/live/stream
+
+#EXTINF:-1 tvg-id="tapmad-14365" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17810005401020x576.jpg" group-title="SAWARID سواريد - Football", Portugal vs Nigeria | European Qualifiers FIFA World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781122519~acl=/hls/*~hmac=415c503366bcd3052450ce507f4d5283ebf923ea388b50e6ba9dc2c55ec4f74d
+
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Malaga%0AVS%0ALas%20Palmas%0ASegunda%20Divisi%C3%B3n&font=Oswald" group-title="SAWARID سواريد - Football", Malaga VS Las Palmas | Segunda División [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/112520/720p/chunks.m3u8?is_vip=false&token=1781208109-Kv4cPTAAP5YTi-c274a2f576eb2868299d5e0196c91db99eca5184-d7cb3482c8d3ad51e08434155d41cee3
+
+
+#EXTINF:-1 tvg-id="1548055" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Malaga%20VS%20Las%20Palmas%20%20Segunda%20Divisi%C3%B3n.jpg" group-title="SAWARID سواريد - Football", Malaga vs Las Palmas - Segunda División [112520]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/112520/720p/chunks.m3u8?is_vip=false&token=75b719028b3b02c0f38b0f135d27d03ab69126f0&x-sign=58591e483cb678957a29a37ad7164ead&x-time=1781121600
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z58NNHv9/image.jpg" group-title="Live Event Sports", TALK SPORT
+#AUTO-UPDATED - TALK SPORT ✅- 2026-06-11 02:09:18 🟡 - 🔄 - 🔴
+https://edge2.roarzone.net:8447/roarzone/edge5/talk-sport/index.ll.m3u8?token=00aaec21c059107b5d15f5cacf82a229fa6d7fab-dc8263e4a3ac5d1d8e6473fdf03d4549-1781127242-1781116442
+https://tvsen6.aynaott.com/talkSPORT/index.m3u8?e=1781123503&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=65026580e7328c69a96713563c1ee239
+
+#EXTINF:-1 tvg-logo="" group-title="FIFA - Mexico 🆚 South Africa", Mexico 🆚 South Africa
+http://sm-monirul.top/SM/live.php?id=t_sports&e=.m3u8
+
+
+#EXTINF:-1 tvg-id="143075" tvg-name="Royal Nimar Eagles Vs Malwa Stallions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143075_6102_RNG_MWS_FC-WEB.jpg" tvg-language="English" group-title="FC IN",ENG | Royal Nimar Eagles Vs Malwa Stallions
+https://dai-fancode.pages.dev/mumbai/143075_english_hls_76bb6e1a6416670_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="143121" tvg-name="Day 4   Center Court" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Boss_Web-match-card.png" tvg-language="English" group-title="FC IN",ENG | Day 4   Center Court
+https://dai-fancode.pages.dev/mumbai/143121_english_hls_48cb2ff58780838_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 group-title="FIT😁" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_764950001725875605.png", TOFFEE Dramas VIP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1781347280:KeyName=prod_linear:Signature=x4cPt0Z3SIs8IqeBvxYjV09ienOBbUUjSf2BnQF-tTKCSX5pC8CS7kcJG-V4_iTdFOyIYDUHJyW8boj-vYXbCg"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z58NNHv9/image.jpg" group-title="Live Event Sports", ABC
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc_audio_7_0_init.mp4?m=1771318617
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z58NNHv9/image.jpg" group-title="Live Event Sports", DBC
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd?|drmScheme=clearkey&drmLicense=f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d
+
+
+
+#EXTINF:-1 tvg-logo="https://technosports.co.in/wp-content/uploads/2024/02/23196-fancode-1024x614.webp" group-title="SPORTS PREMIUM",FanCode 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
+https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png" group-title="Sports",FOX SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
+
+
+#EXTINF:-1 group-title="Channel Olahraga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDK5wO1M6YOy_2_IuEtYuj25ReGg3p-V3j60gGqa-cd8rz6f9xuH2o4mQVCRN1rApaVMGLT1q-bhDKcYGS4FbkseAgUhNFvAsDug1hI9wg4iFAGY6JAEEHtqsqdSK2A3CaqugX-fctkzTaywaYoaSIY1ZfFQjwdrQX_CNBMT5IpunnbZNpg2QzZuWjcPvt/s700/MUTV.png",MUTV
+https://get.perfecttv.net/mutv.mpd
+#EXTINF:-1 group-title="Channel Olahraga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2OjD6NCGtzCZWfhQzNpcVW_euLrpCnnStlicVuXpUmCPtmLdmrc0y-z2Gtm5ZzzoqMhaMNBevoWkih3cUkIpSU82YIpa3kPXoIUZDqP8OHhUB_3pJ6nVL40_skRSu01QU1J_nhgjkFiRa0lYdI91qKDv9j8Y82GlTWYOOHv3wnwT_K0NypITkf7v31iev/s700/BARCA%20TV.png",Barca TV
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z58NNHv9/image.jpg" group-title="Live Event Sports", MBDS
+https://d1voy022wjnlk0.bioscopelive.com/out/v1/0bbe405e711143b8af5ee21b80b5b0cc/index.m3u8|x-authorization=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYzJkYjE1MjJmMDU0ZDg1Yzc3NmFmZjlkNDU2NjcxODNlNmZlNWNjYWUwYjAwNWI1OTVhMTAxY2RmNDNlYmIyY2YzMTBiZDExMTZlOTQ4YjEiLCJpYXQiOjE3ODA3OTcxMzEuNTQwNDAxLCJuYmYiOjE3ODA3OTcxMzEuNTQwNDAzLCJleHAiOjE4MTIzMzMxMzEuNTM1MDMyLCJzdWIiOiIxODAwMDA4NDg5MDA2NjUzNDQiLCJzY29wZXMiOlsibWFuYWdlX3Byb2ZpbGVzIl19.a6GUyqbwLfixROwUhNTzaYrrYBgVR6FHI_40FpjZ9l7P20WHcv-7AbEz-XPYhGnb1Q9JHAKdMA9pBY1Od2UZsYeEw6f7Myjc0VK2kqqXdagwHTlIHvHwxkoTVfpagQNiJF4ffJZ_6j87aCR6PEUEuTWQwjnLjbnvBpu0cgLUr5p56sHGm0mGV_vbIFirvZHVYwxLZGjBmo-njpfZcvuQPq5sUT3n-j4VNX4sh8tsvaAJaqlXLnq-DIGTBGNu9efsHNTiMzFUk5gEOYlWnNGewcbsuDsP3QFINeUBRzjBP9bPXjHfv5tmvKfQaExPZgFpxpWpZyQ5PZnmuxvWawNMKLBGV3qWqNPeVc1Fphhac3vloTNtMK5UP7EZtDRUQoJWra1irCMYn0ao1oEzfrtinhw038aNSe9z5EmF_tCi0XnQigVJM_XLwmgWbVxsWq92iC3HU2dHcelqMNiFk9gMleKIgGVA2sDeLfNsM0pco8656R7TySgSBycVvTyyU4_G1QVafpmPp5Lcmhi4KxVBAOAhY5iy0ZLDC4jO366wy_5yguY7sVPb6JWiUATVcBsLbvIPmgM9laQEZttxLMPHpnlPwUGljip5J61E235GXAV-WStahGaagjgja7dDRFwPVzvlMzSX9S7MpyVyRejmre60x8HvXkgCLhEfEn027YM
+নোটঃ এখানের লিংক আমার এপ্সে প্লে হয়না,  কিন্তু NS প্লেয়ারের ঠিকিই প্লে হয়। 
+
+
+EXTINF:-1 tvg-id="B0GZD2SZR6" tvg-name="T20 Blast 2026 - Essex vs Kent" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.de6043c4-8a24-464b-b3a1-ce2c84c41450/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",T20 Blast 2026 - Essex vs Kent
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f227dd4841e994bf19edab033ce1327:2137a4788e434591787ba7c892915e73
+https://a57live-pv-ta-amazon.akamaized.net/pdx-nitro/live/clients/dash/enc/aa9aseg7nj/out/v1/62afd00bc6c5481e8de33792c4bc1923/cenc.mpd
+নোটঃ এখানের লিংক আমার এপ্সে প্লে হয়না,  কিন্তু NS প্লেয়ারের ঠিকিই প্লে হয়। 
+
+
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CricHD 1",Star Sports 1
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+#EXTVLCOPT:http-origin=https://executeandship.com
+https://cdn2.zohanayaan.com:1686/hls/star1in.m3u8?md5=jspoQg_fIBigN7knGHVoeg&expires=1781348417
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/c5b2c623863fbe4033d59d52ff7371ac" group-title="Bangla",My TV
+https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8?e=1781351867&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=0b35741738b987ea5321e652c8421626
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/ffd7ba9b76ad555933f94bcb7ff26b44" group-title="Bangla",Global TV
+https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8?e=1781351868&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=47ddf8c98a0efaf11f5ade261ac095ce
+
+
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="BEINSPORT 1 FR" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_FRENCH_Digital_Mono.png" group-title="FRANCE SPORT",BEINSPORT 1 FR
+http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/261661.ts
+
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="BEINSPORT 2 FR" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_FRENCH_Digital_Mono.png" group-title="FRANCE SPORT",BEINSPORT 2 FR
+http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/261662.ts
+
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="BEINSPORT 3 FR" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_FRENCH_Digital_Mono.png" group-title="FRANCE SPORT",BEINSPORT 3 FR
+http://81637.org:2052/live/araAmGKm94u5/Y9DAeC4QH5Cp/4208.ts
+
+#EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.128.png?ver=03-06-2025",beIN SPORTS MAX 1
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=2085730&extension=ts
+নোটঃ এখানের লিংক আমার এপ্সে প্লে হয়না,  কিন্তু NS প্লেয়ারের ঠিকিই প্লে হয়। 
+
+#EXTINF:-1 tvg-id="tvp-sport"" tvg-name="" tvg-logo="https://epg.iptvx.one/picons/tvp-sport.png" group-title="WORLD SPORTS",TVP Sport
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"95620bdd974041409d4674ab629e22d4":"c6c226ca1689f528a6f91e86da618f64","181c091002d04c5481c3faab18752843":"b081b6169351e0f4bfc40212dfeeed10","1163925b6b37434198130f773bc62841":"e2bdd2b87e1ddb502eb7898daece857f"}
+https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
+নোটঃ এখানের লিংক আমার এপ্সে প্লে হয়না,  কিন্তু NS প্লেয়ারের ঠিকিই প্লে হয়। 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="SPORTS PREMIUM",TSN 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/cbc_sport_92O.png",CBCSPORTYEDEK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+নোটঃ এখানের লিংক আমার এপ্সে প্লে হয়না,  কিন্তু NS প্লেয়ারের ঠিকিই প্লে হয়। 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFVJGATy70KVBZ0txjIVDSVXTQUCSykt_5A&s" group-title="Sports",CAZE TV 1
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFVJGATy70KVBZ0txjIVDSVXTQUCSykt_5A&s" group-title="Sports",CAZE TV 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+নোটঃ এখানের লিংক আমার এপ্সে প্লে হয়না,  কিন্তু NS প্লেয়ারের ঠিকিই প্লে হয়। 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFVJGATy70KVBZ0txjIVDSVXTQUCSykt_5A&s" group-title="Sports",CAZE TV 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+নোটঃ এখানের লিংক আমার এপ্সে প্লে হয়না,  কিন্তু NS প্লেয়ারের ঠিকিই প্লে হয়। 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/2560px-Fox_Sports_1_logo.svg.png" group-title="Sports",FOX SPORTS 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
+
+#EXTINF:-1 tvg-id="tvp-sport"" tvg-name="" tvg-logo="https://epg.iptvx.one/picons/tvp-sport.png" group-title="WORLD SPORTS",TVP Sport
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"95620bdd974041409d4674ab629e22d4":"c6c226ca1689f528a6f91e86da618f64","181c091002d04c5481c3faab18752843":"b081b6169351e0f4bfc40212dfeeed10","1163925b6b37434198130f773bc62841":"e2bdd2b87e1ddb502eb7898daece857f"}
+https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
+
+
+#EXTINF:-1 tvg-id="MAX" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.128.png?ver=03-06-2025",beIN SPORTS MAX 1
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=2085730&extension=ts
+নোটঃ এখানের লিংক আমার এপ্সে প্লে হয়না,  কিন্তু NS প্লেয়ারের ঠিকিই প্লে হয়। 
+
+
+#EXTINF:-1 tvg-name="STC Drama" tvg-logo="http://tv.asc.vg/stc.drama.stc.png" group-title="STC",STC Drama
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=2079502&extension=ts
+নোটঃ এখানের লিংক আমার এপ্সে প্লে হয়না,  কিন্তু NS প্লেয়ারের ঠিকিই প্লে হয়। 
+
+#EXTINF:-1 tvg-name="STC Family" tvg-logo="http://tv.asc.vg/stc.family.stc.png" group-title="STC",STC Family
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=2079501&extension=ts
+নোটঃ এখানের লিংক আমার এপ্সে প্লে হয়না,  কিন্তু NS প্লেয়ারের ঠিকিই প্লে হয়। 
+
+#EXTINF:-1 tvg-name="STC Action" tvg-logo="http://tv.asc.vg/stc.action.stc.png" group-title="STC",STC Action
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=2079398&extension=ts
+নোটঃ এখানের লিংক আমার এপ্সে প্লে হয়না,  কিন্তু NS প্লেয়ারের ঠিকিই প্লে হয়। 
+
+
+#EXTINF:-1 tvg-id="TennisChannel.us" group-title="Live Tennis" tvg-logo="https://i.imgur.com/tsljAnY.png",28/03 12:00 AM | Miami Open (Tennis Channel)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Live Tennis",28/03 12:00 AM | Miami Open (Tennis Channel)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Live Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tennis-channel.png",28/03 12:00 AM | Miami Open (Tennis Channel)
+https://restream-live.realiptv.to/53420573/53717218/3685
+
+#EXTINF:-1 tvg-id="" group-title="Live Tennis",28/03 12:00 AM | Miami Open (Tennis Channel)
+https://amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0020/playlist.m3u8
+#EXTINF:-1 tvg-id="687a783e928ee2ca866b7faa" group-title="Live Tennis" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/5db9d9c0-666f-4153-a55b-0de074aba0c7",28/03 12:00 AM | Miami Open (Tennis Channel)
+https://amg01470-amg01470c1-freelivesports-emea-9021.playouts.now.amagi.tv/playlist/amg01470-atpmediaoperationsltdfast-tennistvclassics-freelivesportsemea/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Live Tennis" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijI43lQ314LecVuj7NPbISOmjwL7q-CbZmYbeShrGV_RgG5OnFDzxGdzyb5UmUnJXVcJLX-6tYbPUdaanqUAR423dt3kudPuzouI9xyxnw3helaSdsyrRh61wlnS50kqD9zHc3EmiAUklYU3P_gMprBInH_yJT4xL1e1VGl1aPT0kr2SwuwThGnMuCgk82/s700/TSN%202.png",28/03 12:00 AM | Miami Open (TSN2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
+https://qw.live.pv-cdn.net/OTTB/sin-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+
+https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="tsn2" group-title="Live Tennis" tvg-logo="http://103.127.132.205/wiki/wikipedia/commons/thumb/9/90/TSN_Logo.svg/2560px-TSN_Logo.svg.png",28/03 12:00 AM | Miami Open (TSN2)
+http://xxip9.top:8080/live/RKu2Hy/559290/16129.ts
+
+#EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Live Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/tsn-2.png",28/03 12:00 AM | Miami Open (TSN2)
+http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/16129
+
+
+#EXTINF:-1 tvg-id="" group-title="Live Euro" tvg-logo="https://mimipipi22.github.io/logo/antik/ctsport.jpg",28/03 02:00 AM | Scotland U21 vs Czechia U21 (ČT Sport)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd
+
+
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Live Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png",28/03 06:00 AM | Miami Open (Sky Sports Main Event)
+https://restream-live.realiptv.to/53420573/53717218/2184
+#EXTINF:-1 tvg-id="" group-title="Live Tennis",28/03 06:00 AM | Miami Open (Sky Sports Main Event)
+https://7pal.short.gy/skspmaine
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Live Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png",28/03 06:00 AM | Miami Open (Sky Sports Main Event)
+http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/35243
+
+
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" group-title="Live Tennis" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Sky_Sport_UHD.png",28/03 06:00 AM | Miami Open (Sky Sports Main Event)
+https://a1xs.vip/2000015
+#EXTINF:-1 tvg-id="" group-title="Live Euro",28/03 02:00 AM | Scotland U21 vs Czechia U21 (ČT Sport)
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="SkySportsTennis.uk" group-title="Live Tennis" tvg-logo="https://logo.m3uassets.com/skysportstennis.png",28/03 06:00 AM | Miami Open (Sky Sports Tennis)
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:83:02:56&stream=1527629&extension=ts
+#EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="Live Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-plus.png",28/03 06:00 AM | Miami Open (Sky Sports+)
+https://restream-live.realiptv.to/53420573/53717218/2193
+#EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="Live Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-plus.png",28/03 06:00 AM | Miami Open (Sky Sports+)
+http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/35238
+#EXTINF:-1 tvg-id="Sky.Sports.Plus.ie" group-title="Live Tennis" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-plus.png",28/03 06:00 AM | Miami Open (Sky Sports+)
+http://tvmate.icu:8080/sales@dellerstechshop.ca/sales@4889/137719
+
+
+#EXTINF:-1 tvg-id="",FilmRise Les Routes du Paradis (720p)
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883083
+#EXTINF:-1 tvg-id="",FilmRise Séries France (720p)
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883033
+#EXTINF:-1 tvg-id="",FilmRise Z Nation France (720p)
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883103
+
+
+#EXTINF:-1 tvg-id="osnmoviesremiereen.ae" tvg-name="AR+ | OSN MOVIES PREMIERE " tvg-logo="https://content.osn.com/logo/channel/cropped/OM1.png" group-title="ARABIC+",AR+ | OSN MOVIES PREMIERE
+http://pro.netmos.ovh:7355/live/31519314699440397/U09ZEDdu@6X!PeD/179931.ts
+
+#EXTINF:-1 tvg-id="natgeowildhd.qa" tvg-name="AR+ | NAT GEO WILD " tvg-logo="" group-title="ARABIC+",AR+ | NAT GEO WILD
+http://pro.netmos.ovh:7355/live/31519314699440397/U09ZEDdu@6X!PeD/221153.ts
+
+#EXTINF:-1 tvg-id="476557" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/CosmoteSport5-logo.png",Cosmote Sport 5 GR
+http://cdn.tv-rds.workers.dev/CosmoteSport5.m3u8
+#EXTINF:-1 tvg-id="476555" group-title="Thể Thao" tvg-logo="https://freeshot.live/upload/source/CosmoteSport6-logo.png",Cosmote Sport 6 GR
+http://cdn.tv-rds.workers.dev/CosmoteSport6.m3u8
+
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/19013
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU |[RS] ARENA SPORT 1" tvg-logo="http://aptvpix.net/pubs/december2020/30-10-21/a1.png" group-title="EX-YU",EX-YU |[RS] ARENA SPORT 1
+http://lb.wisp.cat/lb0/ArenaSport1_HR/video.m3u8?token=AUSnMTD
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU |[RS] ARENA SPORT 2" tvg-logo="http://aptvpix.net/pubs/december2020/30-10-21/a2.png" group-title="EX-YU",EX-YU |[RS] ARENA SPORT 2
+https://hls8.ua3.wisp.cat/ArenaSport2_HR/video.m3u8?token=AUSnMTD
+
+
+#EXTINF:-1 tvg-id="" tvg-name="AL | SUPER SPORT 3" tvg-logo="http://148.251.133.153:8181/logo/chn/4314.png", SUPER SPORT 3
+http://93.93.113.95:25461/TV-Berati/XtreamCodes/496
+#EXTINF:-1 tvg-logo="https://nstatic.nova.bg/public/doc/doc/1625131615_ds_web.jpg" ,diemasport
+http://92.247.25.42:11170/
+#EXTINF:-1 tvg-logo="https://nstatic.nova.bg/public/doc/doc/1625131829_ds_2_web.jpg" ,diemasport2
+http://92.247.25.42:11172/
+#EXTINF:-1 tvg-logo="https://nstatic.nova.bg/public/doc/doc/1625056324_thumbnaild3.jpg" ,diemasport3
+http://92.247.25.42:11171/
+
+#EXTINF:-1 tvg-logo="https://maxsport.live/wp-content/uploads/2024/07/max-sport-3-logo-1536x274.png" ,MaxSport3
+http://77.46.130.252:99/maxsport3
+#EXTINF:-1 tvg-logo="https://maxsport.live/wp-content/uploads/2024/07/max-sport-4-logo-1536x274.png" ,MaxSport4
+http://77.46.130.252:99/maxsport4
+
+
+#EXTINF:-1 tvg-id="" tvg-name="DZ | ENNAHAR TV " tvg-logo="https://scontent.faae2-3.fna.fbcdn.net/v/t39.30808-1/658199240_1509217450574931_984348922600091243_n.jpg?stp=dst-jpg_tt6&cstp=mx802x810&ctp=s200x200&_nc_cat=1&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=HmAja3EGw9sQ7kNvwH3Darx&_nc_oc=AdoneasS_M3sDyZ4pLRCHTEnT5tzNsW7H7yT1H6A8_CTCWOxiKzSeICK_qiby8OiG7U&_nc_zt=24&_nc_ht=scontent.faae2-3.fna&_nc_gid=_ZBAMnmjT9d7DssBwSDdHg&_nc_ss=7a2a8&oh=00_Af_eWcNQTk_PJfyjabBYDSoX2YuwuWq8I5c3f6kEgkJLxg&oe=6A2FFA72" group-title="ALGERIA",DZ | ENNAHAR TV
+http://81637.org:2052/live/araAmGKm94u5/Y9DAeC4QH5Cp/84.ts
+#EXTINF:-1 tvg-id="Echorouk.TV.eg" tvg-name="DZ | ECHOROUK TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Echourouk_new_logo.jpg" group-title="ALGERIA",DZ | ECHOROUK TV HD
+http://81637.org:2052/live/araAmGKm94u5/Y9DAeC4QH5Cp/89.ts
+#EXTINF:-1 tvg-id="" tvg-name="DZ | ECHOROUK NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/ECHOUROUK-NEWS.png/250px-ECHOUROUK-NEWS.png" group-title="ALGERIA",DZ | ECHOROUK NEWS
+http://81637.org:2052/live/araAmGKm94u5/Y9DAeC4QH5Cp/8076.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="DZ | AL ANIS" tvg-logo="https://scontent.faae2-2.fna.fbcdn.net/v/t39.30808-1/297506337_903506061051931_7544726956410667995_n.jpg?stp=dst-jpg_tt6&cstp=mx500x500&ctp=s200x200&_nc_cat=111&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=iGw4SteqTDoQ7kNvwGkML-6&_nc_oc=AdqNX6cE74QaPkfIp_sqYD9hXH6yTLl6UVq7_CVwHlACx5iH4t8ySHO_jmcB6ed3rFM&_nc_zt=24&_nc_ht=scontent.faae2-2.fna&_nc_gid=lkqX9qjIzih80zlqn_HXmQ&_nc_ss=7a2a8&oh=00_Af_X78vZbqJFc233ICLP8WpuUqyPSXhs7Tw1BN326IxQJA&oe=6A2FCD5A" group-title="ALGERIA",DZ | AL ANIS
+http://desyra.co/live/dipak_25/429502/319344.ts
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/4mRBs1A-x_.png", Sony Max 2
+https://edge2.roarzone.net:8447/roarzone/edge3/sonymax_2/index.m3u8?token=1ae6cc9578f7e8a9fbeb42b32a9ea6e19c246ec6-aa37a828978035cc1450f0721cf5f067-1781061322-1781050522
+
+
+
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/cc5rftrN/Gazi-TV.png",GTV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+
+
+
+
+
