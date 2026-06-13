@@ -104,6 +104,9 @@ http://147.135.114.221:8001/play/a00m/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdF0bSY9/Whats-App-Image-2026-06-12-at-10-46-31-PM.jpg" group-title="FIFA - Brazil 🆚 Morocco", Caze (HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
 
