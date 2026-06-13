@@ -33,8 +33,19 @@ http://starhub.pro/live/farhat-3379/67897-913379/742611.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdF0bSY9/Whats-App-Image-2026-06-12-at-10-46-31-PM.jpg" group-title="FIFA - Brazil 🆚 Morocco", Zee Bangla Sonar IND (SD)
-http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/277428.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdF0bSY9/Whats-App-Image-2026-06-12-at-10-46-31-PM.jpg" group-title="FIFA - Brazil 🆚 Morocco", USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/544569/720p/chunks.m3u8?is_vip=false&token=1781473621-Kv4cPTAAP5YTi-38d2540796fc971fe4893a225cd4866ffae1ca11-5b6590dc9377ffb2639daa75589bd221
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0aea-hd/chunks.m3u8?is_vip=false&token=38d2540796fc971fe4893a225cd4866ffae1ca11&x-sign=0815ce8eaea5c80343019f1bff5df8df&x-time=1781387220
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0aea-hd/chunks.m3u8?is_vip=false&token=1781473622-Kv4cPTAAP5YTi-38d2540796fc971fe4893a225cd4866ffae1ca11-3387bc33cb7ebade0deecc6f5e6a90cd
 
 
 
@@ -71,7 +82,7 @@ https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
 https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdF0bSY9/Whats-App-Image-2026-06-12-at-10-46-31-PM.jpg" group-title="FIFA - Brazil 🆚 Morocco", El Heddaf (HD)
-http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/7731.ts
+
 
 
 
