@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 01:51:38AM - 13-06-2026
-# Total Channel Found: 396 Channel
+# Update Time: 08:12:09AM - 13-06-2026
+# Total Channel Found: 424 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -255,7 +255,7 @@ http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-1 tvg-id="FightBox.nl@SD" tvg-logo="https://i.postimg.cc/5NXPDV6w/image.jpg" group-title="Sports", FightBox
-https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc002/fightboxhdraw/fightboxhdraw.m3u8
+https://iptv.prosto.tv/ch118/index.m3u8
 
 #EXTINF:-1 tvg-id="FITE247.us@SD" tvg-logo="https://i.postimg.cc/SRNPnYSd/image.jpg" group-title="Sports", FITE 24/7
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
@@ -321,7 +321,7 @@ https://tvpass.org/live/GolfChannel/hd
 http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8
 
 #EXTINF:-1 tvg-id="GolfNetwork.jp@SD" tvg-logo="https://i.imgur.com/s6lmfXF.png" group-title="Sports", Golf Network
-http://202.60.106.14:8080/1335/playlist.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
 
 #EXTINF:-1 tvg-id="GramyDalej.pl@SD" tvg-logo="https://ipla-e1-83.pluscdn.pl/img/p/owHqr0SI-u_e/1920x1080/p/cms_thumbnails/67/67aaiss1ib3pm7vnxheqv7eaitj1er8h.jpg" group-title="Sports", Gramy Dalej
 http://cdn-s-lb2.pluscdn.pl/lv/1517832/351/dash/2699af69/live.mpd
@@ -985,6 +985,78 @@ http://183.207.248.71/gitv/live1/G_JSTY/G_JSTY
 #EXTINF:-1 tvg-id="AlIraqiaSport.iq@SD" tvg-logo="https://i.imgur.com/DrrlxTO.png" group-title="Sports", Al Iraqia Sport
 https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
 
+#EXTINF:-1 tvg-id="ArenaSport1.hr@SD" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="Sports", Arena Sport 1
+https://nl1.nghk.ai/AS1HRHD/index.m3u8
+
+#EXTINF:-1 tvg-id="ArenaSport1.rs@SD" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="Sports", Arena Sport 1
+https://nl1.nghk.ai/ArenaSport1HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ArenaSport1Premium.rs@SD" tvg-logo="https://i.imgur.com/csv6YsL.png" group-title="Sports", Arena Sport 1 Premium
+https://nl1.nghk.ai/ArenaPremium1HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ArenaSport2.hr@SD" tvg-logo="https://i.imgur.com/aqlECBj.png" group-title="Sports", Arena Sport 2
+https://nl1.nghk.ai/AS2HRHD/index.m3u8
+
+#EXTINF:-1 tvg-id="ArenaSport2.rs@SD" tvg-logo="https://i.imgur.com/aqlECBj.png" group-title="Sports", Arena Sport 2
+https://nl1.nghk.ai/ArenaSport2HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ArenaSport2Premium.rs@SD" tvg-logo="https://i.imgur.com/ztOmQ7P.png" group-title="Sports", Arena Sport 2 Premium
+https://nl1.nghk.ai/ArenaPremium2HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ArenaSport3.hr@SD" tvg-logo="https://i.imgur.com/3r3burN.png" group-title="Sports", Arena Sport 3
+https://nl1.nghk.ai/AS3HRHD/index.m3u8
+
+#EXTINF:-1 tvg-id="ArenaSport3.rs@SD" tvg-logo="https://i.imgur.com/3r3burN.png" group-title="Sports", Arena Sport 3
+https://nl1.nghk.ai/ArenaSport3HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ArenaSport3Premium.rs@SD" tvg-logo="https://i.imgur.com/gpqemLf.png" group-title="Sports", Arena Sport 3 Premium
+https://nl1.nghk.ai/ArenaPremium3HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ArenaSport4.hr@SD" tvg-logo="https://i.imgur.com/h1XhGkz.png" group-title="Sports", Arena Sport 4
+https://nl1.nghk.ai/AS4HRHD/index.m3u8
+
+#EXTINF:-1 tvg-id="ArenaSport4.rs@SD" tvg-logo="https://i.imgur.com/h1XhGkz.png" group-title="Sports", Arena Sport 4
+https://nl1.nghk.ai/ArenaSport4HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ArenaSport4Premium.rs@SD" tvg-logo="" group-title="Sports", Arena Sport 4 Premium
+https://nl1.nghk.ai/SK1SRHD/index.m3u8
+
+#EXTINF:-1 tvg-id="ArenaSport5.hr@SD" tvg-logo="https://i.imgur.com/036qMgu.png" group-title="Sports", Arena Sport 5
+https://nl1.nghk.ai/AS5HRHD/index.m3u8
+
+#EXTINF:-1 tvg-id="ArenaSport5.rs@SD" tvg-logo="https://i.imgur.com/036qMgu.png" group-title="Sports", Arena Sport 5
+https://nl1.nghk.ai/ArenaSport5HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ArenaSport6.hr@SD" tvg-logo="https://i.imgur.com/Z5PE4vx.png" group-title="Sports", Arena Sport 6
+https://nl1.nghk.ai/AS6HRHD/index.m3u8
+
+#EXTINF:-1 tvg-id="ArenaSport6.rs@SD" tvg-logo="https://i.imgur.com/Z5PE4vx.png" group-title="Sports", Arena Sport 6
+https://nl1.nghk.ai/ArenaSport6HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ArenaSport7.hr@SD" tvg-logo="https://i.imgur.com/0fgvOrR.png" group-title="Sports", Arena Sport 7
+https://nl1.nghk.ai/AS7HRHD/index.m3u8
+
+#EXTINF:-1 tvg-id="ArenaSport7.rs@SD" tvg-logo="https://i.imgur.com/0fgvOrR.png" group-title="Sports", Arena Sport 7
+https://nl1.nghk.ai/ArenaSport7HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ArenaSport8.hr@SD" tvg-logo="https://i.imgur.com/Wk9dr78.png" group-title="Sports", Arena Sport 8
+https://nl1.nghk.ai/AS8HRHD/index.m3u8
+
+#EXTINF:-1 tvg-id="ArenaSport8.rs@SD" tvg-logo="https://i.imgur.com/Wk9dr78.png" group-title="Sports", Arena Sport 8
+https://nl1.nghk.ai/ArenaSport8HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ArenaSport9.hr@SD" tvg-logo="https://i.imgur.com/riMTqTu.png" group-title="Sports", Arena Sport 9
+https://nl1.nghk.ai/AS9HRHD/index.m3u8
+
+#EXTINF:-1 tvg-id="ArenaSport9.rs@SD" tvg-logo="" group-title="Sports", Arena Sport 9
+https://nl1.nghk.ai/ArenaSport9HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ArenaSport10.hr@SD" tvg-logo="https://i.imgur.com/oMiS7D3.png" group-title="Sports", Arena Sport 10
+https://nl1.nghk.ai/AS10HRHD/index.m3u8
+
+#EXTINF:-1 tvg-id="ArenaSport10.rs@SD" tvg-logo="" group-title="Sports", Arena Sport 10
+https://nl1.nghk.ai/ArenaSport10HD/index.m3u8
+
 #EXTINF:-1 tvg-id="Arryadia.ma@HD" tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="Sports", Arryadia
 https://stream-lb.livemediama.com/arryadia/hls/master.m3u8
 
@@ -1020,6 +1092,18 @@ http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 
 #EXTINF:-1 tvg-id="DeportesTVC.hn@SD" tvg-logo="https://i.imgur.com/Y1t8xkL.png" group-title="Sports", Deportes TVC
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8
+
+#EXTINF:-1 tvg-id="DigiSport1.ro@SD" tvg-logo="https://i.imgur.com/5zMxDYq.png" group-title="Sports", Digi Sport 1
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/2523/index.m3u8
+
+#EXTINF:-1 tvg-id="DigiSport2.ro@SD" tvg-logo="https://i.imgur.com/KWDUi3v.png" group-title="Sports", Digi Sport 2
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/2522/index.m3u8
+
+#EXTINF:-1 tvg-id="DigiSport3.ro@SD" tvg-logo="https://i.imgur.com/T1ci5UK.png" group-title="Sports", Digi Sport 3
+http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/2524/index.m3u8
+
+#EXTINF:-1 tvg-id="DigiSport4.ro@SD" tvg-logo="https://i.imgur.com/Knj9I6f.png" group-title="Sports", Digi Sport 4
+http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/2538/index.m3u8
 
 #EXTINF:-1 tvg-id="DirecTVSports.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Sports", DirecTV Sports
 https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
