@@ -53,76 +53,123 @@
 # 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Football 🟢🟢🟢🟢🟢🟢
 
 
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Netherlands%0AVS%0AJapan%0AWorld%20Cup&font=Oswald" group-title="SAWARID سواريد - Football", Netherlands VS Japan | World Cup [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1888038f9e015d75b5b3757d9d2828f97cc42a1d&x-sign=e26ad09c2b8d449a47b10403c7393ff8&x-time=1781467260
+
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Netherlands%0AVS%0AJapan%0AWorld%20Cup&font=Oswald" group-title="SAWARID سواريد - Football", Netherlands VS Japan | World Cup [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1781553698-Kv4cPTAAP5YTi-1888038f9e015d75b5b3757d9d2828f97cc42a1d-31e74b7636e10ffcadcb184ed02738d0
+
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Netherlands%0AVS%0AJapan%0AWorld%20Cup&font=Oswald" group-title="SAWARID سواريد - Football", Netherlands VS Japan | World Cup [Server 3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/544570/720p/chunks.m3u8?is_vip=false&token=1888038f9e015d75b5b3757d9d2828f97cc42a1d&x-sign=0d8c6aea0485d50aa2718b941a2d441a&x-time=1781467260
+
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Netherlands%0AVS%0AJapan%0AWorld%20Cup&font=Oswald" group-title="SAWARID سواريد - Football", Netherlands VS Japan | World Cup [Server 4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/544570/720p/chunks.m3u8?is_vip=false&token=1781553698-Kv4cPTAAP5YTi-1888038f9e015d75b5b3757d9d2828f97cc42a1d-9bc018dcc119d7010cb3dffded978031
+
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Netherlands%0AVS%0AJapan%0AWorld%20Cup&font=Oswald" group-title="SAWARID سواريد - Football", Netherlands VS Japan | World Cup [Server 5]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781553698-Kv4cPTAAP5YTi-1888038f9e015d75b5b3757d9d2828f97cc42a1d-08f529959d0c5d6cd8c5203e3e267a9b
+
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Netherlands%0AVS%0AJapan%0AWorld%20Cup&font=Oswald" group-title="SAWARID سواريد - Football", Netherlands VS Japan | World Cup [Server 6]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=1888038f9e015d75b5b3757d9d2828f97cc42a1d&x-sign=b8531ac5713d1faa41673e2ea5276990&x-time=1781467260
+
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Netherlands%0AVS%0AJapan%0AWorld%20Cup&font=Oswald" group-title="SAWARID سواريد - Football", Netherlands VS Japan | World Cup [Server 7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e7a-hd/chunks.m3u8?is_vip=false&token=1888038f9e015d75b5b3757d9d2828f97cc42a1d&x-sign=228c0c3fe854a797b53b586964c9a8d1&x-time=1781467260
+
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Netherlands%0AVS%0AJapan%0AWorld%20Cup&font=Oswald" group-title="SAWARID سواريد - Football", Netherlands VS Japan | World Cup [Server 8]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e7a-hd/chunks.m3u8?is_vip=false&token=1781553699-Kv4cPTAAP5YTi-1888038f9e015d75b5b3757d9d2828f97cc42a1d-2e55bd34c514b00470232c9d4f8187ac
+
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Netherlands%0AVS%0AJapan%0AWorld%20Cup&font=Oswald" group-title="SAWARID سواريد - Football", Netherlands VS Japan | World Cup [Server 9]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e7a-cnhd/chunks.m3u8?is_vip=false&token=1888038f9e015d75b5b3757d9d2828f97cc42a1d&x-sign=d376e60ac17e171ccd56f994481cc911&x-time=1781467260
+
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Netherlands%0AVS%0AJapan%0AWorld%20Cup&font=Oswald" group-title="SAWARID سواريد - Football", Netherlands VS Japan | World Cup [Server 10]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e7a-cnhd/chunks.m3u8?is_vip=false&token=1781553700-Kv4cPTAAP5YTi-1888038f9e015d75b5b3757d9d2828f97cc42a1d-dabcfa75c3321f05ebd4348b3733bde5
+
+
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Malaga%0AVS%0AAlmeria%0ASegunda%20Divisi%C3%B3n&font=Oswald" group-title="SAWARID سواريد - Football", Malaga VS Almeria | Segunda División [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1781549254-Kv4cPTAAP5YTi-b5ec9cea5849165b35f95d12a969d72de823219f-0eee50669edec7b1a691a2978194c3ab
+https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1781553735-Kv4cPTAAP5YTi-1888038f9e015d75b5b3757d9d2828f97cc42a1d-be5289e76b0df8ec1c5d9873825270fc
 
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Malaga%0AVS%0AAlmeria%0ASegunda%20Divisi%C3%B3n&font=Oswald" group-title="SAWARID سواريد - Football", Malaga VS Almeria | Segunda División [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=b5ec9cea5849165b35f95d12a969d72de823219f&x-sign=d24f2951ab9a759dc9ca7e26019c885c&x-time=1781462820
-
-
-#EXTINF:-1 tvg-id="1489374" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Germany%20VS%20Cura%C3%A7ao%20%20World%20Cup.jpg" group-title="SAWARID سواريد - Football", Germany vs Curaçao - World Cup [177]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=d5b43ecb8f6384273b4eb7d3f0368a1ba3226584&x-sign=7ba11ab8e4245cd6362892140161845b&x-time=1781462700
-
-
-#EXTINF:-1 tvg-id="1489374" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Germany%20VS%20Cura%C3%A7ao%20%20World%20Cup.jpg" group-title="SAWARID سواريد - Football", Germany vs Curaçao - World Cup [177]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1781549136-Kv4cPTAAP5YTi-d5b43ecb8f6384273b4eb7d3f0368a1ba3226584-24b47de40e0979630e2bcb6953808f65
-
-
-#EXTINF:-1 tvg-id="1489374" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Germany%20VS%20Cura%C3%A7ao%20%20World%20Cup.jpg" group-title="SAWARID سواريد - Football", Germany vs Curaçao - World Cup [544566]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/544566/720p/chunks.m3u8?is_vip=false&token=d5b43ecb8f6384273b4eb7d3f0368a1ba3226584&x-sign=aeadfc1f646eef6b2f7450a4f4b12cf0&x-time=1781462700
-
-
-#EXTINF:-1 tvg-id="1489374" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Germany%20VS%20Cura%C3%A7ao%20%20World%20Cup.jpg" group-title="SAWARID سواريد - Football", Germany vs Curaçao - World Cup [544566]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/544566/720p/chunks.m3u8?is_vip=false&token=1781549137-Kv4cPTAAP5YTi-d5b43ecb8f6384273b4eb7d3f0368a1ba3226584-8df68edc59eaaaf202e175ef5c05a8a7
-
-
-#EXTINF:-1 tvg-id="1489374" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Germany%20VS%20Cura%C3%A7ao%20%20World%20Cup.jpg" group-title="SAWARID سواريد - Football", Germany vs Curaçao - World Cup [2]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781549137-Kv4cPTAAP5YTi-d5b43ecb8f6384273b4eb7d3f0368a1ba3226584-94c08630d68f4ccbcdcb3e9fe16366ec
-
-
-#EXTINF:-1 tvg-id="1489374" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Germany%20VS%20Cura%C3%A7ao%20%20World%20Cup.jpg" group-title="SAWARID سواريد - Football", Germany vs Curaçao - World Cup [2]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=d5b43ecb8f6384273b4eb7d3f0368a1ba3226584&x-sign=b60403533ce925ea03f525bd9f512877&x-time=1781462700
+https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=1888038f9e015d75b5b3757d9d2828f97cc42a1d&x-sign=75b2210403821fa837a51aa9d1c5148d&x-time=1781467320
 
 
 #EXTINF:-1 tvg-id="1551271" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Malaga%20VS%20Almeria%20%20Segunda%20Divisi%C3%B3n.jpg" group-title="SAWARID سواريد - Football", Malaga vs Almeria - Segunda División [3]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1781549149-Kv4cPTAAP5YTi-d5b43ecb8f6384273b4eb7d3f0368a1ba3226584-46bae5ad95a01bda07e6d6767619dd6c
+https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1781552743-Kv4cPTAAP5YTi-b2de8a2610a3dae80de87739766fb06ab7958c53-79b4d726c5306d1ad774b8f7760cd338
 
 
 #EXTINF:-1 tvg-id="1551271" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Malaga%20VS%20Almeria%20%20Segunda%20Divisi%C3%B3n.jpg" group-title="SAWARID سواريد - Football", Malaga vs Almeria - Segunda División [3]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=d5b43ecb8f6384273b4eb7d3f0368a1ba3226584&x-sign=f22e72e7a11da2e572eb57246e5d279c&x-time=1781462700
+https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=b2de8a2610a3dae80de87739766fb06ab7958c53&x-sign=b4e462ab2d6a18b73d07b02087a490a4&x-time=1781466300
+
+
+#EXTINF:-1 tvg-id="1489376" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Netherlands%20VS%20Japan%20%20World%20Cup.jpg" group-title="SAWARID سواريد - Football", Netherlands vs Japan - World Cup [177]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=b2de8a2610a3dae80de87739766fb06ab7958c53&x-sign=3fc35a14ca05cc55281643781b77a45a&x-time=1781466300
+
+
+#EXTINF:-1 tvg-id="1489376" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Netherlands%20VS%20Japan%20%20World%20Cup.jpg" group-title="SAWARID سواريد - Football", Netherlands vs Japan - World Cup [177]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1781552750-Kv4cPTAAP5YTi-b2de8a2610a3dae80de87739766fb06ab7958c53-bcaee2319827819ca4f845ca8d84ea5c
+
+
+#EXTINF:-1 tvg-id="1489376" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Netherlands%20VS%20Japan%20%20World%20Cup.jpg" group-title="SAWARID سواريد - Football", Netherlands vs Japan - World Cup [544570]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/544570/720p/chunks.m3u8?is_vip=false&token=b2de8a2610a3dae80de87739766fb06ab7958c53&x-sign=063807b6cd7475163a41f6b6ad930f9a&x-time=1781466300
+
+
+#EXTINF:-1 tvg-id="1489376" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Netherlands%20VS%20Japan%20%20World%20Cup.jpg" group-title="SAWARID سواريد - Football", Netherlands vs Japan - World Cup [544570]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/544570/720p/chunks.m3u8?is_vip=false&token=1781552751-Kv4cPTAAP5YTi-b2de8a2610a3dae80de87739766fb06ab7958c53-d1856c97656f7e3bec91a585946d2870
+
+
+#EXTINF:-1 tvg-id="1489376" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Netherlands%20VS%20Japan%20%20World%20Cup.jpg" group-title="SAWARID سواريد - Football", Netherlands vs Japan - World Cup [2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781552752-Kv4cPTAAP5YTi-b2de8a2610a3dae80de87739766fb06ab7958c53-655868b7d08aa6a478c75c11f4ac2dbb
+
+
+#EXTINF:-1 tvg-id="1489376" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Netherlands%20VS%20Japan%20%20World%20Cup.jpg" group-title="SAWARID سواريد - Football", Netherlands vs Japan - World Cup [2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=b2de8a2610a3dae80de87739766fb06ab7958c53&x-sign=69b52333fa2c006be9515e9493dfece1&x-time=1781466300
+
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781357682348/143391_CASACARDS_SPORTY_APP.png" group-title="SAWARID سواريد - Football", Málaga Vs Almería | LALIGA Hypermotion 2025-26 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/m_laga_vs_almer_a_143391_english.m3u8
 
 
 # 🆕 SAWARID سواريد - Football 👉 Updateded Done ✅✅✅✅✅✅
-
-
-# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
-
-
-# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Cricket 🟢🟢🟢🟢🟢🟢
-
-
-#EXTINF:-1 tvg-id="sonyliv-1090534739" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019576/1781286858303853_CCPL26_Final_Bilaspur_Bulls_vs_Raigarh_Lions_12jun_landscape_thumb.jpg" group-title="SAWARID سواريد - Cricket", Chhattisgarh Cricket Premier League 2026 | Bilaspur Bulls vs Raigarh Lions - Final - 14 Jun 2026
-https://dai.google.com/ssai/event/xq7h_HJVS7mEliIeK8sjnQ/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143154_6108_AA_GG_FC-Web.png" group-title="SAWARID سواريد - Cricket", Antwerp Anchors Vs Ghent Gladiators | EUT20 Belgium 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/antwerp_anchors_vs_ghent_gladiators_143166_english.m3u8
-
-
-# 🆕 SAWARID سواريد - Cricket 👉 Updateded Done ✅✅✅✅✅✅
 
 
 # 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
@@ -134,45 +181,23 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/antwerp_anchor
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=World%20Cup%20of%20Darts%0AWorld%20Cup%20of%20Darts&font=Oswald" group-title="SAWARID سواريد - Darts", World Cup of Darts | World Cup of Darts [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=b5ec9cea5849165b35f95d12a969d72de823219f&x-sign=df87cc0374bca361ab2ab70b5259dc9a&x-time=1781462760
+https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=1888038f9e015d75b5b3757d9d2828f97cc42a1d&x-sign=ee194fd70e072f958bfdbf80c4799335&x-time=1781467260
 
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=World%20Cup%20of%20Darts%0AWorld%20Cup%20of%20Darts&font=Oswald" group-title="SAWARID سواريد - Darts", World Cup of Darts | World Cup of Darts [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1781549203-Kv4cPTAAP5YTi-b5ec9cea5849165b35f95d12a969d72de823219f-f23a094dd80bb73bfce216688e097f9a
-
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=World%20Cup%20of%20Darts%0AWorld%20Cup%20of%20Darts&font=Oswald" group-title="SAWARID سواريد - Darts", World Cup of Darts | World Cup of Darts [Server 3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=b5ec9cea5849165b35f95d12a969d72de823219f&x-sign=8cf6afde8e4d240e3ef9f9884a900f7b&x-time=1781462760
-
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=World%20Cup%20of%20Darts%0AWorld%20Cup%20of%20Darts&font=Oswald" group-title="SAWARID سواريد - Darts", World Cup of Darts | World Cup of Darts [Server 4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1781549204-Kv4cPTAAP5YTi-b5ec9cea5849165b35f95d12a969d72de823219f-94114d1edf56c903fa848fd469eb7a0a
-
-
-#EXTINF:-1 tvg-id="1629492975" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Darts", Day 4 - Evening Session - World Cup of Darts [114414]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=d5b43ecb8f6384273b4eb7d3f0368a1ba3226584&x-sign=812d3dfcea126f983b884adf36af40e6&x-time=1781462700
-
-
-#EXTINF:-1 tvg-id="1629492975" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Darts", Day 4 - Evening Session - World Cup of Darts [114414]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1781549129-Kv4cPTAAP5YTi-d5b43ecb8f6384273b4eb7d3f0368a1ba3226584-62ed7573bc646c609263c15db16993ff
+https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1781553705-Kv4cPTAAP5YTi-1888038f9e015d75b5b3757d9d2828f97cc42a1d-dbaa67ed4a10358d3b9d8b06e56f0df3
 
 
 #EXTINF:-1 tvg-id="1629492975" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Darts", Day 4 - Evening Session - World Cup of Darts [8]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=d5b43ecb8f6384273b4eb7d3f0368a1ba3226584&x-sign=92eab829034f59b01acf05ce5a978fa7&x-time=1781462700
+https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=b2de8a2610a3dae80de87739766fb06ab7958c53&x-sign=a58aad665f7d76155133566c098c8dca&x-time=1781466300
 
 
 #EXTINF:-1 tvg-id="1629492975" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Darts", Day 4 - Evening Session - World Cup of Darts [8]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1781549130-Kv4cPTAAP5YTi-d5b43ecb8f6384273b4eb7d3f0368a1ba3226584-9d884a6578a090883b5a409a48943c92
+https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1781552732-Kv4cPTAAP5YTi-b2de8a2610a3dae80de87739766fb06ab7958c53-4b763e5eb12058eed811e7e93a11164d
 
 
 # 🆕 SAWARID سواريد - Darts 👉 Updateded Done ✅✅✅✅✅✅
@@ -216,37 +241,16 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___world_
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Defensores%20W%0AVS%0AAtl.%20Andahuaylas%20W%0ALiga%20Women&font=Oswald" group-title="SAWARID سواريد - Liga Women", Defensores W VS Atl. Andahuaylas W | Liga Women [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1e4e3d7ab2bf1edb56a422/chunks.m3u8?is_vip=false&token=b5ec9cea5849165b35f95d12a969d72de823219f&x-sign=4186c35d5e7ba3a60a3a8d5d4eb024d8&x-time=1781462820
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1e4e3d7ab2bf1edb56a422/chunks.m3u8?is_vip=false&token=1888038f9e015d75b5b3757d9d2828f97cc42a1d&x-sign=68a64d9e538b6b1ddad279032b3b94bb&x-time=1781467260
 
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Defensores%20W%0AVS%0AAtl.%20Andahuaylas%20W%0ALiga%20Women&font=Oswald" group-title="SAWARID سواريد - Liga Women", Defensores W VS Atl. Andahuaylas W | Liga Women [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1e4e3d7ab2bf1edb56a422/chunks.m3u8?is_vip=false&token=1781549229-Kv4cPTAAP5YTi-b5ec9cea5849165b35f95d12a969d72de823219f-54f0b7946c5aa3c45479057578ac9f2b
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1e4e3d7ab2bf1edb56a422/chunks.m3u8?is_vip=false&token=1781553710-Kv4cPTAAP5YTi-1888038f9e015d75b5b3757d9d2828f97cc42a1d-3f60e906b57b76ebfca1a09b327177cb
 
 
 # 🆕 SAWARID سواريد - Liga Women 👉 Updateded Done ✅✅✅✅✅✅
-
-
-# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
-
-
-# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Premier League 🟢🟢🟢🟢🟢🟢
-
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Torpedo%20Zhodino%0AVS%0ASlavia%20Mozyr%0APremier%20League&font=Oswald" group-title="SAWARID سواريد - Premier League", Torpedo Zhodino VS Slavia Mozyr | Premier League [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a30625e1/chunks.m3u8?is_vip=false&token=b5ec9cea5849165b35f95d12a969d72de823219f&x-sign=bef4a06a85407745d97aa86cdb15277a&x-time=1781462760
-
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Torpedo%20Zhodino%0AVS%0ASlavia%20Mozyr%0APremier%20League&font=Oswald" group-title="SAWARID سواريد - Premier League", Torpedo Zhodino VS Slavia Mozyr | Premier League [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a30625e1/chunks.m3u8?is_vip=false&token=1781549214-Kv4cPTAAP5YTi-b5ec9cea5849165b35f95d12a969d72de823219f-4769a07f9d28fd66d806d754a2e039e3
-
-
-# 🆕 SAWARID سواريد - Premier League 👉 Updateded Done ✅✅✅✅✅✅
 
 
 # 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
@@ -258,13 +262,13 @@ https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a30625e1/chu
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Liniers%0AVS%0AReal%20Pilar%0APrimera%20B%20Metropolitana&font=Oswald" group-title="SAWARID سواريد - Primera B Metropolitana", Liniers VS Real Pilar | Primera B Metropolitana [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1424ae3915db343546f655/chunks.m3u8?is_vip=false&token=b5ec9cea5849165b35f95d12a969d72de823219f&x-sign=9b5076331d39c093dbefadc4e0977d32&x-time=1781462820
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1424ae3915db343546f655/chunks.m3u8?is_vip=false&token=1888038f9e015d75b5b3757d9d2828f97cc42a1d&x-sign=23d386a9654c004732d8826b3a5bfdfc&x-time=1781467320
 
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Liniers%0AVS%0AReal%20Pilar%0APrimera%20B%20Metropolitana&font=Oswald" group-title="SAWARID سواريد - Primera B Metropolitana", Liniers VS Real Pilar | Primera B Metropolitana [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1424ae3915db343546f655/chunks.m3u8?is_vip=false&token=1781549244-Kv4cPTAAP5YTi-b5ec9cea5849165b35f95d12a969d72de823219f-dfa5b9ef358424a5f534b7c6c27322df
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1424ae3915db343546f655/chunks.m3u8?is_vip=false&token=1781553720-Kv4cPTAAP5YTi-1888038f9e015d75b5b3757d9d2828f97cc42a1d-94713787a342aea6c148551921b74cbb
 
 
 # 🆕 SAWARID سواريد - Primera B Metropolitana 👉 Updateded Done ✅✅✅✅✅✅
@@ -276,52 +280,52 @@ https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1424ae3915db343546f655/chu
 # 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Primera Nacional 🟢🟢🟢🟢🟢🟢
 
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Almirante%20Brown%0AVS%0AGodoy%20Cruz%0APrimera%20Nacional&font=Oswald" group-title="SAWARID سواريد - Primera Nacional", Almirante Brown VS Godoy Cruz | Primera Nacional [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a03477cca40f0e8a07e5fec/chunks.m3u8?is_vip=false&token=b5ec9cea5849165b35f95d12a969d72de823219f&x-sign=1f814d4e937ef9de4ae7f3e348bc68d2&x-time=1781462760
-
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Almirante%20Brown%0AVS%0AGodoy%20Cruz%0APrimera%20Nacional&font=Oswald" group-title="SAWARID سواريد - Primera Nacional", Almirante Brown VS Godoy Cruz | Primera Nacional [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a03477cca40f0e8a07e5fec/chunks.m3u8?is_vip=false&token=1781549219-Kv4cPTAAP5YTi-b5ec9cea5849165b35f95d12a969d72de823219f-a069e704611aaac110d73aba2bb3f1fd
-
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Deportivo%20Madryn%0AVS%0ASan%20Miguel%0APrimera%20Nacional&font=Oswald" group-title="SAWARID سواريد - Primera Nacional", Deportivo Madryn VS San Miguel | Primera Nacional [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a03477cca40f0e8a07e5fe9/chunks.m3u8?is_vip=false&token=b5ec9cea5849165b35f95d12a969d72de823219f&x-sign=97223414a160cd6709a2d66229305049&x-time=1781462820
-
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Deportivo%20Madryn%0AVS%0ASan%20Miguel%0APrimera%20Nacional&font=Oswald" group-title="SAWARID سواريد - Primera Nacional", Deportivo Madryn VS San Miguel | Primera Nacional [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a03477cca40f0e8a07e5fe9/chunks.m3u8?is_vip=false&token=1781549224-Kv4cPTAAP5YTi-b5ec9cea5849165b35f95d12a969d72de823219f-d4a1b02a6d18fc31f7b518331684cfa2
-
-
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Ferro%20Carril%20Oeste%0AVS%0AAcassuso%0APrimera%20Nacional&font=Oswald" group-title="SAWARID سواريد - Primera Nacional", Ferro Carril Oeste VS Acassuso | Primera Nacional [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a03477cca40f0e8a07e5fe8/chunks.m3u8?is_vip=false&token=b5ec9cea5849165b35f95d12a969d72de823219f&x-sign=5339b621fbb18f216ba9f045253f99dd&x-time=1781462820
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a03477cca40f0e8a07e5fe8/chunks.m3u8?is_vip=false&token=1888038f9e015d75b5b3757d9d2828f97cc42a1d&x-sign=d510ab378e77fabceb994489f7ca9da6&x-time=1781467260
 
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Ferro%20Carril%20Oeste%0AVS%0AAcassuso%0APrimera%20Nacional&font=Oswald" group-title="SAWARID سواريد - Primera Nacional", Ferro Carril Oeste VS Acassuso | Primera Nacional [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a03477cca40f0e8a07e5fe8/chunks.m3u8?is_vip=false&token=1781549234-Kv4cPTAAP5YTi-b5ec9cea5849165b35f95d12a969d72de823219f-17a98b379616153fce9e47b56e6c12ec
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a03477cca40f0e8a07e5fe8/chunks.m3u8?is_vip=false&token=1781553715-Kv4cPTAAP5YTi-1888038f9e015d75b5b3757d9d2828f97cc42a1d-79124dda375d351d94980a0167ce343f
 
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Patronato%0AVS%0AAtletico%20DE%20Rafaela%0APrimera%20Nacional&font=Oswald" group-title="SAWARID سواريد - Primera Nacional", Patronato VS Atletico DE Rafaela | Primera Nacional [Server 1]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Atletico%20Mitre%0AVS%0ALos%20Andes%0APrimera%20Nacional&font=Oswald" group-title="SAWARID سواريد - Primera Nacional", Atletico Mitre VS Los Andes | Primera Nacional [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e71/chunks.m3u8?is_vip=false&token=b5ec9cea5849165b35f95d12a969d72de823219f&x-sign=ae7236cf848a15728c2788c5c143d6ab&x-time=1781462820
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e75/chunks.m3u8?is_vip=false&token=1888038f9e015d75b5b3757d9d2828f97cc42a1d&x-sign=a583aa79d9011c1a7fc2dd5a8474e772&x-time=1781467320
 
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Patronato%0AVS%0AAtletico%20DE%20Rafaela%0APrimera%20Nacional&font=Oswald" group-title="SAWARID سواريد - Primera Nacional", Patronato VS Atletico DE Rafaela | Primera Nacional [Server 2]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Atletico%20Mitre%0AVS%0ALos%20Andes%0APrimera%20Nacional&font=Oswald" group-title="SAWARID سواريد - Primera Nacional", Atletico Mitre VS Los Andes | Primera Nacional [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e71/chunks.m3u8?is_vip=false&token=1781549239-Kv4cPTAAP5YTi-b5ec9cea5849165b35f95d12a969d72de823219f-53542218a5ece8d5466d872da0de49bb
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e75/chunks.m3u8?is_vip=false&token=1781553725-Kv4cPTAAP5YTi-1888038f9e015d75b5b3757d9d2828f97cc42a1d-009d8075c827a2536cbcdf9face8b811
+
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Racing%20Cordoba%0AVS%0AChaco%20For%20Ever%0APrimera%20Nacional&font=Oswald" group-title="SAWARID سواريد - Primera Nacional", Racing Cordoba VS Chaco For Ever | Primera Nacional [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402ad14/chunks.m3u8?is_vip=false&token=1888038f9e015d75b5b3757d9d2828f97cc42a1d&x-sign=35df713309dc1c12ba921274e704fecb&x-time=1781467320
+
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Racing%20Cordoba%0AVS%0AChaco%20For%20Ever%0APrimera%20Nacional&font=Oswald" group-title="SAWARID سواريد - Primera Nacional", Racing Cordoba VS Chaco For Ever | Primera Nacional [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402ad14/chunks.m3u8?is_vip=false&token=1781553730-Kv4cPTAAP5YTi-1888038f9e015d75b5b3757d9d2828f97cc42a1d-4f8a1725d32fe0528585e86490139a2e
+
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Deportivo%20Maipu%0AVS%0ATristan%20Suarez%0APrimera%20Nacional&font=Oswald" group-title="SAWARID سواريد - Primera Nacional", Deportivo Maipu VS Tristan Suarez | Primera Nacional [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e78/chunks.m3u8?is_vip=false&token=1888038f9e015d75b5b3757d9d2828f97cc42a1d&x-sign=eb5b6cfc9e87a598b73fab4d01782022&x-time=1781467320
+
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Deportivo%20Maipu%0AVS%0ATristan%20Suarez%0APrimera%20Nacional&font=Oswald" group-title="SAWARID سواريد - Primera Nacional", Deportivo Maipu VS Tristan Suarez | Primera Nacional [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e78/chunks.m3u8?is_vip=false&token=1781553745-Kv4cPTAAP5YTi-1888038f9e015d75b5b3757d9d2828f97cc42a1d-18b5eac794b91e78bfa0645b168a76e3
 
 
 # 🆕 SAWARID سواريد - Primera Nacional 👉 Updateded Done ✅✅✅✅✅✅
@@ -330,134 +334,34 @@ https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e71/chu
 # 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
 
 
-# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Volleyball 🟢🟢🟢🟢🟢🟢
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Serie C 🟢🟢🟢🟢🟢🟢
 
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Bulgaria%0AVS%0ASerbia%0AVolleyball%20Nations%20League&font=Oswald" group-title="SAWARID سواريد - Volleyball", Bulgaria VS Serbia | Volleyball Nations League [Server 1]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Paysandu%0AVS%0AInter%20De%20Limeira%0ASerie%20C&font=Oswald" group-title="SAWARID سواريد - Serie C", Paysandu VS Inter De Limeira | Serie C [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/68904/720p/chunks.m3u8?is_vip=false&token=b5ec9cea5849165b35f95d12a969d72de823219f&x-sign=6308086e7da31c3ceb2400e78cc46878&x-time=1781462820
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f692994d/chunks.m3u8?is_vip=false&token=1888038f9e015d75b5b3757d9d2828f97cc42a1d&x-sign=7007c31b9a8c165cd95d2a75c170f926&x-time=1781467320
 
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Bulgaria%0AVS%0ASerbia%0AVolleyball%20Nations%20League&font=Oswald" group-title="SAWARID سواريد - Volleyball", Bulgaria VS Serbia | Volleyball Nations League [Server 2]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Paysandu%0AVS%0AInter%20De%20Limeira%0ASerie%20C&font=Oswald" group-title="SAWARID سواريد - Serie C", Paysandu VS Inter De Limeira | Serie C [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/68904/720p/chunks.m3u8?is_vip=false&token=1781549249-Kv4cPTAAP5YTi-b5ec9cea5849165b35f95d12a969d72de823219f-6720d3d83dd9a114659e1fd45a5ab5c6
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f692994d/chunks.m3u8?is_vip=false&token=1781553740-Kv4cPTAAP5YTi-1888038f9e015d75b5b3757d9d2828f97cc42a1d-785b6d0bfddf167fcbd373f4684c5cc2
 
 
-#EXTINF:-1 tvg-id="1629494019" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bulgaria%20VS%20Serbia%20%20Volleyball%20Nations%20League.jpg" group-title="SAWARID سواريد - Volleyball", Bulgaria vs Serbia - Volleyball Nations League [68904]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/68904/720p/chunks.m3u8?is_vip=false&token=d5b43ecb8f6384273b4eb7d3f0368a1ba3226584&x-sign=4c584e11112d547360c1e1443963e8ae&x-time=1781462700
-
-
-#EXTINF:-1 tvg-id="1629494019" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bulgaria%20VS%20Serbia%20%20Volleyball%20Nations%20League.jpg" group-title="SAWARID سواريد - Volleyball", Bulgaria vs Serbia - Volleyball Nations League [68904]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/68904/720p/chunks.m3u8?is_vip=false&token=1781549144-Kv4cPTAAP5YTi-d5b43ecb8f6384273b4eb7d3f0368a1ba3226584-9b033cc980cb898b92a610cd2560cbec
-
-
-# 🆕 SAWARID سواريد - Volleyball 👉 Updateded Done ✅✅✅✅✅✅
-
-
-# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
-
-
-# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - World Cup 🟢🟢🟢🟢🟢🟢
-
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Germany%0AVS%0ACura%C3%A7ao%0AWorld%20Cup&font=Oswald" group-title="SAWARID سواريد - World Cup", Germany VS Curaçao | World Cup [Server 1]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=AO%20Itabaiana%0AVS%0AItuano%0ASerie%20C&font=Oswald" group-title="SAWARID سواريد - Serie C", AO Itabaiana VS Ituano | Serie C [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=b5ec9cea5849165b35f95d12a969d72de823219f&x-sign=fc2e7732d7620d485cd69246b1c781cf&x-time=1781462760
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f692994f/chunks.m3u8?is_vip=false&token=1888038f9e015d75b5b3757d9d2828f97cc42a1d&x-sign=a99fb00584f86928020400757d847eaa&x-time=1781467320
 
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Germany%0AVS%0ACura%C3%A7ao%0AWorld%20Cup&font=Oswald" group-title="SAWARID سواريد - World Cup", Germany VS Curaçao | World Cup [Server 2]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=AO%20Itabaiana%0AVS%0AItuano%0ASerie%20C&font=Oswald" group-title="SAWARID سواريد - Serie C", AO Itabaiana VS Ituano | Serie C [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1781549195-Kv4cPTAAP5YTi-b5ec9cea5849165b35f95d12a969d72de823219f-bbe91a311de109d24852b7db6a25c063
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f692994f/chunks.m3u8?is_vip=false&token=1781553750-Kv4cPTAAP5YTi-1888038f9e015d75b5b3757d9d2828f97cc42a1d-2ff8dcdb7781f544fe76250222ab55ac
 
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Germany%0AVS%0ACura%C3%A7ao%0AWorld%20Cup&font=Oswald" group-title="SAWARID سواريد - World Cup", Germany VS Curaçao | World Cup [Server 3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/544566/720p/chunks.m3u8?is_vip=false&token=b5ec9cea5849165b35f95d12a969d72de823219f&x-sign=291c265d38c82d2e4706c2265ee26940&x-time=1781462760
-
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Germany%0AVS%0ACura%C3%A7ao%0AWorld%20Cup&font=Oswald" group-title="SAWARID سواريد - World Cup", Germany VS Curaçao | World Cup [Server 4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/544566/720p/chunks.m3u8?is_vip=false&token=1781549196-Kv4cPTAAP5YTi-b5ec9cea5849165b35f95d12a969d72de823219f-3e79d812d44ca741037a74dc898045e7
-
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Germany%0AVS%0ACura%C3%A7ao%0AWorld%20Cup&font=Oswald" group-title="SAWARID سواريد - World Cup", Germany VS Curaçao | World Cup [Server 5]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781549196-Kv4cPTAAP5YTi-b5ec9cea5849165b35f95d12a969d72de823219f-4ccb0a6a3763b2578bcd2b6c537e3378
-
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Germany%0AVS%0ACura%C3%A7ao%0AWorld%20Cup&font=Oswald" group-title="SAWARID سواريد - World Cup", Germany VS Curaçao | World Cup [Server 6]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=b5ec9cea5849165b35f95d12a969d72de823219f&x-sign=5ad8d2442971e6abe44def21b59f5622&x-time=1781462760
-
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Germany%0AVS%0ACura%C3%A7ao%0AWorld%20Cup&font=Oswald" group-title="SAWARID سواريد - World Cup", Germany VS Curaçao | World Cup [Server 7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e6d/chunks.m3u8?is_vip=false&token=b5ec9cea5849165b35f95d12a969d72de823219f&x-sign=b2970669582ddb32222b9bd5b3b06134&x-time=1781462760
-
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Germany%0AVS%0ACura%C3%A7ao%0AWorld%20Cup&font=Oswald" group-title="SAWARID سواريد - World Cup", Germany VS Curaçao | World Cup [Server 8]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e6d/chunks.m3u8?is_vip=false&token=1781549197-Kv4cPTAAP5YTi-b5ec9cea5849165b35f95d12a969d72de823219f-3201e3403b093e7b1be8ef09bedfcf22
-
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Germany%0AVS%0ACura%C3%A7ao%0AWorld%20Cup&font=Oswald" group-title="SAWARID سواريد - World Cup", Germany VS Curaçao | World Cup [Server 9]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e6d-hd/chunks.m3u8?is_vip=false&token=b5ec9cea5849165b35f95d12a969d72de823219f&x-sign=2c401ce761db1757e5bb32afc8b2727b&x-time=1781462760
-
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Germany%0AVS%0ACura%C3%A7ao%0AWorld%20Cup&font=Oswald" group-title="SAWARID سواريد - World Cup", Germany VS Curaçao | World Cup [Server 10]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e6d-hd/chunks.m3u8?is_vip=false&token=1781549198-Kv4cPTAAP5YTi-b5ec9cea5849165b35f95d12a969d72de823219f-1266b1790f2ff156e22e1f7ce766c795
-
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Germany%0AVS%0ACura%C3%A7ao%0AWorld%20Cup&font=Oswald" group-title="SAWARID سواريد - World Cup", Germany VS Curaçao | World Cup [Server 11]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e6d-cnhd2/chunks.m3u8?is_vip=false&token=b5ec9cea5849165b35f95d12a969d72de823219f&x-sign=a64fb7e9038b32a5a5f1495a24fcbffb&x-time=1781462760
-
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Germany%0AVS%0ACura%C3%A7ao%0AWorld%20Cup&font=Oswald" group-title="SAWARID سواريد - World Cup", Germany VS Curaçao | World Cup [Server 12]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e6d-cnhd2/chunks.m3u8?is_vip=false&token=1781549198-Kv4cPTAAP5YTi-b5ec9cea5849165b35f95d12a969d72de823219f-1fa3e34b9874d55c12b69f8a07564058
-
-
-# 🆕 SAWARID سواريد - World Cup 👉 Updateded Done ✅✅✅✅✅✅
-
-
-# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
-
-
-# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Úrvalsdeild 🟢🟢🟢🟢🟢🟢
-
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Keflavik%0AVS%0AFH%20hafnarfjordur%0A%C3%9Arvalsdeild&font=Oswald" group-title="SAWARID سواريد - Úrvalsdeild", Keflavik VS FH hafnarfjordur | Úrvalsdeild [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e6f/chunks.m3u8?is_vip=false&token=b5ec9cea5849165b35f95d12a969d72de823219f&x-sign=3a15c09cd843226d7e0052c4fe18c2c2&x-time=1781462760
-
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Keflavik%0AVS%0AFH%20hafnarfjordur%0A%C3%9Arvalsdeild&font=Oswald" group-title="SAWARID سواريد - Úrvalsdeild", Keflavik VS FH hafnarfjordur | Úrvalsdeild [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e6f/chunks.m3u8?is_vip=false&token=1781549209-Kv4cPTAAP5YTi-b5ec9cea5849165b35f95d12a969d72de823219f-5b5f4ce3384b6824151cecdabc7f7ed0
-
-
-# 🆕 SAWARID سواريد - Úrvalsdeild 👉 Updateded Done ✅✅✅✅✅✅
+# 🆕 SAWARID سواريد - Serie C 👉 Updateded Done ✅✅✅✅✅✅
 
 
 # 🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡 Local Channel Updated  🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡
@@ -476,19 +380,19 @@ https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e6f/chu
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rytcs49Y/image.jpg" group-title="Live Event Sports", A Sports 
-#AUTO-UPDATED - A Sports ✅- 2026-06-15 00:53:40 🟡 - 🔄 - 🔴
+#AUTO-UPDATED - A Sports ✅- 2026-06-15 02:12:10 🟡 - 🔄 - 🔴
 https://tvsen6.aynaott.com/asports/index.m3u8?e=1779283785&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=356b906bf972b824782bb58c1ce0bb22
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QDHtZxg/image.jpg" group-title="Live Event Sports", PTV Sports
-#AUTO-UPDATED - PTV Sports ✅- 2026-06-15 00:53:40 🟡 - 🔄 - 🔴
+#AUTO-UPDATED - PTV Sports ✅- 2026-06-15 02:12:10 🟡 - 🔄 - 🔴
 https://tvsen5.aynaott.com/PtvSports/index.m3u8?e=1779283784&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=db1789e36c278bf538489fac263e0ffb
 https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/498.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DySZB4wf/image.jpg" group-title="Live Event Sports", Willow Sports
-#AUTO-UPDATED - Willow Sports ⛔ SKIPPED ⛔ - 2026-06-15 00:53:40 🟡 - 🔄 - 🔴
+#AUTO-UPDATED - Willow Sports ⛔ SKIPPED ⛔ - 2026-06-15 02:12:10 🟡 - 🔄 - 🔴
 https://tvsen5.aynaott.com/willowhd/index.m3u8
 # 🔴 Duplicate Link Found 🔴
 http://27.124.71.27/Willow_Extra/index.m3u8
