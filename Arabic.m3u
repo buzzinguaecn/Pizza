@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 08:35:20AM - 14-06-2026
-# Total Channel Found: 400 Channel
+# Update Time: 03:00:13PM - 14-06-2026
+# Total Channel Found: 401 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -30,7 +30,7 @@ https://sirometv.com@shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad6605
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PJYTfHi.png" group-title="Arabic-Saudia", 2M
-http://5.253.46.190:8000/play/a0e9/index.m3u8
+https://stream-lb.livemediama.com/2m-tnt/hls/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="Arabic-Saudia", 2M Monde
 https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
@@ -1191,6 +1191,9 @@ https://stream-lb.livemediama.com/arryadia-hd-02/hls/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mCnJzvvB/image-removebg-preview-4.png" group-title="Sports", Arryadia HD 3
 https://stream-lb.livemediama.com/arryadia-hd-03/hls/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="Sports", Arryadia HD TNT
+https://stream-lb.livemediama.com/arryadia-tnt/hls/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cDkIDIA.png" group-title="Sports", El-Heddaf TV
 https://live.elheddaftv.com:8081/elheddaf/index.mpd
