@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 10:54:32PM - 15-06-2026
-# Total Channel Found: 5484 Channel
+# Update Time: 02:43:56AM - 16-06-2026
+# Total Channel Found: 5486 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -1587,7 +1587,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa22a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YtaL4ro.jpg" group-title="Sports", JOJ SPORT
-https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd
+https://dash3.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QZzJw3M.jpg" group-title="Sports", MOTORVISION TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
@@ -16299,6 +16299,12 @@ https://indihuy.streamized.net/atm/DASH/mncnews/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_720wy4x6/landscape_carousel_xxhdpi.webp" group-title="Entertainment", MAX Streak
 https://indihuy.streamized.net/atm/DASH/maxstreak/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGlzsD5.png" group-title="PialaDunia 2026", RTB Go
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?id=1229
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/%C4%8CT_sport_logo.png" group-title="PialaDunia 2026", CT SPORT
+https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/960px-INews.png" group-title="NASIONAL", 23. INEWS
 https://cdnbal1.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-3277707030000000.mpd
