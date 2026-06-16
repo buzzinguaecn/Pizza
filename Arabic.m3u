@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 08:42:56AM - 16-06-2026
-# Total Channel Found: 401 Channel
+# Update Time: 04:52:09PM - 16-06-2026
+# Total Channel Found: 402 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -1149,6 +1149,9 @@ https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NKR8WFq.png" group-title="General", Elwatania TV
 https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qzApokm.png" group-title="General", Ishtar TV
+https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xPoycVY.png" group-title="General", Lana TV
 https://cdn.streamlane.tv/hls/ltv/master.m3u8
