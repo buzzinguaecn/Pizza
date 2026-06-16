@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 08:43:16AM - 16-06-2026
-# Total Channel Found: 445 Channel
+# Update Time: 04:52:28PM - 16-06-2026
+# Total Channel Found: 439 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -621,10 +621,10 @@ https://skylivetab-new.akamaized.net/hls/live/2038782/stcsd/index.m3u8
 http://49.113.179.174:4022/udp/238.125.2.142:5140
 
 #EXTINF:-1 tvg-id="SonySportsTen2.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png" group-title="Sports", Sony Sports Ten 2 HD
-https://sl.vodep39240327.workers.dev/channel/SONY+TEN+2+HD.m3u8
+http://103.229.254.25:7001/play/a02t/index.m3u8
 
 #EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" group-title="Sports", Sony Sports Ten 3 Hindi
-https://sl.vodep39240327.workers.dev/channel/SONY+TEN+3.m3u8
+http://103.229.254.25:7001/play/a09q/index.m3u8
 
 #EXTINF:-1 tvg-id="SonySportsTen5.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png" group-title="Sports", Sony Sports Ten 5
 http://103.99.249.139/sonyten3/index.m3u8
@@ -1254,24 +1254,6 @@ https://amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playl
 
 #EXTINF:-1 tvg-id="RallyTV.us@SD" tvg-logo="https://i.postimg.cc/WtLq2C7c/logo-Rally-Tv1.png" group-title="Sports", Rally TV
 https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
-
-#EXTINF:-1 tvg-id="SonySportsTen1.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png" group-title="Sports", Sony Sports Ten 1
-https://sl.vodep39240327.workers.dev/channel/SONY+TEN+1.m3u8
-
-#EXTINF:-1 tvg-id="SonySportsTen1.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png" group-title="Sports", Sony Sports Ten 1 HD
-https://sl.vodep39240327.workers.dev/channel/SONY+TEN+1+HD.m3u8
-
-#EXTINF:-1 tvg-id="SonySportsTen2.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png" group-title="Sports", Sony Sports Ten 2
-https://sl.vodep39240327.workers.dev/channel/SONY+TEN+2.m3u8
-
-#EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" group-title="Sports", Sony Sports Ten 3 Hindi HD
-https://sl.vodep39240327.workers.dev/channel/SONY+TEN+3+HD.m3u8
-
-#EXTINF:-1 tvg-id="SonySportsTen4.in@Tamil" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025T4PV.png?lock=720x540" group-title="Sports", Sony Sports Ten 4
-https://sl.vodep39240327.workers.dev/channel/SONY+TEN+4.m3u8
-
-#EXTINF:-1 tvg-id="SonySportsTen4.in@Telugu" tvg-logo="https://dtil.tmsimg.com/assets/s149166_ld_h15_aa.png?lock=720x540" group-title="Sports", Sony Sports Ten 4 Telugu
-https://sl.vodep39240327.workers.dev/channel/SONY+TEN+4+HD.m3u8
 
 #EXTINF:-1 tvg-id="Sport.uz@SD" tvg-logo="https://i.imgur.com/2WJE9CM.png" group-title="Sports", Sport
 https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
