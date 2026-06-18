@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 01:57:43AM - 18-06-2026
-# Total Channel Found: 465 Channel
+# Update Time: 08:36:51AM - 18-06-2026
+# Total Channel Found: 471 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -639,7 +639,7 @@ https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
 
 #EXTINF:-1 tvg-id="SportdigitalFUSSBALL.de@HD" tvg-logo="https://i.imgur.com/NDbWxqF.png" group-title="Sports", Sportdigital FUSSBALL HD
-https://live20.bozztv.com/akamaissh101/ssh101/sddd1hdde/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/sportdigtal1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sportitalia24.it@SD" tvg-logo="https://i.imgur.com/RSwnoLn.png" group-title="Sports", Sportitalia 24
 https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
@@ -1084,11 +1084,23 @@ https://nl1.nghk.ai/ArenaSport10HD/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSportAdrenalin.rs@SD" tvg-logo="" group-title="Sports", Arena Sport Adrenalin
 https://nl1.nghk.ai/SK3SRHD/index.m3u8
 
+#EXTINF:-1 tvg-id="ArenaSportPremium1BH.ba@HD" tvg-logo="https://imgur.com/csv6YsL" group-title="Sports", Arena Sport Premium 1 BH
+https://nl1.nghk.ai/ArenaPremium1BH/index.m3u8
+
+#EXTINF:-1 tvg-id="ArenaSportPremium2BH.ba@HD" tvg-logo="https://imgur.com/ztOmQ7P" group-title="Sports", Arena Sport Premium 2 BH
+https://nl1.nghk.ai/ArenaPremium2BH/index.m3u8
+
+#EXTINF:-1 tvg-id="ArenaSportPremium3BH.ba@HD" tvg-logo="https://i.imgur.com/gpqemLf.png" group-title="Sports", Arena Sport Premium 3 BH
+https://nl1.nghk.ai/ArenaPremium3BH/index.m3u8
+
 #EXTINF:-1 tvg-id="ArenaSportTenis.rs@SD" tvg-logo="" group-title="Sports", Arena Sport Tenis
 https://nl1.nghk.ai/SK4SRHD/index.m3u8
 
 #EXTINF:-1 tvg-id="Arryadia.ma@HD" tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="Sports", Arryadia
 https://stream-lb.livemediama.com/arryadia/hls/master.m3u8
+
+#EXTINF:-1 tvg-id="Arryadia.ma@SD" tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="Sports", Arryadia
+https://snrtworker.kharazbelaid.workers.dev/?id=arryadia.m3u8
 
 #EXTINF:-1 tvg-id="ArryadiaHD1.ma@HD" tvg-logo="https://i.ibb.co/fYNx6Fk1/image-removebg-preview-1.png" group-title="Sports", Arryadia HD 1
 https://stream-lb.livemediama.com/arryadia-hd-01/hls/master.m3u8
@@ -1102,11 +1114,17 @@ https://stream-lb.livemediama.com/arryadia-hd-03/hls/master.m3u8
 #EXTINF:-1 tvg-id="Arryadia.ma@HDTNT" tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="Sports", Arryadia HD TNT
 https://stream-lb.livemediama.com/arryadia-tnt/hls/master.m3u8
 
+#EXTINF:-1 tvg-id="beINSportsUSA.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="Sports", beIN Sports USA
+http://23.237.104.106:8080/USA_BEIN/index.m3u8
+
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Sports", beIN SPORTS XTRA
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanalPlusFoot.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png" group-title="Sports", Canal+ Foot
 https://test.946985.filegear-sg.me/proxy/ef3174f16d4557d2
+
+#EXTINF:-1 tvg-id="CanalPlusSport.fr@SD" tvg-logo="https://i.imgur.com/EOXnU15.png" group-title="Sports", Canal+ Sport
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="CazeTV.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png" group-title="Sports", CazeTV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
