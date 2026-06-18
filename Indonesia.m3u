@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 08:36:49AM - 18-06-2026
-# Total Channel Found: 5532 Channel
+# Update Time: 04:03:25PM - 18-06-2026
+# Total Channel Found: 5533 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -6411,7 +6411,7 @@ https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 http://103.66.62.83:8000/play/a00o/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/mentaritv.jpg" group-title="NASIONAL", 27.MENTARI TV
-http://103.170.33.11:9981/stream/channelid/517879230?profile=pass
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/gxJ8IA6_DfO4whXrxKB5Ji2xmnA=/1440x351/filters:quality(70)/vidio-web-prod-user/uploads/user/cover/88855732/HEADLINEPROFILTVONE1-f80315443eb2e0ec.jpg" group-title="NASIONAL", 19. TVOne
 https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&userid=lite&chname=tvOne
@@ -16347,6 +16347,9 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?i
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/%C4%8CT_sport_logo.png" group-title="PialaDunia 2026", CT SPORT
 https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-logo="https://vectorseek.com/wp-content/uploads/2023/11/TVRI-Televisi-Republik-Indonesia-2019-black-Logo-Vector.svg-.png" group-title="NASIONAL", 11.TVRI Nasional
+https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&userid=lite&chname=TVRI
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/960px-INews.png" group-title="NASIONAL", 23. INEWS
 https://cdnbal1.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-3277707030000000.mpd
