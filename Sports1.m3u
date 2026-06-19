@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 02:09:36AM - 19-06-2026
-# Total Channel Found: 471 Channel
+# Update Time: 08:52:56AM - 19-06-2026
+# Total Channel Found: 474 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -720,7 +720,7 @@ https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 https://tv.picta.cu/telerebelde/telerebelde_1.m3u8
 
 #EXTINF:-1 tvg-id="Teledeporte.es@SD" tvg-logo="https://i.ibb.co/0jxLdjnY/TDP.png" group-title="Sports", Teledeporte
-http://92.176.119.180:2095/play/a1f6
+https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
 
 #EXTINF:-1 tvg-id="TeletrakTV.cl@SD" tvg-logo="https://i.imgur.com/NoJvlig.png" group-title="Sports", Teletrak
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
@@ -1222,14 +1222,14 @@ https://aloula-redirect.vercel.app/10/playlist.m3u8
 #EXTINF:-1 tvg-id="KSASports3.sa@SD" tvg-logo="https://i.imgur.com/BXfCvez.png" group-title="Sports", KSA Sports 3
 https://aloula-redirect.vercel.app/16/playlist.m3u8
 
-#EXTINF:-1 tvg-id="L1Max.pe@SD" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Sports", L1 Max
-https://live20.bozztv.com/akamaissh101/ssh101/l1maxhd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="LaLigaHypermotion.es@SD" tvg-logo="" group-title="Sports", LaLiga Hypermotion
 http://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u8
 
 #EXTINF:-1 tvg-id="LaLigaTV.es@SD" tvg-logo="https://i.imgur.com/ilay5Jr.png" group-title="Sports", LaLiga TV
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTZID4SFOqZLZ81NguVP-JxM/m3u8
+
+#EXTINF:-1 tvg-id="MaxSport4.bg@SD" tvg-logo="https://i.imgur.com/7IxXX6f.png" group-title="Sports", Max Sport 4
+http://213.91.179.28:8000/play/a05n
 
 #EXTINF:-1 tvg-id="MAXSports.id@SD" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_1u20u1ok/landscape_carousel_xxhdpi.webp" http-referrer="maxstream.tv/tv-channels" group-title="Sports", MAX Sports
 https://indihuy.streamized.net/atm/DASH/useesport/manifest.mpd
@@ -1431,3 +1431,12 @@ http://190.60.40.34:8001/play/a0ef
 
 #EXTINF:-1 tvg-id="WinPlusFutbol.co@SD" tvg-logo="https://i.imgur.com/0UN87vB.png" group-title="Sports", Win+ Futbol
 http://190.60.40.34:8001/play/a02r
+
+#EXTINF:-1 tvg-id="ZiggoSport.nl@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png" group-title="Sports", Ziggo Sport
+http://86.87.15.10:8004/play/a02d/index.m3u8
+
+#EXTINF:-1 tvg-id="ZiggoSport2.nl@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png" group-title="Sports", Ziggo Sport 2
+http://86.87.15.10:8004/play/a02b/index.m3u8
+
+#EXTINF:-1 tvg-id="ZiggoSport3.nl@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png" group-title="Sports", Ziggo Sport 3
+http://86.87.15.10:8003/play/a02k/index.m3u8
