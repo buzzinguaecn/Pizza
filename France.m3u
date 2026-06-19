@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 02:09:18AM - 19-06-2026
-# Total Channel Found: 224 Channel
+# Update Time: 08:52:36AM - 19-06-2026
+# Total Channel Found: 227 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -532,6 +532,9 @@ https://jmp2.uk/plu-635659445b4c4700076d2ad1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FVDTJxW.png" group-title="Undefined", RFM TV
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/1038/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gUOXdjv.png" group-title="Undefined", like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Undefined",Syfy
+http://99.27.51.147:8080/SYFY/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5HcyMnW.png" group-title="Entertainment", Canal+
 http://151.80.18.177:86/Canal+_HD/index.m3u8
 
@@ -621,6 +624,12 @@ https://jmp2.uk/plu-60c3472a51a2050008dad272.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65cca3e2ec452d0008af3a65/colorLogoPNG_1751272826143.png" group-title="Movies", Ciné Western by Pluto TV
 https://jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y2zeLS3.jpeg" group-title="Movies", like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Cine+ Classic
+http://99.27.51.147/CineClassic/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MwFtbnR.jpeg" group-title="Movies", like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Cine+ Frisson
+http://99.27.51.147:8080/CineFrisson/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f98487036af340008da1e37/colorLogoPNG.png" group-title="Movies", Pluto TV Paranormal
 https://jmp2.uk/plu-5f8ed9461b35690007a0bc3a.m3u8
