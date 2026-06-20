@@ -32,7 +32,11 @@
 
 
 # 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", Dazn Direct(HD)
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", Win Sports (HD)
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", TVP Sport
 https://tunetv.onrender.com/proxy?url=https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
@@ -99,11 +103,7 @@ http://starhub.pro/live/farhat-3379/67897-913379/742611.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", Dazn Direct(HD)
-https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", Win Sports (HD)
-https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", TVP Sports (HD)
 https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
@@ -323,16 +323,16 @@ https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wBPvn8LL/TSN1-FIFA.jpg" group-title="FIFA 2026 - Canada", TSN 1
-https://airtel.rkdyiptv.workers.dev/live/258.m3u8
+#https://airtel.rkdyiptv.workers.dev/live/258.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8zyp2QMb/TSN2-FIFA.jpg" group-title="FIFA 2026 - Canada", TSN 2
-https://airtel.rkdyiptv.workers.dev/live/313.m3u8
+#https://airtel.rkdyiptv.workers.dev/live/313.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fR1Ft8NW/TSN3-FIFA.jpg" group-title="FIFA 2026 - Canada", TSN 3
-https://airtel.rkdyiptv.workers.dev/live/314.m3u8
+#https://airtel.rkdyiptv.workers.dev/live/314.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xj7KShyd/TSN4-FIFA.jpg" group-title="FIFA 2026 - Canada", TSN 4
-https://airtel.rkdyiptv.workers.dev/live/2451.m3u8
+#https://airtel.rkdyiptv.workers.dev/live/2451.m3u8
 
 
 
