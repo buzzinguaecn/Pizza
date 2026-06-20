@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 01:24:22AM - 20-06-2026
-# Total Channel Found: 474 Channel
+# Update Time: 08:14:07AM - 20-06-2026
+# Total Channel Found: 481 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -438,7 +438,7 @@ https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MSG.us@SD" tvg-logo="https://i.imgur.com/SEQFh0P.png" group-title="Sports", MSG
-https://tvpass.org/live/msg-madison-square-gardens/hd
+http://23.237.104.106:8080/USA_MSG/index.m3u8
 
 #EXTINF:-1 tvg-id="MSGPlus.us@SD" tvg-logo="https://i.imgur.com/7suDpSK.png" group-title="Sports", MSG Plus
 https://tvpass.org/live/msg-plus/hd
@@ -1000,6 +1000,9 @@ https://nl1.nghk.ai/AS1HRHD/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport1.rs@SD" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="Sports", Arena Sport 1
 https://nl1.nghk.ai/ArenaSport1HD/index.m3u8
 
+#EXTINF:-1 tvg-id="ArenaSport1.sk@SD" tvg-logo="https://i.imgur.com/2qf67zW.png" group-title="Sports", Arena Sport 1
+http://88.212.15.19/live/test_arenasport/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ArenaSport1Premium.rs@SD" tvg-logo="https://i.imgur.com/csv6YsL.png" group-title="Sports", Arena Sport 1 Premium
 https://nl1.nghk.ai/ArenaPremium1HD/index.m3u8
 
@@ -1011,6 +1014,9 @@ https://nl1.nghk.ai/AS2HRHD/index.m3u8
 
 #EXTINF:-1 tvg-id="ArenaSport2.rs@SD" tvg-logo="https://i.imgur.com/aqlECBj.png" group-title="Sports", Arena Sport 2
 https://nl1.nghk.ai/ArenaSport2HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ArenaSport2.sk@SD" tvg-logo="https://i.imgur.com/Yq3Jf19.png" group-title="Sports", Arena Sport 2
+http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ArenaSport2Premium.rs@SD" tvg-logo="https://i.imgur.com/ztOmQ7P.png" group-title="Sports", Arena Sport 2 Premium
 https://nl1.nghk.ai/ArenaPremium2HD/index.m3u8
@@ -1189,6 +1195,9 @@ https://live.elheddaftv.com:8081/elheddaf/index.mpd
 #EXTINF:-1 tvg-id="Equalympic.ua@SD" tvg-logo="https://i.imgur.com/ixSj4H7.png" group-title="Sports", Equalympic
 https://iptv.prosto.tv/ch215/index.m3u8
 
+#EXTINF:-1 tvg-id="ESPNU.us@SD" tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="Sports", ESPNU
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+
 #EXTINF:-1 tvg-id="FastFunBox.ru@SD" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/fastandfunbox-logo.png" group-title="Sports", Fast&FunBox
 https://iptv.prosto.tv/ch120/index.m3u8
 
@@ -1227,6 +1236,15 @@ http://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u
 
 #EXTINF:-1 tvg-id="LaLigaTV.es@SD" tvg-logo="https://i.imgur.com/ilay5Jr.png" group-title="Sports", LaLiga TV
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTZID4SFOqZLZ81NguVP-JxM/m3u8
+
+#EXTINF:-1 tvg-id="MaxSport1.bg@SD" tvg-logo="https://i.imgur.com/0ohnpql.png" group-title="Sports", Max Sport 1
+http://77.46.130.252:99/maxsport1
+
+#EXTINF:-1 tvg-id="MaxSport2.bg@SD" tvg-logo="https://i.imgur.com/33m1wPN.png" group-title="Sports", Max Sport 2
+http://77.46.130.252:99/maxsport2
+
+#EXTINF:-1 tvg-id="MaxSport3.bg@SD" tvg-logo="https://i.imgur.com/eGiGgZ2.png" group-title="Sports", Max Sport 3
+http://77.46.130.252:99/maxsport3
 
 #EXTINF:-1 tvg-id="MaxSport4.bg@SD" tvg-logo="https://i.imgur.com/7IxXX6f.png" group-title="Sports", Max Sport 4
 http://213.91.179.28:8000/play/a05n
@@ -1413,6 +1431,9 @@ https://stream.smashmalta.com:25463/live/webplayer/livestream/29.m3u8
 
 #EXTINF:-1 tvg-id="TyCSportsUSA.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Sports", TyC Sports USA
 http://45.170.130.224:8000/play/a020/index.m3u8
+
+#EXTINF:-1 tvg-id="USANetwork.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" group-title="Comedy;Movies;Series;Sports", USA Network
+http://185.246.209.113/DISCOVERYHD/index.m3u8
 
 #EXTINF:-1 tvg-id="VSportGolf.se@SD" tvg-logo="https://i.imgur.com/wCw8Pmz.png" group-title="Sports", V Sport Golf
 http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12077/index.m3u8
