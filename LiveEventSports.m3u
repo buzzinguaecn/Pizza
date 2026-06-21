@@ -53,34 +53,25 @@
 # 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Football 🟢🟢🟢🟢🟢🟢
 
 
-#EXTINF:-1 tvg-id="1489392" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ecuador_VS_Cura%C3%A7ao_World_Cup.jpg" group-title="SAWARID سواريد - Football", Ecuador vs Curaçao - World Cup [2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/North_Melbourne_VS_Richmond_Tigers_AFL_Premiership.jpg" group-title="SAWARID سواريد - Football", North Melbourne VS Richmond Tigers | AFL Premiership [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782093639-Kv4cPTAAP5YTi-26d788b2a6032ddd718dc0bd36d3d614260682df-83a9430690ef5935530de847e02247d7
-
-
-#EXTINF:-1 tvg-id="1489392" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ecuador_VS_Cura%C3%A7ao_World_Cup.jpg" group-title="SAWARID سواريد - Football", Ecuador vs Curaçao - World Cup [2]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=26d788b2a6032ddd718dc0bd36d3d614260682df&x-sign=fb510e5685e832b88eac545de20a0cf2&x-time=1782007200
-
-
-#EXTINF:-1 tvg-id="1489392" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ecuador_VS_Cura%C3%A7ao_World_Cup.jpg" group-title="SAWARID سواريد - Football", Ecuador vs Curaçao - World Cup [451]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=26d788b2a6032ddd718dc0bd36d3d614260682df&x-sign=bd478709d4424490d702ca63d132b9c1&x-time=1782007200
-
-
-#EXTINF:-1 tvg-id="1489392" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ecuador_VS_Cura%C3%A7ao_World_Cup.jpg" group-title="SAWARID سواريد - Football", Ecuador vs Curaçao - World Cup [451]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1782093641-Kv4cPTAAP5YTi-26d788b2a6032ddd718dc0bd36d3d614260682df-7fdf3eca92993b99e4acb868aeb575bf
+https://livecdn-bp-iptv.rumsport7.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=7d9362a9ea8c88a6104d67915ab72ce22326e513&x-sign=a3296f8253a3e4b2f0ae9cdc10f58be6&x-time=1782009960
 
 
 #EXTINF:-1 tvg-id="1629495249" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Carlton_Blues_VS_GWS_GIANTS_AFL_Premiership.jpg" group-title="SAWARID سواريد - Football", Carlton vs GWS GIANTS - Unknown League [151592]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=1782093647-Kv4cPTAAP5YTi-26d788b2a6032ddd718dc0bd36d3d614260682df-87a058c4d672266ba0c410d7a18e9784
+https://livecdn-tc-iptv.rumsport10.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=1782096329-Kv4cPTAAP5YTi-fc6d28860f2b7d07e4955a5ee01571d6fde82431-76aca7a4fcf0e1058f98ecc4b21a4ef6
 
 
 #EXTINF:-1 tvg-id="1629495249" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Carlton_Blues_VS_GWS_GIANTS_AFL_Premiership.jpg" group-title="SAWARID سواريد - Football", Carlton vs GWS GIANTS - Unknown League [151592]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=26d788b2a6032ddd718dc0bd36d3d614260682df&x-sign=2588606773e7a7dbd7ee3513e7c11871&x-time=1782007200
+https://livecdn-bp-iptv.rumsport7.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=fc6d28860f2b7d07e4955a5ee01571d6fde82431&x-sign=8991b910abfc547e45c887b08722a41a&x-time=1782009900
+
+
+#EXTINF:-1 tvg-id="1629493911" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/North_Melbourne_VS_Richmond_Tigers_AFL_Premiership.jpg" group-title="SAWARID سواريد - Football", North Melbourne vs Richmond Tigers - Unknown League [151592]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=fc6d28860f2b7d07e4955a5ee01571d6fde82431&x-sign=8991b910abfc547e45c887b08722a41a&x-time=1782009900
 
 
 # 🆕 SAWARID سواريد - Football 👉 Updateded Done ✅✅✅✅✅✅
@@ -95,29 +86,16 @@ https://livecdn-bp-iptv.rumsport7.live/live_abr/151592/720p/chunks.m3u8?is_vip=f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Carlton_Blues_VS_GWS_GIANTS_AFL_Premiership.jpg" group-title="SAWARID سواريد - Afl Premiership", Carlton Blues VS GWS GIANTS | AFL Premiership [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=1782093697-Kv4cPTAAP5YTi-532e19e6c593103975c30aee5e21fb33530c1e21-8765d9b5cf79c345a52fc431d033830a
+https://livecdn-tc-iptv.rumsport10.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=1782096398-Kv4cPTAAP5YTi-7d9362a9ea8c88a6104d67915ab72ce22326e513-3e00d8100fea77fbb0a894e31d3539b5
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Carlton_Blues_VS_GWS_GIANTS_AFL_Premiership.jpg" group-title="SAWARID سواريد - Afl Premiership", Carlton Blues VS GWS GIANTS | AFL Premiership [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=532e19e6c593103975c30aee5e21fb33530c1e21&x-sign=7f0e04f7379b4f8ee220999de3252740&x-time=1782007260
+https://livecdn-bp-iptv.rumsport7.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=7d9362a9ea8c88a6104d67915ab72ce22326e513&x-sign=a3296f8253a3e4b2f0ae9cdc10f58be6&x-time=1782009960
 
 
 # 🆕 SAWARID سواريد - Afl Premiership 👉 Updateded Done ✅✅✅✅✅✅
-
-
-# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
-
-
-# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Fight Sports 🟢🟢🟢🟢🟢🟢
-
-
-#EXTINF:-1 tvg-id="sonyliv-1090535172" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019660/1781677694238911_UFC_Fight_Night_Kape_vs_Horiguchi_landscape_thumbnail.jpg" group-title="SAWARID سواريد - Fight Sports",  UFC Fight Night - Kape vs Horiguchi |  UFC Fight Night - Kape vs Horiguchi - 21 Jun 2026
-https://dai.google.com/ssai/event/8v64bO0BSiWeXJxzHSUt7A/master.m3u8
-
-
-# 🆕 SAWARID سواريد - Fight Sports 👉 Updateded Done ✅✅✅✅✅✅
 
 
 # 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
@@ -133,23 +111,23 @@ https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/KAPE_VS_HORIGUCHI_UFC_FIGHT_NIGHT.jpg" group-title="SAWARID سواريد - Mma", KAPE VS HORIGUCHI | UFC FIGHT NIGHT [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/53768/720p/chunks.m3u8?is_vip=false&token=1782093692-Kv4cPTAAP5YTi-532e19e6c593103975c30aee5e21fb33530c1e21-0cfc9c80eaa33edf5c32c5d5ddead21c
+https://livecdn-tc-iptv.rumsport10.live/live_abr/53768/720p/chunks.m3u8?is_vip=false&token=1782096393-Kv4cPTAAP5YTi-7d9362a9ea8c88a6104d67915ab72ce22326e513-af2fdc8a19f528713fe82e4583e829fb
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/KAPE_VS_HORIGUCHI_UFC_FIGHT_NIGHT.jpg" group-title="SAWARID سواريد - Mma", KAPE VS HORIGUCHI | UFC FIGHT NIGHT [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/53768/720p/chunks.m3u8?is_vip=false&token=532e19e6c593103975c30aee5e21fb33530c1e21&x-sign=c5a67ca2397715f1a6511c6a9e851fd5&x-time=1782007260
+https://livecdn-bp-iptv.rumsport7.live/live_abr/53768/720p/chunks.m3u8?is_vip=false&token=7d9362a9ea8c88a6104d67915ab72ce22326e513&x-sign=7f2600fcc95d9c7459df295cef34b433&x-time=1782009960
 
 
 #EXTINF:-1 tvg-id="1629493909" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/KAPE_VS_HORIGUCHI_UFC_FIGHT_NIGHT.jpg" group-title="SAWARID سواريد - Mma", KAPE vs HORIGUCHI - UFC FIGHT NIGHT [53768]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/53768/720p/chunks.m3u8?is_vip=false&token=1782093653-Kv4cPTAAP5YTi-26d788b2a6032ddd718dc0bd36d3d614260682df-c10385dabebe7992d1f8e64ecb5fd3b2
+https://livecdn-tc-iptv.rumsport10.live/live_abr/53768/720p/chunks.m3u8?is_vip=false&token=1782096335-Kv4cPTAAP5YTi-fc6d28860f2b7d07e4955a5ee01571d6fde82431-6ef03f3fce95c709e421aa03f065b0c9
 
 
 #EXTINF:-1 tvg-id="1629493909" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/KAPE_VS_HORIGUCHI_UFC_FIGHT_NIGHT.jpg" group-title="SAWARID سواريد - Mma", KAPE vs HORIGUCHI - UFC FIGHT NIGHT [53768]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/53768/720p/chunks.m3u8?is_vip=false&token=26d788b2a6032ddd718dc0bd36d3d614260682df&x-sign=ea0646b0087596b1a43aebb23fe06e26&x-time=1782007200
+https://livecdn-bp-iptv.rumsport7.live/live_abr/53768/720p/chunks.m3u8?is_vip=false&token=fc6d28860f2b7d07e4955a5ee01571d6fde82431&x-sign=12a3bbaf6b3933851fc1c742b73075f2&x-time=1782009900
 
 
 # 🆕 SAWARID سواريد - Mma 👉 Updateded Done ✅✅✅✅✅✅
@@ -164,23 +142,23 @@ https://livecdn-bp-iptv.rumsport7.live/live_abr/53768/720p/chunks.m3u8?is_vip=fa
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hurricanes_Poua_VS_Matat%C5%AB_Super_Rugby_Aupiki.jpg" group-title="SAWARID سواريد - Rugby", Hurricanes Poua VS Matatū | Super Rugby Aupiki [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/17/chunks.m3u8?is_vip=false&token=1782093701-Kv4cPTAAP5YTi-532e19e6c593103975c30aee5e21fb33530c1e21-95ff783351c52226c394afde2cbcbadb
+https://livecdn-tc-livestream.rumsport10.live/stream/17/chunks.m3u8?is_vip=false&token=1782096403-Kv4cPTAAP5YTi-7d9362a9ea8c88a6104d67915ab72ce22326e513-b8466971ed29c44962419e866392939f
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hurricanes_Poua_VS_Matat%C5%AB_Super_Rugby_Aupiki.jpg" group-title="SAWARID سواريد - Rugby", Hurricanes Poua VS Matatū | Super Rugby Aupiki [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&token=532e19e6c593103975c30aee5e21fb33530c1e21&x-sign=343eaf3d37a4f4f1e80ff0a4030a1abb&x-time=1782007260
+https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&token=7d9362a9ea8c88a6104d67915ab72ce22326e513&x-sign=71a249d37b7c4ea361153b64741c8047&x-time=1782009960
 
 
 #EXTINF:-1 tvg-id="1629493910" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hurricanes_Poua_VS_Matat%C5%AB_Super_Rugby_Aupiki.jpg" group-title="SAWARID سواريد - Rugby", Hurricanes Poua vs Matatū - Super Rugby Aupiki [17]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/17/chunks.m3u8?is_vip=false&token=1782093659-Kv4cPTAAP5YTi-26d788b2a6032ddd718dc0bd36d3d614260682df-15ecc0b009ddef979de41fe5efd8cf11
+https://livecdn-tc-livestream.rumsport10.live/stream/17/chunks.m3u8?is_vip=false&token=1782096340-Kv4cPTAAP5YTi-fc6d28860f2b7d07e4955a5ee01571d6fde82431-43170a9fbd5047733a188ee7eb6a474e
 
 
 #EXTINF:-1 tvg-id="1629493910" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hurricanes_Poua_VS_Matat%C5%AB_Super_Rugby_Aupiki.jpg" group-title="SAWARID سواريد - Rugby", Hurricanes Poua vs Matatū - Super Rugby Aupiki [17]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&token=26d788b2a6032ddd718dc0bd36d3d614260682df&x-sign=e24be68e89abb0ef32360e82c6bdca13&x-time=1782007200
+https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&token=fc6d28860f2b7d07e4955a5ee01571d6fde82431&x-sign=fcebc69855a91ecfa50cc840428f2685&x-time=1782009900
 
 
 # 🆕 SAWARID سواريد - Rugby 👉 Updateded Done ✅✅✅✅✅✅
@@ -202,7 +180,7 @@ https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rytcs49Y/image.jpg" group-title="Live Event Sports", A Sports 
-#AUTO-UPDATED - A Sports ✅- 2026-06-21 08:12:43 🟡 - 🔄 - 🔴
+#AUTO-UPDATED - A Sports ✅- 2026-06-21 08:55:44 🟡 - 🔄 - 🔴
 https://tvsen6.aynaott.com/asports/index.m3u8?e=1779283785&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=356b906bf972b824782bb58c1ce0bb22
 
 
@@ -210,7 +188,7 @@ https://tvsen6.aynaott.com/asports/index.m3u8?e=1779283785&u=78be6644-0a65-48ec-
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DySZB4wf/image.jpg" group-title="Live Event Sports", Willow Sports
-#AUTO-UPDATED - Willow Sports ⛔ SKIPPED ⛔ - 2026-06-21 08:12:43 🟡 - 🔄 - 🔴
+#AUTO-UPDATED - Willow Sports ⛔ SKIPPED ⛔ - 2026-06-21 08:55:44 🟡 - 🔄 - 🔴
 https://tvsen5.aynaott.com/willowhd/index.m3u8
 http://27.124.71.27/Willow_Extra/index.m3u8
 # 🔴 Duplicate Link Found 🔴
