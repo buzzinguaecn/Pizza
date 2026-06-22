@@ -40,6 +40,10 @@ https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
 
 
 # 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", Fox (HD)
+http://84.17.50.102/fox/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", Dazn Direct(HD)
 https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 
@@ -125,8 +129,6 @@ http://starhub.pro/live/farhat-3379/67897-913379/742611.ts
 #https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", Fox (HD)
-http://84.17.50.102/fox/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", Zee Bangla Sonar (AQ)
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
@@ -143,9 +145,9 @@ https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", Beain 1(HD)
-http://starhub.pro/live/farhat-3379/67897-913379/744523.ts
+#http://starhub.pro/live/farhat-3379/67897-913379/744523.ts
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
+#http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", Beain 2(HD)
 http://starhub.pro/live/farhat-3379/67897-913379/744524.ts
@@ -154,7 +156,7 @@ http://starhub.pro/live/farhat-3379/67897-913379/744524.ts
 http://145.239.5.177/559/mpegts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", Beain 3(HD)
-http://starhub.pro/live/farhat-3379/67897-913379/744526.ts
+#http://starhub.pro/live/farhat-3379/67897-913379/744526.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", Beain 5(HD)
 http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
