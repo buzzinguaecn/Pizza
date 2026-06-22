@@ -1,0 +1,1092 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <meta 
+        name="viewport" 
+        content="width=device-width, initial-scale=1.0"
+    >
+    <title>Sawarid Web Player</title>
+    
+    <!-- Shaka Player CSS এবং লাইব্রেরি স্ক্রিপ্টসমূহ -->
+    <script 
+        src="https://ajax.googleapis.com/ajax/libs/shaka-player/4.3.5/shaka-player.compiled.js"
+    ></script>
+    <link 
+        rel="stylesheet" 
+        href="https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@400;600;700&display=swap"
+    >
+
+    <style>
+        /* CSS রিসেট এবং গ্লোবাল স্টাইল */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Hind Siliguri', sans-serif;
+        }
+
+        body {
+            background-color: #0d0d0d;
+            color: #ffffff;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+            overflow-x: hidden;
+        }
+
+        header {
+            background-color: #141414;
+            padding: 15px 20px;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            border-bottom: 1px solid #222;
+        }
+
+        .header-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        h1 {
+            font-size: 20px;
+            color: #e50914;
+            font-weight: 700;
+        }
+
+        .playlist-input-container {
+            display: flex;
+            gap: 10px;
+            width: 100%;
+        }
+
+        input[type="text"] {
+            flex: 1;
+            padding: 10px;
+            background-color: #222;
+            border: 1px solid #333;
+            color: #fff;
+            border-radius: 6px;
+            outline: none;
+        }
+
+        button.load-btn {
+            background-color: #e50914;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: background 0.2s;
+        }
+
+        button.load-btn:hover {
+            background-color: #b80710;
+        }
+
+        /* মেইন লেআউট গ্রিড (মোবাইল ও পিসির জন্য রেসপনসিভ) */
+        .main-container {
+            display: grid;
+            grid-template-columns: 1.8fr 1fr;
+            flex: 1;
+            height: calc(100vh - 120px);
+        }
+
+        @media (max-width: 900px) {
+            .main-container {
+                grid-template-columns: 1fr;
+                height: auto;
+            }
+        }
+
+        /* ভিডিও প্লেয়ার এরিয়া */
+        .player-section {
+            background-color: #000;
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .video-wrapper {
+            position: relative;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        video {
+            width: 100%;
+            height: 100%;
+            background-color: #000;
+            object-fit: contain;
+        }
+
+        /* ফুলস্ক্রিনে ফিল-স্ক্রিন ইফেক্ট */
+        video.filled-screen {
+            object-fit: fill !important;
+        }
+
+        /* কাস্টম পোস্টার ওভারলে */
+        .player-poster {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: #111;
+            background-size: cover;
+            background-position: center;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            z-index: 5;
+            transition: opacity 0.8s ease;
+        }
+
+        .player-poster.fade-out {
+            opacity: 0;
+            pointer-events: none;
+        }
+
+        .poster-content {
+            text-align: center;
+        }
+
+        .poster-content img {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            margin-bottom: 15px;
+        }
+
+        /* কাস্টম কন্ট্রোল বার */
+        .custom-controls {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: linear-gradient(transparent, rgba(0,0,0,0.9));
+            padding: 15px;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            z-index: 10;
+            opacity: 0;
+            transition: opacity 0.3s;
+        }
+
+        .video-wrapper:hover .custom-controls {
+            opacity: 1;
+        }
+
+        .progress-bar-container {
+            width: 100%;
+            height: 5px;
+            background-color: rgba(255,255,255,0.3);
+            border-radius: 3px;
+            cursor: pointer;
+            position: relative;
+        }
+
+        .progress-bar-fill {
+            height: 100%;
+            background-color: #e50914;
+            width: 0%;
+            border-radius: 3px;
+        }
+
+        .controls-buttons {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .controls-left, .controls-right {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .control-btn {
+            background: none;
+            border: none;
+            color: #fff;
+            cursor: pointer;
+            font-size: 16px;
+            outline: none;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .control-btn svg {
+            width: 24px;
+            height: 24px;
+            fill: currentColor;
+        }
+
+        /* লাইভ সিগন্যাল ব্যাজ */
+        .live-badge-container {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .live-dot {
+            width: 10px;
+            height: 10px;
+            background-color: #888;
+            border-radius: 50%;
+            transition: background-color 0.3s;
+        }
+
+        .live-dot.active {
+            background-color: #e50914;
+            box-shadow: 0 0 8px #e50914;
+        }
+
+        .live-text {
+            font-size: 12px;
+            font-weight: 700;
+            color: #aaa;
+        }
+
+        .live-text.active {
+            color: #fff;
+        }
+
+        /* সেটিংস পপআপ মেনু */
+        .settings-menu {
+            position: absolute;
+            bottom: 60px;
+            right: 15px;
+            background-color: rgba(20, 20, 20, 0.95);
+            border: 1px solid #333;
+            border-radius: 8px;
+            padding: 10px;
+            display: none;
+            flex-direction: column;
+            gap: 5px;
+            min-width: 150px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.5);
+            z-index: 15;
+        }
+
+        .settings-menu.show {
+            display: flex;
+        }
+
+        .settings-option {
+            padding: 8px;
+            font-size: 13px;
+            cursor: pointer;
+            border-radius: 4px;
+            transition: background 0.2s;
+            text-align: left;
+        }
+
+        .settings-option:hover {
+            background-color: #e50914;
+        }
+
+        /* চ্যানেল লিস্ট সেকশন */
+        .channels-section {
+            background-color: #141414;
+            border-left: 1px solid #222;
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+        }
+
+        @media (max-width: 900px) {
+            .channels-section {
+                border-left: none;
+                border-top: 1px solid #222;
+                height: 500px;
+            }
+        }
+
+        .section-title {
+            padding: 15px;
+            font-size: 16px;
+            font-weight: 700;
+            border-bottom: 1px solid #222;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .channel-grid {
+            padding: 15px;
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+            gap: 12px;
+            overflow-y: auto;
+            flex: 1;
+        }
+
+        /* চ্যানেল কার্ড ডিজাইন */
+        .channel-card {
+            background-color: #1f1f1f;
+            border-radius: 8px;
+            padding: 10px;
+            text-align: center;
+            cursor: pointer;
+            transition: transform 0.2s, background-color 0.2s;
+            border: 1px solid transparent;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .channel-card:hover {
+            background-color: #282828;
+            transform: translateY(-3px);
+        }
+
+        .channel-card.active {
+            border-color: #e50914;
+            background-color: #221214;
+        }
+
+        .channel-card img {
+            width: 55px;
+            height: 55px;
+            border-radius: 50%;
+            object-fit: cover;
+            background-color: #0a0a0a;
+            border: 2px solid #333;
+        }
+
+        .channel-card.active img {
+            border-color: #e50914;
+        }
+
+        .channel-name {
+            font-size: 11px;
+            font-weight: 600;
+            color: #eee;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            overflow: hidden;
+            width: 100%;
+        }
+
+        /* সুইচার কন্টেইনার */
+        .toggle-container {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 12px;
+        }
+
+        /* প্রক্সি অন/অফ সুইচ */
+        .switch {
+            position: relative;
+            display: inline-block;
+            width: 34px;
+            height: 20px;
+        }
+
+        .switch input {
+            opacity: 0;
+            width: 0;
+            height: 0;
+        }
+
+        .slider {
+            position: absolute;
+            cursor: pointer;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: #333;
+            transition: .4s;
+            border-radius: 20px;
+        }
+
+        .slider:before {
+            position: absolute;
+            content: "";
+            height: 14px;
+            width: 14px;
+            left: 3px;
+            bottom: 3px;
+            background-color: white;
+            transition: .4s;
+            border-radius: 50%;
+        }
+
+        input:checked + .slider {
+            background-color: #e50914;
+        }
+
+        input:checked + .slider:before {
+            transform: translateX(14px);
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="header-top">
+            <h1>SAWARID سواريد Live Player</h1>
+            <div class="toggle-container">
+                <span>CORS Proxy</span>
+                <label class="switch">
+                    <input 
+                        type="checkbox" 
+                        id="proxyToggle"
+                    >
+                    <span class="slider"></span>
+                </label>
+            </div>
+        </div>
+        <div class="playlist-input-container">
+            <input 
+                type="text" 
+                id="m3uUrlInput" 
+                placeholder="M3U প্লেলিস্ট URL লিখুন এখানে..."
+                value="https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/FIFA2026.m3u"
+            >
+            <button 
+                class="load-btn" 
+                onclick="loadPlaylistFromInput()"
+            >
+                লোড করুন
+            </button>
+        </div>
+    </header>
+
+    <div class="main-container">
+        
+        <!-- প্লেয়ার এরিয়া -->
+        <div class="player-section">
+            <div class="video-wrapper" id="videoWrapper">
+                
+                <!-- কাস্টম পোস্টার ওভারলে -->
+                <div class="player-poster" id="playerPoster">
+                    <div class="poster-content">
+                        <img 
+                            id="posterLogo" 
+                            src="https://placehold.co/100x100/111111/e50914?text=S" 
+                            alt="Logo"
+                        >
+                        <h2 id="posterTitle">স্ট্রিমিং শুরু করতে চ্যানেল নির্বাচন করুন</h2>
+                    </div>
+                </div>
+
+                <video 
+                    id="videoPlayer" 
+                    autoplay
+                ></video>
+
+                <!-- কাস্টম কন্ট্রোল বার -->
+                <div class="custom-controls">
+                    <div 
+                        class="progress-bar-container" 
+                        id="progressBarContainer"
+                    >
+                        <div 
+                            class="progress-bar-fill" 
+                            id="progressBarFill"
+                        ></div>
+                    </div>
+
+                    <div class="controls-buttons">
+                        <div class="controls-left">
+                            
+                            <!-- Play / Pause বাটন -->
+                            <button 
+                                class="control-btn" 
+                                id="playPauseBtn"
+                            >
+                                <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+                            </button>
+
+                            <!-- Mute / Unmute বাটন -->
+                            <button 
+                                class="control-btn" 
+                                id="muteBtn"
+                            >
+                                <svg viewBox="0 0 24 24"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/></svg>
+                            </button>
+
+                            <!-- লাইভ ইন্ডিকেটর ব্যাজ -->
+                            <div class="live-badge-container">
+                                <span class="live-dot" id="liveDot"></span>
+                                <span class="live-text" id="liveText">LIVE</span>
+                            </div>
+                        </div>
+
+                        <div class="controls-right">
+                            
+                            <!-- Closed Caption (CC) বাটন -->
+                            <button 
+                                class="control-btn" 
+                                id="ccBtn"
+                            >
+                                <svg viewBox="0 0 24 24"><path d="M19 4H5c-1.11 0-2 .9-2 2v12c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm-9 7H8.5V10.5h-2v3h2V13H10v1.5c0 .83-.67 1.5-1.5 1.5h-3c-.83 0-1.5-.67-1.5-1.5v-4c0-.83.67-1.5 1.5-1.5h3c.83 0 1.5.67 1.5 1.5V11zm7 0h-1.5v-.5h-2v3h2V13H17v1.5c0 .83-.67 1.5-1.5 1.5h-3c-.83 0-1.5-.67-1.5-1.5v-4c0-.83.67-1.5 1.5-1.5h3c.83 0 1.5.67 1.5 1.5V11z"/></svg>
+                            </button>
+
+                            <!-- Picture in Picture (PiP) বাটন -->
+                            <button 
+                                class="control-btn" 
+                                id="pipBtn"
+                            >
+                                <svg viewBox="0 0 24 24"><path d="M19 11h-8v6h8v-6zm4 8V4.98C23 3.88 22.1 3 21 3H3c-1.1 0-2 .88-2 1.98V19c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2zm-2 .02H3V4.97h18v14.05z"/></svg>
+                            </button>
+
+                            <!-- কোয়ালিটি সেটিংস বাটন -->
+                            <button 
+                                class="control-btn" 
+                                id="settingsBtn"
+                            >
+                                <svg viewBox="0 0 24 24"><path d="M19.14 12.94c.04-.3.06-.61.06-.94 0-.32-.02-.64-.07-.94l2.03-1.58c.18-.14.23-.41.12-.61l-1.92-3.32c-.12-.22-.37-.29-.59-.22l-2.39.96c-.5-.38-1.03-.7-1.62-.94l-.36-2.54c-.04-.24-.24-.41-.48-.41h-3.84c-.24 0-.43.17-.47.41l-.36 2.54c-.59.24-1.13.57-1.62.94l-2.39-.96c-.22-.08-.47 0-.59.22L2.74 8.87c-.12.21-.08.47.12.61l2.03 1.58c-.05.3-.09.63-.09.94s.02.64.07.94l-2.03 1.58c-.18.14-.23.41-.12.61l1.92 3.32c.12.22.37.29.59.22l2.39-.96c.5.38 1.03.7 1.62.94l.36 2.54c.05.24.24.41.48.41h3.84c.24 0 .44-.17.47-.41l.36-2.54c.59-.24 1.13-.56 1.62-.94l2.39.96c.22.08.47 0 .59-.22l1.92-3.32c.12-.22.07-.47-.12-.61l-2.01-1.58zM12 15.6c-1.98 0-3.6-1.62-3.6-3.6s1.62-3.6 3.6-3.6 3.6 1.62 3.6 3.6-1.62 3.6-3.6 3.6z"/></svg>
+                            </button>
+
+                            <!-- Fullscreen বাটন -->
+                            <button 
+                                class="control-btn" 
+                                id="fullscreenBtn"
+                            >
+                                <svg viewBox="0 0 24 24"><path d="M7 14H5v5h5v-2H7v-3zm-2-4h2V7h3V5H5v5zm12 7h-3v2h5v-5h-2v3zM14 5v2h3v3h2V5h-5z"/></svg>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- সেটিংস মেনু (কোয়ালিটি সিলেক্টর পপআপ) -->
+                <div class="settings-menu" id="settingsMenu">
+                    <div style="font-weight: bold; font-size: 11px; padding: 5px; color: #888;">ভিডিও কোয়ালিটি</div>
+                    <div id="qualityTrackList"></div>
+                </div>
+
+            </div>
+        </div>
+
+        <!-- চ্যানেল লিস্ট প্যানেল -->
+        <div class="channels-section">
+            <div class="section-title">
+                <span>চ্যানেল তালিকা</span>
+                <span 
+                    id="channelCount" 
+                    style="font-size: 12px; color: #888;"
+                >
+                    ০টি চ্যানেল
+                </span>
+            </div>
+            <div class="channel-grid" id="channelGrid">
+                <!-- জাভাস্ক্রিপ্ট দ্বারা চ্যানেল কার্ডগুলো এখানে যুক্ত হবে -->
+            </div>
+        </div>
+
+    </div>
+
+    <!-- ======================================================= -->
+    <!-- এখান থেকে শুরু আমাদের স্ট্রিমিং এর সকল প্রকার কাজ।          -->
+    <!-- এখানে আমরা ক্লিয়ার কী, drm, dash,....  এগুলার কাজ করেছি      -->
+    <!-- ======================================================= -->
+    <script>
+        let playerInstance = null;
+        let shakaPlayer = null;
+        let channelsData = [];
+        let activeChannelIndex = -1;
+
+        // ফ্রি পাবলিক CORS প্রক্সি (যা ব্রাউজার সিকিউরিটি বাইপাস করতে সাহায্য করবে)
+        const corsProxyUrl = "https://cors-anywhere.herokuapp.com/";
+
+        document.addEventListener("DOMContentLoaded", () => {
+            initApp();
+        });
+
+        // প্লেয়ার এবং ইভেন্ট হ্যান্ডলার ইনিশিয়েট করার মেথড
+        async function initApp() {
+            shaka.polyfill.installAll();
+            
+            if (shaka.Player.isBrowserSupported()) {
+                initPlayer();
+                loadDefaultPlaylist();
+            } else {
+                alert("আপনার ব্রাউজারটি Shaka Player সাপোর্ট করে না!");
+            }
+
+            setupCustomUIControls();
+        }
+
+        // Shaka Player ইঞ্জিন কনফিগারেশন
+        function initPlayer() {
+            const video = document.getElementById("videoPlayer");
+            shakaPlayer = new shaka.Player(video);
+            playerInstance = shakaPlayer;
+
+            // এরর লিসেনার রেজিস্ট্রেশন
+            shakaPlayer.addEventListener("error", onPlayerError);
+
+            // স্ট্রিমিং বাফারিং অপ্টিমাইজেশন (লো নেটওয়ার্কেও দ্রুত রেন্ডার হওয়ার জন্য)
+            shakaPlayer.configure({
+                streaming: {
+                    bufferingGoal: 10,
+                    rebufferingGoal: 2,
+                    bufferBehind: 15
+                }
+            });
+        }
+
+        // ডিফল্ট প্লেলিস্ট স্বয়ংক্রিয়ভাবে লোড করার মেথড
+        function loadDefaultPlaylist() {
+            const defaultUrl = document.getElementById("m3uUrlInput").value;
+            fetchAndParsePlaylist(defaultUrl);
+        }
+
+        function loadPlaylistFromInput() {
+            const url = document.getElementById("m3uUrlInput").value.trim();
+            if (url) {
+                fetchAndParsePlaylist(url);
+            }
+        }
+
+        // M3U প্লেলিস্ট ডাউনলোড এবং পার্সিং লজিক
+        async function fetchAndParsePlaylist(url) {
+            try {
+                const response = await fetch(url);
+                const text = await response.text();
+                parseM3UPlaylist(text);
+            } catch (error) {
+                console.error("M3U ডাউনলোড করতে ব্যর্থ হয়েছে:", error);
+                
+                // যদি গিটহাব ডিরেক্ট CORS ব্লকিং দেয় তবে প্রক্সি দিয়ে চেষ্টার ফলব্যাক
+                try {
+                    const proxyResponse = await fetch(corsProxyUrl + url);
+                    const proxyText = await proxyResponse.text();
+                    parseM3UPlaylist(proxyText);
+                } catch (e) {
+                    alert("প্লেলিস্ট লোড করা যায়নি। CORS পলিসি ব্লক করেছে।");
+                }
+            }
+        }
+
+        // =================================================================
+        // এখনে ts, drm এর কাজ করেছি, এখন থেকে ওয়েব প্লেয়ারে চলবে সব লিংক
+        // =================================================================
+        function parseM3UPlaylist(content) {
+            const lines = content.split("\n");
+            channelsData = [];
+
+            let currentTitle = "Unknown Channel";
+            let currentLogo = "";
+            let currentGroup = "";
+            let currentDrmScheme = "";
+            let currentDrmLicenseUrl = "";
+            let currentUrls = [];
+
+            // একাধিক ব্যাকআপ লিংক সংবলিত চ্যানেল সেভ করার সাব-লজিক (অ্যান্ড্রয়েড অ্যাপের অনুরূপ)
+            function saveChannelBlock() {
+                if (currentUrls.length > 0) {
+                    if (currentUrls.length === 1) {
+                        channelsData.push({
+                            title: currentTitle,
+                            url: currentUrls[0],
+                            logo: currentLogo,
+                            group: currentGroup,
+                            drmScheme: currentDrmScheme,
+                            drmLicenseUrl: currentDrmLicenseUrl
+                        });
+                    } else {
+                        currentUrls.forEach((url, idx) => {
+                            channelsData.push({
+                                title: `${currentTitle} ${idx + 1}`,
+                                url: url,
+                                logo: currentLogo,
+                                group: currentGroup,
+                                drmScheme: currentDrmScheme,
+                                drmLicenseUrl: currentDrmLicenseUrl
+                            });
+                        });
+                    }
+                    currentUrls = [];
+                    currentDrmScheme = "";
+                    currentDrmLicenseUrl = "";
+                    currentTitle = "Unknown Channel";
+                    currentLogo = "";
+                    currentGroup = "";
+                }
+            }
+
+            for (let i = 0; i < lines.length; i++) {
+                const line = lines[i].trim();
+                if (!line) {
+                    continue;
+                }
+
+                if (line.startsWith("#EXTINF")) {
+                    saveChannelBlock();
+
+                    const logoMatch = line.match(/tvg-logo="([^"]+)"/i);
+                    currentLogo = logoMatch ? logoMatch[1] : "";
+
+                    const groupMatch = line.match(/group-title="([^"]+)"/i);
+                    currentGroup = groupMatch ? groupMatch[1] : "";
+
+                    currentTitle = line.substring(line.lastIndexOf(",") + 1).trim();
+                } 
+                else if (line.startsWith("#KODIPROP:inputstream.adaptive.license_type", i)) {
+                    if (currentUrls.length > 0) {
+                        saveChannelBlock();
+                    }
+                    currentDrmScheme = line.substring(line.indexOf("=") + 1).trim().toLowerCase();
+                } 
+                else if (line.startsWith("#KODIPROP:inputstream.adaptive.license_key", i)) {
+                    if (currentUrls.length > 0) {
+                        saveChannelBlock();
+                    }
+                    currentDrmLicenseUrl = line.substring(line.indexOf("=") + 1).trim();
+                } 
+                else if (!line.startsWith("#")) {
+                    const isUriValid = line.startsWith("http://") || 
+                                     line.startsWith("https://") || 
+                                     line.startsWith("rtmp://") || 
+                                     line.startsWith("rtsp://");
+                    if (isUriValid) {
+                        currentUrls.push(line);
+                    }
+                }
+            }
+            saveChannelBlock(); // শেষ ব্লক সেভ করা হচ্ছে
+
+            renderChannelsGrid();
+
+            // স্বয়ংক্রিয়ভাবে প্রথম চ্যানেলটি প্লে করার নিয়ম
+            if (channelsData.length > 0) {
+                playChannelAt(0);
+            }
+        }
+
+        // ইউজার ইন্টারফেসে চ্যানেল গ্রিড রেন্ডার করার মেথড
+        function renderChannelsGrid() {
+            const grid = document.getElementById("channelGrid");
+            const countBadge = document.getElementById("channelCount");
+            grid.innerHTML = "";
+            
+            countBadge.innerText = `${channelsData.length}টি চ্যানেল`;
+
+            channelsData.forEach((channel, idx) => {
+                const card = document.createElement("div");
+                card.className = "channel-card";
+                if (idx === activeChannelIndex) {
+                    card.classList.add("active");
+                }
+
+                const fallbackLogo = `https://placehold.co/55x55/111111/e50914?text=${channel.title.charAt(0)}`;
+                const logoUrl = channel.logo ? channel.logo : fallbackLogo;
+
+                card.innerHTML = `
+                    <img src="${logoUrl}" onerror="this.src='${fallbackLogo}'" alt="logo">
+                    <div class="channel-name">${channel.title}</div>
+                `;
+
+                card.onclick = () => {
+                    playChannelAt(idx);
+                };
+
+                grid.appendChild(card);
+            });
+        }
+
+        // নির্বাচিত চ্যানেল লোড এবং প্লে করার কোর লজিক
+        async function playChannelAt(index) {
+            if (index < 0 || index >= channelsData.length) {
+                return;
+            }
+
+            activeChannelIndex = index;
+
+            // অ্যাক্টিভ কার্ডের ডিজাইন আপডেট
+            const cards = document.querySelectorAll(".channel-card");
+            cards.forEach((card, idx) => {
+                if (idx === index) {
+                    card.classList.add("active");
+                } else {
+                    card.classList.remove("active");
+                }
+            });
+
+            const channel = channelsData[index];
+            let streamUrl = channel.url;
+
+            // প্রক্সি এনাবল করা থাকলে লিংকের শুরুতে প্রক্সি যুক্ত হবে
+            const isProxyEnabled = document.getElementById("proxyToggle").checked;
+            if (isProxyEnabled && streamUrl.startsWith("http")) {
+                streamUrl = corsProxyUrl + streamUrl;
+            }
+
+            // পোস্টার স্ক্রিনে নাম এবং লোগো অ্যাসাইন করা
+            document.getElementById("posterTitle").innerText = `লোড হচ্ছে: ${channel.title}...`;
+            if (channel.logo) {
+                document.getElementById("posterLogo").src = channel.logo;
+            }
+            document.getElementById("playerPoster").classList.remove("fade-out");
+
+            // DRM কী কনফিগারেশন বিল্ড করার লজিক
+            const drmConfig = {};
+            if (channel.drmLicenseUrl && channel.drmScheme) {
+                const schemeName = channel.drmScheme.includes("clearkey") ? "org.w3.clearkey" : "com.widevine.alpha";
+                
+                // যদি কী নিজেই JSON হয় (যেমন Sunnxt বা Sun Bangla)
+                if (channel.drmLicenseUrl.startsWith("{") && channel.drmLicenseUrl.includes("keys")) {
+                    try {
+                        const parsedKeys = JSON.parse(channel.drmLicenseUrl);
+                        const cleanClearKeys = {};
+                        
+                        parsedKeys.keys.forEach(keyObj => {
+                            // Shaka Player ডিরেক্ট ক্লিয়ার-কী ডিকশনারি সাপোর্ট করে
+                            cleanClearKeys[keyObj.kid] = keyObj.k;
+                        });
+
+                        shakaPlayer.configure({
+                            drm: {
+                                clearKeys: cleanClearKeys
+                            }
+                        });
+                    } catch (err) {
+                        console.error("JSON DRM 解析失败:", err);
+                    }
+                } else {
+                    // সাধারণ ক্লিয়ার-কী KID:KEY বা লাইসেন্স URL কনফিগারেশন
+                    if (channel.drmLicenseUrl.includes(":")) {
+                        const parts = channel.drmLicenseUrl.split(":");
+                        if (parts.length === 2) {
+                            const clearKeys = {};
+                            clearKeys[parts[0].trim()] = parts[1].trim();
+                            shakaPlayer.configure({
+                                drm: {
+                                    clearKeys: clearKeys
+                                }
+                            });
+                        }
+                    } else {
+                        // Widevine বা প্লে-রেডি লাইসেন্স ইউআরএল
+                        drmConfig[schemeName] = channel.drmLicenseUrl;
+                        shakaPlayer.configure({
+                            drm: {
+                                servers: drmConfig
+                            }
+                        });
+                    }
+                }
+            } else {
+                // কোনো DRM না থাকলে পূর্ববর্তী DRM কনফিগারেশন ক্লিয়ার করুন
+                shakaPlayer.configure({
+                    drm: {
+                        clearKeys: {},
+                        servers: {}
+                    }
+                });
+            }
+
+            try {
+                // ভিডিও লোড করা হচ্ছে
+                await shakaPlayer.load(streamUrl);
+                console.log("সফলভাবে লোড হয়েছে:", channel.title);
+                
+                // পোস্টার হাইড করুন প্লেব্যাক শুরু হওয়ার পর
+                setTimeout(() => {
+                    document.getElementById("playerPoster").classList.add("fade-out");
+                }, 500);
+
+            } catch (error) {
+                onPlayerError(error);
+                document.getElementById("posterTitle").innerText = `প্লে করতে ব্যর্থ হয়েছে: ${channel.title}`;
+            }
+        }
+
+        // প্লেয়ার এরর হ্যান্ডলিং ইভেন্ট
+        function onPlayerError(event) {
+            console.error("Player Error Code:", event.code || event);
+        }
+
+        // কাস্টম প্লেব্যাক ইউজার ইন্টারফেস কন্ট্রোল লজিক
+        function setupCustomUIControls() {
+            const video = document.getElementById("videoPlayer");
+            const playPauseBtn = document.getElementById("playPauseBtn");
+            const muteBtn = document.getElementById("muteBtn");
+            const progressFill = document.getElementById("progressBarFill");
+            const progressContainer = document.getElementById("progressBarContainer");
+            const ccBtn = document.getElementById("ccBtn");
+            const pipBtn = document.getElementById("pipBtn");
+            const settingsBtn = document.getElementById("settingsBtn");
+            const fullscreenBtn = document.getElementById("fullscreenBtn");
+            const settingsMenu = document.getElementById("settingsMenu");
+            const videoWrapper = document.getElementById("videoWrapper");
+
+            // প্লে এবং পজ লজিক
+            playPauseBtn.onclick = () => {
+                if (video.paused) {
+                    video.play();
+                    playPauseBtn.innerHTML = `<svg viewBox="0 0 24 24"><path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/></svg>`;
+                } else {
+                    video.pause();
+                    playPauseBtn.innerHTML = `<svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>`;
+                }
+            };
+
+            video.addEventListener("play", () => {
+                playPauseBtn.innerHTML = `<svg viewBox="0 0 24 24"><path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/></svg>`;
+                document.getElementById("liveDot").classList.add("active");
+                document.getElementById("liveText").classList.add("active");
+            });
+
+            video.addEventListener("pause", () => {
+                playPauseBtn.innerHTML = `<svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>`;
+                document.getElementById("liveDot").classList.remove("active");
+                document.getElementById("liveText").classList.remove("active");
+            });
+
+            // মিউট এবং আনমিউট লজিক
+            muteBtn.onclick = () => {
+                video.muted = !video.muted;
+                if (video.muted) {
+                    muteBtn.innerHTML = `<svg viewBox="0 0 24 24"><path d="M16.5 12c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/></svg>`;
+                } else {
+                    muteBtn.innerHTML = `<svg viewBox="0 0 24 24"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/></svg>`;
+                }
+            };
+
+            // প্রোগ্রেস বার আপডেট (শুধুমাত্র VOD ভিডিওর ক্ষেত্রে)
+            video.addEventListener("timeupdate", () => {
+                if (!shakaPlayer.isLive() && video.duration) {
+                    const percent = (video.currentTime / video.duration) * 100;
+                    progressFill.style.width = `${percent}%`;
+                } else {
+                    progressFill.style.width = "100%"; // লাইভ হলে প্রোগ্রেস ফুল দেখাবে
+                }
+            });
+
+            progressContainer.onclick = (e) => {
+                if (!shakaPlayer.isLive() && video.duration) {
+                    const rect = progressContainer.getBoundingClientRect();
+                    const clickX = e.clientX - rect.left;
+                    const width = rect.width;
+                    video.currentTime = (clickX / width) * video.duration;
+                }
+            };
+
+            // Closed Captions (CC) অন/অফ করার লজিক
+            ccBtn.onclick = () => {
+                const tracks = shakaPlayer.getTextTracks();
+                if (tracks.length > 0) {
+                    const isTextVisible = shakaPlayer.isTextTrackVisible();
+                    shakaPlayer.setTextTrackVisibility(!isTextVisible);
+                    alert(!isTextVisible ? "CC চালু করা হয়েছে" : "CC বন্ধ করা হয়েছে");
+                } else {
+                    alert("এই স্ট্রিমের জন্য সাবটাইটেল উপলব্ধ নেই।");
+                }
+            };
+
+            // Picture in Picture (PiP) মোড
+            pipBtn.onclick = async () => {
+                try {
+                    if (video !== document.pictureInPictureElement) {
+                        await video.requestPictureInPicture();
+                    } else {
+                        await document.exitPictureInPicture();
+                    }
+                } catch (error) {
+                    alert("আপনার ব্রাউজারে PiP মোড সাপোর্ট করছে না।");
+                }
+            };
+
+            // কোয়ালিটি সেটিংস ড্রপডাউন মেনু টগল
+            settingsBtn.onclick = (e) => {
+                e.stopPropagation();
+                settingsMenu.classList.toggle("show");
+                if (settingsMenu.classList.contains("show")) {
+                    renderQualityTracks();
+                }
+            };
+
+            document.addEventListener("click", () => {
+                settingsMenu.classList.remove("show");
+            });
+
+            // রেসপনসিভ ফুলস্ক্রিন ও ফিল-স্ক্রিন এস্পেক্ট রেশিও কন্ট্রোল
+            fullscreenBtn.onclick = () => {
+                if (!document.fullscreenElement) {
+                    if (videoWrapper.requestFullscreen) {
+                        videoWrapper.requestFullscreen();
+                    }
+                    // মোবাইলে ল্যান্ডস্কেপ ফিল রেশিও ট্র্যাকিং
+                    video.classList.add("filled-screen");
+                } else {
+                    if (document.exitFullscreen) {
+                        document.exitFullscreen();
+                    }
+                    video.classList.remove("filled-screen");
+                }
+            };
+
+            document.addEventListener("fullscreenchange", () => {
+                if (!document.fullscreenElement) {
+                    video.classList.remove("filled-screen");
+                }
+            });
+        }
+
+        // সেটিংস মেনুতে ভিডিও ট্র্যাকিং এবং কোয়ালিটি বাটন জেনারেট করা
+        function renderQualityTracks() {
+            const listContainer = document.getElementById("qualityTrackList");
+            listContainer.innerHTML = "";
+
+            const tracks = shakaPlayer.getVariantTracks();
+            
+            // অটোমেটিক কোয়ালিটি সিলেকশন বাটন
+            const autoOpt = document.createElement("div");
+            autoOpt.className = "settings-option";
+            autoOpt.innerText = "Auto (Adaptive)";
+            autoOpt.onclick = () => {
+                shakaPlayer.configure({
+                    abr: {
+                        enabled: true
+                    }
+                });
+            };
+            listContainer.appendChild(autoOpt);
+
+            // ম্যানুয়াল ট্র্যাকিং রেন্ডারিং
+            tracks.forEach(track => {
+                if (track.height) {
+                    const opt = document.createElement("div");
+                    opt.className = "settings-option";
+                    opt.innerText = `${track.height}p (${Math.round(track.bandwidth / 1000)} kbps)`;
+                    
+                    opt.onclick = () => {
+                        shakaPlayer.configure({
+                            abr: {
+                                enabled: false
+                            }
+                        });
+                        shakaPlayer.selectVariantTrack(
+                            track, 
+                            true
+                        );
+                    };
+                    listContainer.appendChild(opt);
+                }
+            });
+        }
+    </script>
+    <!-- ======================================================= -->
+    <!-- এখানেই শেষ আমাদের স্ট্রিমিং লিংকের কাজ                     -->
+    <!-- ======================================================= -->
+
+</body>
+</html>
