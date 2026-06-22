@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 01:13:28AM - 22-06-2026
-# Total Channel Found: 489 Channel
+# Update Time: 08:42:05AM - 22-06-2026
+# Total Channel Found: 491 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -255,7 +255,7 @@ http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-1 tvg-id="FightBox.nl@SD" tvg-logo="https://i.postimg.cc/5NXPDV6w/image.jpg" group-title="Sports", FightBox
-http://91.146.94.234:10001/play/a085
+https://webtvstream.bhtelecom.ba/hls7/fightbox.m3u8
 
 #EXTINF:-1 tvg-id="FITE247.us@SD" tvg-logo="https://i.postimg.cc/SRNPnYSd/image.jpg" group-title="Sports", FITE 24/7
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
@@ -1207,6 +1207,9 @@ https://iptv.prosto.tv/ch120/index.m3u8
 #EXTINF:-1 tvg-id="FightKlub.pl@SD" tvg-logo="https://i.imgur.com/6kaNvZi.png" group-title="Sports", Fight Klub
 http://81.15.109.89:8001/play/Fightklub
 
+#EXTINF:-1 tvg-id="FightBox.nl@Poland" tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="Sports", FightBox Poland
+http://91.146.94.234:10001/play/a085
+
 #EXTINF:-1 tvg-id="FloHockey.us@HD" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/flohockey-white.png" group-title="Sports", FloHockey 24/7
 https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8
 
@@ -1455,6 +1458,9 @@ https://stream.smashmalta.com:25463/live/webplayer/livestream/29.m3u8
 
 #EXTINF:-1 tvg-id="TyCSportsUSA.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Sports", TyC Sports USA
 http://45.170.130.224:8000/play/a020/index.m3u8
+
+#EXTINF:-1 tvg-id="Unite8Sports2.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LOGO_HD/LOGO_HD_qVrE3q5rN_UNITE8-SPORTS-2_HD_264X144.webp" group-title="Sports", Unite8 Sports 2 HD
+https://mini.allinonereborn.fun/tata.php?id=11624
 
 #EXTINF:-1 tvg-id="USANetwork.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" group-title="Comedy;Movies;Series;Sports", USA Network
 http://185.246.209.113/DISCOVERYHD/index.m3u8
