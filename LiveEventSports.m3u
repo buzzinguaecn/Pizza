@@ -53,14 +53,26 @@
 # 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Football 🟢🟢🟢🟢🟢🟢
 
 
-#EXTINF:-1 tvg-id="1539008" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Colombia_VS_Congo_DR_World_Cup.jpg" group-title="SAWARID سواريد - Football", Colombia vs Congo DR - World Cup [451]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Colombia_VS_Congo_DR_World_Cup.jpg" group-title="SAWARID سواريد - Football", Colombia VS Congo DR | World Cup [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1782352000-Kv4cPTAAP5YTi-282e509e5e52a22e91f7f42fc96008728c6fccde-57b06fb4788e3c9942ba1b4d3c7b7c3a
+https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1782353797-Kv4cPTAAP5YTi-0dd435394cfb70af441ced594d0deb4d751a09d1-509f5eb88341c7b475078e37e1b5b4e0
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Colombia_VS_Congo_DR_World_Cup.jpg" group-title="SAWARID سواريد - Football", Colombia VS Congo DR | World Cup [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=0dd435394cfb70af441ced594d0deb4d751a09d1&x-sign=3e0c00ef31bac30637e52fab6d01dfc1&x-time=1782267360
 
 
 #EXTINF:-1 tvg-id="1539008" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Colombia_VS_Congo_DR_World_Cup.jpg" group-title="SAWARID سواريد - Football", Colombia vs Congo DR - World Cup [451]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=282e509e5e52a22e91f7f42fc96008728c6fccde&x-sign=6276d652cf58a0bd094a6739cfff88d9&x-time=1782265560
+https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1782353801-Kv4cPTAAP5YTi-1fd49e5b316927f50fffa12f30309fe79cfe8bc2-af41c0cea43bb9fd3d690a6d5889077c
+
+
+#EXTINF:-1 tvg-id="1539008" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Colombia_VS_Congo_DR_World_Cup.jpg" group-title="SAWARID سواريد - Football", Colombia vs Congo DR - World Cup [451]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1fd49e5b316927f50fffa12f30309fe79cfe8bc2&x-sign=b859f9d2aafdc0ebe77885d6e7c43fb0&x-time=1782267360
 
 
 # 🆕 SAWARID سواريد - Football 👉 Updateded Done ✅✅✅✅✅✅
@@ -75,89 +87,89 @@ https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=fals
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_4_YONEX_US_OPEN.jpg" group-title="SAWARID سواريد - Badminton", Court 4 | YONEX US OPEN [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1782351131-Kv4cPTAAP5YTi-a3369f16a035e08e2ce0e566f51d20a8a01f885f-679df49940d8ba9891e18776d871b3da
+https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1782353802-Kv4cPTAAP5YTi-0dd435394cfb70af441ced594d0deb4d751a09d1-f1497bdf8918ed13699bb5f66adebaf8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_4_YONEX_US_OPEN.jpg" group-title="SAWARID سواريد - Badminton", Court 4 | YONEX US OPEN [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=a3369f16a035e08e2ce0e566f51d20a8a01f885f&x-sign=59dd73bf8b53178817ba054bfe63ab6b&x-time=1782264720
+https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=0dd435394cfb70af441ced594d0deb4d751a09d1&x-sign=0f022338eb620669e92437d848c80b55&x-time=1782267360
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_3_YONEX_US_OPEN.jpg" group-title="SAWARID سواريد - Badminton", Court 3 | YONEX US OPEN [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1782351141-Kv4cPTAAP5YTi-a3369f16a035e08e2ce0e566f51d20a8a01f885f-9e7e5ae67a0aa0ee2d5bde258fbf79b8
+https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1782353833-Kv4cPTAAP5YTi-0dd435394cfb70af441ced594d0deb4d751a09d1-cd51033d73031205984082e07e1cbe4a
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_3_YONEX_US_OPEN.jpg" group-title="SAWARID سواريد - Badminton", Court 3 | YONEX US OPEN [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=a3369f16a035e08e2ce0e566f51d20a8a01f885f&x-sign=afa10a01e892f68775502315fdddaa73&x-time=1782264720
+https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=0dd435394cfb70af441ced594d0deb4d751a09d1&x-sign=ea0cc59790cb061b0e0852eab18a5f71&x-time=1782267420
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_2_YONEX_US_OPEN.jpg" group-title="SAWARID سواريد - Badminton", Court 2 | YONEX US OPEN [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1782351146-Kv4cPTAAP5YTi-a3369f16a035e08e2ce0e566f51d20a8a01f885f-4f758f07b3942e6d28da2379ab5fb607
+https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1782353843-Kv4cPTAAP5YTi-0dd435394cfb70af441ced594d0deb4d751a09d1-075cf20b45d4ad344dd6585c8f24c7df
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_2_YONEX_US_OPEN.jpg" group-title="SAWARID سواريد - Badminton", Court 2 | YONEX US OPEN [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=a3369f16a035e08e2ce0e566f51d20a8a01f885f&x-sign=33c0549cef6b291dc93d289e48107f5d&x-time=1782264720
+https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=0dd435394cfb70af441ced594d0deb4d751a09d1&x-sign=c5d3c1f47315e03c61a13e267505ea1c&x-time=1782267420
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_1_YONEX_US_OPEN.jpg" group-title="SAWARID سواريد - Badminton", Court 1 | YONEX US OPEN [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1782351151-Kv4cPTAAP5YTi-a3369f16a035e08e2ce0e566f51d20a8a01f885f-fd3ef785707acdc0dd7221bd60967afb
+https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1782353847-Kv4cPTAAP5YTi-0dd435394cfb70af441ced594d0deb4d751a09d1-7e7339198b48cb8274150701b7585d40
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_1_YONEX_US_OPEN.jpg" group-title="SAWARID سواريد - Badminton", Court 1 | YONEX US OPEN [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=a3369f16a035e08e2ce0e566f51d20a8a01f885f&x-sign=c897edd3c54d8c3f6324b9aa6fbcb72d&x-time=1782264720
-
-
-#EXTINF:-1 tvg-id="1629494695" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_2_YONEX_US_OPEN.jpg" group-title="SAWARID سواريد - Badminton", Court 2 - YONEX US OPEN [6]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1782351959-Kv4cPTAAP5YTi-282e509e5e52a22e91f7f42fc96008728c6fccde-c1b2a9ab4a8f3e6d46dbddc84fabdc84
-
-
-#EXTINF:-1 tvg-id="1629494695" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_2_YONEX_US_OPEN.jpg" group-title="SAWARID سواريد - Badminton", Court 2 - YONEX US OPEN [6]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=282e509e5e52a22e91f7f42fc96008728c6fccde&x-sign=a51e3117d69e0a3d2e72702586ff8052&x-time=1782265500
-
-
-#EXTINF:-1 tvg-id="1629494697" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_4_YONEX_US_OPEN.jpg" group-title="SAWARID سواريد - Badminton", Court 4 - YONEX US OPEN [8]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1782351965-Kv4cPTAAP5YTi-282e509e5e52a22e91f7f42fc96008728c6fccde-77f6efcbfc9397b4043a2724b6b3566b
-
-
-#EXTINF:-1 tvg-id="1629494697" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_4_YONEX_US_OPEN.jpg" group-title="SAWARID سواريد - Badminton", Court 4 - YONEX US OPEN [8]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=282e509e5e52a22e91f7f42fc96008728c6fccde&x-sign=9b6ddaa09f9ef96797e7501377b48223&x-time=1782265560
-
-
-#EXTINF:-1 tvg-id="1629494694" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_1_YONEX_US_OPEN.jpg" group-title="SAWARID سواريد - Badminton", Court 1 - YONEX US OPEN [5]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1782351971-Kv4cPTAAP5YTi-282e509e5e52a22e91f7f42fc96008728c6fccde-8dff54888bba3ee8c9e0f5990855be63
-
-
-#EXTINF:-1 tvg-id="1629494694" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_1_YONEX_US_OPEN.jpg" group-title="SAWARID سواريد - Badminton", Court 1 - YONEX US OPEN [5]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=282e509e5e52a22e91f7f42fc96008728c6fccde&x-sign=2c0108b33a66ae50405079489c6bd0ed&x-time=1782265560
+https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=0dd435394cfb70af441ced594d0deb4d751a09d1&x-sign=9feeca4ebedc48b8ff0b6bfbcfaa14c1&x-time=1782267420
 
 
 #EXTINF:-1 tvg-id="1629494696" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_3_YONEX_US_OPEN.jpg" group-title="SAWARID سواريد - Badminton", Court 3 - YONEX US OPEN [7]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1782351977-Kv4cPTAAP5YTi-282e509e5e52a22e91f7f42fc96008728c6fccde-21460c359a21c30ce1e51961bcb2fb58
+https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1782353759-Kv4cPTAAP5YTi-1fd49e5b316927f50fffa12f30309fe79cfe8bc2-438e8eab6b270576e7bec4476d9cb41e
 
 
 #EXTINF:-1 tvg-id="1629494696" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_3_YONEX_US_OPEN.jpg" group-title="SAWARID سواريد - Badminton", Court 3 - YONEX US OPEN [7]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=282e509e5e52a22e91f7f42fc96008728c6fccde&x-sign=b2a564efff6376d39e290f2d5b2aecec&x-time=1782265560
+https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=1fd49e5b316927f50fffa12f30309fe79cfe8bc2&x-sign=cb8ab9d78138325a3a74735d2be04e1f&x-time=1782267360
+
+
+#EXTINF:-1 tvg-id="1629494694" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_1_YONEX_US_OPEN.jpg" group-title="SAWARID سواريد - Badminton", Court 1 - YONEX US OPEN [5]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1782353766-Kv4cPTAAP5YTi-1fd49e5b316927f50fffa12f30309fe79cfe8bc2-c43fa4e87ac46eb87ecb40e49a67fc80
+
+
+#EXTINF:-1 tvg-id="1629494694" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_1_YONEX_US_OPEN.jpg" group-title="SAWARID سواريد - Badminton", Court 1 - YONEX US OPEN [5]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=1fd49e5b316927f50fffa12f30309fe79cfe8bc2&x-sign=94549d95f1624e5267251c8e2af0d39d&x-time=1782267360
+
+
+#EXTINF:-1 tvg-id="1629494697" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_4_YONEX_US_OPEN.jpg" group-title="SAWARID سواريد - Badminton", Court 4 - YONEX US OPEN [8]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1782353773-Kv4cPTAAP5YTi-1fd49e5b316927f50fffa12f30309fe79cfe8bc2-a1026b3c9d354cfcab01ee73d5d3cbc8
+
+
+#EXTINF:-1 tvg-id="1629494697" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_4_YONEX_US_OPEN.jpg" group-title="SAWARID سواريد - Badminton", Court 4 - YONEX US OPEN [8]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=1fd49e5b316927f50fffa12f30309fe79cfe8bc2&x-sign=a81b1e93235b9358aab5514cdfa77387&x-time=1782267360
+
+
+#EXTINF:-1 tvg-id="1629494695" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_2_YONEX_US_OPEN.jpg" group-title="SAWARID سواريد - Badminton", Court 2 - YONEX US OPEN [6]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1782353779-Kv4cPTAAP5YTi-1fd49e5b316927f50fffa12f30309fe79cfe8bc2-ec86ad4c704fbb78e713e17895c28154
+
+
+#EXTINF:-1 tvg-id="1629494695" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_2_YONEX_US_OPEN.jpg" group-title="SAWARID سواريد - Badminton", Court 2 - YONEX US OPEN [6]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=1fd49e5b316927f50fffa12f30309fe79cfe8bc2&x-sign=a541e6d55db7281b95d393f698f4a527&x-time=1782267360
 
 
 # 🆕 SAWARID سواريد - Badminton 👉 Updateded Done ✅✅✅✅✅✅
@@ -172,59 +184,59 @@ https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&t
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Texas_Rangers_VS_Miami_Marlins_MLB.jpg" group-title="SAWARID سواريد - Baseball", Texas Rangers VS Miami Marlins | MLB [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=a3369f16a035e08e2ce0e566f51d20a8a01f885f&x-sign=57bd1b6c0a0b932575c2db2d5d8ea961&x-time=1782264660
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=0dd435394cfb70af441ced594d0deb4d751a09d1&x-sign=d5d10d49a6a77d1dc15e6870718dca4f&x-time=1782267420
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kansas_City_Royals_VS_Tampa_Bay_Rays_MLB.jpg" group-title="SAWARID سواريد - Baseball", Kansas City Royals VS Tampa Bay Rays | MLB [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=a3369f16a035e08e2ce0e566f51d20a8a01f885f&x-sign=402f80df3586b77e3e111e4a81eb6c6c&x-time=1782264720
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=0dd435394cfb70af441ced594d0deb4d751a09d1&x-sign=809404bb8156da07d4434a7ee8f64868&x-time=1782267420
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Seattle_Mariners_VS_Pittsburgh_Pirates_MLB.jpg" group-title="SAWARID سواريد - Baseball", Seattle Mariners VS Pittsburgh Pirates | MLB [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=a3369f16a035e08e2ce0e566f51d20a8a01f885f&x-sign=05a35d033a76105a1861928af0d250b7&x-time=1782264720
-
-
-#EXTINF:-1 tvg-id="1629495408" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Texas_Rangers_VS_Miami_Marlins_MLB.jpg" group-title="SAWARID سواريد - Baseball", Texas Rangers vs Miami Marlins - MLB [55838]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=282e509e5e52a22e91f7f42fc96008728c6fccde&x-sign=d030b49901bf50e0e667c972194b5abf&x-time=1782265500
-
-
-#EXTINF:-1 tvg-id="1629495411" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kansas_City_Royals_VS_Tampa_Bay_Rays_MLB.jpg" group-title="SAWARID سواريد - Baseball", Kansas City Royals vs Tampa Bay Rays - MLB [55837]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=282e509e5e52a22e91f7f42fc96008728c6fccde&x-sign=1a222b3fd740b33c38af33f5d06134bc&x-time=1782265500
-
-
-#EXTINF:-1 tvg-id="1629495410" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Seattle_Mariners_VS_Pittsburgh_Pirates_MLB.jpg" group-title="SAWARID سواريد - Baseball", Seattle Mariners vs Pittsburgh Pirates - MLB [55836]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=282e509e5e52a22e91f7f42fc96008728c6fccde&x-sign=25216790b1e4cf78613f74f74a4df84f&x-time=1782265500
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=0dd435394cfb70af441ced594d0deb4d751a09d1&x-sign=0d4f1a7bc9718b908f9aa3a01d07103b&x-time=1782267420
 
 
 #EXTINF:-1 tvg-id="1629495409" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/New_York_Yankees_VS_Detroit_Tigers_MLB.jpg" group-title="SAWARID سواريد - Baseball", New York Yankees vs Detroit Tigers - MLB [55839]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=282e509e5e52a22e91f7f42fc96008728c6fccde&x-sign=e66a07889d64f6bdad869137596784fc&x-time=1782265500
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=1fd49e5b316927f50fffa12f30309fe79cfe8bc2&x-sign=82565b99abc6a6e682189633202b01c7&x-time=1782267300
+
+
+#EXTINF:-1 tvg-id="1629495408" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Texas_Rangers_VS_Miami_Marlins_MLB.jpg" group-title="SAWARID سواريد - Baseball", Texas Rangers vs Miami Marlins - MLB [55838]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=1fd49e5b316927f50fffa12f30309fe79cfe8bc2&x-sign=b79db4d3a07b413cda9158a54afaa53d&x-time=1782267300
 
 
 #EXTINF:-1 tvg-id="1629495412" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Philadelphia_Phillies_VS_Washington_Nationals_MLB.jpg" group-title="SAWARID سواريد - Baseball", Philadelphia Phillies vs Washington Nationals - MLB [55840]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=282e509e5e52a22e91f7f42fc96008728c6fccde&x-sign=d04fb24cf24fe00e1b12c52e8d071bfd&x-time=1782265500
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=1fd49e5b316927f50fffa12f30309fe79cfe8bc2&x-sign=5400eae82e390cbdc1f0088700472aec&x-time=1782267300
+
+
+#EXTINF:-1 tvg-id="1629495410" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Seattle_Mariners_VS_Pittsburgh_Pirates_MLB.jpg" group-title="SAWARID سواريد - Baseball", Seattle Mariners vs Pittsburgh Pirates - MLB [55836]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=1fd49e5b316927f50fffa12f30309fe79cfe8bc2&x-sign=ad101a6ca33692ef7fa605d4b03a7fd4&x-time=1782267300
+
+
+#EXTINF:-1 tvg-id="1629495411" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kansas_City_Royals_VS_Tampa_Bay_Rays_MLB.jpg" group-title="SAWARID سواريد - Baseball", Kansas City Royals vs Tampa Bay Rays - MLB [55837]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=1fd49e5b316927f50fffa12f30309fe79cfe8bc2&x-sign=b4d0e08e9819be7529d6269c27f137c2&x-time=1782267300
 
 
 #EXTINF:-1 tvg-id="1629495414" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago_Cubs_VS_New_York_Mets_MLB.jpg" group-title="SAWARID سواريد - Baseball", Chicago Cubs vs New York Mets - MLB [55841]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55841/720p/chunks.m3u8?is_vip=false&token=282e509e5e52a22e91f7f42fc96008728c6fccde&x-sign=9951c97017b3cc1eb72c24a3561ce962&x-time=1782265560
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55841/720p/chunks.m3u8?is_vip=false&token=1fd49e5b316927f50fffa12f30309fe79cfe8bc2&x-sign=012624275417eab1a6724aaf2b934dba&x-time=1782267360
 
 
 #EXTINF:-1 tvg-id="1629495413" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Milwaukee_Brewers_VS_Cincinnati_Reds_MLB.jpg" group-title="SAWARID سواريد - Baseball", Milwaukee Brewers vs Cincinnati Reds - MLB [55842]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55842/720p/chunks.m3u8?is_vip=false&token=282e509e5e52a22e91f7f42fc96008728c6fccde&x-sign=f3b7e51f318326b406303052b3a1d059&x-time=1782265560
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55842/720p/chunks.m3u8?is_vip=false&token=1fd49e5b316927f50fffa12f30309fe79cfe8bc2&x-sign=33459a7fdf7cd96bf7d1a4712afbabd9&x-time=1782267360
 
 
-#EXTINF:-1 tvg-id="1629495417" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Baseball", Arizona Diamondbacks vs St. Louis Cardinals - MLB [55845]
+#EXTINF:-1 tvg-id="1629495417" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arizona_Diamondbacks_VS_St._Louis_Cardinals_MLB.jpg" group-title="SAWARID سواريد - Baseball", Arizona Diamondbacks vs St. Louis Cardinals - MLB [55845]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55845/720p/chunks.m3u8?is_vip=false&token=282e509e5e52a22e91f7f42fc96008728c6fccde&x-sign=7cc168f65989040141fe54f49874677e&x-time=1782265560
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55845/720p/chunks.m3u8?is_vip=false&token=1fd49e5b316927f50fffa12f30309fe79cfe8bc2&x-sign=50a4ae82e902672053b665a5eb978790&x-time=1782267360
 
 
 # 🆕 SAWARID سواريد - Baseball 👉 Updateded Done ✅✅✅✅✅✅
@@ -236,34 +248,34 @@ https://livecdn-bp-iptv.rumsport7.live/live_abr/55845/720p/chunks.m3u8?is_vip=fa
 # 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Mlb 🟢🟢🟢🟢🟢🟢
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Milwaukee_Brewers_VS_Cincinnati_Reds_MLB.jpg" group-title="SAWARID سواريد - Mlb", Milwaukee Brewers VS Cincinnati Reds | MLB [Server 1]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arizona_Diamondbacks_VS_St._Louis_Cardinals_MLB.jpg" group-title="SAWARID سواريد - Mlb", Arizona Diamondbacks VS St. Louis Cardinals | MLB [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55842/720p/chunks.m3u8?is_vip=false&token=a3369f16a035e08e2ce0e566f51d20a8a01f885f&x-sign=3696ac154d8b21ea3859243b293724ee&x-time=1782264660
-
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Mlb", Arizona Diamondbacks VS St. Louis Cardinals | MLB [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55845/720p/chunks.m3u8?is_vip=false&token=a3369f16a035e08e2ce0e566f51d20a8a01f885f&x-sign=d51a77935c559cb399e2be82d2cdd5e7&x-time=1782264660
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55845/720p/chunks.m3u8?is_vip=false&token=0dd435394cfb70af441ced594d0deb4d751a09d1&x-sign=d1375acd344b2b70bf9a5bd6cffa8a4f&x-time=1782267420
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago_Cubs_VS_New_York_Mets_MLB.jpg" group-title="SAWARID سواريد - Mlb", Chicago Cubs VS New York Mets | MLB [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55841/720p/chunks.m3u8?is_vip=false&token=a3369f16a035e08e2ce0e566f51d20a8a01f885f&x-sign=3b4a7d7edc38d518cc19f93d6af311f6&x-time=1782264720
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55841/720p/chunks.m3u8?is_vip=false&token=0dd435394cfb70af441ced594d0deb4d751a09d1&x-sign=9a094742d4f10e6e77f6e80b60aa00e3&x-time=1782267420
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/New_York_Yankees_VS_Detroit_Tigers_MLB.jpg" group-title="SAWARID سواريد - Mlb", New York Yankees VS Detroit Tigers | MLB [Server 1]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Milwaukee_Brewers_VS_Cincinnati_Reds_MLB.jpg" group-title="SAWARID سواريد - Mlb", Milwaukee Brewers VS Cincinnati Reds | MLB [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=a3369f16a035e08e2ce0e566f51d20a8a01f885f&x-sign=0b902de97fc2028445eeccc8261398e0&x-time=1782264720
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55842/720p/chunks.m3u8?is_vip=false&token=0dd435394cfb70af441ced594d0deb4d751a09d1&x-sign=16052ede4272db15a693dcf149aaf814&x-time=1782267420
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Philadelphia_Phillies_VS_Washington_Nationals_MLB.jpg" group-title="SAWARID سواريد - Mlb", Philadelphia Phillies VS Washington Nationals | MLB [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=a3369f16a035e08e2ce0e566f51d20a8a01f885f&x-sign=d8b07020e06309a31c3e8effdd8b052f&x-time=1782264720
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=0dd435394cfb70af441ced594d0deb4d751a09d1&x-sign=c6effa18e5846327b4d3508afeb75d82&x-time=1782267420
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/New_York_Yankees_VS_Detroit_Tigers_MLB.jpg" group-title="SAWARID سواريد - Mlb", New York Yankees VS Detroit Tigers | MLB [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=0dd435394cfb70af441ced594d0deb4d751a09d1&x-sign=43814ef6cabfbe738aefe87ba53c778c&x-time=1782267420
 
 
 # 🆕 SAWARID سواريد - Mlb 👉 Updateded Done ✅✅✅✅✅✅
@@ -275,64 +287,52 @@ https://livecdn-bp-iptv.rumsport7.live/live_abr/55840/720p/chunks.m3u8?is_vip=fa
 # 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Usl League Two 🟢🟢🟢🟢🟢🟢
 
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Usl League Two", Peoria VS St. Louis Ambush | USL League Two [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3303cff59507a97a4fb88f/chunks.m3u8?is_vip=false&token=a3369f16a035e08e2ce0e566f51d20a8a01f885f&x-sign=4640017419c6b1a8ff10de14687369d9&x-time=1782264660
-
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Usl League Two", Peoria VS St. Louis Ambush | USL League Two [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3303cff59507a97a4fb88f/chunks.m3u8?is_vip=false&token=1782351103-Kv4cPTAAP5YTi-a3369f16a035e08e2ce0e566f51d20a8a01f885f-9a2c4cdf6ef790afcae7c893b3150723
-
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Usl League Two", Hill Country Lobos VS Laredo Heat | USL League Two [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3303cff59507a97a4fb889/chunks.m3u8?is_vip=false&token=a3369f16a035e08e2ce0e566f51d20a8a01f885f&x-sign=efcd0a0df43c58a9803f663d53f0c55e&x-time=1782264660
-
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Usl League Two", Hill Country Lobos VS Laredo Heat | USL League Two [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3303cff59507a97a4fb889/chunks.m3u8?is_vip=false&token=1782351108-Kv4cPTAAP5YTi-a3369f16a035e08e2ce0e566f51d20a8a01f885f-7af0314566ba72102ff95bf4070c19d4
-
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Usl League Two", Louisiana Krewe VS Hattiesburg | USL League Two [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a2c5e50df297140c453aec6/chunks.m3u8?is_vip=false&token=a3369f16a035e08e2ce0e566f51d20a8a01f885f&x-sign=42cfa361692cacb0521d133a7776e4fd&x-time=1782264660
-
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Usl League Two", Louisiana Krewe VS Hattiesburg | USL League Two [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a2c5e50df297140c453aec6/chunks.m3u8?is_vip=false&token=1782351114-Kv4cPTAAP5YTi-a3369f16a035e08e2ce0e566f51d20a8a01f885f-ed8a0b64375d7896be1d31a8c0eac85a
-
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Usl League Two", Southern Soccer Academy VS Montgomery United | USL League Two [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3303cff59507a97a4fb88e/chunks.m3u8?is_vip=false&token=a3369f16a035e08e2ce0e566f51d20a8a01f885f&x-sign=a1771894727b8da6f4e16b28576c2a34&x-time=1782264720
-
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Usl League Two", Southern Soccer Academy VS Montgomery United | USL League Two [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3303cff59507a97a4fb88e/chunks.m3u8?is_vip=false&token=1782351123-Kv4cPTAAP5YTi-a3369f16a035e08e2ce0e566f51d20a8a01f885f-60c1af2b65232b75fb73967080a91a29
-
-
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Usl League Two", Delaware FC VS Reading United | USL League Two [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3303cff59507a97a4fb891/chunks.m3u8?is_vip=false&token=a3369f16a035e08e2ce0e566f51d20a8a01f885f&x-sign=3ffbf72c04f71e6202320af95888eb1f&x-time=1782264720
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3303cff59507a97a4fb891/chunks.m3u8?is_vip=false&token=0dd435394cfb70af441ced594d0deb4d751a09d1&x-sign=26c5a89c70760df356427291dbea36d2&x-time=1782267360
 
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Usl League Two", Delaware FC VS Reading United | USL League Two [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3303cff59507a97a4fb891/chunks.m3u8?is_vip=false&token=1782351169-Kv4cPTAAP5YTi-a3369f16a035e08e2ce0e566f51d20a8a01f885f-db9cc1861e52fa65f3c793b9472c5cac
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3303cff59507a97a4fb891/chunks.m3u8?is_vip=false&token=1782353808-Kv4cPTAAP5YTi-0dd435394cfb70af441ced594d0deb4d751a09d1-388408eea3cb68b199f5f399e33ed168
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Peoria_VS_St._Louis_Ambush_USL_League_Two.jpg" group-title="SAWARID سواريد - Usl League Two", Peoria VS St. Louis Ambush | USL League Two [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3303cff59507a97a4fb88f/chunks.m3u8?is_vip=false&token=0dd435394cfb70af441ced594d0deb4d751a09d1&x-sign=ab49fc34cb04ad744dd6cb7e727d394e&x-time=1782267360
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Peoria_VS_St._Louis_Ambush_USL_League_Two.jpg" group-title="SAWARID سواريد - Usl League Two", Peoria VS St. Louis Ambush | USL League Two [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3303cff59507a97a4fb88f/chunks.m3u8?is_vip=false&token=1782353812-Kv4cPTAAP5YTi-0dd435394cfb70af441ced594d0deb4d751a09d1-0a63ec148cbb83a0130078dd8485226c
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Louisiana_Krewe_VS_Hattiesburg_USL_League_Two.jpg" group-title="SAWARID سواريد - Usl League Two", Louisiana Krewe VS Hattiesburg | USL League Two [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a2c5e50df297140c453aec6/chunks.m3u8?is_vip=false&token=0dd435394cfb70af441ced594d0deb4d751a09d1&x-sign=f3d0cda129727d34f9ffb6c7ee73c95b&x-time=1782267360
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Louisiana_Krewe_VS_Hattiesburg_USL_League_Two.jpg" group-title="SAWARID سواريد - Usl League Two", Louisiana Krewe VS Hattiesburg | USL League Two [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a2c5e50df297140c453aec6/chunks.m3u8?is_vip=false&token=1782353817-Kv4cPTAAP5YTi-0dd435394cfb70af441ced594d0deb4d751a09d1-b8ece36183deb381dc3b3692f4eb4c6f
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Midlakes_United_VS_Snohomish_United_USL_League_Two.jpg" group-title="SAWARID سواريد - Usl League Two", Midlakes United VS Snohomish United | USL League Two [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3303cff59507a97a4fb893/chunks.m3u8?is_vip=false&token=0dd435394cfb70af441ced594d0deb4d751a09d1&x-sign=ae71d2a214126bc5a5f8c8afca2ceb80&x-time=1782267420
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Midlakes_United_VS_Snohomish_United_USL_League_Two.jpg" group-title="SAWARID سواريد - Usl League Two", Midlakes United VS Snohomish United | USL League Two [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3303cff59507a97a4fb893/chunks.m3u8?is_vip=false&token=1782353869-Kv4cPTAAP5YTi-0dd435394cfb70af441ced594d0deb4d751a09d1-c92c50ea7c7bd6fcb4d38d830081d2c1
 
 
 # 🆕 SAWARID سواريد - Usl League Two 👉 Updateded Done ✅✅✅✅✅✅
