@@ -61,27 +61,27 @@ https://dai.google.com/ssai/event/XpIbI0pTQX-9mvR458k9aw/master.m3u8
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/India_VS_Bangladesh_ICC_Women's_T20_World_Cup.jpg" group-title="SAWARID سواريد - Cricket", India VS Bangladesh | ICC Women's T20 World Cup [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=4045894760849d92e7908ae8d652e87575232668&x-sign=e802294065a9be4ed099202c2a2cfcb7&x-time=1782403260
+#EXTINF:-1 tvg-id="tapmad-13962" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17821121541020x576.jpg" group-title="SAWARID سواريد - Cricket", West Indies vs Sri Lanka | Sri Lanka Tour of West Indies 2026
+https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1782409507~acl=/hls/*~hmac=227648b3f6e1c0d9fd3d38804e85b1c6e8cae95b99da65cfda25c260452c8d6f
 
 
-#EXTINF:-1 tvg-id="1629496557" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/India_VS_Bangladesh_ICC_Women%27s_T20_World_Cup.jpg" group-title="SAWARID سواريد - Cricket", India vs Bangladesh - ICC Women's T20 World Cup [490]
+#EXTINF:-1 tvg-id="1629496571" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Cricket", West Indies vs Sri Lanka - 1st Test [490]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=2c7febfdba9a71f9b417d7d4e8711f042af9dfc1&x-sign=479cb0c918a2d0f55b8bd929be313eaa&x-time=1782403200
+https://livecdn-bp-iptv.rumsport7.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=001d1eb7c9bdba4c8a55585ab1b3c8ab0ff9bd75&x-sign=e15d2d9cb73960524710f17ee3a828ac&x-time=1782408660
+
+
+#EXTINF:-1 tvg-id="1629496572" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Cricket", South Africa vs Netherlands - ICC Women's T20 World Cup [20]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=001d1eb7c9bdba4c8a55585ab1b3c8ab0ff9bd75&x-sign=286735da414025c739b9625641cb3124&x-time=1782408660
+
+
+#EXTINF:-1 tvg-id="1629496572" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Cricket", South Africa vs Netherlands - ICC Women's T20 World Cup [20]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1782495073-Kv4cPTAAP5YTi-001d1eb7c9bdba4c8a55585ab1b3c8ab0ff9bd75-761dd814caa6473a08b7614917a421a1
 
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png" group-title="SAWARID سواريد - Cricket", Sri Lanka Vs West Indies | Sri Lanka tour of West Indies 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sri_lanka_vs_west_indies_142978_english.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438705/143426_CASACARDS_SPORTY_APP.png" group-title="SAWARID سواريد - Cricket", Hubli Tigers Vs Gulbarga Mystics | Maharaja T20 Trophy 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/hubli_tigers_vs_gulbarga_mystics_143426_english.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438705/143426_CASACARDS_SPORTY_APP.png" group-title="SAWARID سواريد - Cricket", Hubli Tigers Vs Gulbarga Mystics | Maharaja T20 Trophy 2026 (KANNADA)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/hubli_tigers_vs_gulbarga_mystics_143426_kannada.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143093_6102_JRL_CGS_FC-WEB.jpg" group-title="SAWARID سواريد - Cricket", Chambal Ghariyals Vs Jabalpur Royal Lions | Madhya Pradesh League T20 2026 (ENGLISH)
@@ -98,18 +98,124 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/ddh_meerut_spa
 # 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
 
 
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - 1st Test 🟢🟢🟢🟢🟢🟢
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - 1st Test", West Indies VS Sri Lanka | 1st Test [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=7891a40fc8445806aa9045c3cc95e543&x-time=1782407940
+
+
+# 🆕 SAWARID سواريد - 1st Test 👉 Updateded Done ✅✅✅✅✅✅
+
+
+# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - 3. Division - Girone 2 🟢🟢🟢🟢🟢🟢
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - 3. Division - Girone 2", Strindheim VS Melhus | 3. Division - Girone 2 [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a5455/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=5683ea5574d6b1fedec9383250e73338&x-time=1782407940
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - 3. Division - Girone 2", Strindheim VS Melhus | 3. Division - Girone 2 [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a5455/chunks.m3u8?is_vip=false&token=1782494369-Kv4cPTAAP5YTi-00b9816b736284ad6432af3e8a4b87a5a98830de-5f29ab10201dcb0134a7bafca8906ea7
+
+
+# 🆕 SAWARID سواريد - 3. Division - Girone 2 👉 Updateded Done ✅✅✅✅✅✅
+
+
+# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - 3. Division - Girone 3 🟢🟢🟢🟢🟢🟢
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - 3. Division - Girone 3", Åsane II VS Os | 3. Division - Girone 3 [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1da57bd7e482cd74be5e0c/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=0b8888c10c97d10fa41bb3a94772e73c&x-time=1782407880
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - 3. Division - Girone 3", Åsane II VS Os | 3. Division - Girone 3 [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1da57bd7e482cd74be5e0c/chunks.m3u8?is_vip=false&token=1782494313-Kv4cPTAAP5YTi-00b9816b736284ad6432af3e8a4b87a5a98830de-7bc311d006c1fb9d95b7376dafd7211c
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - 3. Division - Girone 3", Austevoll VS Fyllingsdalen | 3. Division - Girone 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+
+
+# 🆕 SAWARID سواريد - 3. Division - Girone 3 👉 Updateded Done ✅✅✅✅✅✅
+
+
+# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - 3. Division - Girone 4 🟢🟢🟢🟢🟢🟢
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - 3. Division - Girone 4", Våg VS Viking II | 3. Division - Girone 4 [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a5450/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=5ae3a35d35f0da9afbc75ea4d2860273&x-time=1782407880
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - 3. Division - Girone 4", Våg VS Viking II | 3. Division - Girone 4 [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a5450/chunks.m3u8?is_vip=false&token=1782494317-Kv4cPTAAP5YTi-00b9816b736284ad6432af3e8a4b87a5a98830de-dcbe689274fc6097aedfe1467d72c28b
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - 3. Division - Girone 4", Staal Jørpeland VS Hinna | 3. Division - Girone 4 [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a5451/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=c06582897d7594e77d0df305c94f1739&x-time=1782407880
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - 3. Division - Girone 4", Staal Jørpeland VS Hinna | 3. Division - Girone 4 [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a5451/chunks.m3u8?is_vip=false&token=1782494322-Kv4cPTAAP5YTi-00b9816b736284ad6432af3e8a4b87a5a98830de-a5e2e937990a7c4f73dcbd327abcc9c4
+
+
+# 🆕 SAWARID سواريد - 3. Division - Girone 4 👉 Updateded Done ✅✅✅✅✅✅
+
+
+# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
 # 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Auto Racing 🟢🟢🟢🟢🟢🟢
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/EKO_Acropolis_Rally_Greece_Stage_1_WRC.jpg" group-title="SAWARID سواريد - Auto Racing", EKO Acropolis Rally Greece: Stage 1 | WRC [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/161360/720p/chunks.m3u8?is_vip=false&token=4045894760849d92e7908ae8d652e87575232668&x-sign=b8b31829f1a36fa065bf7ec7983b76eb&x-time=1782403260
+https://livecdn-tc-iptv.rumsport10.live/live_abr/33006/720p/chunks.m3u8?is_vip=false&token=1782494304-Kv4cPTAAP5YTi-00b9816b736284ad6432af3e8a4b87a5a98830de-54138a9f3d456bd544a678a747d1bf1e
 
 
-#EXTINF:-1 tvg-id="1629494772" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/EKO_Acropolis_Rally_Greece_Stage_1_WRC.jpg" group-title="SAWARID سواريد - Auto Racing", EKO Acropolis Rally Greece: Stage 1 - WRC [161360]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/EKO_Acropolis_Rally_Greece_Stage_1_WRC.jpg" group-title="SAWARID سواريد - Auto Racing", EKO Acropolis Rally Greece: Stage 1 | WRC [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/161360/720p/chunks.m3u8?is_vip=false&token=2c7febfdba9a71f9b417d7d4e8711f042af9dfc1&x-sign=88587a5be3f8eb181cecef6d2bf9cb94&x-time=1782403260
+https://livecdn-bp-iptv.rumsport7.live/live_abr/33006/720p/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=8eb942b6eeb66dd8cb28e9a2d44c02ca&x-time=1782407880
+
+
+#EXTINF:-1 tvg-id="1629494772" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/EKO_Acropolis_Rally_Greece_Stage_1_WRC.jpg" group-title="SAWARID سواريد - Auto Racing", EKO Acropolis Rally Greece: Stage 1 - WRC [33006]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/33006/720p/chunks.m3u8?is_vip=false&token=1782495049-Kv4cPTAAP5YTi-001d1eb7c9bdba4c8a55585ab1b3c8ab0ff9bd75-f3b6787a9ef894086c8948f5137b9f09
+
+
+#EXTINF:-1 tvg-id="1629494772" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/EKO_Acropolis_Rally_Greece_Stage_1_WRC.jpg" group-title="SAWARID سواريد - Auto Racing", EKO Acropolis Rally Greece: Stage 1 - WRC [33006]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/33006/720p/chunks.m3u8?is_vip=false&token=001d1eb7c9bdba4c8a55585ab1b3c8ab0ff9bd75&x-sign=b9903bff373c540c8863d58c6567d8ce&x-time=1782408600
 
 
 # 🆕 SAWARID سواريد - Auto Racing 👉 Updateded Done ✅✅✅✅✅✅
@@ -118,11 +224,166 @@ https://livecdn-bp-iptv.rumsport7.live/live_abr/161360/720p/chunks.m3u8?is_vip=f
 # 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
 
 
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Baseball 🟢🟢🟢🟢🟢🟢
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Baseball", Seattle Mariners VS Pittsburgh Pirates | MLB [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=55d45c9a3726544b64fb25b7680d5f38&x-time=1782407880
+
+
+#EXTINF:-1 tvg-id="1629496560" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Baseball", Kansas City Royals vs Tampa Bay Rays - MLB [55835]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=001d1eb7c9bdba4c8a55585ab1b3c8ab0ff9bd75&x-sign=90f9087ed2d438e67b88c4b61481d192&x-time=1782408600
+
+
+#EXTINF:-1 tvg-id="1629496568" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Baseball", Seattle Mariners vs Pittsburgh Pirates - MLB [55836]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=001d1eb7c9bdba4c8a55585ab1b3c8ab0ff9bd75&x-sign=f432eea3f29b6c7d993996c37980df95&x-time=1782408660
+
+
+# 🆕 SAWARID سواريد - Baseball 👉 Updateded Done ✅✅✅✅✅✅
+
+
+# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Challenger Piracicaba 🟢🟢🟢🟢🟢🟢
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Challenger Piracicaba", Wilson Leite VS Filipe Bullamah | Challenger Piracicaba [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a39e966bd8b5851502add3a/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=37853022eedd910979766740dc6136c5&x-time=1782407760
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Challenger Piracicaba", Wilson Leite VS Filipe Bullamah | Challenger Piracicaba [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a39e966bd8b5851502add3a/chunks.m3u8?is_vip=false&token=1782494216-Kv4cPTAAP5YTi-00b9816b736284ad6432af3e8a4b87a5a98830de-491117a8292e6680d5f03e001be5b6b9
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Challenger Piracicaba", Matias Soto VS Gonzalo Villanueva | Challenger Piracicaba [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3a4bc01ceff894914c5569/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=373f8f000078cb8a5b837af98c420436&x-time=1782407820
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Challenger Piracicaba", Matias Soto VS Gonzalo Villanueva | Challenger Piracicaba [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3a4bc01ceff894914c5569/chunks.m3u8?is_vip=false&token=1782494230-Kv4cPTAAP5YTi-00b9816b736284ad6432af3e8a4b87a5a98830de-d2df00d0ef02cd5f2c80555debd8ab8c
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Challenger Piracicaba", Luis Felipe Miguel VS Thiago Seyboth Wild | Challenger Piracicaba [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a380af1bd8b585150142507/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=ed701566818212b5a8aeca5b6854feb3&x-time=1782407880
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Challenger Piracicaba", Luis Felipe Miguel VS Thiago Seyboth Wild | Challenger Piracicaba [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a380af1bd8b585150142507/chunks.m3u8?is_vip=false&token=1782494292-Kv4cPTAAP5YTi-00b9816b736284ad6432af3e8a4b87a5a98830de-86b90c07a88750f36785d911e64b17f7
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Challenger Piracicaba", Enzo Kohlmann De Freitas VS Juan Manuel La Serna | Challenger Piracicaba [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a380af1f59507a97a91f160/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=3fc8b7298e03e56328cef9e42c352ba9&x-time=1782407880
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Challenger Piracicaba", Enzo Kohlmann De Freitas VS Juan Manuel La Serna | Challenger Piracicaba [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a380af1f59507a97a91f160/chunks.m3u8?is_vip=false&token=1782494296-Kv4cPTAAP5YTi-00b9816b736284ad6432af3e8a4b87a5a98830de-b97dba7f836c410241342a7e0d1db368
+
+
+# 🆕 SAWARID سواريد - Challenger Piracicaba 👉 Updateded Done ✅✅✅✅✅✅
+
+
+# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Challenger Plovdiv 🟢🟢🟢🟢🟢🟢
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Challenger Plovdiv", Petr Nesterov VS Tommaso Compagnucci | Challenger Plovdiv [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3be3abbb875b4ddffcbb8a/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=5a263ff230e255174fe42bab7ae74cf9&x-time=1782407820
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Challenger Plovdiv", Petr Nesterov VS Tommaso Compagnucci | Challenger Plovdiv [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3be3abbb875b4ddffcbb8a/chunks.m3u8?is_vip=false&token=1782494220-Kv4cPTAAP5YTi-00b9816b736284ad6432af3e8a4b87a5a98830de-7708eed6341f3204b55e537919161b15
+
+
+# 🆕 SAWARID سواريد - Challenger Plovdiv 👉 Updateded Done ✅✅✅✅✅✅
+
+
+# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Damallsvenskan 🟢🟢🟢🟢🟢🟢
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Damallsvenskan", Piteå W VS Hammarby W | Damallsvenskan [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487bb5bb08292dbe1070/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=ae68c3156cc70db786e3bea3c5bc1d9f&x-time=1782407880
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Damallsvenskan", Piteå W VS Hammarby W | Damallsvenskan [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487bb5bb08292dbe1070/chunks.m3u8?is_vip=false&token=1782494327-Kv4cPTAAP5YTi-00b9816b736284ad6432af3e8a4b87a5a98830de-0503015cbaf43e2bd63a98cddd2c2dbc
+
+
+# 🆕 SAWARID سواريد - Damallsvenskan 👉 Updateded Done ✅✅✅✅✅✅
+
+
+# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Division 2 - Södra Svealand 🟢🟢🟢🟢🟢🟢
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Division 2 - Södra Svealand", Nyköping VS Nacka Iliria | Division 2 - Södra Svealand [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a53f4/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=4e54d6ea1d88751112c88627b876e2c0&x-time=1782407940
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Division 2 - Södra Svealand", Nyköping VS Nacka Iliria | Division 2 - Södra Svealand [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a53f4/chunks.m3u8?is_vip=false&token=1782494373-Kv4cPTAAP5YTi-00b9816b736284ad6432af3e8a4b87a5a98830de-640dd7c4732a473b3425835a37808996
+
+
+# 🆕 SAWARID سواريد - Division 2 - Södra Svealand 👉 Updateded Done ✅✅✅✅✅✅
+
+
+# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Friendlies Clubs 🟢🟢🟢🟢🟢🟢
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Friendlies Clubs", SKU Amstetten VS FK Crvena Zvezda | Friendlies Clubs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+
+
+# 🆕 SAWARID سواريد - Friendlies Clubs 👉 Updateded Done ✅✅✅✅✅✅
+
+
+# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
 # 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Golf 🟢🟢🟢🟢🟢🟢
-
-
-#EXTINF:-1 tvg-id="sonyliv-1090535450" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018953/1780272176132972_DP_World_Tour_Open_dItalia_day1_landscape_thumb.jpg" group-title="SAWARID سواريد - Golf", DP World Tour | Open d'Italia - Day 1 - 25 Jun 2026
-https://dai.google.com/ssai/event/j8KXH0qnRzqSzle57JqCYA/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png" group-title="SAWARID سواريد - Golf", Main Feed   Day 1 | Travelers Championship 2026 (ENGLISH)
@@ -135,71 +396,627 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/main_feed___da
 # 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
 
 
-# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Tennis 🟢🟢🟢🟢🟢🟢
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - M15 Alkmaar Md 🟢🟢🟢🟢🟢🟢
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_4_Eastbourne_Open.jpg" group-title="SAWARID سواريد - Tennis", Day 4 | Eastbourne Open [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - M15 Alkmaar Md", Van Donk/Van Leeuwen VS De Jager/Lootsma | M15 Alkmaar MD [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1782489700-Kv4cPTAAP5YTi-4045894760849d92e7908ae8d652e87575232668-26d08cc44f03718f56c35f73f5086c5a
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3b56f2bb875b4ddff91b71/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=26b9249fdedae2ea6410ea1a6a3612a9&x-time=1782407940
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_4_Eastbourne_Open.jpg" group-title="SAWARID سواريد - Tennis", Day 4 | Eastbourne Open [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - M15 Alkmaar Md", Van Donk/Van Leeuwen VS De Jager/Lootsma | M15 Alkmaar MD [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=4045894760849d92e7908ae8d652e87575232668&x-sign=432f38d636fef6871bc7cf27bad5623e&x-time=1782403260
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3b56f2bb875b4ddff91b71/chunks.m3u8?is_vip=false&token=1782494400-Kv4cPTAAP5YTi-00b9816b736284ad6432af3e8a4b87a5a98830de-13ce21e2ff8a82b41744ca47c4389580
 
 
-#EXTINF:-1 tvg-id="1629494770" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_4_Eastbourne_Open.jpg" group-title="SAWARID سواريد - Tennis", Day 4 - Unknown League [8]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1782489642-Kv4cPTAAP5YTi-2c7febfdba9a71f9b417d7d4e8711f042af9dfc1-ee3ec24727e3c52d05c8936985d16366
-
-
-#EXTINF:-1 tvg-id="1629494770" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_4_Eastbourne_Open.jpg" group-title="SAWARID سواريد - Tennis", Day 4 - Unknown League [8]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=2c7febfdba9a71f9b417d7d4e8711f042af9dfc1&x-sign=8445fcd81a2f8587742e133e5b67c423&x-time=1782403200
-
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png" group-title="SAWARID سواريد - Tennis", Day 5 | ATP 250 - Vanda Pharma Mallorca Championships 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_5_143274_english.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg" group-title="SAWARID سواريد - Tennis", Day 4 | ATP 250 - Lexus Eastbourne Open 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4_143280_english.m3u8
-
-
-# 🆕 SAWARID سواريد - Tennis 👉 Updateded Done ✅✅✅✅✅✅
+# 🆕 SAWARID سواريد - M15 Alkmaar Md 👉 Updateded Done ✅✅✅✅✅✅
 
 
 # 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
 
 
-# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Volleyball 🟢🟢🟢🟢🟢🟢
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - M15 Bergamo 🟢🟢🟢🟢🟢🟢
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ukraine_VS_Italy_Nations_League.jpg" group-title="SAWARID سواريد - Volleyball", Ukraine VS Italy | Nations League [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - M15 Bergamo", Louis Larue VS Marcello Serafini | M15 Bergamo [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/68892/720p/chunks.m3u8?is_vip=false&token=1782489710-Kv4cPTAAP5YTi-4045894760849d92e7908ae8d652e87575232668-9bdd07e6378164e35c4b656884c1dd5a
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3aae2aaed4bb3db087a304/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=6de43edf07e3682d96ebb7f00fb49241&x-time=1782407820
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ukraine_VS_Italy_Nations_League.jpg" group-title="SAWARID سواريد - Volleyball", Ukraine VS Italy | Nations League [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - M15 Bergamo", Louis Larue VS Marcello Serafini | M15 Bergamo [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/68892/720p/chunks.m3u8?is_vip=false&token=4045894760849d92e7908ae8d652e87575232668&x-sign=6c6a9939e40f2dc5e71f60a933a7acea&x-time=1782403260
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3aae2aaed4bb3db087a304/chunks.m3u8?is_vip=false&token=1782494248-Kv4cPTAAP5YTi-00b9816b736284ad6432af3e8a4b87a5a98830de-8c006634cd885595c0b688e7ee8621ad
 
 
-#EXTINF:-1 tvg-id="1629494771" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ukraine_VS_Italy_Nations_League.jpg" group-title="SAWARID سواريد - Volleyball", Ukraine vs Italy - Unknown League [68892]
+# 🆕 SAWARID سواريد - M15 Bergamo 👉 Updateded Done ✅✅✅✅✅✅
+
+
+# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - M15 Rzeszow 🟢🟢🟢🟢🟢🟢
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - M15 Rzeszow", Leyton Rivera VS Markus Molder | M15 Rzeszow [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/68892/720p/chunks.m3u8?is_vip=false&token=1782489655-Kv4cPTAAP5YTi-2c7febfdba9a71f9b417d7d4e8711f042af9dfc1-15681aaf3c9aca616a05a2a8da5ea631
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3c2989a5363061595cbd3b/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=a19b5bd9a040a6c4856af17988dc01aa&x-time=1782407940
 
 
-#EXTINF:-1 tvg-id="1629494771" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ukraine_VS_Italy_Nations_League.jpg" group-title="SAWARID سواريد - Volleyball", Ukraine vs Italy - Unknown League [68892]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - M15 Rzeszow", Leyton Rivera VS Markus Molder | M15 Rzeszow [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/68892/720p/chunks.m3u8?is_vip=false&token=2c7febfdba9a71f9b417d7d4e8711f042af9dfc1&x-sign=01554d60c2041edd1e2f1c44f1300551&x-time=1782403200
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3c2989a5363061595cbd3b/chunks.m3u8?is_vip=false&token=1782494359-Kv4cPTAAP5YTi-00b9816b736284ad6432af3e8a4b87a5a98830de-70095babb66b7a7dad6afbd71c187610
 
 
-# 🆕 SAWARID سواريد - Volleyball 👉 Updateded Done ✅✅✅✅✅✅
+# 🆕 SAWARID سواريد - M15 Rzeszow 👉 Updateded Done ✅✅✅✅✅✅
+
+
+# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - M15 Rzeszow Md 🟢🟢🟢🟢🟢🟢
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - M15 Rzeszow Md", Sroka/Zgola VS Molder/Tamm | M15 Rzeszow MD [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3b48ddf65afa224e9f4f63/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=fb4036e42321d44e7e683dbab35462c0&x-time=1782407820
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - M15 Rzeszow Md", Sroka/Zgola VS Molder/Tamm | M15 Rzeszow MD [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3b48ddf65afa224e9f4f63/chunks.m3u8?is_vip=false&token=1782494275-Kv4cPTAAP5YTi-00b9816b736284ad6432af3e8a4b87a5a98830de-e70daf14004f3c3a8c835052c2922344
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - M15 Rzeszow Md", Guttau/Larwig VS Kucera/Wygona | M15 Rzeszow MD [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3b48ddd06bfc509484b864/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=cd98810837bc4efc36bafb6d4768583b&x-time=1782407880
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - M15 Rzeszow Md", Guttau/Larwig VS Kucera/Wygona | M15 Rzeszow MD [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3b48ddd06bfc509484b864/chunks.m3u8?is_vip=false&token=1782494300-Kv4cPTAAP5YTi-00b9816b736284ad6432af3e8a4b87a5a98830de-e7f12c8d5b0840a0a449a79a72c530e2
+
+
+# 🆕 SAWARID سواريد - M15 Rzeszow Md 👉 Updateded Done ✅✅✅✅✅✅
+
+
+# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - M15 Slovenska Bistrica 🟢🟢🟢🟢🟢🟢
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - M15 Slovenska Bistrica", Jan Kupcic VS Bor Artnak | M15 Slovenska Bistrica [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3c7039d8b0af885ef5ab56/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=e36f521708f3c981de9f2a63a18b1c81&x-time=1782407820
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - M15 Slovenska Bistrica", Jan Kupcic VS Bor Artnak | M15 Slovenska Bistrica [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3c7039d8b0af885ef5ab56/chunks.m3u8?is_vip=false&token=1782494239-Kv4cPTAAP5YTi-00b9816b736284ad6432af3e8a4b87a5a98830de-a3594b043d19a8eb2372faadfcb16094
+
+
+# 🆕 SAWARID سواريد - M15 Slovenska Bistrica 👉 Updateded Done ✅✅✅✅✅✅
+
+
+# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - M15 Slovenska Bistrica Md 🟢🟢🟢🟢🟢🟢
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - M15 Slovenska Bistrica Md", Ligniere/Gschwendtner VS Battiston/Kovac | M15 Slovenska Bistrica MD [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3af43f6618c8c684e5d72a/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=e69cdf2e396c469497e6156ccec3e141&x-time=1782407940
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - M15 Slovenska Bistrica Md", Ligniere/Gschwendtner VS Battiston/Kovac | M15 Slovenska Bistrica MD [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3af43f6618c8c684e5d72a/chunks.m3u8?is_vip=false&token=1782494385-Kv4cPTAAP5YTi-00b9816b736284ad6432af3e8a4b87a5a98830de-9f19a469acf876dfbd71734fec8f0bf6
+
+
+# 🆕 SAWARID سواريد - M15 Slovenska Bistrica Md 👉 Updateded Done ✅✅✅✅✅✅
+
+
+# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - M25 Bakio 🟢🟢🟢🟢🟢🟢
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - M25 Bakio", Oscar Weightman VS Edward Winter | M25 Bakio [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3c7039945e9dbcc7539873/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=791650a3207abf3f4d06cd93a66643c4&x-time=1782407760
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - M25 Bakio", Oscar Weightman VS Edward Winter | M25 Bakio [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3c7039945e9dbcc7539873/chunks.m3u8?is_vip=false&token=1782494201-Kv4cPTAAP5YTi-00b9816b736284ad6432af3e8a4b87a5a98830de-49a05ee04c2d9a333dd74149bb9359ea
+
+
+# 🆕 SAWARID سواريد - M25 Bakio 👉 Updateded Done ✅✅✅✅✅✅
+
+
+# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - M25 Porto 🟢🟢🟢🟢🟢🟢
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - M25 Porto", Mert Alkaya VS Ivan Dreycopp | M25 Porto [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3bf1b3818b53788cf001ce/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=dde67cfaf2dc03b0316b981652191a92&x-time=1782407940
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - M25 Porto", Mert Alkaya VS Ivan Dreycopp | M25 Porto [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3bf1b3818b53788cf001ce/chunks.m3u8?is_vip=false&token=1782494390-Kv4cPTAAP5YTi-00b9816b736284ad6432af3e8a4b87a5a98830de-45fce7368d7cc596f002cd78070f335b
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - M25 Porto", Eliakim Coulibaly VS Patrick Schoen | M25 Porto [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3c7e18818b53788cf7d615/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=302dadb9d6e82d4726c8359996191296&x-time=1782408000
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - M25 Porto", Eliakim Coulibaly VS Patrick Schoen | M25 Porto [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3c7e18818b53788cf7d615/chunks.m3u8?is_vip=false&token=1782494405-Kv4cPTAAP5YTi-00b9816b736284ad6432af3e8a4b87a5a98830de-c13dc8f0486ae868144783a7d0bfa9fa
+
+
+# 🆕 SAWARID سواريد - M25 Porto 👉 Updateded Done ✅✅✅✅✅✅
+
+
+# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - M25 Tanger Md 🟢🟢🟢🟢🟢🟢
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - M25 Tanger Md", Aggarwal/Boros VS Chambonniere/Villoslada | M25 Tanger MD [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3bb9428cb9e8c43bc67269/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=7eff5e54dc53d45623e4c3644b89a4d9&x-time=1782407820
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - M25 Tanger Md", Aggarwal/Boros VS Chambonniere/Villoslada | M25 Tanger MD [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3bb9428cb9e8c43bc67269/chunks.m3u8?is_vip=false&token=1782494234-Kv4cPTAAP5YTi-00b9816b736284ad6432af3e8a4b87a5a98830de-4812d6080926fdc1ef984a9b49a0f680
+
+
+# 🆕 SAWARID سواريد - M25 Tanger Md 👉 Updateded Done ✅✅✅✅✅✅
+
+
+# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - M25 Zagreb Md 🟢🟢🟢🟢🟢🟢
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - M25 Zagreb Md", Purtseladze/Tsitsipas VS Neos/Tsitsipas | M25 Zagreb MD [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3aca1632c497f6730815af/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=ca1aea0031c651321f13dd63bc395559&x-time=1782407940
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - M25 Zagreb Md", Purtseladze/Tsitsipas VS Neos/Tsitsipas | M25 Zagreb MD [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3aca1632c497f6730815af/chunks.m3u8?is_vip=false&token=1782494381-Kv4cPTAAP5YTi-00b9816b736284ad6432af3e8a4b87a5a98830de-66a57c0f24ce20949fb5e5b2eb7025c6
+
+
+# 🆕 SAWARID سواريد - M25 Zagreb Md 👉 Updateded Done ✅✅✅✅✅✅
+
+
+# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Mlb 🟢🟢🟢🟢🟢🟢
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Mlb", Kansas City Royals VS Tampa Bay Rays | MLB [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=52c43a66387d680ba27f269fdfb7b755&x-time=1782407880
+
+
+# 🆕 SAWARID سواريد - Mlb 👉 Updateded Done ✅✅✅✅✅✅
+
+
+# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Racing 🟢🟢🟢🟢🟢🟢
+
+
+#EXTINF:-1 tvg-id="tapmad-14663" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17823369551020x576.jpg" group-title="SAWARID سواريد - Racing", CrowdStrike 24 Hours of Spa - Qualifying 1 - 4 (Group A, B, C)  Live | GT World Challenge EU & Asia 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8
+
+
+# 🆕 SAWARID سواريد - Racing 👉 Updateded Done ✅✅✅✅✅✅
+
+
+# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Utr Pro Knoxville 🟢🟢🟢🟢🟢🟢
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Utr Pro Knoxville", Nicholas Mangiapane VS Nathan Pitts | UTR Pro Knoxville [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3af43f57b14e876d197510/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=8ef68a55602ee638f3e44e710af05b33&x-time=1782407820
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Utr Pro Knoxville", Nicholas Mangiapane VS Nathan Pitts | UTR Pro Knoxville [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3af43f57b14e876d197510/chunks.m3u8?is_vip=false&token=1782494266-Kv4cPTAAP5YTi-00b9816b736284ad6432af3e8a4b87a5a98830de-244dcffc2850b6f7959e9ecf9c1e7f6f
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Utr Pro Knoxville", Mitchell Sheldon VS Carson Baker | UTR Pro Knoxville [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3af43fa53630615950daa7/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=bffa707bf3c97981216166cbca89f81d&x-time=1782407820
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Utr Pro Knoxville", Mitchell Sheldon VS Carson Baker | UTR Pro Knoxville [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3af43fa53630615950daa7/chunks.m3u8?is_vip=false&token=1782494271-Kv4cPTAAP5YTi-00b9816b736284ad6432af3e8a4b87a5a98830de-8955c2659c829ba405c0b7d0599e2287
+
+
+# 🆕 SAWARID سواريد - Utr Pro Knoxville 👉 Updateded Done ✅✅✅✅✅✅
+
+
+# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Utr Pro Knoxville Women 🟢🟢🟢🟢🟢🟢
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Utr Pro Knoxville Women", Ellie Myers VS Calla McGill | UTR Pro Knoxville Women [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3aa0334b4d858b8578d1e1/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=3c903fcbb34138898dfde243f424f679&x-time=1782407760
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Utr Pro Knoxville Women", Ellie Myers VS Calla McGill | UTR Pro Knoxville Women [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3aa0334b4d858b8578d1e1/chunks.m3u8?is_vip=false&token=1782494197-Kv4cPTAAP5YTi-00b9816b736284ad6432af3e8a4b87a5a98830de-0a350d015201909f51af5be1fdd0bc0d
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Utr Pro Knoxville Women", Sydney Jara VS Mary Boyce Deatherage | UTR Pro Knoxville Women [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3aa03332c497f67306c3b7/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=8b5869f5cb8d9103b1246d4aab7caf72&x-time=1782407820
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Utr Pro Knoxville Women", Sydney Jara VS Mary Boyce Deatherage | UTR Pro Knoxville Women [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3aa03332c497f67306c3b7/chunks.m3u8?is_vip=false&token=1782494244-Kv4cPTAAP5YTi-00b9816b736284ad6432af3e8a4b87a5a98830de-a5ae43bdec040b66c09e7ca6839d3228
+
+
+# 🆕 SAWARID سواريد - Utr Pro Knoxville Women 👉 Updateded Done ✅✅✅✅✅✅
+
+
+# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Utr Pro Waco Women 🟢🟢🟢🟢🟢🟢
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Utr Pro Waco Women", Gabrielle Villegas VS Isabella Basson | UTR Pro Waco Women [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3aa0336618c8c684e46ecd/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=53c24f055074d7abf30eb01b200264da&x-time=1782407820
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Utr Pro Waco Women", Gabrielle Villegas VS Isabella Basson | UTR Pro Waco Women [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3aa0336618c8c684e46ecd/chunks.m3u8?is_vip=false&token=1782494253-Kv4cPTAAP5YTi-00b9816b736284ad6432af3e8a4b87a5a98830de-ea2ab72173e74afda10b5c0d4a5da686
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Utr Pro Waco Women", Kenna Erickson VS Stanislava Shulzhenko | UTR Pro Waco Women [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3aca168cb9e8c43bbfa1a0/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=55dc3ef18dd17f876cc105d8b8d87586&x-time=1782407820
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Utr Pro Waco Women", Kenna Erickson VS Stanislava Shulzhenko | UTR Pro Waco Women [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3aca168cb9e8c43bbfa1a0/chunks.m3u8?is_vip=false&token=1782494257-Kv4cPTAAP5YTi-00b9816b736284ad6432af3e8a4b87a5a98830de-0a15d7523f64419bf1a958e7f9355463
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Utr Pro Waco Women", Ligaya Murray VS Ishika Ashar | UTR Pro Waco Women [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ad81c30bace3974c2a3b8/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=4792a908656ecfd882527d44d9fe57ab&x-time=1782407820
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Utr Pro Waco Women", Ligaya Murray VS Ishika Ashar | UTR Pro Waco Women [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ad81c30bace3974c2a3b8/chunks.m3u8?is_vip=false&token=1782494262-Kv4cPTAAP5YTi-00b9816b736284ad6432af3e8a4b87a5a98830de-3519505a06fd0502209767eeae587e23
+
+
+# 🆕 SAWARID سواريد - Utr Pro Waco Women 👉 Updateded Done ✅✅✅✅✅✅
+
+
+# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Virsliga 🟢🟢🟢🟢🟢🟢
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Virsliga", Super Nova VS FS Jelgava | Virsliga [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1da57bd7e482cd74be5e0d/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=205bbb5f25d3fe07227d62451c66480e&x-time=1782407940
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Virsliga", Super Nova VS FS Jelgava | Virsliga [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1da57bd7e482cd74be5e0d/chunks.m3u8?is_vip=false&token=1782494364-Kv4cPTAAP5YTi-00b9816b736284ad6432af3e8a4b87a5a98830de-d9b9347a28816f0ce5ea394ed687d534
+
+
+# 🆕 SAWARID سواريد - Virsliga 👉 Updateded Done ✅✅✅✅✅✅
+
+
+# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - W15 Alkmaar 🟢🟢🟢🟢🟢🟢
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - W15 Alkmaar", Irina Balus VS Anika Jaskova | W15 Alkmaar [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3c53c09a1d202ef6263129/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=440b26deaba652badc954bef68715b02&x-time=1782407760
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - W15 Alkmaar", Irina Balus VS Anika Jaskova | W15 Alkmaar [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3c53c09a1d202ef6263129/chunks.m3u8?is_vip=false&token=1782494211-Kv4cPTAAP5YTi-00b9816b736284ad6432af3e8a4b87a5a98830de-b8562a9fe8812cc9f5efec70f95f2dba
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - W15 Alkmaar", Madelief Hageman VS Lian Tran | W15 Alkmaar [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3c53c055d8b708a78b7d4b/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=74047c4d2901b7be1e53758f0da9b31a&x-time=1782407820
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - W15 Alkmaar", Madelief Hageman VS Lian Tran | W15 Alkmaar [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3c53c055d8b708a78b7d4b/chunks.m3u8?is_vip=false&token=1782494225-Kv4cPTAAP5YTi-00b9816b736284ad6432af3e8a4b87a5a98830de-df2d9f489b22ad3a987dbef3590898bd
+
+
+# 🆕 SAWARID سواريد - W15 Alkmaar 👉 Updateded Done ✅✅✅✅✅✅
+
+
+# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - W35 Rome 🟢🟢🟢🟢🟢🟢
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - W35 Rome", Madison Brengle VS Ekaterina Khayrutdinova | W35 Rome [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ce07f9a1d202ef62cf19f/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=ce67ed34416b6df0465ec180d8ba4fe3&x-time=1782407760
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - W35 Rome", Madison Brengle VS Ekaterina Khayrutdinova | W35 Rome [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ce07f9a1d202ef62cf19f/chunks.m3u8?is_vip=false&token=1782494206-Kv4cPTAAP5YTi-00b9816b736284ad6432af3e8a4b87a5a98830de-5bd306e806effdbe10b282c5daaea0e7
+
+
+# 🆕 SAWARID سواريد - W35 Rome 👉 Updateded Done ✅✅✅✅✅✅
+
+
+# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - W35 Rome Wd 🟢🟢🟢🟢🟢🟢
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - W35 Rome Wd", Charney/Ava Esposito Cogan VS Broadus/Collins | W35 Rome WD [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3cd292d7f718fae4c65c03/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=87706d52af6d10eab5484da35cef2e83&x-time=1782407820
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - W35 Rome Wd", Charney/Ava Esposito Cogan VS Broadus/Collins | W35 Rome WD [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3cd292d7f718fae4c65c03/chunks.m3u8?is_vip=false&token=1782494279-Kv4cPTAAP5YTi-00b9816b736284ad6432af3e8a4b87a5a98830de-4cadc0f6ee5de04c039bd5be818dc34c
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - W35 Rome Wd", Akli/Kuwata VS Daniel/Fairclough | W35 Rome WD [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3b3acdbb875b4ddff834b6/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=4fbc27916fbeef5ecfd0f6f671c01c1a&x-time=1782408000
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - W35 Rome Wd", Akli/Kuwata VS Daniel/Fairclough | W35 Rome WD [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3b3acdbb875b4ddff834b6/chunks.m3u8?is_vip=false&token=1782494409-Kv4cPTAAP5YTi-00b9816b736284ad6432af3e8a4b87a5a98830de-62b64dcde901dff4fc2ad03b4cc9ade2
+
+
+# 🆕 SAWARID سواريد - W35 Rome Wd 👉 Updateded Done ✅✅✅✅✅✅
+
+
+# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - W35 Tarvisio 🟢🟢🟢🟢🟢🟢
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - W35 Tarvisio", Radka Zelnickova VS Alja Senica | W35 Tarvisio [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3d4d0ace986c474057044e/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=bd2f96e7e16553497525897260faae3e&x-time=1782407880
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - W35 Tarvisio", Radka Zelnickova VS Alja Senica | W35 Tarvisio [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3d4d0ace986c474057044e/chunks.m3u8?is_vip=false&token=1782494287-Kv4cPTAAP5YTi-00b9816b736284ad6432af3e8a4b87a5a98830de-18d4c5ae23ed798eb851302545fa02fb
+
+
+# 🆕 SAWARID سواريد - W35 Tarvisio 👉 Updateded Done ✅✅✅✅✅✅
+
+
+# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - W50 Gdansk Wd 🟢🟢🟢🟢🟢🟢
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - W50 Gdansk Wd", Ewald/Kuczer VS Hietaranta/Steur | W50 Gdansk WD [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3bf1b3aed4bb3db0978d3d/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=31a731e77cbbb3f9948444be03bedb88&x-time=1782407880
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - W50 Gdansk Wd", Ewald/Kuczer VS Hietaranta/Steur | W50 Gdansk WD [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3bf1b3aed4bb3db0978d3d/chunks.m3u8?is_vip=false&token=1782494283-Kv4cPTAAP5YTi-00b9816b736284ad6432af3e8a4b87a5a98830de-934b0259bd8339e064bcc76eb8745294
+
+
+# 🆕 SAWARID سواريد - W50 Gdansk Wd 👉 Updateded Done ✅✅✅✅✅✅
+
+
+# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Wimbledon 🟢🟢🟢🟢🟢🟢
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Wimbledon", Nicolai Budkov Kjaer VS Otto Virtanen | Wimbledon [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3c2989945e9dbcc750c6d4/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=76427e82165a9c92c8634fc7b39ae15e&x-time=1782407940
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Wimbledon", Nicolai Budkov Kjaer VS Otto Virtanen | Wimbledon [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3c2989945e9dbcc750c6d4/chunks.m3u8?is_vip=false&token=1782494395-Kv4cPTAAP5YTi-00b9816b736284ad6432af3e8a4b87a5a98830de-3a6feb259758474a18a6d074234ff666
+
+
+# 🆕 SAWARID سواريد - Wimbledon 👉 Updateded Done ✅✅✅✅✅✅
+
+
+# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Wimbledon Women 🟢🟢🟢🟢🟢🟢
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Wimbledon Women", Aliaksandra Sasnovich VS Bianca Andreescu | Wimbledon Women [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3c2989945e9dbcc750c6d5/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=949f1f63f5f441d8e51f03afbeabedea&x-time=1782407940
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Wimbledon Women", Aliaksandra Sasnovich VS Bianca Andreescu | Wimbledon Women [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3c2989945e9dbcc750c6d5/chunks.m3u8?is_vip=false&token=1782494341-Kv4cPTAAP5YTi-00b9816b736284ad6432af3e8a4b87a5a98830de-85c27df2f66b44ec7d3beff467c36137
+
+
+# 🆕 SAWARID سواريد - Wimbledon Women 👉 Updateded Done ✅✅✅✅✅✅
+
+
+# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Wta Bad Homburg 🟢🟢🟢🟢🟢🟢
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Wta Bad Homburg", Karolina Muchova VS Clara Tauson | WTA Bad Homburg [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3c45adbb875b4ddffee93d/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=69c723a1241b572371b508c3d5d441a0&x-time=1782407940
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Wta Bad Homburg", Karolina Muchova VS Clara Tauson | WTA Bad Homburg [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3c45adbb875b4ddffee93d/chunks.m3u8?is_vip=false&token=1782494346-Kv4cPTAAP5YTi-00b9816b736284ad6432af3e8a4b87a5a98830de-0c54ce00c1c2084e11fe959cfec9a1be
+
+
+# 🆕 SAWARID سواريد - Wta Bad Homburg 👉 Updateded Done ✅✅✅✅✅✅
+
+
+# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Wta Eastbourne 🟢🟢🟢🟢🟢🟢
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Wta Eastbourne", Caty McNally VS Petra Marcinko | WTA Eastbourne [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3c29894e6abdac61d1a0d6/chunks.m3u8?is_vip=false&token=00b9816b736284ad6432af3e8a4b87a5a98830de&x-sign=182478ef0ee67f0a7f88e6d4a5987eff&x-time=1782407940
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Wta Eastbourne", Caty McNally VS Petra Marcinko | WTA Eastbourne [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3c29894e6abdac61d1a0d6/chunks.m3u8?is_vip=false&token=1782494350-Kv4cPTAAP5YTi-00b9816b736284ad6432af3e8a4b87a5a98830de-0a48e4b37ca4ae59d4bbfeca324e9630
+
+
+# 🆕 SAWARID سواريد - Wta Eastbourne 👉 Updateded Done ✅✅✅✅✅✅
+
+
+# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Ykkönen 🟢🟢🟢🟢🟢🟢
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Ykkönen", JJK VS Inter Turku II | Ykkönen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SAWARID سواريد - Ykkönen", FC jazz VS Tampere United | Ykkönen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+
+
+# 🆕 SAWARID سواريد - Ykkönen 👉 Updateded Done ✅✅✅✅✅✅
 
 
 # 🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡 Local Channel Updated  🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡
