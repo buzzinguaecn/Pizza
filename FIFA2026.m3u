@@ -17,7 +17,7 @@
 http://sm-monirul.top/ott/bioscope/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", I Screen (HD)
-#http://sm-monirul.top/ott/iscreen/index.m3u8
+http://sm-monirul.top/ott/iscreen/index.m3u8
 
 
 
@@ -102,6 +102,9 @@ http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz
 #https://edge2caster.pro/hls/eJmauBDCIf.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz
+https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", FAST (HD)
 http://asmrasmr.live:8080/live/39495727290/01928238338/1130729.ts
