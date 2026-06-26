@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 08:01:17PM - 26-06-2026
-# Total Channel Found: 5579 Channel
+# Update Time: 01:27:21AM - 27-06-2026
+# Total Channel Found: 5587 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -16360,6 +16360,9 @@ https://cdnbal1.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-3277707030000
 #EXTINF:-1 tvg-logo="https://media.suara.com/pictures/653x366/2020/09/15/20484-logo-indosiar.jpg" group-title="NASIONAL", 13. INDOSIAR2
 https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
+#EXTINF:-1 tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p3/123/2025/10/14/trans7-logo-3306668923.jpg" group-title="NASIONAL", 20.Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w577694934_b744100_sleng.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA", A RTBF
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 
@@ -16384,8 +16387,29 @@ https://dash3.antik.sk/stream/nvidia_joj_sport_2/playlist_cenc.mpd
 #EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA", Caze TV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA", RTB Go
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA", PTV SPORT
+http://premiumtvs.space/live/jen12345/Jen54321/89.ts
+
+#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA", bein max 1
+http://premiumorg11.com/live/damien56/65903/461671.ts
+
+#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA", bein max 2
+http://myxpanel.pro/live/13579/13579/835117.ts
+
+#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA", Fs 2 fhd
+http://myxpanel.pro/live/13579/13579/838115.ts
+
+#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA", Dazn Mundial 1 fhd
+http://myxpanel.pro/live/13579/13579/838108.ts
+
+#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA", Dazn Mundial 2 fhd
+http://myxpanel.pro/live/13579/13579/838106.ts
+
+#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA", Super Sport psl Central
+http://opplextv.cyou:8080/live/nasir6160/nasir/444349.ts
+
+#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA", Unite8 Sports 1 fhd
+http://opplextv.cyou:8080/live/nasir6160/nasir/444332.ts
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/png/fifaplus.png" group-title="SPORTS", FIFA+ 1
 https://d7pd9oqdl4d44.cloudfront.net/2026_03_30_13_54_57_ac3e36a0-8580-4ec7-9f5f-33e3da960642/PROD_CMAF_CENC/index-dash.mpd
