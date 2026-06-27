@@ -336,8 +336,6 @@ https://play1.gzxdby.com/live/783234345958_4547667094_1080p.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", TYC Sports (HD)
-https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
 
 
 
@@ -365,7 +363,7 @@ https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
 http://84.17.50.102/fox/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", Dazn Direct(HD)
-https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+#https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", Win Sports (HD)
 #https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
@@ -387,10 +385,6 @@ https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
 https://cors-everywhere-wc8b4.ondigitalocean.app/https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", Telemundo (AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ff46a8a1031eb27ef22576a077c98ab7:f6564ec2aee819046328a0e153be574d
-https://cors-everywhere-wc8b4.ondigitalocean.app/https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", Telemundo Spanish
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -423,11 +417,11 @@ https://cors-everywhere-wc8b4.ondigitalocean.app/https://otte.cache.aiv-cdn.net/
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", Fussball 1(HD)
-http://starhub.pro/live/farhat-3379/67897-913379/742610.ts
+#http://starhub.pro/live/farhat-3379/67897-913379/742610.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", Fussball 2(HD)
-http://starhub.pro/live/farhat-3379/67897-913379/742611.ts
+#http://starhub.pro/live/farhat-3379/67897-913379/742611.ts
 
 
 
@@ -452,7 +446,7 @@ http://starhub.pro/live/farhat-3379/67897-913379/742611.ts
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8 ✅
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", Tudn Sports (HD)
-https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
+#https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", El Heddaf (HD)
 
@@ -477,10 +471,10 @@ https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #http://starhub.pro/live/farhat-3379/67897-913379/744526.ts ✅
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", Beain 5(HD)
-http://starhub.pro/live/farhat-3379/67897-913379/744527.ts ✅
+#http://starhub.pro/live/farhat-3379/67897-913379/744527.ts ✅
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", TSN 1(HD)
-https://airtel.rkdyiptv.workers.dev/live/258.m3u8
+#https://airtel.rkdyiptv.workers.dev/live/258.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", D Sport(HD)
 #https://1nyaler.streamhostingcdn.top/stream/106/index.m3ts
