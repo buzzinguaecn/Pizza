@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 08:28:31AM - 28-06-2026
-# Total Channel Found: 981 Channel
+# Update Time: 02:39:21PM - 28-06-2026
+# Total Channel Found: 983 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -2764,6 +2764,9 @@ http://103.72.101.252:8080/live/972.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aRNBvTU.png" group-title="Undefined", Superhitz
 https://live-evg5.tv360.bitel.com.pe/bitel/fillka/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zMwZRGJ.png" group-title="Undefined", VTU
+https://lbgo.bozztv.com/ssh101/ssh101/afghantheatretv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VwAMqA7.png" group-title="Lifestyle", INFAST
 https://amg00861-terninternation-lifestyle-samsungau-kdlyy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungau/playlist.m3u8
 
@@ -2941,8 +2944,11 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Sports", Star Sports 1
 https://tvsen7.aynaott.com/sspts1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE_HD/images/LOGO_HD/LOGO_HD_F6ILcp4Kk_UNITE8-SPORTS-1_HD_264X144.webp" group-title="Sports", Unite8 Sports 1 HD
+https://lbgo.bozztv.com/ssh101/ssh101/qallamsortadf/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LOGO_HD/LOGO_HD_qVrE3q5rN_UNITE8-SPORTS-2_HD_264X144.webp" group-title="Sports", Unite8 Sports 2 HD
-https://mini.allinonereborn.fun/tata.php?id=11624
+http://212.102.34.8:9080/AndFlixHD/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143132_ld_h15_aa.png?lock=720x540" group-title="Documentary", History TV18
 http://103.72.101.252:8080/live/1471.m3u8
