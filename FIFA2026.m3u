@@ -14,6 +14,11 @@
 
 #====== Toffee World Cup ============
 #EXTINF:-1 tvg-id="toffee" tvg-name="FIFA World Cup" tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", South Africa 🆚 Canada
+https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index.m3u8
+#EXTVLCOPT:http-referrer=https://iscreen.com.bd/
+https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8
+#EXTVLCOPT:http-referrer=https://iscreen.com.bd/
+https://m3u-tvb.pages.dev/ics.m3u8
 https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1750.m3u8?hdntl=Expires=1782758406~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvcGp6Db-BKOjy9fF4Be8RuHRm0KT5wa4d3yi9SF0KVaUfHzWdk9C7zr_hsJUkp6zt5amWwP0GnHF7zzMnEPdHYN 
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 https://cdn5.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=RFrNjAT6eG7B5OzlQECDGA&expires=1782676333
