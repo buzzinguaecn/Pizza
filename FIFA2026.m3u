@@ -14,8 +14,10 @@
 
 #====== Toffee World Cup ============
 #EXTINF:-1 tvg-id="toffee" tvg-name="FIFA World Cup" tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", South Africa 🆚 Canada
-https://cdn5.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=RFrNjAT6eG7B5OzlQECDGA&expires=1782676333
-https://sm-monirul.top/tof/live/toffee6/index.m3u8
+#EXTINF:-1 tvg-logo="https://crichd.art/assets/uploads/channels/18.png" group-title="CricHD 24/7", PTV Sports
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn10.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=aNATsJlunK_wPQrkxMl78g&expires=1782676360
+#https://sm-monirul.top/tof/live/toffee6/index.m3u8
 #http://sm-monirul.top/tof/live/toffee1/index.m3u8
 
 
