@@ -103,23 +103,105 @@ https://cdn5.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=RFrNjAT6eG7B5OzlQECDGA&expir
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/South_Africa_VS_Canada_World_Cup.jpg" group-title="FIFA World Cup", South Africa VS Canada | World Cup [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782762608-Kv4cPTAAP5YTi-9106b0d2dc7a9835a6c02f64afbd6c929cf257f8-4b120cad2410412b2047cf044ac44f96
+https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782763293-Kv4cPTAAP5YTi-69562e51ceea92c53284f9b60cd714b0323e83ed-817ca31344b033a4520ea83c76f6c515
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/South_Africa_VS_Canada_World_Cup.jpg" group-title="FIFA World Cup", South Africa VS Canada | World Cup [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=9106b0d2dc7a9835a6c02f64afbd6c929cf257f8&x-sign=d221b0447107e6303afe21c1b2996c2b&x-time=1782676200
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=69562e51ceea92c53284f9b60cd714b0323e83ed&x-sign=f8a7534bde0ad081e501c9f788975748&x-time=1782676860
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/South_Africa_VS_Canada_World_Cup.jpg" group-title="FIFA World Cup", South Africa VS Canada | World Cup [Server 3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=69562e51ceea92c53284f9b60cd714b0323e83ed&x-sign=48d4548a989446ade9b98ce0b6d3d83d&x-time=1782676860
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/South_Africa_VS_Canada_World_Cup.jpg" group-title="FIFA World Cup", South Africa VS Canada | World Cup [Server 4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1782763294-Kv4cPTAAP5YTi-69562e51ceea92c53284f9b60cd714b0323e83ed-dd9bfb66ac13c9f79c32db9ebb5c8584
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/South_Africa_VS_Canada_World_Cup.jpg" group-title="FIFA World Cup", South Africa VS Canada | World Cup [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a2199fb1b157de5f5bf9b80/chunks.m3u8?is_vip=false&token=69562e51ceea92c53284f9b60cd714b0323e83ed&x-sign=3ce401540565dcc34a65d86490989748&x-time=1782676920
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/South_Africa_VS_Canada_World_Cup.jpg" group-title="FIFA World Cup", South Africa VS Canada | World Cup [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a2199fb1b157de5f5bf9b80/chunks.m3u8?is_vip=false&token=1782763334-Kv4cPTAAP5YTi-69562e51ceea92c53284f9b60cd714b0323e83ed-9db5797bb049d2c4797c88c750556811
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/South_Africa_VS_Canada_World_Cup.jpg" group-title="FIFA World Cup", South Africa VS Canada | World Cup [Server 3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a2199fb1b157de5f5bf9b80-hd/chunks.m3u8?is_vip=false&token=69562e51ceea92c53284f9b60cd714b0323e83ed&x-sign=79725b4e3f4904535748c6a7d57448b5&x-time=1782676920
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/South_Africa_VS_Canada_World_Cup.jpg" group-title="FIFA World Cup", South Africa VS Canada | World Cup [Server 4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a2199fb1b157de5f5bf9b80-hd/chunks.m3u8?is_vip=false&token=1782763335-Kv4cPTAAP5YTi-69562e51ceea92c53284f9b60cd714b0323e83ed-003f8c5854fdc4129bf3911e4c7625dd
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/South_Africa_VS_Canada_World_Cup.jpg" group-title="FIFA World Cup", South Africa VS Canada | World Cup [Server 5]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a2199fb1b157de5f5bf9b80-cnhd/chunks.m3u8?is_vip=false&token=69562e51ceea92c53284f9b60cd714b0323e83ed&x-sign=8ea03dcdea149ead7536d2c9300d35c9&x-time=1782676920
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/South_Africa_VS_Canada_World_Cup.jpg" group-title="FIFA World Cup", South Africa VS Canada | World Cup [Server 6]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a2199fb1b157de5f5bf9b80-cnhd/chunks.m3u8?is_vip=false&token=1782763335-Kv4cPTAAP5YTi-69562e51ceea92c53284f9b60cd714b0323e83ed-ddaa6ad9184412be8947f5478baafc92
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/South_Africa_VS_Canada_World_Cup.jpg" group-title="FIFA World Cup", South Africa VS Canada | World Cup [Server 7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a2199fb1b157de5f5bf9b80-cnhd2/chunks.m3u8?is_vip=false&token=69562e51ceea92c53284f9b60cd714b0323e83ed&x-sign=9677607847f62cdca948429223aba177&x-time=1782676920
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/South_Africa_VS_Canada_World_Cup.jpg" group-title="FIFA World Cup", South Africa VS Canada | World Cup [Server 8]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a2199fb1b157de5f5bf9b80-cnhd2/chunks.m3u8?is_vip=false&token=1782763336-Kv4cPTAAP5YTi-69562e51ceea92c53284f9b60cd714b0323e83ed-c3dd35ef62c610065908ea8f70d3be5a
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/South_Africa_VS_Canada_World_Cup.jpg" group-title="FIFA World Cup", South Africa VS Canada | World Cup [Server 9]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a2199fb1b157de5f5bf9b80-fhd/chunks.m3u8?is_vip=false&token=69562e51ceea92c53284f9b60cd714b0323e83ed&x-sign=ce205c79c62afef8e132becebcec278f&x-time=1782676920
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/South_Africa_VS_Canada_World_Cup.jpg" group-title="FIFA World Cup", South Africa VS Canada | World Cup [Server 10]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a2199fb1b157de5f5bf9b80-fhd/chunks.m3u8?is_vip=false&token=1782763337-Kv4cPTAAP5YTi-69562e51ceea92c53284f9b60cd714b0323e83ed-738a322be6d18d059400ae52c43067d3
 
 
 #EXTINF:-1 tvg-id="1629495315" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/South_Africa_VS_Canada_World_Cup.jpg" group-title="FIFA World Cup", South Africa vs Canada - Unknown League [2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782762400-Kv4cPTAAP5YTi-b1660aac18916dac7369d91bd0685b3bb4e699ad-a91e3038199a8038426fab927975ccb4
+https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782763311-Kv4cPTAAP5YTi-8f667b541e30e91a1904eef42f12d9dff504e277-01abb3cd3861d148b2730c3f2509f3a0
 
 
 #EXTINF:-1 tvg-id="1629495315" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/South_Africa_VS_Canada_World_Cup.jpg" group-title="FIFA World Cup", South Africa vs Canada - Unknown League [2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=b1660aac18916dac7369d91bd0685b3bb4e699ad&x-sign=89ae90650f3b3be5033c1169436b5d20&x-time=1782675960
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=8f667b541e30e91a1904eef42f12d9dff504e277&x-sign=f44f31d7045a3ea5488c65ad250ff655&x-time=1782676860
+
+
+#EXTINF:-1 tvg-id="1629495315" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/South_Africa_VS_Canada_World_Cup.jpg" group-title="FIFA World Cup", South Africa vs Canada - Unknown League [177]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=8f667b541e30e91a1904eef42f12d9dff504e277&x-sign=0b78df4a3fb35753cc4c27d8c80cb209&x-time=1782676860
+
+
+#EXTINF:-1 tvg-id="1629495315" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/South_Africa_VS_Canada_World_Cup.jpg" group-title="FIFA World Cup", South Africa vs Canada - Unknown League [177]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1782763313-Kv4cPTAAP5YTi-8f667b541e30e91a1904eef42f12d9dff504e277-d29dca6cc7c5a3cbb8683daee4c63efe
 # 🔴🔴🔴🔴🔴🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🔴 FIFA 2026 ENDED HERE  🔴🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🔴🔴🔴🔴🔴
 
 
