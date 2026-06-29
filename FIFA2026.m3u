@@ -200,23 +200,105 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brazil_VS_Japan_World_Cup.jpg" group-title="FIFA World Cup", Brazil VS Japan | World Cup [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a22eb80c811eae460a2c7ca-hd/chunks.m3u8?is_vip=false&token=dbf3c5c16a2e51772f36431500444678c794de46&x-sign=8c49a22d70d6bd4d2b7f90d2854a7e96&x-time=1782751800
+https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782840035-Kv4cPTAAP5YTi-910918da856e3923fd4233e692048eb737971cfc-51799099a6d70a388ff956ee32aaee1c
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brazil_VS_Japan_World_Cup.jpg" group-title="FIFA World Cup", Brazil VS Japan | World Cup [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a22eb80c811eae460a2c7ca-hd/chunks.m3u8?is_vip=false&token=1782838241-Kv4cPTAAP5YTi-dbf3c5c16a2e51772f36431500444678c794de46-e4ded7781fe0741e907fe34bae9be409
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=910918da856e3923fd4233e692048eb737971cfc&x-sign=2a0392f29ad9c32f6ae4e57cc895175a&x-time=1782753600
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brazil_VS_Japan_World_Cup.jpg" group-title="FIFA World Cup", Brazil VS Japan | World Cup [Server 3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=910918da856e3923fd4233e692048eb737971cfc&x-sign=aad0e4b8caeb2777a82d2b48d0924da2&x-time=1782753600
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brazil_VS_Japan_World_Cup.jpg" group-title="FIFA World Cup", Brazil VS Japan | World Cup [Server 4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1782840037-Kv4cPTAAP5YTi-910918da856e3923fd4233e692048eb737971cfc-ff6c1db40cd3a4e12be168b4d6afc58d
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brazil_VS_Japan_World_Cup.jpg" group-title="FIFA World Cup", Brazil VS Japan | World Cup [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a22eb80c811eae460a2c7ca/chunks.m3u8?is_vip=false&token=910918da856e3923fd4233e692048eb737971cfc&x-sign=61f0b67e603d3a15ddb5d92c66b4634d&x-time=1782753600
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brazil_VS_Japan_World_Cup.jpg" group-title="FIFA World Cup", Brazil VS Japan | World Cup [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a22eb80c811eae460a2c7ca/chunks.m3u8?is_vip=false&token=1782840042-Kv4cPTAAP5YTi-910918da856e3923fd4233e692048eb737971cfc-7b44b7457463840963845e98f192c68d
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brazil_VS_Japan_World_Cup.jpg" group-title="FIFA World Cup", Brazil VS Japan | World Cup [Server 3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a22eb80c811eae460a2c7ca-hd/chunks.m3u8?is_vip=false&token=910918da856e3923fd4233e692048eb737971cfc&x-sign=f75782a36c76c9147349c234334671ed&x-time=1782753600
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brazil_VS_Japan_World_Cup.jpg" group-title="FIFA World Cup", Brazil VS Japan | World Cup [Server 4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a22eb80c811eae460a2c7ca-hd/chunks.m3u8?is_vip=false&token=1782840042-Kv4cPTAAP5YTi-910918da856e3923fd4233e692048eb737971cfc-301f2e88e7c2ceb44a66ea99269d82cc
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brazil_VS_Japan_World_Cup.jpg" group-title="FIFA World Cup", Brazil VS Japan | World Cup [Server 5]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a22eb80c811eae460a2c7ca-cnhd/chunks.m3u8?is_vip=false&token=910918da856e3923fd4233e692048eb737971cfc&x-sign=d0c6efbd6b67b93292325417434acf24&x-time=1782753600
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brazil_VS_Japan_World_Cup.jpg" group-title="FIFA World Cup", Brazil VS Japan | World Cup [Server 6]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a22eb80c811eae460a2c7ca-cnhd/chunks.m3u8?is_vip=false&token=1782840043-Kv4cPTAAP5YTi-910918da856e3923fd4233e692048eb737971cfc-37bb5de1e946ee826e203561563de401
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brazil_VS_Japan_World_Cup.jpg" group-title="FIFA World Cup", Brazil VS Japan | World Cup [Server 7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a22eb80c811eae460a2c7ca-cnhd2/chunks.m3u8?is_vip=false&token=910918da856e3923fd4233e692048eb737971cfc&x-sign=26dcedafba076c12477ffa88987f0c74&x-time=1782753600
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brazil_VS_Japan_World_Cup.jpg" group-title="FIFA World Cup", Brazil VS Japan | World Cup [Server 8]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a22eb80c811eae460a2c7ca-cnhd2/chunks.m3u8?is_vip=false&token=1782840044-Kv4cPTAAP5YTi-910918da856e3923fd4233e692048eb737971cfc-2e3ad3f0c0bdec296bb1733f5d1d0066
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brazil_VS_Japan_World_Cup.jpg" group-title="FIFA World Cup", Brazil VS Japan | World Cup [Server 9]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a22eb80c811eae460a2c7ca-fhd/chunks.m3u8?is_vip=false&token=910918da856e3923fd4233e692048eb737971cfc&x-sign=e9cba9d9eff35b667809a6dbf786bf74&x-time=1782753600
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brazil_VS_Japan_World_Cup.jpg" group-title="FIFA World Cup", Brazil VS Japan | World Cup [Server 10]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a22eb80c811eae460a2c7ca-fhd/chunks.m3u8?is_vip=false&token=1782840045-Kv4cPTAAP5YTi-910918da856e3923fd4233e692048eb737971cfc-551d1632454b79ea96afba7128510340
 
 
 #EXTINF:-1 tvg-id="1629495337" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brazil_VS_Japan_World_Cup.jpg" group-title="FIFA World Cup", Brazil vs Japan - Unknown League [2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782837947-Kv4cPTAAP5YTi-a5df95c1dc9762397821e4a63a4d18124371c960-2e2160e55c6fd69562064267d796dc77
+https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782839748-Kv4cPTAAP5YTi-0ac0a322d4119b676d034b4a5b8ce7628963a775-d4e51b68e2b562c597476845e8b396e5
 
 
 #EXTINF:-1 tvg-id="1629495337" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brazil_VS_Japan_World_Cup.jpg" group-title="FIFA World Cup", Brazil vs Japan - Unknown League [2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=a5df95c1dc9762397821e4a63a4d18124371c960&x-sign=c7449ff25f4e35f300b712a11f7a4fc0&x-time=1782751500
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=0ac0a322d4119b676d034b4a5b8ce7628963a775&x-sign=46d91c885a5b3da1a6e099f15192b11a&x-time=1782753300
+
+
+#EXTINF:-1 tvg-id="1629495337" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brazil_VS_Japan_World_Cup.jpg" group-title="FIFA World Cup", Brazil vs Japan - Unknown League [177]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=0ac0a322d4119b676d034b4a5b8ce7628963a775&x-sign=3d873f79b682b9eb545562811244c806&x-time=1782753300
+
+
+#EXTINF:-1 tvg-id="1629495337" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brazil_VS_Japan_World_Cup.jpg" group-title="FIFA World Cup", Brazil vs Japan - Unknown League [177]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1782839750-Kv4cPTAAP5YTi-0ac0a322d4119b676d034b4a5b8ce7628963a775-109990c8c1345f72a7b7be40ebea5f6f
 # 🔴🔴🔴🔴🔴🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🔴 FIFA 2026 ENDED HERE  🔴🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🔴🔴🔴🔴🔴
 
 
