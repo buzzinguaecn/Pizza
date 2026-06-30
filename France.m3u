@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 01:41:08AM - 30-06-2026
-# Total Channel Found: 261 Channel
+# Update Time: 08:12:07AM - 30-06-2026
+# Total Channel Found: 262 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -366,7 +366,7 @@ https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/emciafrique.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EY6TsdV.png" group-title="Religious", KTO
-https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
+http://41.205.77.102/KTO/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QPpbRcZ.png" group-title="Sports", Equidia
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
@@ -600,6 +600,9 @@ http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/1038/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gUOXdjv.png" group-title="Undefined", like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Undefined",Syfy
 http://99.27.51.147:8080/SYFY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kDW0hN5.png" group-title="Undefined", Teva
+http://41.205.77.102/TEVA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5HcyMnW.png" group-title="Entertainment", Canal+
 http://151.80.18.177:86/Canal+_HD/index.m3u8
