@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 08:29:36AM - 01-07-2026
-# Total Channel Found: 5596 Channel
+# Update Time: 03:27:29PM - 01-07-2026
+# Total Channel Found: 5601 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -6396,7 +6396,7 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_2500000=10004-
 https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/960px-INews.png" group-title="NASIONAL", 23. INEWS IND
-https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/11.ts
+http://202.169.224.202:8800/udp/238.2.2.27:1234
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xmVzkKw/SCTV.png" group-title="NASIONAL", 17.SCTV VDO
 http://202.169.224.202:8800/udp/239.9.1.29:1234
@@ -6423,7 +6423,7 @@ https://gooo.blog/opix/genx.m3u8?id=vtv&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/trans7.jpg" group-title="NASIONAL", 20. TRANS 7 V
-https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
+http://iptv.kilas7.com/live/kaukia/asdfrewq/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo.webp?v=12.1.4" group-title="NASIONAL", CNN Indonesia
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685651d7bcc01651f0e4ce10098/manifest.mpd
@@ -6438,7 +6438,7 @@ https://flv.intechmedia.net/live/ch111.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8|eferrer=https://dens.tv/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jxKzZn/Rtv.png" group-title="NASIONAL", 25.RTV
-https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV
+https://nextgenz.my.id/event/pidio/play.mpd?id=1561&type=dash
 
 #EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1725851535_tvchannels_v1.jpg" group-title="NASIONAL", Channel Jowo
 https://op-group1-swiftservehd-1.dens.tv/h/h77/index.m3u8
@@ -16375,14 +16375,32 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?i
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/%C4%8CT_sport_logo.png" group-title="PialaDunia 2026", CT SPORT
 https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd
 
+#EXTINF:-1 tvg-logo="https://vectorseek.com/wp-content/uploads/2023/11/TVRI-Televisi-Republik-Indonesia-2019-black-Logo-Vector.svg-.png" group-title="NASIONAL", 11.TVRI Nasional
+http://103.148.44.38:8000/play/a03t/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/960px-INews.png" group-title="NASIONAL", 23. INEWS
 https://cdnbal1.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-logo="https://media.suara.com/pictures/653x366/2020/09/15/20484-logo-indosiar.jpg" group-title="NASIONAL", 13. INDOSIAR2
 https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wr5jRyZ/Moji.png" group-title="NASIONAL", 26.MOJI TV
+http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179175
+
+#EXTINF:-1 tvg-logo="https://onesky.org/wp-content/uploads/2018/01/antv-692x321.png" group-title="NASIONAL", 12.ANTV D
+http://iptv.kilas7.com:80/live/kaukia/asdfrewq/7.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e14061fc-df59-4596-a365-0cf88a0faa1f/dh942j4-23ead357-bd63-4aa1-bc75-92db9133f721.png/v1/fill/w_1023, h_781/my_trans_tv_concept_logo_by_ap41ii_dh942j4-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTc3IiwicGF0aCI6IlwvZlwvZTE0MDYxZmMtZGY1OS00NTk2LWEzNjUtMGNmODhhMGZhYTFmXC9kaDk0Mmo0LTIzZWFkMzU3LWJkNjMtNGFhMS1iYzc1LTkyZGI5MTMzZjcyMS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.gOm5rNdBwnXC4Ivj9yWAv1BsU5FnWeV053QAAo0C5A0" group-title="NASIONAL",h_781/my_trans_tv_concept_logo_by_ap41ii_dh942j4-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTc3IiwicGF0aCI6IlwvZlwvZTE0MDYxZmMtZGY1OS00NTk2LWEzNjUtMGNmODhhMGZhYTFmXC9kaDk0Mmo0LTIzZWFkMzU3LWJkNjMtNGFhMS1iYzc1LTkyZGI5MTMzZjcyMS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.gOm5rNdBwnXC4Ivj9yWAv1BsU5FnWeV053QAAo0C5A0" group-title="NASIONAL",14. TRANSTV D
+http://202.169.224.202:8800/udp/239.4.1.1:1234
+
 #EXTINF:-1 tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p3/123/2025/10/14/trans7-logo-3306668923.jpg" group-title="NASIONAL", 20.Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w577694934_b744100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vidio.com/blog/wp-content/uploads/sites/2/elementor/thumbs/Kompas-Tv-qv79xqpttdl5r73ywsh17b09bojsp6oux50bxcwidq.jpg" group-title="NASIONAL", 22.KOMPAS TV
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
+
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/348/2025/02/25/6190412213303492665-3435062896.jpg" group-title="NASIONAL", 24.MDTV
+http://202.150.161.212:5000/live/channel31/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA", A RTBF
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
@@ -16400,7 +16418,7 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT.ism/playlist.mpd
 
 #EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA", A TVRI
-http://103.148.44.38:8000/play/a03t/index.m3u8
+http://iptv.kilas7.com:80/kaukia/asdfrewq/272
 
 #EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA", B JOJ SPORT
 https://dash3.antik.sk/stream/nvidia_joj_sport_2/playlist_cenc.mpd
@@ -16485,9 +16503,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ChampionsGolf2HD/mediampd/Champio
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/287/191287-LOGO-l.png" group-title="SPORTS", V+ Live 5
 https://fta1-cdn-flr.visionplus.id/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
-
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/moji.jpg" group-title="SPORTS", MOJI TV SPORT
-http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179175
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXSports_2026_01_31_00_39_38.jpg" group-title="SPORTS", MAX SPORT
 https://cdnbal1.indihometv.com/atm/DASH/useesport/useesport-avc1_2500000=7-3277707030000000.mpd
