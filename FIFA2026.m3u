@@ -171,41 +171,33 @@ https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8|referer=https://instream.cl
 
 
 # 🟡🟡🟡🟡🟡🔵🔵🔵🔵🔵🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡 FIFA 2026 UPADTE HERE  🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🔵🔵🔵🔵🔵🟡🟡🟡🟡🟡
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="FIFA World Cup", Saburtalo VS Torpedo Kutaisi | Super Cup [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a41cd248cb9e8c43b111543/chunks.m3u8?is_vip=false&token=a8a67c062318415df918dc272c5d77d8729d5fb3&x-sign=e49f621a27b89fd8be3df7932f2ce509&x-time=1782929940
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="FIFA World Cup", Saburtalo VS Torpedo Kutaisi | Super Cup [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a41cd248cb9e8c43b111543/chunks.m3u8?is_vip=false&token=1783016371-Kv4cPTAAP5YTi-a8a67c062318415df918dc272c5d77d8729d5fb3-4f1c600b98ffeba9dffc23eb308230a3
+
+
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="FIFA World Cup", Luckenwalde VS VfL Halle | Friendlies Clubs [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a429daf0056754441795fa7/chunks.m3u8?is_vip=false&token=0930045bc2f1e5e9023cb2f0b76f11ca9ed944c6&x-sign=4d5269e37bcf7faa3a8aac5f922fab56&x-time=1782929040
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a429daf0056754441795fa7/chunks.m3u8?is_vip=false&token=a8a67c062318415df918dc272c5d77d8729d5fb3&x-sign=d7407bf9377667ed056ff5a48d2def96&x-time=1782929940
 
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="FIFA World Cup", Luckenwalde VS VfL Halle | Friendlies Clubs [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a429daf0056754441795fa7/chunks.m3u8?is_vip=false&token=1783015470-Kv4cPTAAP5YTi-0930045bc2f1e5e9023cb2f0b76f11ca9ed944c6-34211e00625eecce19e8096d7c931af0
-
-
-#EXTINF:-1 tvg-id="1567307" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England_VS_Congo_DR_World_Cup.jpg" group-title="FIFA World Cup", England vs Congo DR - World Cup [240885]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=1783015256-Kv4cPTAAP5YTi-c6d416a4a28267767d2e3dff5ad4e52a2da86dbc-0488eb235d80c45fa669f06b272482e0
-
-
-#EXTINF:-1 tvg-id="1567307" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England_VS_Congo_DR_World_Cup.jpg" group-title="FIFA World Cup", England vs Congo DR - World Cup [240885]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=c6d416a4a28267767d2e3dff5ad4e52a2da86dbc&x-sign=d0f66715ce866d524746fcdbd6ea78d5&x-time=1782928800
-
-
-#EXTINF:-1 tvg-id="1567307" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England_VS_Congo_DR_World_Cup.jpg" group-title="FIFA World Cup", England vs Congo DR - World Cup [11088]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/11088/720p/chunks.m3u8?is_vip=false&token=1783015257-Kv4cPTAAP5YTi-c6d416a4a28267767d2e3dff5ad4e52a2da86dbc-dc5420c37e7c0f63a40488635fc01211
-
-
-#EXTINF:-1 tvg-id="1567307" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England_VS_Congo_DR_World_Cup.jpg" group-title="FIFA World Cup", England vs Congo DR - World Cup [11088]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/11088/720p/chunks.m3u8?is_vip=false&token=c6d416a4a28267767d2e3dff5ad4e52a2da86dbc&x-sign=07ccbdf59fe8ef0f7bdb351f07b24d6c&x-time=1782928800
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a429daf0056754441795fa7/chunks.m3u8?is_vip=false&token=1783016375-Kv4cPTAAP5YTi-a8a67c062318415df918dc272c5d77d8729d5fb3-ba8c6a79d370b65f1dfaea81f58c4c15
 
 
 #EXTINF:-1 tvg-id="1517303" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="FIFA World Cup", Forge vs Vancouver FC - Canadian Premier League [450]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=c6d416a4a28267767d2e3dff5ad4e52a2da86dbc&x-sign=b43d83cd2a56d0d9fae9e5170f0fe387&x-time=1782928860
+https://livecdn-bp-iptv.rumsport7.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=19aa6774e167e69441363f7743eeb23d64eb0b21&x-sign=a6e9484c7ceaa83a74749677707539f9&x-time=1782929700
 # 🔴🔴🔴🔴🔴🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🔴 FIFA 2026 ENDED HERE  🔴🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🔴🔴🔴🔴🔴
 
 
