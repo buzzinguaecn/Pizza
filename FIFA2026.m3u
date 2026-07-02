@@ -185,25 +185,61 @@ https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8|referer=https://instream.cl
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Spain_VS_Austria_World_Cup.jpg" group-title="FIFA World Cup", Spain VS Austria | World Cup [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a26dffcdf297140c416ef95-hd/chunks.m3u8?is_vip=false&token=fadf7a36556c71e455e7d77924223a986b9b4389&x-sign=493347c31544164e50864a5b65916124&x-time=1783018140
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a26dffcdf297140c416ef95/chunks.m3u8?is_vip=false&token=dab2a60dda6f0bd274ba6145879989d4350d5553&x-sign=f71ae3017604c35c3cff05f9920df1dc&x-time=1783021740
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Spain_VS_Austria_World_Cup.jpg" group-title="FIFA World Cup", Spain VS Austria | World Cup [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a26dffcdf297140c416ef95-hd/chunks.m3u8?is_vip=false&token=1783104573-Kv4cPTAAP5YTi-fadf7a36556c71e455e7d77924223a986b9b4389-31fb523f47141ebc0a4dda185edbe9df
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a26dffcdf297140c416ef95/chunks.m3u8?is_vip=false&token=1783108169-Kv4cPTAAP5YTi-dab2a60dda6f0bd274ba6145879989d4350d5553-1760966fff241b2c5d5321c63e6a8d5a
 
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="FIFA World Cup", FC BW Linz VS Dynamo Kyiv | Friendlies Clubs [Server 1]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Spain_VS_Austria_World_Cup.jpg" group-title="FIFA World Cup", Spain VS Austria | World Cup [Server 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a454094aed4bb3db0fb41ef/chunks.m3u8?is_vip=false&token=fadf7a36556c71e455e7d77924223a986b9b4389&x-sign=1ceb583d4831cfc40d2552a42cdc077f&x-time=1783018140
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a26dffcdf297140c416ef95-hd/chunks.m3u8?is_vip=false&token=dab2a60dda6f0bd274ba6145879989d4350d5553&x-sign=10953d1dc82b3ab014536e4fb478cf64&x-time=1783021740
 
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="FIFA World Cup", FC BW Linz VS Dynamo Kyiv | Friendlies Clubs [Server 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Spain_VS_Austria_World_Cup.jpg" group-title="FIFA World Cup", Spain VS Austria | World Cup [Server 4]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a454094aed4bb3db0fb41ef/chunks.m3u8?is_vip=false&token=1783104576-Kv4cPTAAP5YTi-fadf7a36556c71e455e7d77924223a986b9b4389-cd89fa61d6c0a62fd92312d1f5da1fd5
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a26dffcdf297140c416ef95-hd/chunks.m3u8?is_vip=false&token=1783108169-Kv4cPTAAP5YTi-dab2a60dda6f0bd274ba6145879989d4350d5553-2447d329edc7ee323cc64ad1f9ffb4f2
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Spain_VS_Austria_World_Cup.jpg" group-title="FIFA World Cup", Spain VS Austria | World Cup [Server 5]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a26dffcdf297140c416ef95-cnhd/chunks.m3u8?is_vip=false&token=dab2a60dda6f0bd274ba6145879989d4350d5553&x-sign=87e62e1229f6465b07cede20e6ce355e&x-time=1783021740
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Spain_VS_Austria_World_Cup.jpg" group-title="FIFA World Cup", Spain VS Austria | World Cup [Server 6]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a26dffcdf297140c416ef95-cnhd/chunks.m3u8?is_vip=false&token=1783108170-Kv4cPTAAP5YTi-dab2a60dda6f0bd274ba6145879989d4350d5553-759bdc4713091c7fd739f52935941d73
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Spain_VS_Austria_World_Cup.jpg" group-title="FIFA World Cup", Spain VS Austria | World Cup [Server 7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a26dffcdf297140c416ef95-cnhd2/chunks.m3u8?is_vip=false&token=dab2a60dda6f0bd274ba6145879989d4350d5553&x-sign=b6f48bb999815422fc0346638e400298&x-time=1783021740
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Spain_VS_Austria_World_Cup.jpg" group-title="FIFA World Cup", Spain VS Austria | World Cup [Server 8]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a26dffcdf297140c416ef95-cnhd2/chunks.m3u8?is_vip=false&token=1783108170-Kv4cPTAAP5YTi-dab2a60dda6f0bd274ba6145879989d4350d5553-32c355d0508a5b9ca07e01984aee5829
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Spain_VS_Austria_World_Cup.jpg" group-title="FIFA World Cup", Spain VS Austria | World Cup [Server 9]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a26dffcdf297140c416ef95-fhd/chunks.m3u8?is_vip=false&token=dab2a60dda6f0bd274ba6145879989d4350d5553&x-sign=a0ee1bb2bcb72dd1524ef54799cc30e5&x-time=1783021740
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Spain_VS_Austria_World_Cup.jpg" group-title="FIFA World Cup", Spain VS Austria | World Cup [Server 10]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a26dffcdf297140c416ef95-fhd/chunks.m3u8?is_vip=false&token=1783108171-Kv4cPTAAP5YTi-dab2a60dda6f0bd274ba6145879989d4350d5553-4def5ea40c3247766a05ff16e250bafd
 # 🔴🔴🔴🔴🔴🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🔴 FIFA 2026 ENDED HERE  🔴🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🔴🔴🔴🔴🔴
 
 
