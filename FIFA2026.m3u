@@ -22,6 +22,13 @@
 https://cdn-tt.pages.dev/ch1.m3u8
 
 
+#EXTINF:-1 tvg-id="toffee" tvg-name="FIFA World Cup" tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", Switzerland 🆚 Algeria
+#https://cdn-tt.pages.dev/ch3.m3u8
+#EXTINF:-1 tvg-id="toffee" tvg-name="FIFA World Cup" tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", Portugal 🆚 Croatia
+#https://cdn-tt.pages.dev/ch2.m3u8
+
+
+
 #EXTINF:-1 tvg-id="toffee" tvg-name="FIFA World Cup" tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", i Screen
 #EXTVLCOPT:http-referrer=https://iscreen.com.bd/
 https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8
