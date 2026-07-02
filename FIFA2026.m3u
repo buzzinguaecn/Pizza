@@ -171,16 +171,52 @@ https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8|referer=https://instream.cl
 
 
 # 🟡🟡🟡🟡🟡🔵🔵🔵🔵🔵🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡 FIFA 2026 UPADTE HERE  🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🔵🔵🔵🔵🔵🟡🟡🟡🟡🟡
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Universitatea_Cluj_VS_Vojvodina_Friendlies_Clubs.jpg" group-title="FIFA World Cup", Universitatea Cluj VS Vojvodina | Friendlies Clubs [Server 1]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Akademiya_Ontustik_VS_Shakhter_Karagandy_1._Division.jpg" group-title="FIFA World Cup", Akademiya Ontustik VS Shakhter Karagandy | 1. Division [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a429daf0056754441795fda/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=3d5b71979229d1a48e88d60f82f469a3&x-time=1782990060
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a258e7ecaec5478253721ab/chunks.m3u8?is_vip=false&token=d05b86ac62028c41081881a177cd5b5884e4f65c&x-sign=d0ac57ffbc411a69cfb05527a2663632&x-time=1782992940
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Universitatea_Cluj_VS_Vojvodina_Friendlies_Clubs.jpg" group-title="FIFA World Cup", Universitatea Cluj VS Vojvodina | Friendlies Clubs [Server 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Akademiya_Ontustik_VS_Shakhter_Karagandy_1._Division.jpg" group-title="FIFA World Cup", Akademiya Ontustik VS Shakhter Karagandy | 1. Division [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a429daf0056754441795fda/chunks.m3u8?is_vip=false&token=1783076492-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-4867599ed2f6b2772d12ec3acf6bc1e6
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a258e7ecaec5478253721ab/chunks.m3u8?is_vip=false&token=1783079361-Kv4cPTAAP5YTi-d05b86ac62028c41081881a177cd5b5884e4f65c-b6f131c433a53073eedb0a501366cede
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Koper_VS_Corvinul_Hunedoara_Friendlies_Clubs.jpg" group-title="FIFA World Cup", Koper VS Corvinul Hunedoara | Friendlies Clubs [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a429daf0056754441795fe0/chunks.m3u8?is_vip=false&token=d05b86ac62028c41081881a177cd5b5884e4f65c&x-sign=bf2862a499942c9f8bf6894b4501130c&x-time=1782992940
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Koper_VS_Corvinul_Hunedoara_Friendlies_Clubs.jpg" group-title="FIFA World Cup", Koper VS Corvinul Hunedoara | Friendlies Clubs [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a429daf0056754441795fe0/chunks.m3u8?is_vip=false&token=1783079365-Kv4cPTAAP5YTi-d05b86ac62028c41081881a177cd5b5884e4f65c-4560fbb073d14c3f4ff1f54ab3321425
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Aluminij_VS_CFR_1907_Cluj_Friendlies_Clubs.jpg" group-title="FIFA World Cup", Aluminij VS CFR 1907 Cluj | Friendlies Clubs [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a45bf1b9a1d202ef6933f49/chunks.m3u8?is_vip=false&token=d05b86ac62028c41081881a177cd5b5884e4f65c&x-sign=d78e980142b52dc1813111b934969a9b&x-time=1782992940
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Aluminij_VS_CFR_1907_Cluj_Friendlies_Clubs.jpg" group-title="FIFA World Cup", Aluminij VS CFR 1907 Cluj | Friendlies Clubs [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a45bf1b9a1d202ef6933f49/chunks.m3u8?is_vip=false&token=1783079369-Kv4cPTAAP5YTi-d05b86ac62028c41081881a177cd5b5884e4f65c-4d024effb474cadd8c9eac24858718b7
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="FIFA World Cup", Transport United VS Drukpa | Premier League [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a429daf0056754441795fe1/chunks.m3u8?is_vip=false&token=d05b86ac62028c41081881a177cd5b5884e4f65c&x-sign=fc2acb19b3e10e9da880b3e3482596b5&x-time=1782992940
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="FIFA World Cup", Transport United VS Drukpa | Premier League [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a429daf0056754441795fe1/chunks.m3u8?is_vip=false&token=1783079373-Kv4cPTAAP5YTi-d05b86ac62028c41081881a177cd5b5884e4f65c-cc2929d975586324bd636eee345f2cff
 # 🔴🔴🔴🔴🔴🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🔴 FIFA 2026 ENDED HERE  🔴🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🔴🔴🔴🔴🔴
 
 
