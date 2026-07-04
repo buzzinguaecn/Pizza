@@ -31,16 +31,20 @@ https://cdn-tt.pages.dev/ch2.m3u8
 
 
 
-#EXTINF:-1 tvg-id="toffee" tvg-name="FIFA World Cup" tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", i Screen
+#EXTINF:-1 tvg-id="toffee" tvg-name="FIFA World Cup" tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", SAWARID سواريد
 #EXTVLCOPT:http-referrer=https://iscreen.com.bd/
 https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8
 #EXTVLCOPT:http-referrer=https://iscreen.com.bd/
 https://m3u-tvb.pages.dev/ics.m3u8
+https://fifa-stream-01.bioscopelive.com/out/v1/60e7608404004b1186261497b404630b/index_2.m3u8
+#https://hls.diptom3ow.workers.dev/r/https://fifa-stream-01.bioscopelive.com/out/v1/60e7608404004b1186261497b404630b/index_2.m3u8
 #https://cricxtv.fun/isceen.php?file=https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/tc_sg_1_1080p.m3u8
 #http://sm-monirul.top/fifa/iscreen/index.m3u8
 
 #EXTINF:-1 tvg-id="toffee" tvg-name="FIFA World Cup" tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", BBC
 #http://103.72.65.229:8422/tv.cricflixs.com/index.m3u8
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1782870503-0-0-583a444374b6f6ba206bf1f164e2b93a
+
 
 #EXTINF:-1 tvg-id="toffee" tvg-name="FIFA World Cup" tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", Unite8
 http://198.195.239.50:8095/unt-s/video.m3u8
@@ -53,11 +57,6 @@ http://starhub.pro/live/farhat-3379/67897-913379/748388.ts
 https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click
  
 
-#EXTINF:-1 tvg-id="toffee" tvg-name="FIFA World Cup" tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", FIFA 5
-#https://ataide0.sman1asjap.my.id/tsn.m3u8
-
-#EXTINF:-1 tvg-id="toffee" tvg-name="FIFA World Cup" tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", FIFA 6
-#https://cp11.adabmedia.com/hls2/sport.m3u8?nocache=1782057214460
 
 
 
@@ -237,6 +236,7 @@ http://fastshare1.com/live/25711345/late8airline/744522.ts
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg", Bein Sports 1 FHD
 http://fastshare1.com/live/25711345/late8airline/744523.ts
+https://cp11.adabmedia.com/hls2/sport.m3u8?nocache=1782057214460
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg", Bein Sports 2 FHD
 http://fastshare1.com/live/25711345/late8airline/744524.ts
