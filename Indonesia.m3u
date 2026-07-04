@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 02:22:32PM - 04-07-2026
-# Total Channel Found: 5613 Channel
+# Update Time: 12:54:56AM - 05-07-2026
+# Total Channel Found: 5612 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -1587,7 +1587,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa22a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YtaL4ro.jpg" group-title="Sports", JOJ SPORT
-https://dash3.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd
+https://dash3.antik.sk/stream/nvidia_joj_sport_2/playlist_cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QZzJw3M.jpg" group-title="Sports", MOTORVISION TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
@@ -5712,7 +5712,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/muhammadiyahtv/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/uchannel/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alexjekrex/TV_Logo/refs/heads/main/Indosiar.png" group-title="TV Nasional Indonesia", INDOSIAR Liga 1
-http://103.148.44.38:8000/play/a05c/index.m3u8
+https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="TV Nasional Indonesia", RCTI
 https://cempedak-cdn-fly.mncnow.id/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
@@ -8454,10 +8454,10 @@ https://fl1.moveonjoy.com/IL_Chicago_FOX/index.m3u8
 https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" group-title="WORLD TV", BBC ONE
-https://xemzi.short.gy/1000001
+https://nlziet-live.akamaized.net/L22/6e958e41/3e8eb32a.isml/.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-two-uk.png" group-title="WORLD TV", BBC TWO
-https://xemzi.short.gy/1000002
+https://nlziet-live.akamaized.net/L3/75825848/a684e34a.isml/.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-three-uk.png" group-title="WORLD TV", BBC THREE
 https://nlziet-live.akamaized.net/L12/4891aa65/2c23ee3a.isml/.mpd
@@ -9219,7 +9219,7 @@ https://live.streaming.a2d.tv/asset/20465725.isml/dash.mpd
 https://live.streaming.a2d.tv/asset/20465727.isml/dash.mpd
 
 #EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/Poland/TVPSport.pl.png" group-title="WORLD SPORTS", TVP Sport
-https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
+https://estreams.tv.nej.cz/dash/CH_TVP_SPORT.ism/playlist.mpd
 
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="WORLD SPORTS", Willow Sports
 https://otte.live.fly.ww.aiv-cdn.net/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
@@ -9369,7 +9369,7 @@ https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TV
 https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="WORLD SPORTS", TVP Sport
-https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
+https://estreams.tv.nej.cz/dash/CH_TVP_SPORT.ism/playlist.mpd
 
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="WORLD SPORTS", Nova Sport 1
 https://estreams.tv.nej.cz/dash/CH_NOVA_SPORT1_Portable.ism/playlist.mpd
@@ -16249,21 +16249,6 @@ http://103.58.160.157:8278/720-WARNERTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzjgvIIQKQiVAnbTBFd4WRMJ8Hp831ngGwJ6fkMvTV9Ctxy0iaLYWbnJeP4uxntytGI1kFZGiti-SMOEvGlAxy_2o0pcU_NdCr0elKrR6R-4BpT4MEFSh3AxkpEKvsBlCamLIxQk1NfTziREdEiN3oPOXLzBZTSGRy86UOEzUXYSt0Zq2fk4muQpcdiehQ/s700/CINEMAX.png" group-title="Movies", CINEMAX ID
 https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkI-QnpmtNsoMwaZ2zjOtNsiG7mXj9QOmeTGiUmffF0m_TTfXH_DTtm0ZwMmpqxK_beVkerFi6LtTo6_pGSOqe84M2kDol7YDGrVN-hmYygFHWCCA6ojHUvnkv0GyaLnDnZvizDJoWBj05T9J4Wc7d6CIgXdufYm6pjlP7l66hcIQqz4HCosx4-I0lzvOy/s700/HBO%20HD.png" group-title="Movies", HBO ID
-https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqbfolHm9YpbIjQSdPyBc61RhQ7rZRt-ffhIoMDgEZ5RzM2k3J3oR8ZRHqV4FAw17JSQbCCZNPCU_MEwEgBATVM9d70YIve1fnJu0qZ2sWnStRa4pOnXi2Uola5fhrl8OnD3qnLaS77kHrHRob0DQ72fXM1VrG1zFShx__UakYhJObrtpENVCywnCv-g4b/s700/HBO%20HITS.png" group-title="Movies", HBO HITS ID
-https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbcx1d55B4tPsl16xxXwGZ29O9DdNh1yzdyTBhi9zZl-oXFhz3j_1gvuo2vwJH5MHAE6VMqrW4RJqDa-BIJY2sDPyUISLbO4Y9u1B6pV2Alow0VNazhppLKfg7sbaG4_BqaO_NhGbJ-tkhWi2XhEPTsIXN4rG1E4RW7OIO3r1jv2j7KUMwgUZDTwUOIzYg/s700/HBO%20FAMILY.png" group-title="Movies", HBO FAMILY ID
-https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsKgNN_vixF2wx0mNB4-3tqm7f-Bt18i208C7ZfvczosBrAzKfMuzS2Ua6k64H7zUyEwHPhjgov-QnTVqipQmjMqZgkA7ZpgXaGk8YCJYgu-w4tTp683t_OK9lValfeU_T5bgHtS_Ay84b4fBcr7T3fg5QbxE7MxKWD901wEl4P3baIqU-_s0aAvnvvyqM/s700/HBO%20SIGNATURE.png" group-title="Movies", HBO SIGNATURE ID
-https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzjgvIIQKQiVAnbTBFd4WRMJ8Hp831ngGwJ6fkMvTV9Ctxy0iaLYWbnJeP4uxntytGI1kFZGiti-SMOEvGlAxy_2o0pcU_NdCr0elKrR6R-4BpT4MEFSh3AxkpEKvsBlCamLIxQk1NfTziREdEiN3oPOXLzBZTSGRy86UOEzUXYSt0Zq2fk4muQpcdiehQ/s700/CINEMAX.png" group-title="Movies", CINEMAX ID
-https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1qCnQZ6qCThZlWHZS_G01oE3uCL4APKVA4Ch0Z2hItWvGtmZe0WM2PyIjOM1MZ-QVPXpjwWdvyMue-Ez3A3Nu9JllRnDlrur7RvV-IHpRJNwGN-KUAibOnaBLSolqdCA6cEBdpcYBnuAWIoQvX2H43uUYMLUD5pyZMrRKl_e75w6A6YtFOM_D0-OpPG0R/s700/WARNER%20TV.png" group-title="Movies", WARNER TV ID
 https://cdnbal1.indihometv.com/atm/DASH/warner/manifest.mpd
 
@@ -16372,17 +16357,35 @@ https://indihuy.streamized.net/atm/DASH/maxstreak/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CGlzsD5.png" group-title="PialaDunia 2026", RTB Go
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?id=1229
 
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="PialaDunia 2026", FUSSBALLTV 1
+http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745092&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/61/1/cazetv-logo-png_seeklogo-619708.png" group-title="PialaDunia 2026", CazeTV
+https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/CazeTV.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/%C4%8CT_sport_logo.png" group-title="PialaDunia 2026", CT SPORT
 https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png" group-title="PialaDunia 2026", RTM
+http://iptv.kilas7.com:80/kaukia/asdfrewq/31
+
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png" group-title="PialaDunia 2026", BBC 1
+https://xemzi.short.gy/1000001
+
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png" group-title="PialaDunia 2026", BBC 2
+https://xemzi.short.gy/1000002
+
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png" group-title="PialaDunia 2026", kian
+http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" group-title="NASIONAL", INDOSIAR 5 ON
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://vectorseek.com/wp-content/uploads/2023/11/TVRI-Televisi-Republik-Indonesia-2019-black-Logo-Vector.svg-.png" group-title="NASIONAL", 11.TVRI Nasional
 http://103.148.44.38:8000/play/a03t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/960px-INews.png" group-title="NASIONAL", 23. INEWS
 https://cdnbal1.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-3277707030000000.mpd
-
-#EXTINF:-1 tvg-logo="https://media.suara.com/pictures/653x366/2020/09/15/20484-logo-indosiar.jpg" group-title="NASIONAL", 13. INDOSIAR2
-https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/wr5jRyZ/Moji.png" group-title="NASIONAL", 26.MOJI TV
 http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179175
@@ -16402,32 +16405,26 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/in
 #EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/348/2025/02/25/6190412213303492665-3435062896.jpg" group-title="NASIONAL", 24.MDTV
 http://202.150.161.212:5000/live/channel31/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA", A RTBF
+#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA", RTBF tipik
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 
-#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA", CANAL 5
-https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
+#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA", Tyc Sports Fan
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA", C TUDN EN VIVO
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
+#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA", DSports 1
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA", D CCTV5
-http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA", Fox Sport 1
+http://myxpanel.pro/live/13579/13579/838116.ts
 
-#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA", A TVP Sport
-https://estreams.tv.nej.cz/dash/CH_TVP_SPORT.ism/playlist.mpd
-
-#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA", A TVRI
-http://iptv.kilas7.com:80/kaukia/asdfrewq/272
-
-#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA", B JOJ SPORT
-https://dash3.antik.sk/stream/nvidia_joj_sport_2/playlist_cenc.mpd
+#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA", Globo 1
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA", Caze TV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA", PTV SPORT
-http://premiumtvs.space/live/jen12345/Jen54321/89.ts
+#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA", Monomax
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 
 #EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA", bein max 1
 http://premiumorg11.com/live/damien56/65903/461671.ts
@@ -16443,12 +16440,6 @@ http://myxpanel.pro/live/13579/13579/838108.ts
 
 #EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA", Dazn Mundial 2 fhd
 http://myxpanel.pro/live/13579/13579/838106.ts
-
-#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA", Super Sport psl Central
-http://opplextv.cyou:8080/live/nasir6160/nasir/444349.ts
-
-#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA", Unite8 Sports 1 fhd
-http://opplextv.cyou:8080/live/nasir6160/nasir/444332.ts
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/png/fifaplus.png" group-title="SPORTS", FIFA+ 1
 https://d7pd9oqdl4d44.cloudfront.net/2026_03_30_13_54_57_ac3e36a0-8580-4ec7-9f5f-33e3da960642/PROD_CMAF_CENC/index-dash.mpd
@@ -16715,6 +16706,9 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2t
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hufm7lgnhx/out/v1/5045630288d44123ba85427b2c36f29f/cenc-sd.mpd
 
 #EXTINF:-1 tvg-logo="https://raisely-images.imgix.net/uploads/ca-5-be-4-b-0-33-d-7-47-e-8-8-af-8-35-f-7-c-419-cbec-png-099577.png?fm=jpg" group-title="World CUP", PIALA DUNIA
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raisely-images.imgix.net/uploads/ca-5-be-4-b-0-33-d-7-47-e-8-8-af-8-35-f-7-c-419-cbec-png-099577.png?fm=jpg" group-title="World CUP", PIALA DUNIA
 https://drmteste-hamivideo.cdn.hinet.net/live/pool/ll-test-hevc/hls-cl-fhd6m-4s-ma/index.m3u8?0
 
 #EXTINF:-1 tvg-logo="https://raisely-images.imgix.net/uploads/ca-5-be-4-b-0-33-d-7-47-e-8-8-af-8-35-f-7-c-419-cbec-png-099577.png?fm=jpg" group-title="World CUP", PIALA DUNIA
@@ -16803,6 +16797,9 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
 
 #EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="World CUP", Fox Deportes
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="World CUP", Telemundo
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
 
 #EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="World CUP", FUSSBALL.TV 1
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1hd.m3u8
