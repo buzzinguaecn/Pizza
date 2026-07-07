@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 03:22:08PM - 07-07-2026
-# Total Channel Found: 5651 Channel
+# Update Time: 08:04:43PM - 07-07-2026
+# Total Channel Found: 5667 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -213,7 +213,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch330)/index.m3u
 https://cempedak-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/613/613-LOGO-m.png" group-title="Movies", CCM
-https://fta1-cdn-flr.visionplus.id/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
+http://157.15.187.3:25092/hls/35/35.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/614/614-LOGO-m.png" group-title="Movies", Tvn Movies
 https://cempedak-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
@@ -279,7 +279,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&userid=l
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_22.png" group-title="Movies", CCM
-https://fta1-cdn-flr.visionplus.id/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
+http://157.15.187.3:25092/hls/35/35.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_celestialmovie_small.png" group-title="Movies", Celestial Movies Indonesia
 https://atemeshield1-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMoviesHD.mpd
@@ -702,7 +702,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/KIXHD/mediampd/KIXHD.mpd
 https://dsgtq5sngxkde.cloudfront.net/live/eds/tvN/sa_dash/tvN.mpd
 
 #EXTINF:-1 tvg-logo="https://github.com/Qingtvnew/test/raw/main/ccm.png" group-title="Movies", CCM
-https://fta1-cdn-flr.visionplus.id/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
+http://157.15.187.3:25092/hls/35/35.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/Qingtvnew/test/raw/main/celestial-movies.png" group-title="Movies", Celestial Movies
 http://157.15.187.3:25092/hls/68/68.m3u8
@@ -1032,7 +1032,7 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest.mpd
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://iili.io/JmoCPqB.png" group-title="KNOWLEDGE & DOC", History
-https://atemeshield1-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
+http://157.15.187.3:25092/hls/14/14.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/JmoC8Ob.png" group-title="KNOWLEDGE & DOC", Discovery Asia
 https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mediampd/DiscoveryAsiaHD.mpd
@@ -3474,7 +3474,7 @@ https://nog-live1-ott.izzigo.tv/2/out/u/dash/NICKHD/default.mpd
 https://cempedak-cdn-fly.mncnow.id/live/eds/NickJr-HDD/sa_dash/NickJr-HDD.mpd
 
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Kids", Animax
-https://nl.utako.moe/Animax/index.m3u8
+http://157.15.187.3:25092/hls/8/8.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/909/162909-LOGO-m.png" group-title="Kids", Moonbug
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/198f7febb48c4c909d62977d88c195b0/index.mpd
@@ -3534,7 +3534,7 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8?Uri:eroz_brebes.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_animax_small.png" group-title="Kids", Animax
-https://nl.utako.moe/Animax/index.m3u8
+http://157.15.187.3:25092/hls/8/8.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_aniplus_small1.png?v=2.0.0.13" group-title="Kids", Aniplus
 https://op-flashcon-digdayahd-1.dens.tv/h/h114/S4/mnf.m3u8
@@ -3564,13 +3564,13 @@ https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/indikids/manifest.mpd
 http://iptvtree.net:8080/c4596f70/c3848d92/298536
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_horee_ver1.png" group-title="Kids", Horee!
-https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mediampd/HoreeHD.mpd
+http://157.15.187.3:25092/hls/4/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_46.png" group-title="Kids", Kids TV
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_mentaritv_small.png" group-title="Kids", Mentari TV
-https://ratuvidio.adptv.workers.dev/index.mpd?id=8237&type=dash
+http://157.15.187.3:25092/hls/48/48.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_moonbug_ver1.png" group-title="Kids", Moonbug
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/198f7febb48c4c909d62977d88c195b0/index.mpd
@@ -3606,7 +3606,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001215/manifest.mpd?virtualDoma
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000118/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/Animax_150x150.png" group-title="Kids", Animax
-https://nl.utako.moe/Animax/index.m3u8
+http://157.15.187.3:25092/hls/8/8.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/CBeebies_logo_2022.png" group-title="Kids", Cbeebies HD
 https://cempedak-cdn-fly.mncnow.id/live/eds/Cbeebies/sa_dash/Cbeebies.mpd|referer=https://www.visionplus.id/
@@ -3921,10 +3921,10 @@ https://rakuten-family-13-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsY
 https://rakuten-family-16-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/v6eppmxfwsqxc521063xk/animax.png?rlkey=w40ostqs1ql06z96rfy8zms97&dl=0" group-title="Kids", Animax
-https://nl.utako.moe/Animax/index.m3u8
+http://157.15.187.3:25092/hls/8/8.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/v6eppmxfwsqxc521063xk/animax.png?rlkey=w40ostqs1ql06z96rfy8zms97&dl=0" group-title="Kids", Animax
-https://nl.utako.moe/Animax/index.m3u8
+http://157.15.187.3:25092/hls/8/8.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/131k8ikt4puu0azk2r86u/Aniplus-hometv.jpg?rlkey=e5c6u77l75u32ce2wgche51t4&dl=0" group-title="Kids", Aniplus
 https://op-flashcon-digdayahd-1.dens.tv/h/h114/S4/mnf.m3u8
@@ -5415,7 +5415,7 @@ https://atemeshield1-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 https://av-ch-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash/Globaltrekker.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_history_ver3.png" group-title="Knowledge", History
-https://atemeshield1-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
+http://157.15.187.3:25092/hls/14/14.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/THUMBNAIL-135-LOVENATUREHD.png" group-title="Knowledge", Love Nature
 http://157.15.187.3:25092/hls/75/75.m3u8
@@ -5751,7 +5751,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a75d0b62-972c
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce2a0d83c16/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_mentaritv_small.png" group-title="TV Nasional Indonesia", Mentari TV
-https://ratuvidio.adptv.workers.dev/index.mpd?id=8237&type=dash
+http://157.15.187.3:25092/hls/48/48.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/net-1.png" group-title="TV Nasional Indonesia", NET TV
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd
@@ -6126,7 +6126,7 @@ https://nl.utako.moe/disneychan/index.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&userid=lite&chname=My_Kidz_HD
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/386/630/png-transparent-animax-sony-yay-anime-television-sony-s-networks-india-ebay-korea-co-ltd-blue-text-trademark.png" group-title="Anak² & Kartun", Animax
-https://nl.utako.moe/Animax/index.m3u8
+http://157.15.187.3:25092/hls/8/8.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/909/162909-LOGO-m.png" group-title="Anak² & Kartun", Moonbug
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/198f7febb48c4c909d62977d88c195b0/index.mpd
@@ -6135,7 +6135,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/198f7febb48c4c909d62977d88c195b0/ind
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/duniaanak/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png/revision/latest?cb=20180705160440" group-title="Anak² & Kartun", Horee!
-https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mediampd/HoreeHD.mpd
+http://157.15.187.3:25092/hls/4/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/13/Cartoon-Network-Logo-PNG-Image.png" group-title="Anak² & Kartun", Cartoon Network
 https://a190aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ampfzrmpam/out/v1/e08f3866c80040f2bc494cb48ebc7bce/cenc.mpd
@@ -10239,7 +10239,7 @@ https://nl.utako.moe/js4/index.m3u8
 https://nl.utako.moe/green/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="JP 🇯🇵", Animax
-https://nl.utako.moe/Animax/index.m3u8
+http://157.15.187.3:25092/hls/8/8.m3u8
 
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="JP 🇯🇵", Nihon Eiga Senmon
 https://nl.utako.moe/nihoneiga/index.m3u8
@@ -10974,13 +10974,13 @@ http://157.15.187.3:25092/hls/57/57.m3u8
 http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298550.m3u8
 
 #EXTINF:-1 tvg-logo="http://117.55.203.218:80/images/hxsuRuF3bxsgpl2_yVgKiJrBtb45AeV2fRRUZf4ceLsEF7UdXlSgvwIze8T6lWZOWDNQhe0NWBN-ChnxIWvUGZPPigiuZGqW7wgfzePOHNfs5m0TjaxMalxJ1oakR0JYrUdUSgcbN8bLfn2sZnMUIQ.png" group-title="NasioNaL DiGitaL 📡", Mentari TV
-https://ratuvidio.adptv.workers.dev/index.mpd?id=8237&type=dash
+http://157.15.187.3:25092/hls/48/48.m3u8
 
 #EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqpL3DvO2Wsh0CBf1EVc7y8Q.png" group-title="NasioNaL DiGitaL 📡", iNEWS
 http://aromatv.co:80/Enjy3637/4JFEBAs359/444152
 
 #EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqDDkLWj_yz2dYsMdf57PLcw.png" group-title="NasioNaL DiGitaL 📡", TV ONE
-http://157.15.187.3:25092/hls/46/46.m3u8
+https://cempedak-cdn-fly.mncnow.id/live/eds/TVOne-2/sa_dash/TVOne-2.mpd
 
 #EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqpu6z4EwsnPn0URbge-Frww.png" group-title="NasioNaL DiGitaL 📡", METRO TV
 https://op-flashcon-digdayahd-1.dens.tv/h/h211/02.m3u8
@@ -11097,7 +11097,7 @@ https://liveaneviadev.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 http://157.15.187.3:25092/hls/57/57.m3u8
 
 #EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqDDkLWj_yz2dYsMdf57PLcw.png" group-title="NasioNaL DiGitaL 📡", TV ONE
-http://157.15.187.3:25092/hls/46/46.m3u8
+https://cempedak-cdn-fly.mncnow.id/live/eds/TVOne-2/sa_dash/TVOne-2.mpd
 
 #EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqpu6z4EwsnPn0URbge-Frww.png" group-title="NasioNaL DiGitaL 📡", METRO TV
 https://op-flashcon-digdayahd-1.dens.tv/h/h211/02.m3u8
@@ -15303,13 +15303,13 @@ https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HFjSW0t/tvone.png" group-title="TV BackUP", TV ONE
-http://157.15.187.3:25092/hls/46/46.m3u8
+https://cempedak-cdn-fly.mncnow.id/live/eds/TVOne-2/sa_dash/TVOne-2.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HFjSW0t/tvone.png" group-title="TV BackUP", TV ONE - Indi
 https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HFjSW0t/tvone.png" group-title="TV BackUP", TV ONE
-http://157.15.187.3:25092/hls/46/46.m3u8
+https://cempedak-cdn-fly.mncnow.id/live/eds/TVOne-2/sa_dash/TVOne-2.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4F68vbH/tvri.png" group-title="TV BackUP", TVRI NASIONAL
 https://cempedak-cdn-fly.mncnow.id/live/eds/PemersatuBangsa/sa_dash/PemersatuBangsa.mpd
@@ -15459,7 +15459,7 @@ http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34325
 http://opplex.tv:8080/mohsin655/4969292/350997
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Antv.png" group-title="TV BackUP", AnTv
-http://157.15.187.3:25092/hls/45/45.m3u8
+https://wahyu1ptv.pages.dev/AnTV-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Antv.png" group-title="TV BackUP", AnTv FHD
 https://phdown.serv00.net/Smartv.php?id=Antv
@@ -16218,7 +16218,7 @@ https://rinjanitv.cloud/hls/tvkabel.m3u8
 https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QkTgy1M.png" group-title="Family", Mentari TV
-https://ratuvidio.adptv.workers.dev/index.mpd?id=8237&type=dash
+http://157.15.187.3:25092/hls/48/48.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IaCmCt9.png" group-title="Family", like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Family",My Family
 https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8
@@ -16237,6 +16237,12 @@ https://live.salira.tv/p/3870/hybrid/play.m3u8
 
 
 #🟡🟡🟡🟡 Gh-Pages Not Found Thats Channels, Now New Channel Added from 2nd Sourch 🟡🟡🟡🟡
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115" group-title="Movies", HBO family
+http://157.15.187.3:25092/hls/30/30.m3u8
+
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Movies", Bioskop
+http://157.15.187.3:25092/hls/31/31.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movies", HBO Hits ᴴᴰ
 http://103.148.44.38:8000/play/a028/index.m3u8
 
@@ -16545,6 +16551,9 @@ https://cdnbal1.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kz2Z3WM.png" group-title="Nasional 🇮🇩", Dunia Lain ᵗ
 http://157.15.187.3:25092/hls/81/81.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YnubKbu.png" group-title="Nasional 🇮🇩", Max Stream
+http://157.15.187.3:25092/hls/76/76.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTLsqu2.png" group-title="Nasional 🇮🇩", SindoNews TV ᵛ⁺
 https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
@@ -16882,6 +16891,51 @@ https://dash2.antik.sk/stream/nvidia_rtvs_sport/playlist_cenc.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bQvyMnY/antv.png" group-title="TV BackUP", ANTV - Dens
 https://op-flashcon-digdayahd-1.dens.tv/s/s07/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="TV BackUP", VoliTV
+http://157.15.187.3:25092/hls/2/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="TV BackUP", Jowo
+http://157.15.187.3:25092/hls/3/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="TV BackUP", CartooN Network
+http://157.15.187.3:25092/hls/5/5.m3u8
+
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="TV BackUP", CartooNito
+http://157.15.187.3:25092/hls/6/6.m3u8
+
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="TV BackUP", Dream
+http://157.15.187.3:25092/hls/7/7.m3u8
+
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="TV BackUP", nickelodeon
+http://157.15.187.3:25092/hls/9/9.m3u8
+
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="TV BackUP", animal planet
+http://157.15.187.3:25092/hls/12/12.m3u8
+
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="TV BackUP", Fight sports
+http://157.15.187.3:25092/hls/16/16.m3u8
+
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="TV BackUP", Metro
+http://157.15.187.3:25092/hls/19/19.m3u8
+
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="TV BackUP", AllPlay
+http://157.15.187.3:25092/hls/23/23.m3u8
+
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="TV BackUP", imc
+http://157.15.187.3:25092/hls/34/34.m3u8
+
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="TV BackUP", jtv
+http://157.15.187.3:25092/hls/36/36.m3u8
+
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="TV BackUP", BN | mdTV
+http://157.15.187.3:25092/hls/44/44.m3u8
+
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="TV BackUP", antv
+http://157.15.187.3:25092/hls/45/45.m3u8
+
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="TV BackUP", tvone
+http://157.15.187.3:25092/hls/46/46.m3u8
+
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="TV BackUP", Kompas
 http://157.15.187.3:25092/hls/53/53.m3u8
 
@@ -16909,9 +16963,6 @@ http://157.15.187.3:25092/hls/71/71.m3u8
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="TV BackUP", BaliTV
 http://157.15.187.3:25092/hls/74/74.m3u8
 
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="TV BackUP", Max Stream
-http://157.15.187.3:25092/hls/76/76.m3u8
-
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="TV BackUP", tvMU
 http://157.15.187.3:25092/hls/78/78.m3u8
 
@@ -16932,9 +16983,6 @@ http://157.15.187.3:25092/hls/89/89.m3u8
 
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="TV BackUP", thrill
 http://157.15.187.3:25092/hls/90/90.m3u8
-
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="TV BackUP", MENTARI
-http://157.15.187.3:25092/hls/48/48.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JcdKRXb/sctv.png" group-title="TV BackUP", SCTV - Dens 2
 https://op-flashcon-digdayahd-1.dens.tv/h/h217/02.m3u8
