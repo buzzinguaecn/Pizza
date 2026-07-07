@@ -1,30 +1,34 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ptvpk" tvg-name="PTV Sports" tvg-logo="https://i.postimg.cc/0QDHtZxg/image.jpg" group-title="SAWARID سواريد - CricHD",PTV Sports
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=nAGoqlguKygeFnyLFzh_Ng&expires=1783407158
+https://cdn4.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=qWFsNK1bu9G_WX_xXpbUYA&expires=1783417937
 
 
 #EXTINF:-1 tvg-id="asportshd" tvg-name="A Sports HD" tvg-logo="https://i.postimg.cc/rytcs49Y/image.jpg" group-title="SAWARID سواريد - CricHD",A Sports HD
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/asportshd.m3u8?md5=BXaG5siXCWS7sQhlX97T5A&expires=1783407179
+https://cdn4.zohanayaan.com:1686/hls/asportshd.m3u8?md5=qd7zI8yJroXiD0sTkkH_EQ&expires=1783417982
 
 
 #EXTINF:-1 tvg-id="star1in" tvg-name="Star Sports 1" tvg-logo="https://i.postimg.cc/Sx4trrVy/image.jpg" group-title="SAWARID سواريد - CricHD",Star Sports 1
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/star1in.m3u8?md5=ziCYueTimFpZkmhW8Ti6LA&expires=1783407137
+https://cdn3.zohanayaan.com:1686/hls/star1in.m3u8?md5=LMWH8-JDyzUFw3Vo_qXMEA&expires=1783417938
 
 
 #EXTINF:-1 tvg-id="starhindi" tvg-name="Star Sports 1 Hindi" tvg-logo="https://i.postimg.cc/85zmvH5B/image.jpg" group-title="SAWARID سواريد - CricHD",Star Sports 1 Hindi
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/starhindi.m3u8?md5=VIDHsubQ2404Q-L8rFrPLQ&expires=1783407179
+https://cdn6.zohanayaan.com:1686/hls/starhindi.m3u8?md5=y1di-yAi0pknFVgL0AY83Q&expires=1783417982
 
 
 #EXTINF:-1 tvg-id="willowusa" tvg-name="Willow HD" tvg-logo="https://i.postimg.cc/hhFTJtRx/8-exptv.png" group-title="SAWARID سواريد - CricHD",Willow HD
 #EXTINF:-1 tvg-id="willowextra" tvg-name="Willow HD 2" tvg-logo="https://i.postimg.cc/gc7DFGQ0/8-exptv.png" group-title="SAWARID سواريد - CricHD",Willow HD 2
 #EXTINF:-1 tvg-id="tenspk" tvg-name="Ten Sports" tvg-logo="https://i.postimg.cc/1tRmw0C2/image.jpg" group-title="SAWARID سواريد - CricHD",Ten Sports
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn8.zohanayaan.com:1686/hls/tenspk.m3u8?md5=zNyyrKRTLFG2ORGIuAgZWA&expires=1783417982
+
+
 #EXTINF:-1 tvg-id="skyscric" tvg-name="Sky Sports Cricket" tvg-logo="https://i.postimg.cc/mgjtyGgZ/image.jpg" group-title="SAWARID سواريد - CricHD",Sky Sports Cricket
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/skyscric.m3u8?md5=vMaGVHQ2F7AwK4a_IWMeVQ&expires=1783407158
+https://cdn8.zohanayaan.com:1686/hls/skyscric.m3u8?md5=Kf2IC-bfpNpMcQkU0uOYnw&expires=1783417961
 
 
 #EXTINF:-1 tvg-id="skysme" tvg-name="Sky Cinema" tvg-logo="https://i.postimg.cc/3x8C2WDS/8-exptv.png" group-title="SAWARID سواريد - CricHD",Sky Cinema
@@ -44,28 +48,28 @@ https://cdn6.zohanayaan.com:1686/hls/skyscric.m3u8?md5=vMaGVHQ2F7AwK4a_IWMeVQ&ex
 #EXTINF:-1 tvg-id="skysme" tvg-name="Sky Cinema" tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/skycinema.png" group-title="SAWARID سواريد - CricHD",Sky Cinema
 #EXTINF:-1 tvg-id="skysact" tvg-name="Sky Sports Action" tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/1745007829332.png" group-title="SAWARID سواريد - CricHD",Sky Sports Action
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/skysact.m3u8?md5=sk2LvU8ZVHMaSMjGJ0Y_fQ&expires=1783407158
+https://cdn7.zohanayaan.com:1686/hls/skysact.m3u8?md5=5oH5RYoWUUMTXECBzHWeWw&expires=1783417961
 
 
 #EXTINF:-1 tvg-id="skysgol" tvg-name="Sky Sports Golf" tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/1745008055327.png" group-title="SAWARID سواريد - CricHD",Sky Sports Golf
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/skysgol.m3u8?md5=TRlaD5mQ0lLvxyi8sJuiBw&expires=1783407158
+https://cdn9.zohanayaan.com:1686/hls/skysgol.m3u8?md5=BfmRaWhBZDjAU6889sVcAQ&expires=1783417961
 
 
 #EXTINF:-1 tvg-id="skysprem" tvg-name="Sky Sports Premier League" tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/43-exptv.png" group-title="SAWARID سواريد - CricHD",Sky Sports Premier League
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/skysprem.m3u8?md5=FKbtSRA8-tPCeq1YpkeMqg&expires=1783407158
+https://cdn2.zohanayaan.com:1686/hls/skysprem.m3u8?md5=3M5h_ZAXU23AKOE0thS8HQ&expires=1783417961
 
 
 #EXTINF:-1 tvg-id="skysfott" tvg-name="Sky Sports Football" tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/44-exptv.png" group-title="SAWARID سواريد - CricHD",Sky Sports Football
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/skysfott.m3u8?md5=pTftJO91MbF3i-R9ORWQLw&expires=1783407158
+https://cdn9.zohanayaan.com:1686/hls/skysfott.m3u8?md5=2hZC9qw5ANKvrXar8yWjyQ&expires=1783417961
 
 
 #EXTINF:-1 tvg-id="skysare" tvg-name="Sky Sports Arena" tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/1745007829327.png" group-title="SAWARID سواريد - CricHD",Sky Sports Arena
 #EXTINF:-1 tvg-id="skysfor1" tvg-name="Sky Sports F1" tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/1745008468637.png" group-title="SAWARID سواريد - CricHD",Sky Sports F1
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=1TE-ZceaCSqggtwuATBu0w&expires=1783407158
+https://cdn8.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=1dXP8We_daW1bwGGyXcBQA&expires=1783417961
 
 
 #EXTINF:-1 tvg-id="laligauk" tvg-name="LaLiGA" tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/19-exptv.png" group-title="SAWARID سواريد - CricHD",LaLiGA
@@ -79,7 +83,7 @@ https://cdn3.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=1TE-ZceaCSqggtwuATBu0w&ex
 #EXTINF:-1 tvg-id="skysare" tvg-name="Sky Sports Arena" tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/1745007829327.png" group-title="SAWARID سواريد - CricHD",Sky Sports Arena
 #EXTINF:-1 tvg-id="skysmixx" tvg-name="Sky Sports Mix" tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/13-exptv.png" group-title="SAWARID سواريد - CricHD",Sky Sports Mix
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/skysmixx.m3u8?md5=cyN-PEtNahqHFEcvmnCJIQ&expires=1783407129
+https://cdn2.zohanayaan.com:1686/hls/skysmixx.m3u8?md5=zyL0OnFxUE_BNR7uThq6Fw&expires=1783417961
 
 
 #EXTINF:-1 tvg-id="skystennis" tvg-name="Sky Sports Tennis" tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/1745009085794.png" group-title="SAWARID سواريد - CricHD",Sky Sports Tennis
@@ -87,203 +91,207 @@ https://cdn7.zohanayaan.com:1686/hls/skysmixx.m3u8?md5=cyN-PEtNahqHFEcvmnCJIQ&ex
 #EXTINF:-1 tvg-id="ten1hd" tvg-name="Sony Sports3" tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/1000173192-modified.png" group-title="SAWARID سواريد - CricHD",Sony Sports3
 #EXTINF:-1 tvg-id="skysportscricket" tvg-name="Sky Sports Cricket" tvg-logo="" group-title="SAWARID سواريد - CricHD",Sky Sports Cricket
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/skyscric.m3u8?md5=vMaGVHQ2F7AwK4a_IWMeVQ&expires=1783407158
+https://cdn8.zohanayaan.com:1686/hls/skyscric.m3u8?md5=Kf2IC-bfpNpMcQkU0uOYnw&expires=1783417961
 
 
 #EXTINF:-1 tvg-id="skysportsfootball" tvg-name="Sky Sports Football" tvg-logo="" group-title="SAWARID سواريد - CricHD",Sky Sports Football
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/skysfott.m3u8?md5=pTftJO91MbF3i-R9ORWQLw&expires=1783407158
+https://cdn9.zohanayaan.com:1686/hls/skysfott.m3u8?md5=2hZC9qw5ANKvrXar8yWjyQ&expires=1783417961
 
 
 #EXTINF:-1 tvg-id="skysportsgolf" tvg-name="Sky Sports Golf" tvg-logo="" group-title="SAWARID سواريد - CricHD",Sky Sports Golf
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/skysgol.m3u8?md5=TRlaD5mQ0lLvxyi8sJuiBw&expires=1783407158
+https://cdn9.zohanayaan.com:1686/hls/skysgol.m3u8?md5=BfmRaWhBZDjAU6889sVcAQ&expires=1783417961
 
 
 #EXTINF:-1 tvg-id="skysportsaction" tvg-name="Sky Sports Action" tvg-logo="" group-title="SAWARID سواريد - CricHD",Sky Sports Action
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/skysact.m3u8?md5=sk2LvU8ZVHMaSMjGJ0Y_fQ&expires=1783407158
+https://cdn7.zohanayaan.com:1686/hls/skysact.m3u8?md5=5oH5RYoWUUMTXECBzHWeWw&expires=1783417961
 
 
 #EXTINF:-1 tvg-id="skysportsmainevent" tvg-name="Sky Sports Main Event" tvg-logo="" group-title="SAWARID سواريد - CricHD",Sky Sports Main Event
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/skysme.m3u8?md5=KTtIOBdZEqUid9PoWPIyYA&expires=1783407158
+https://cdn5.zohanayaan.com:1686/hls/skysme.m3u8?md5=0wEI1ALLQ4HZ7D-Cr4u4fw&expires=1783417961
 
 
 #EXTINF:-1 tvg-id="skysportsnews" tvg-name="Sky Sports News" tvg-logo="" group-title="SAWARID سواريد - CricHD",Sky Sports News
 #EXTINF:-1 tvg-id="skysportstennis" tvg-name="Sky Sports Tennis" tvg-logo="" group-title="SAWARID سواريد - CricHD",Sky Sports Tennis
 #EXTINF:-1 tvg-id="skysportsmix" tvg-name="Sky Sports Mix" tvg-logo="" group-title="SAWARID سواريد - CricHD",Sky Sports Mix
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/skysmixx.m3u8?md5=cyN-PEtNahqHFEcvmnCJIQ&expires=1783407129
+https://cdn2.zohanayaan.com:1686/hls/skysmixx.m3u8?md5=zyL0OnFxUE_BNR7uThq6Fw&expires=1783417961
 
 
 #EXTINF:-1 tvg-id="skysportspremierleague" tvg-name="Sky Sports Premier League" tvg-logo="" group-title="SAWARID سواريد - CricHD",Sky Sports Premier League
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/skysprem.m3u8?md5=FKbtSRA8-tPCeq1YpkeMqg&expires=1783407158
+https://cdn2.zohanayaan.com:1686/hls/skysprem.m3u8?md5=3M5h_ZAXU23AKOE0thS8HQ&expires=1783417961
 
 
 #EXTINF:-1 tvg-id="skysportsf1" tvg-name="Sky Sports F1" tvg-logo="" group-title="SAWARID سواريد - CricHD",Sky Sports F1
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=1TE-ZceaCSqggtwuATBu0w&expires=1783407158
+https://cdn8.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=1dXP8We_daW1bwGGyXcBQA&expires=1783417961
 
 
 #EXTINF:-1 tvg-id="tntsports3" tvg-name="TNT Sports 3" tvg-logo="" group-title="SAWARID سواريد - CricHD",TNT Sports 3
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=G3VdxBoYdAe8q8aPyvC2RA&expires=1783407133
+https://cdn3.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=27JCX3KCncqxE5ZL3ABkeg&expires=1783417933
 
 
 #EXTINF:-1 tvg-id="tntsports4" tvg-name="TNT Sports 4" tvg-logo="" group-title="SAWARID سواريد - CricHD",TNT Sports 4
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=0x9k35-PRlyGgxmTLkhAIg&expires=1783407134
+https://cdn4.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=_JuxrravWx70DRFPrdnczg&expires=1783417934
 
 
 #EXTINF:-1 tvg-id="tntsports1" tvg-name="TNT Sports 1" tvg-logo="" group-title="SAWARID سواريد - CricHD",TNT Sports 1
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=z7OTa92yaSTSzxR7Ifnbxw&expires=1783407132
+https://cdn4.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=rpG9Judfurj-ALDaUcUAdA&expires=1783417962
 
 
 #EXTINF:-1 tvg-id="viaplaysports1uk" tvg-name="Viaplay Sports 1 UK" tvg-logo="" group-title="SAWARID سواريد - CricHD",Viaplay Sports 1 UK
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/premieruk.m3u8?md5=0z7i_roSNgZGPMdq4CC_cQ&expires=1783407135
+https://cdn10.zohanayaan.com:1686/hls/premieruk.m3u8?md5=RRLDjT9KbL4fxS12l3syVg&expires=1783417935
 
 
 #EXTINF:-1 tvg-id="tntsports2" tvg-name="TNT Sports 2" tvg-logo="" group-title="SAWARID سواريد - CricHD",TNT Sports 2
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=dhNQv2uQ1dZZD4NKLLqCwQ&expires=1783407133
+https://cdn9.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=GCZ4ZOWghWKlca7AmlQaig&expires=1783417933
 
 
 #EXTINF:-1 tvg-id="ptvsports" tvg-name="PTV Sports" tvg-logo="" group-title="SAWARID سواريد - CricHD",PTV Sports
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=nAGoqlguKygeFnyLFzh_Ng&expires=1783407158
+https://cdn4.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=qWFsNK1bu9G_WX_xXpbUYA&expires=1783417937
 
 
 #EXTINF:-1 tvg-id="viaplaysports2uk" tvg-name="Viaplay Sports 2 UK" tvg-logo="" group-title="SAWARID سواريد - CricHD",Viaplay Sports 2 UK
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=_vG-iYIni-bH3ZhRkMeARQ&expires=1783407135
+https://cdn6.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=5JYT3bnyiMa-hGlJRfLTAA&expires=1783417935
 
 
 #EXTINF:-1 tvg-id="laligatvuk" tvg-name="LaLiga TV UK" tvg-logo="" group-title="SAWARID سواريد - CricHD",LaLiga TV UK
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/laligauk.m3u8?md5=GcjJWcq4ZJ2EzSMxKEVmWg&expires=1783407136
+https://cdn8.zohanayaan.com:1686/hls/laligauk.m3u8?md5=zugvGeL8orSvrsogQk6abw&expires=1783417936
 
 
 #EXTINF:-1 tvg-id="starsports1" tvg-name="Star Sports 1" tvg-logo="" group-title="SAWARID سواريد - CricHD",Star Sports 1
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/star1in.m3u8?md5=ziCYueTimFpZkmhW8Ti6LA&expires=1783407137
+https://cdn3.zohanayaan.com:1686/hls/star1in.m3u8?md5=LMWH8-JDyzUFw3Vo_qXMEA&expires=1783417938
 
 
 #EXTINF:-1 tvg-id="willowcricket" tvg-name="Willow Cricket" tvg-logo="" group-title="SAWARID سواريد - CricHD",Willow Cricket
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=00YjfoP-W0_B4CcjjvxzFg&expires=1783407178
+https://cdn3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=qlwYUAMPElmI_AlD_4LJTA&expires=1783417982
 
 
 #EXTINF:-1 tvg-id="asportshd" tvg-name="A Sports HD" tvg-logo="" group-title="SAWARID سواريد - CricHD",A Sports HD
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/asportshd.m3u8?md5=BXaG5siXCWS7sQhlX97T5A&expires=1783407179
+https://cdn4.zohanayaan.com:1686/hls/asportshd.m3u8?md5=qd7zI8yJroXiD0sTkkH_EQ&expires=1783417982
 
 
 #EXTINF:-1 tvg-id="tensports" tvg-name="Ten Sports" tvg-logo="" group-title="SAWARID سواريد - CricHD",Ten Sports
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn8.zohanayaan.com:1686/hls/tenspk.m3u8?md5=zNyyrKRTLFG2ORGIuAgZWA&expires=1783417982
+
+
 #EXTINF:-1 tvg-id="willowcricketextra" tvg-name="Willow Cricket Extra" tvg-logo="" group-title="SAWARID سواريد - CricHD",Willow Cricket Extra
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn5.zohanayaan.com:1686/hls/willowextra.m3u8?md5=8aNLHORWwbxOAnkI9rq2sw&expires=1783407179
+https://cdn1.zohanayaan.com:1686/hls/willowextra.m3u8?md5=0MjslTNtrCoLlSkEIbcIbg&expires=1783417982
 
 
 #EXTINF:-1 tvg-id="espnus" tvg-name="ESPN US" tvg-logo="" group-title="SAWARID سواريد - CricHD",ESPN US
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/espnusa.m3u8?md5=2hjVjP1q64BzwXCPQSiGzA&expires=1783407176
+https://cdn4.zohanayaan.com:1686/hls/espnusa.m3u8?md5=_OoKMkFOmHqKs4iKb6yGvw&expires=1783417976
 
 
 #EXTINF:-1 tvg-id="skysport1nz" tvg-name="Sky Sport 1 NZ" tvg-logo="" group-title="SAWARID سواريد - CricHD",Sky Sport 1 NZ
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn5.zohanayaan.com:1686/hls/sky1nz.m3u8?md5=wRObRfL_e09r7PxEw45PaA&expires=1783407179
+https://cdn7.zohanayaan.com:1686/hls/sky1nz.m3u8?md5=JT8dHrj83vVFAsLohQI0dQ&expires=1783417983
 
 
 #EXTINF:-1 tvg-id="espn2us" tvg-name="ESPN 2 US" tvg-logo="" group-title="SAWARID سواريد - CricHD",ESPN 2 US
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/espn2.m3u8?md5=U_h0ytMOp1Xuw1QroOFwdA&expires=1783407179
+https://cdn4.zohanayaan.com:1686/hls/espn2.m3u8?md5=SngyknVjY5p713Sjsst4fg&expires=1783417983
 
 
 #EXTINF:-1 tvg-id="starsports1hindi" tvg-name="Star Sports 1 Hindi" tvg-logo="" group-title="SAWARID سواريد - CricHD",Star Sports 1 Hindi
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/starhindi.m3u8?md5=VIDHsubQ2404Q-L8rFrPLQ&expires=1783407179
+https://cdn6.zohanayaan.com:1686/hls/starhindi.m3u8?md5=y1di-yAi0pknFVgL0AY83Q&expires=1783417982
 
 
 #EXTINF:-1 tvg-id="skysport3nz" tvg-name="Sky Sport 3 NZ" tvg-logo="" group-title="SAWARID سواريد - CricHD",Sky Sport 3 NZ
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn9.zohanayaan.com:1686/hls/sky3nz.m3u8?md5=i7QGoigxSmVBM92Pkt-z_A&expires=1783407180
+https://cdn3.zohanayaan.com:1686/hls/sky3nz.m3u8?md5=Pe0yNAHt1lp8qQsZxjZIHg&expires=1783417983
 
 
 #EXTINF:-1 tvg-id="skysport2nz" tvg-name="Sky Sport 2 NZ" tvg-logo="" group-title="SAWARID سواريد - CricHD",Sky Sport 2 NZ
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/sky2nz.m3u8?md5=L0dw2zCSWkjcqvmdFNoYcA&expires=1783407180
+https://cdn3.zohanayaan.com:1686/hls/sky2nz.m3u8?md5=XK-Iu7vHpNks4fkfsh8rYQ&expires=1783417983
 
 
 #EXTINF:-1 tvg-id="skysport4nz" tvg-name="Sky Sport 4 NZ" tvg-logo="" group-title="SAWARID سواريد - CricHD",Sky Sport 4 NZ
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/sky4nz.m3u8?md5=RCcl1fkUYeGZ292QE-gbjw&expires=1783407180
+https://cdn8.zohanayaan.com:1686/hls/sky4nz.m3u8?md5=M_Q4BQMqNa7jWGOOv989Zg&expires=1783417983
 
 
 #EXTINF:-1 tvg-id="skysport7nz" tvg-name="Sky Sport 7 NZ" tvg-logo="" group-title="SAWARID سواريد - CricHD",Sky Sport 7 NZ
 #EXTINF:-1 tvg-id="skysport5nz" tvg-name="Sky Sport 5 NZ" tvg-logo="" group-title="SAWARID سواريد - CricHD",Sky Sport 5 NZ
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/sky5nz.m3u8?md5=akBtkvlD1EfDBhzp3_KJIQ&expires=1783407180
+https://cdn6.zohanayaan.com:1686/hls/sky5nz.m3u8?md5=JKU0gHN7vOlWGQz83kUkHQ&expires=1783417983
 
 
 #EXTINF:-1 tvg-id="skysport6nz" tvg-name="Sky Sport 6 NZ" tvg-logo="" group-title="SAWARID سواريد - CricHD",Sky Sport 6 NZ
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/sky6nz.m3u8?md5=w3DJsjtXSihX9Alr83yNlA&expires=1783407180
+https://cdn6.zohanayaan.com:1686/hls/sky6nz.m3u8?md5=TZ9p3W3W0Z91Y6GWHcF6ng&expires=1783417983
 
 
 #EXTINF:-1 tvg-id="skysport9nz" tvg-name="Sky Sport 9 NZ" tvg-logo="" group-title="SAWARID سواريد - CricHD",Sky Sport 9 NZ
 #EXTINF:-1 tvg-id="foxdeportes" tvg-name="Fox Deportes" tvg-logo="" group-title="SAWARID سواريد - CricHD",Fox Deportes
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/foxdeportesas1.m3u8?md5=9IesbFQI5O1teJ4MudeO4w&expires=1783407199
+https://cdn2.zohanayaan.com:1686/hls/foxdeportesas1.m3u8?md5=c4lxqbhSPTF1j6D2Tg-4-w&expires=1783417983
 
 
 #EXTINF:-1 tvg-id="skysport8nz" tvg-name="Sky Sport 8 NZ" tvg-logo="" group-title="SAWARID سواريد - CricHD",Sky Sport 8 NZ
 #EXTINF:-1 tvg-id="beinsportsusa" tvg-name="BeIn Sports USA" tvg-logo="" group-title="SAWARID سواريد - CricHD",BeIn Sports USA
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn5.zohanayaan.com:1686/hls/beinusas.m3u8?md5=7dRqZGy-RV6scJHKVsR1WQ&expires=1783407199
+https://cdn9.zohanayaan.com:1686/hls/beinusas.m3u8?md5=mWqXqm8-ERgoLdV9sbrIMQ&expires=1783418003
 
 
 #EXTINF:-1 tvg-id="foxsports2us" tvg-name="Fox Sports 2 US" tvg-logo="" group-title="SAWARID سواريد - CricHD",Fox Sports 2 US
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/foxsp2usa.m3u8?md5=R7j83Mm8yNLJeXiDmpWZwQ&expires=1783407200
+https://cdn3.zohanayaan.com:1686/hls/foxsp2usa.m3u8?md5=rJvpVx10v7cILUbOoOmCkQ&expires=1783418003
 
 
 #EXTINF:-1 tvg-id="movistarvamos" tvg-name="Movistar #Vamos" tvg-logo="" group-title="SAWARID سواريد - CricHD",Movistar #Vamos
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/mvamoss.m3u8?md5=OVuwMKKm3CRyVJE-DnZ8HA&expires=1783407200
+https://cdn2.zohanayaan.com:1686/hls/mvamoss.m3u8?md5=Y6gjKuJfJFiX8_svQOxEvQ&expires=1783418003
 
 
 #EXTINF:-1 tvg-id="tudnusa" tvg-name="TUDN USA" tvg-logo="" group-title="SAWARID سواريد - CricHD",TUDN USA
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/tudnusas.m3u8?md5=ApDw9gLY3sqdqeaz0_g77A&expires=1783407200
+https://cdn5.zohanayaan.com:1686/hls/tudnusas.m3u8?md5=FLaXiz3-Gy9xbWHpMsnlGg&expires=1783418003
 
 
 #EXTINF:-1 tvg-id="beinsportshd1france" tvg-name="BeIn Sports HD 1 France" tvg-logo="" group-title="SAWARID سواريد - CricHD",BeIn Sports HD 1 France
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/bein1france.m3u8?md5=Uk0L-JNmUz2P-aL5jVZz2w&expires=1783407200
+https://cdn2.zohanayaan.com:1686/hls/bein1france.m3u8?md5=Op1COlOi5UxZQrcrNYdORQ&expires=1783417990
 
 
 #EXTINF:-1 tvg-id="foxsports1us" tvg-name="Fox Sports 1 US" tvg-logo="" group-title="SAWARID سواريد - CricHD",Fox Sports 1 US
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/foxsp1usa.m3u8?md5=VsaJ5mvL-LO07EP61tE9Eg&expires=1783407200
+https://cdn3.zohanayaan.com:1686/hls/foxsp1usa.m3u8?md5=aY6WDWH8vZYbEMbii7XOpg&expires=1783418003
 
 
 #EXTINF:-1 tvg-id="telemundo" tvg-name="Telemundo" tvg-logo="" group-title="SAWARID سواريد - CricHD",Telemundo
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/telmunda.m3u8?md5=nqz8ymJ3bvwfPLgIZgum9g&expires=1783407200
+https://cdn1.zohanayaan.com:1686/hls/telmunda.m3u8?md5=TvgFbZUIOEa6BazAZqd25A&expires=1783417986
 
 
 #EXTINF:-1 tvg-id="movistardeportes" tvg-name="Movistar Deportes" tvg-logo="" group-title="SAWARID سواريد - CricHD",Movistar Deportes
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/mdeportess.m3u8?md5=qq58kOzaUCACpKC5LBmnjQ&expires=1783407200
+https://cdn5.zohanayaan.com:1686/hls/mdeportess.m3u8?md5=dg9i59nCO4YwlQF_pEmjwA&expires=1783418003
 
 
 #EXTINF:-1 tvg-id="nbc" tvg-name="NBC" tvg-logo="" group-title="SAWARID سواريد - CricHD",NBC
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/nbccs.m3u8?md5=PglzhkPiGeZ7Z2jFzZtBTw&expires=1783407200
+https://cdn7.zohanayaan.com:1686/hls/nbccs.m3u8?md5=Fkzn8iAsoAlvOUgWI2ORHg&expires=1783418004
 
 
 #EXTINF:-1 tvg-id="dazn1spain" tvg-name="DAZN 1 Spain" tvg-logo="" group-title="SAWARID سواريد - CricHD",DAZN 1 Spain
@@ -291,46 +299,46 @@ https://cdn4.zohanayaan.com:1686/hls/nbccs.m3u8?md5=PglzhkPiGeZ7Z2jFzZtBTw&expir
 #EXTINF:-1 tvg-id="dazn3spain" tvg-name="DAZN 3 Spain" tvg-logo="" group-title="SAWARID سواريد - CricHD",DAZN 3 Spain
 #EXTINF:-1 tvg-id="bbcone" tvg-name="BBC One" tvg-logo="" group-title="SAWARID سواريد - CricHD",BBC One
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn5.zohanayaan.com:1686/hls/hdchnl1.m3u8?md5=StZOdr1bPu_rURB6pXe5yQ&expires=1783407201
+https://cdn5.zohanayaan.com:1686/hls/hdchnl1.m3u8?md5=58IfEcEtkM-ftPFPQj0WYg&expires=1783418004
 
 
 #EXTINF:-1 tvg-id="dazn4spain" tvg-name="DAZN 4 Spain" tvg-logo="" group-title="SAWARID سواريد - CricHD",DAZN 4 Spain
 #EXTINF:-1 tvg-id="laligatvhypermotion" tvg-name="LaLiga TV Hypermotion" tvg-logo="" group-title="SAWARID سواريد - CricHD",LaLiga TV Hypermotion
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/laligatvhyper1.m3u8?md5=uN7mDkoRiz11NEwrXJdJXA&expires=1783407201
+https://cdn10.zohanayaan.com:1686/hls/laligatvhyper1.m3u8?md5=zIQUVw_f1zrD7WseVXoi3g&expires=1783418004
 
 
 #EXTINF:-1 tvg-id="itv1" tvg-name="ITV 1" tvg-logo="" group-title="SAWARID سواريد - CricHD",ITV 1
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/hdchnl4.m3u8?md5=a43TietcN0ph6B50AQrNBQ&expires=1783407201
+https://cdn9.zohanayaan.com:1686/hls/hdchnl4.m3u8?md5=NnJz3cYseUqktJQec5cREg&expires=1783418024
 
 
 #EXTINF:-1 tvg-id="bbctwo" tvg-name="BBC Two" tvg-logo="" group-title="SAWARID سواريد - CricHD",BBC Two
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/hdchnl5.m3u8?md5=NhqRh_c8P7wf8Wg_UlJJzA&expires=1783407220
+https://cdn8.zohanayaan.com:1686/hls/hdchnl5.m3u8?md5=GFYKZqUp9XTju6nyOCJRdw&expires=1783418024
 
 
 #EXTINF:-1 tvg-id="itv4" tvg-name="ITV4" tvg-logo="" group-title="SAWARID سواريد - CricHD",ITV4
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/itv4.m3u8?md5=_JhIq3TfVPmUTZo69WS70w&expires=1783407220
+https://cdn4.zohanayaan.com:1686/hls/itv4.m3u8?md5=43DSfY8ljWpPYeL-qgkusg&expires=1783418004
 
 
 #EXTINF:-1 tvg-id="laligatvhypermotion2" tvg-name="LaLiga TV Hypermotion 2" tvg-logo="" group-title="SAWARID سواريد - CricHD",LaLiga TV Hypermotion 2
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn5.zohanayaan.com:1686/hls/laligatvhyper2.m3u8?md5=u_dle-9qpPMo50O3V_Rveg&expires=1783407201
+https://cdn9.zohanayaan.com:1686/hls/laligatvhyper2.m3u8?md5=NZWL-GUj8sBG5bJX29tSAw&expires=1783418004
 
 
 #EXTINF:-1 tvg-id="foxsoccerplus" tvg-name="Fox Soccer Plus" tvg-logo="" group-title="SAWARID سواريد - CricHD",Fox Soccer Plus
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/foxsoccer.m3u8?md5=wTCpFP7PvtnFya8RuboWpQ&expires=1783407201
+https://cdn6.zohanayaan.com:1686/hls/foxsoccer.m3u8?md5=ah_LodQDSFUcb811tG8VrA&expires=1783418024
 
 
 #EXTINF:-1 tvg-id="disneysp" tvg-name="Disney+ SP" tvg-logo="" group-title="SAWARID سواريد - CricHD",Disney+ SP
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn9.zohanayaan.com:1686/hls/deportesplus9.m3u8?md5=kO7dpAXE-bc_nfloB1lT3g&expires=1783407221
+https://cdn6.zohanayaan.com:1686/hls/deportesplus9.m3u8?md5=Ru0_lbBNTwcvRfMvgqasMA&expires=1783418024
 
 
 #EXTINF:-1 tvg-id="espndeportes" tvg-name="ESPN Deportes" tvg-logo="" group-title="SAWARID سواريد - CricHD",ESPN Deportes
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/espndeportess.m3u8?md5=TBMIwK5vu07XIa9elkWBQw&expires=1783407221
+https://cdn9.zohanayaan.com:1686/hls/espndeportess.m3u8?md5=ZCrwajpuagtD-fcA0JOgCA&expires=1783418024
 
