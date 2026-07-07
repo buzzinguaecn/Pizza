@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 08:04:43PM - 07-07-2026
-# Total Channel Found: 5667 Channel
+# Update Time: 01:39:11AM - 08-07-2026
+# Total Channel Found: 5668 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -16388,7 +16388,7 @@ http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://vectorseek.com/wp-content/uploads/2023/11/TVRI-Televisi-Republik-Indonesia-2019-black-Logo-Vector.svg-.png" group-title="NASIONAL", 11.TVRI Nasional
-http://103.148.44.38:8000/play/a03t/index.m3u8
+http://103.170.100.42:6799/stream/channelid/21976998?profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/960px-INews.png" group-title="NASIONAL", 23. INEWS
 https://cdnbal1.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-3277707030000000.mpd
@@ -16446,6 +16446,9 @@ http://myxpanel.pro/live/13579/13579/838108.ts
 
 #EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA", Dazn Mundial 2 fhd
 http://myxpanel.pro/live/13579/13579/838106.ts
+
+#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA", TVRI 1
+http://103.170.100.42:6799/stream/channelid/1362840449?profile=pass
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/png/fifaplus.png" group-title="SPORTS", FIFA+ 1
 https://d7pd9oqdl4d44.cloudfront.net/2026_03_30_13_54_57_ac3e36a0-8580-4ec7-9f5f-33e3da960642/PROD_CMAF_CENC/index-dash.mpd
