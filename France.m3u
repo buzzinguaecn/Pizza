@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 01:04:59AM - 09-07-2026
-# Total Channel Found: 267 Channel
+# Update Time: 07:52:13AM - 09-07-2026
+# Total Channel Found: 268 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -660,6 +660,9 @@ http://41.223.30.230/BABYTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ffc8c345822750007e167de/colorLogoPNG.png" group-title="Kids", Bob l'éponge
 https://jmp2.uk/plu-5ffc8c345822750007e167de.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png" group-title="Kids", France 4
+http://176.65.146.100:8047/play/a074/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kqYssbW.png" group-title="Kids", Gulli HD
 http://41.205.77.102/GULLI/index.m3u8
