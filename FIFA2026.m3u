@@ -19,10 +19,10 @@
 #https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index.m3u8
 
 #EXTINF:-1 tvg-id="toffee" tvg-name="FIFA World Cup" tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", Toffee
-https://cdn-tt.pages.dev/ch2.m3u8
-https://cdn-tt.pages.dev/ch1.m3u8
-https://toffee-fifa.sm-monirul.top/sm/toffee1.m3u8
-https://toffee-fifa.sm-monirul.top/sm/toffee2.m3u8
+#https://cdn-tt.pages.dev/ch2.m3u8
+#https://cdn-tt.pages.dev/ch1.m3u8
+#https://toffee-fifa.sm-monirul.top/sm/toffee1.m3u8
+#https://toffee-fifa.sm-monirul.top/sm/toffee2.m3u8
 #https://cdn-tt.pages.dev/ch1.m3u8 Brazil 🆚 Norway
 
 
@@ -35,21 +35,21 @@ https://toffee-fifa.sm-monirul.top/sm/toffee2.m3u8
 
 #EXTINF:-1 tvg-id="toffee" tvg-name="FIFA World Cup" tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", SAWARID سواريد
 #EXTVLCOPT:http-referrer=https://iscreen.com.bd/
-https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8
+# 📍https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8
 #EXTVLCOPT:http-referrer=https://iscreen.com.bd/
-https://m3u-tvb.pages.dev/ics.m3u8
-https://fifa-stream-01.bioscopelive.com/out/v1/60e7608404004b1186261497b404630b/index_2.m3u8
+# 📍https://m3u-tvb.pages.dev/ics.m3u8
+#📍https://fifa-stream-01.bioscopelive.com/out/v1/60e7608404004b1186261497b404630b/index_2.m3u8
 #https://hls.diptom3ow.workers.dev/r/https://fifa-stream-01.bioscopelive.com/out/v1/60e7608404004b1186261497b404630b/index_2.m3u8
 #https://cricxtv.fun/isceen.php?file=https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/tc_sg_1_1080p.m3u8
 #http://sm-monirul.top/fifa/iscreen/index.m3u8
 
-#EXTINF:-1 tvg-id="toffee" tvg-name="FIFA World Cup" tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", BBC
+#EXTINF:-1 tvg-id="toffee" tvg-name="FIFA World Cup" tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", SOCO
 #http://103.72.65.229:8422/tv.cricflixs.com/index.m3u8
 https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1782870503-0-0-583a444374b6f6ba206bf1f164e2b93a
 
 
 #EXTINF:-1 tvg-id="toffee" tvg-name="FIFA World Cup" tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", Unite8
-http://198.195.239.50:8095/unt-s/video.m3u8
+#http://198.195.239.50:8095/unt-s/video.m3u8
 https://pull.niues.live/live/stream-9912108_lhd.m3u8
 https://ranapkbd.site/JOIN@RANAPK33/play.m3u8?id=373312
 
