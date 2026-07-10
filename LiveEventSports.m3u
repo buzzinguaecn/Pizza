@@ -57,32 +57,12 @@
 https://dai.google.com/ssai/event/GdXyj0gmRmGkNncprYKFBQ/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="SAWARID سواريد - Cricket", Romania Vs Gibraltar | ICC Men's T20 World Cup Europe Sub Regional Qualifier B 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/romania_vs_gibraltar_4246565_english.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="SAWARID سواريد - Cricket", Hungary Vs Estonia | ICC Men's T20 World Cup Europe Sub Regional Qualifier B 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/hungary_vs_estonia_4246573_english.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1783322288950.png" group-title="SAWARID سواريد - Cricket", Ireland Women Vs West Indies Women | West Indies Women tour of Ireland 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/ireland_women_vs_west_indies_women_143143_english.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143632_6150_NAM_VID_fc-web.jpg" group-title="SAWARID سواريد - Cricket", Namibia Vs Vidarbha | Vidarbha Cricket Association tour of Namibia (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/namibia_vs_vidarbha_143632_english.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143416_6134_SY_MW_FC-WEB_1782272593151.jpg" group-title="SAWARID سواريد - Cricket", Mysore Warriors Vs Shivamogga Yodhas | Maharaja T20 Trophy 2026 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9767aded2ff9468591dbdfdff323f760:d9c224eef632f6c94582b483b8618114
-https://bd-mc-flive.fancode.com/mumbai/143445_english_dash_2221_1drmta-di_h264/index.mpd
-
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143416_6134_SY_MW_FC-WEB_1782272593151.jpg" group-title="SAWARID سواريد - Cricket", Mysore Warriors Vs Shivamogga Yodhas | Maharaja T20 Trophy 2026 (KANNADA) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d457fc3ba60746bbacd1200a86511e5b:08e2eec4fcb92e25ffdf134cd6050615
-https://bd-mc-flive.fancode.com/mumbai/143445_kannada_dash_80127_1drmta-di_h264/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143597_6148_BOS_BD_fc-web_1782725011549.jpg" group-title="SAWARID سواريد - Cricket", Bost Defenders Vs Band E Amir Dragons | Shpageeza Cricket League 2026 (ENGLISH)
@@ -173,16 +153,16 @@ https://livecdn-tc-livestream.rumsport10.live/sla/13-6a470a0957b14e876dbe5aba/ch
 # 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - E Sports 🟢🟢🟢🟢🟢🟢
 
 
-#EXTINF:-1 tvg-id="tapmad-14899" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835809081020x576.jpg" group-title="SAWARID سواريد - E Sports", Dota 2 - Day 4 - Feed 3 | Esports World Cup 2026 (EWC)
-https://saseries.akamaized.net/hls/live/2110097/Tap2534789Mad2026/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-14897" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835807981020x576.jpg" group-title="SAWARID سواريد - E Sports", Dota 2 - Day 4 - Feed 1 | Esports World Cup 2026 (EWC)
+https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 
 
 #EXTINF:-1 tvg-id="tapmad-14898" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835808541020x576.jpg" group-title="SAWARID سواريد - E Sports", Dota 2 - Day 4 - Feed 2 | Esports World Cup 2026 (EWC)
 https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
 
 
-#EXTINF:-1 tvg-id="tapmad-14897" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835807981020x576.jpg" group-title="SAWARID سواريد - E Sports", Dota 2 - Day 4 - Feed 1 | Esports World Cup 2026 (EWC)
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-14899" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835809081020x576.jpg" group-title="SAWARID سواريد - E Sports", Dota 2 - Day 4 - Feed 3 | Esports World Cup 2026 (EWC)
+https://saseries.akamaized.net/hls/live/2110097/Tap2534789Mad2026/master.m3u8
 
 
 #EXTINF:-1 tvg-id="tapmad-14829" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835803251020x576.jpg" group-title="SAWARID سواريد - E Sports", Valorant Day 8 | Esports World Cup 2026 (EWC)
@@ -190,6 +170,19 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/ma
 
 
 # 🆕 SAWARID سواريد - E Sports 👉 Updateded Done ✅✅✅✅✅✅
+
+
+# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Golf 🟢🟢🟢🟢🟢🟢
+
+
+#EXTINF:-1 tvg-id="sonyliv-1090535931" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019906/1782290177365701_DP_World_Tour_GENESIS_SCOTTISH_Open_day2_24jun_landscape_thumb.jpg" group-title="SAWARID سواريد - Golf", DP World Tour | Genesis Scottish Open - Day 2 - 10 Jul 2026
+https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8
+
+
+# 🆕 SAWARID سواريد - Golf 👉 Updateded Done ✅✅✅✅✅✅
 
 
 # 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
