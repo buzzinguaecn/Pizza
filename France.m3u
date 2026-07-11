@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 01:13:49AM - 11-07-2026
-# Total Channel Found: 268 Channel
+# Update Time: 07:29:46AM - 11-07-2026
+# Total Channel Found: 266 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -354,7 +354,7 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/rtl2
 https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CUVAi4u.png" group-title="Music", Trace Latina
-https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8
+https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="Music", Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
@@ -613,9 +613,6 @@ http://99.27.51.147:8080/SYFY/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kDW0hN5.png" group-title="Undefined", Teva
 http://41.205.77.102/TEVA/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5HcyMnW.png" group-title="Entertainment", Canal+
-http://151.80.18.177:86/Canal+_HD/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6093f9ed2c75660007322bb7/colorLogoPNG_1750862971704.png" group-title="Entertainment", CATFISH TV
 https://jmp2.uk/plu-5f8eb66537867f0007146953.m3u8
 
@@ -712,9 +709,6 @@ http://151.80.18.177:86/Canal+_Family_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png" group-title="Sports", Canal+ Foot
 https://test.946985.filegear-sg.me/proxy/ef3174f16d4557d2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EOXnU15.png" group-title="Sports", Canal+ Sport
-http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png" group-title="Sports", Pluto TV Snooker 900
 https://jmp2.uk/plu-66fd35e44ca31f0008060b77.m3u8
 
@@ -742,9 +736,6 @@ https://test.946985.filegear-sg.me/proxy/a23981548880f405
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kPUkoS7.png" group-title="Music", Trace Africa
 https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CQDdnhp.png" group-title="Music", Trace Afrikora
-https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KkJ6fet.png" group-title="Music", Trace Ayiti
 https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8
 
@@ -755,7 +746,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungb
 https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pthX34m.png" group-title="Music", Trace Jama
-https://channels.trace.plus/Traceprod/JAMA_ld/index.m3u8
+https://channels.trace.plus/Traceprod/JAMA_hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q6vkMrU.png" group-title="Music", Trace Kitoko
 https://channels.trace.plus/Traceprod/KITOKO_hd/index.m3u8
@@ -772,7 +763,10 @@ https://channels.trace.plus/Traceprod/MZIKI_hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rguekcp.png" group-title="Music", Trace Naija
 https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="Music", like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Music",Trace Urban HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CQDdnhp.png" group-title="Music", Trace Teranga
+https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="Music", Trace Urban France
 https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ngF58fe.png" group-title="Music", Trace Vanilla Islands
@@ -811,8 +805,8 @@ https://jmp2.uk/plu-66b498bc14a2bb00086965bc.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/69776b58036e883f39e5ab8a/colorLogoPNG_1769434091096.png" group-title="Movies;Series", Star Trek: The Original Series
 https://jmp2.uk/plu-67b4b3c51a5ca760802cc1c7.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X0UmU3K.png" group-title="Music;Religious", Trace Gospel
-https://channels.trace.plus/Traceprod/GOSPEL_FR/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X0UmU3K.png" group-title="Music;Religious", Trace Gospel Africa Franco
+https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/67b4b2d976a934282e92d71c/colorLogoPNG.png" group-title="Comedy;Movies", Pluto TV Comédies Cultes
 https://jmp2.uk/plu-67b4b2d976a934282e92d71c.m3u8
