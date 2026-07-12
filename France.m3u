@@ -1,5 +1,5 @@
 #EXTM3U
-# Update Time: 12:43:12AM - 12-07-2026
+# Update Time: 07:42:28AM - 12-07-2026
 # Total Channel Found: 266 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
@@ -381,7 +381,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="Sports", Trace Sport Stars
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GFTAN5Q.png" group-title="Lifestyle", FashionTV Paris L'Original
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
@@ -706,12 +706,6 @@ http://cdn.haititivi.com/TELETOON-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TXI8hM1.png" group-title="Family", Canal+ Family
 http://151.80.18.177:86/Canal+_Family_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png" group-title="Sports", Canal+ Foot
-https://test.946985.filegear-sg.me/proxy/ef3174f16d4557d2
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png" group-title="Sports", Pluto TV Snooker 900
-https://jmp2.uk/plu-66fd35e44ca31f0008060b77.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/611e7f224676bf00076a4d8d/colorLogoPNG.png" group-title="Comedy", Cheers
 https://jmp2.uk/plu-65cce14060eb870008dbd003.m3u8
 
@@ -723,6 +717,9 @@ https://jmp2.uk/plu-5f8eb8a8b2619a000710605c.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/M6_Music_%282012%29.png" group-title="Music", M6 Music
 https://test.946985.filegear-sg.me/proxy/803c517b325bfafc
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j31lBL7.png" group-title="Music", MCM Pop
+http://rjcf.ofztvxv.top:8080/kang/71267133/99554
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EVtWQLd.png" group-title="Music", MCM Top
 http://rezofoot.tv/MCM/index.m3u8
@@ -789,6 +786,9 @@ https://jmp2.uk/plu-611e7811eb9daf000764cbfd.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/611e771e2f5f180007002224/colorLogoPNG.png" group-title="Documentary", Pluto TV Histoire
 https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png" group-title="Sports", Pluto TV Snooker 900
+https://jmp2.uk/plu-66fd35e44ca31f0008060b77.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pLv0T3D.png" group-title="Kids;Series", Inazuma Eleven
 https://jmp2.uk/plu-632c6df43d2bc5000751f621.m3u8
