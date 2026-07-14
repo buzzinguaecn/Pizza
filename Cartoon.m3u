@@ -101,11 +101,15 @@ http://89.187.189.98/SONIC/index.m3u8
 #🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
 #🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxjNsLb8/image.jpg" group-title="Cartoon", Discovery Kids
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxjNsLb8/image.jpg" group-title="Bangladeshi", Discovery Kids
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=601f58d4b7094d2baf78c85d1d9cb6c9:609e0cc03198455fa36fd2cc3e7f940d
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverykids2/default/manifest.mpd
 http://198.195.239.50:8095/DiscoveryKids/tracks-v1a1/mono.m3u8
 http://103.140.254.2:3500/live/554.m3u8
 #https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 #https://bongoflixbd.top/bk/79.m3u8?user=bongoflix&pass=eaminvai
+
 
 
 
