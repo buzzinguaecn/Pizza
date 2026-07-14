@@ -1169,6 +1169,9 @@ https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/hSWsQKP/Sirome-TV-7.jpg" group-title="Bangladeshi", Discovery Bangla
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b70a8cf9450c4d6484b4ac4d3c6761c0:0908be844260409cbac180bf0181da40
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
 http://starshare.cx:80/PeH5kPWFfG/infamous7funny/406
 http://103.229.254.25:7001/play/a071/index.m3u8
 http://198.195.239.50:8095/Discovery/tracks-v1a1/mono.m3u8
@@ -1355,6 +1358,9 @@ https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxjNsLb8/image.jpg" group-title="Bangladeshi", Discovery Kids
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=601f58d4b7094d2baf78c85d1d9cb6c9:609e0cc03198455fa36fd2cc3e7f940d
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverykids2/default/manifest.mpd
 http://198.195.239.50:8095/DiscoveryKids/tracks-v1a1/mono.m3u8
 http://103.140.254.2:3500/live/554.m3u8
 #https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
