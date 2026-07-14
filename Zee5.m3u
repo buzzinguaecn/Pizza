@@ -45,7 +45,7 @@ https://alex4528.site/zee5/zee-bangla-sonar/manifest.m3u8
 
 
 
-#EXTINF:-1 tvg-id="0-9-216" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-216/list/1920x1080list277eec9ca86a41f2bdc68935794767e9.jpg" group-title="Movie" lang="Bhojpuri", Zee Biskope
+#EXTINF:-1 tvg-id="0-9-216" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-216/list/1920x1080list277eec9ca86a41f2bdc68935794767e9.jpg" group-title="SAWARID سواريد - Zee5" lang="Bhojpuri", Zee Biskope
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/zee-biskope/manifest.m3u8
 
@@ -72,26 +72,6 @@ https://alex4528.site/zee5/anmol-cinema/manifest.m3u8
 https://alex4528.site/zee5/anmol-cinema-2/manifest.m3u8
 
 
-#EXTINF:-1 tvg-chno="4" tvg-id="&TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png" group-title=group-title="SAWARID سواريد - Zee5", &TV HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=67d18634ccb04875875c60fb8d9caaba:99a66471c09e4b8a8dc39a0de6803f75
-
-
-#EXTINF:1 tvg-chno="5" tvg-id="&TV SD" group-title=group-title="SAWARID سواريد - Zee5" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV.png" group-title=group-title="SAWARID سواريد - Zee5", &TV SD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Xzoj8ac8TJarq85f_-ewaw","kid":"Jt-G7uuwTX-8RclI926B_Q"}],"type":"temporary"}
-
-
-#EXTINF:1 tvg-chno="6" tvg-id="&TV SD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV.png" group-title=group-title="SAWARID سواريد - Zee5",&TV SD (Alt)
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
-
-#EXTINF:-1 tvg-chno="7" tvg-id="Big Magic" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigmagic_1786965389/channel_list/1170x658withlog2022520414.png" group-title=group-title="SAWARID سواريد - Zee5", Big Magic
-https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-bigmagic_1786965389|Referer=https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-209
-
 
 #EXTINF:-1 tvg-chno="8" tvg-id="zee-cinema-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qss9gFuH.png" group-title=group-title="SAWARID سواريد - Zee5", Zee Cinema SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
@@ -104,6 +84,15 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XUCpAyOPStmKu-0Yd9Tj0Q","kid":"9WvqrJ8SRhaHLHQcnOT6Tg"}],"type":"temporary"}
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
+
+
+
+
+#EXTINF:-1 tvg-chno="7" tvg-id="Big Magic" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigmagic_1786965389/channel_list/1170x658withlog2022520414.png" group-title=group-title="SAWARID سواريد - Zee5", Big Magic
+https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-bigmagic_1786965389|Referer=https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-209
+
+
+
 
 #EXTINF:-1 tvg-id="0-9-9z5383488" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383488/list/1920x1080list8147fef103204cf4a2bc7a8aef2b9221.jpg" group-title="SAWARID سواريد - Zee5" lang="Telugu", Zee Cinemalu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
@@ -150,6 +139,27 @@ https://alex4528.site/zee5/zee-talkies/manifest.m3u8
 #EXTINF:-1 tvg-chno="15" tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/VGfIqjrc.png" group-title=group-title="SAWARID سواريد - Zee5", Zee Talkies HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/zee-talkies-hd/manifest.m3u8
+
+
+#EXTINF:-1 tvg-chno="4" tvg-id="&TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png" group-title=group-title="SAWARID سواريد - Zee5", &TV HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=67d18634ccb04875875c60fb8d9caaba:99a66471c09e4b8a8dc39a0de6803f75
+
+
+#EXTINF:1 tvg-chno="5" tvg-id="&TV SD" group-title=group-title="SAWARID سواريد - Zee5" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV.png" group-title=group-title="SAWARID سواريد - Zee5", &TV SD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Xzoj8ac8TJarq85f_-ewaw","kid":"Jt-G7uuwTX-8RclI926B_Q"}],"type":"temporary"}
+
+
+
+
+#EXTINF:1 tvg-chno="6" tvg-id="&TV SD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV.png" group-title=group-title="SAWARID سواريد - Zee5",&TV SD (Alt)
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
+
 
 
 #EXTINF:-1 tvg-chno="16" tvg-id="&Pictures HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_web/1170x658withlog1476130363.png" group-title=group-title="SAWARID سواريد - Zee5", & Pictures HD
@@ -287,7 +297,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-id="0-9-348" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-348/list/1920x1080list7568db782c114329afd8bb7e030eca0d.jpg" group-title="Lifestyle" lang="English", Zee Zest HD
+#EXTINF:-1 tvg-id="0-9-348" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-348/list/1920x1080list7568db782c114329afd8bb7e030eca0d.jpg" group-title="SAWARID سواريد - Zee5" lang="English", Zee Zest HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/zee-zest-hd/manifest.m3u8
 
