@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 01:00:21AM - 15-07-2026
-# Total Channel Found: 266 Channel
+# Update Time: 07:18:25AM - 15-07-2026
+# Total Channel Found: 270 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -15,7 +15,7 @@
 https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/brN2jP0F/image.jpg" group-title="Entertainment", AB1
-https://viamotionhsi.netplus.ch/live/eds/ab1/browser-dash/ab1.mpd
+http://145.239.5.177/332/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yY1TV46Q/image.jpg" group-title="Entertainment", Arte
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
@@ -264,7 +264,7 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/sudr
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/telenantes.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d91GcVf.png" group-title="Undefined", TFX
-https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
+http://145.239.5.177/315/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fVVKpmk.png" group-title="Undefined", TiVi5 Monde
 https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
@@ -429,7 +429,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/novo-comedy/video.m3u8?ads.vf=CMRSFvusYbe
 
 #EXTINF:-1 tvg-logo="https://img1.dc2.oqee.net/channel_pictures/3606/w512" group-title="Entertainment;Interactive", RMC Life
-http://41.205.77.102/CHERIE25/index.m3u8
+http://145.239.5.177/333/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uJC8rXr.png" group-title="Series", Sony One Blacklist
 https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
@@ -489,6 +489,45 @@ http://cdn.haititivi.com/PARIS-PREMIERE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png" group-title="General", like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="General",TMC
 http://151.80.18.177:86/TMC/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6093f9ed2c75660007322bb7/colorLogoPNG_1750862971704.png" group-title="Entertainment", CATFISH TV
+https://jmp2.uk/plu-5f8eb66537867f0007146953.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6304f20c941c5d00089634e7/colorLogoPNG.png" group-title="Entertainment", Just Tattoo of Us
+https://jmp2.uk/plu-6304f20c941c5d00089634e7.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f92b56a367e170007cd43f4/colorLogoPNG.png" group-title="Entertainment", MTV CLASSICS
+https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/691b3669c48674840c3b832a/colorLogoPNG_1778491402325.png" group-title="Entertainment", Pluto TV ANIME GO!
+https://jmp2.uk/plu-691b3669c48674840c3b832a.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/69c2ae0d1f1accd54916c825/colorLogoPNG_1776860789196.png" group-title="Entertainment", Pluto TV Footanim'
+https://jmp2.uk/plu-69c2ae0d1f1accd54916c825.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62f3e0522443200008c567d7/colorLogoPNG.png" group-title="Entertainment", Pluto TV French Collection
+https://jmp2.uk/plu-62f3e0522443200008c567d7.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8ed3892ed7bb000741a1d2/colorLogoPNG.png" group-title="Entertainment", Pluto TV Inside
+https://jmp2.uk/plu-5f8ed3892ed7bb000741a1d2.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/67ebc1b6432a0e406f141341/colorLogoPNG.png" group-title="Entertainment", Pluto TV Reality
+https://jmp2.uk/plu-6092544e7639460007d4835e.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/699865ccac36b147e74619fe/colorLogoPNG_1779788356699.png" group-title="Entertainment", Pluto TV Téléréalité France
+https://jmp2.uk/plu-699865ccac36b147e74619fe.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e7fc8c0d061100083946a9/colorLogoPNG.png" group-title="Entertainment", Teen Mom
+https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="Entertainment", like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",TF1
+http://151.80.18.177:86/TF1_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66f55c3955567d0008ef9b68/colorLogoPNG.png" group-title="Entertainment", Turbo
+https://jmp2.uk/plu-66f55c3955567d0008ef9b68.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MDHN2Vc.png" group-title="Entertainment", Y'a que la vérité qui compte
+https://jmp2.uk/plu-612e044c970e6f00083bcf3b.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zv9VsVq.png" group-title="Movies", Action HD
 http://rezofoot.tv/Action/index.m3u8
@@ -607,50 +646,17 @@ https://jmp2.uk/plu-635659445b4c4700076d2ad1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FVDTJxW.png" group-title="Undefined", RFM TV
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/1038/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V8wRRg5.png" group-title="Undefined", Serie Club
+http://145.239.5.177/355/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gUOXdjv.png" group-title="Undefined", like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Undefined",Syfy
 http://99.27.51.147:8080/SYFY/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kDW0hN5.png" group-title="Undefined", Teva
-http://41.205.77.102/TEVA/index.m3u8
+http://145.239.5.177/356/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6093f9ed2c75660007322bb7/colorLogoPNG_1750862971704.png" group-title="Entertainment", CATFISH TV
-https://jmp2.uk/plu-5f8eb66537867f0007146953.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6304f20c941c5d00089634e7/colorLogoPNG.png" group-title="Entertainment", Just Tattoo of Us
-https://jmp2.uk/plu-6304f20c941c5d00089634e7.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f92b56a367e170007cd43f4/colorLogoPNG.png" group-title="Entertainment", MTV CLASSICS
-https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/691b3669c48674840c3b832a/colorLogoPNG_1778491402325.png" group-title="Entertainment", Pluto TV ANIME GO!
-https://jmp2.uk/plu-691b3669c48674840c3b832a.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/69c2ae0d1f1accd54916c825/colorLogoPNG_1776860789196.png" group-title="Entertainment", Pluto TV Footanim'
-https://jmp2.uk/plu-69c2ae0d1f1accd54916c825.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62f3e0522443200008c567d7/colorLogoPNG.png" group-title="Entertainment", Pluto TV French Collection
-https://jmp2.uk/plu-62f3e0522443200008c567d7.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8ed3892ed7bb000741a1d2/colorLogoPNG.png" group-title="Entertainment", Pluto TV Inside
-https://jmp2.uk/plu-5f8ed3892ed7bb000741a1d2.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/67ebc1b6432a0e406f141341/colorLogoPNG.png" group-title="Entertainment", Pluto TV Reality
-https://jmp2.uk/plu-6092544e7639460007d4835e.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/699865ccac36b147e74619fe/colorLogoPNG_1779788356699.png" group-title="Entertainment", Pluto TV Téléréalité France
-https://jmp2.uk/plu-699865ccac36b147e74619fe.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e7fc8c0d061100083946a9/colorLogoPNG.png" group-title="Entertainment", Teen Mom
-https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="Entertainment", like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",TF1
-http://151.80.18.177:86/TF1_HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66f55c3955567d0008ef9b68/colorLogoPNG.png" group-title="Entertainment", Turbo
-https://jmp2.uk/plu-66f55c3955567d0008ef9b68.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MDHN2Vc.png" group-title="Entertainment", Y'a que la vérité qui compte
-https://jmp2.uk/plu-612e044c970e6f00083bcf3b.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O8W4yhn.png" group-title="Undefined", TV Breizh
+http://145.239.5.177/318/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BDJ5FT.png" group-title="Kids", BabyTV France HD
 http://41.223.30.230/BABYTV/index.m3u8
@@ -706,6 +712,27 @@ http://cdn.haititivi.com/TELETOON-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TXI8hM1.png" group-title="Family", Canal+ Family
 http://151.80.18.177:86/Canal+_Family_HD/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/capterre_white.png" group-title="Documentary", Cap Terre
+http://145.239.5.177/359a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8Zx6dA7.png" group-title="Documentary", Dossiers FBI
+https://jmp2.uk/plu-5f8edad922b10b000753bc37.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Documentary", National Geographic Wild
+http://41.205.77.102/NATGEO-WILD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="Documentary", Nature Time France
+https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60925a44f0350600075a1fdc/colorLogoPNG.png" group-title="Documentary", Pluto TV Animaux
+https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/611e7811eb9daf000764cbfd/colorLogoPNG.png" group-title="Documentary", Pluto TV Aventure
+https://jmp2.uk/plu-611e7811eb9daf000764cbfd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/611e771e2f5f180007002224/colorLogoPNG.png" group-title="Documentary", Pluto TV Histoire
+https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/611e7f224676bf00076a4d8d/colorLogoPNG.png" group-title="Comedy", Cheers
 https://jmp2.uk/plu-65cce14060eb870008dbd003.m3u8
 
@@ -716,7 +743,7 @@ https://jmp2.uk/plu-5f8eb91bb9b9e7000817e67f.m3u8
 https://jmp2.uk/plu-5f8eb8a8b2619a000710605c.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/M6_Music_%282012%29.png" group-title="Music", M6 Music
-https://test.946985.filegear-sg.me/proxy/803c517b325bfafc
+http://145.239.5.177/320/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j31lBL7.png" group-title="Music", MCM Pop
 http://rjcf.ofztvxv.top:8080/kang/71267133/99554
@@ -769,23 +796,8 @@ https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ngF58fe.png" group-title="Music", Trace Vanilla Islands
 https://channels.trace.plus/Traceprod/VANILLA_hd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8Zx6dA7.png" group-title="Documentary", Dossiers FBI
-https://jmp2.uk/plu-5f8edad922b10b000753bc37.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Documentary", National Geographic Wild
-http://41.205.77.102/NATGEO-WILD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="Documentary", Nature Time France
-https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60925a44f0350600075a1fdc/colorLogoPNG.png" group-title="Documentary", Pluto TV Animaux
-https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/611e7811eb9daf000764cbfd/colorLogoPNG.png" group-title="Documentary", Pluto TV Aventure
-https://jmp2.uk/plu-611e7811eb9daf000764cbfd.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/611e771e2f5f180007002224/colorLogoPNG.png" group-title="Documentary", Pluto TV Histoire
-https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qsLLyn4.png" group-title="Sports", Foot+
+http://145.239.5.177/556a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png" group-title="Sports", Pluto TV Snooker 900
 https://jmp2.uk/plu-66fd35e44ca31f0008060b77.m3u8
