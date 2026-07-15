@@ -2,79 +2,80 @@
 
 # SPORTS 
 # http://103.114.11.37:33713/down/rjdX6AxG2Ybz.m3u
+#EXTM3U
 
-#EXTINF:-1 tvg-logo="http:/alixbd.com/assets/images/BTV.png" group-title="Sports",BTV
-http:/103.114.11.37:8081/BTV/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
+# SPORTS #
+#EXTINF:-1 tvg-logo="http://alixbd.com/assets/images/BTV.png" group-title="Sports",BTV
+http://103.114.11.37:8081/BTV/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
 
-#EXTINF:-1 tvg-logo="http:/alixbd.com/assets/images/somoy.png" group-title="Sports",Somoy TV
-http:/103.114.11.37:8081/SOMOY-TV-BDIX/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
+#EXTINF:-1 tvg-logo="http://alixbd.com/assets/images/somoy.png" group-title="Sports",Somoy TV
+http://103.114.11.37:8081/SOMOY-TV-BDIX/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
 
+#EXTINF:-1 tvg-logo="http://alixbd.com/assets/images/tsports.png" group-title="Sports",T Sports
+http://103.114.11.37:8081/T-Sports-BDIX/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
 
-#EXTINF:-1 tvg-logo="http:/alixbd.com/assets/images/tsports.png" group-title="Sports",T Sports
-http:/103.114.11.37:8081/T-Sports-BDIX/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
+#EXTINF:-1 tvg-logo="http://alixbd.com/assets/images/asports.png" group-title="Sports",A-Sports
+http://103.114.11.37:8081/A-sports-BDIX/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
 
-#EXTINF:-1 tvg-logo="http:/alixbd.com/assets/images/asports.png" group-title="Sports",A-Sports
-http:/103.114.11.37:8081/A-sports-BDIX/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
+#EXTINF:-1 tvg-logo="http://alixbd.com/assets/images/PTV.png" group-title="Sports",PTV
+http://103.114.11.37:8081/PTV-BDIX/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
 
-#EXTINF:-1 tvg-logo="http:/alixbd.com/assets/images/PTV.png" group-title="Sports",PTV
-http:/103.114.11.37:8081/PTV-BDIX/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
+#EXTINF:-1 tvg-logo="http://alixbd.com/assets/images/sonysports1.png" group-title="Sports",Sony Sports 1
+http://103.114.11.37:8081/Sony-sports-1/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
 
-#EXTINF:-1 tvg-logo="http:/alixbd.com/assets/images/sonysports1.png" group-title="Sports",Sony Sports 1
-http:/103.114.11.37:8081/Sony-sports-1/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
+#EXTINF:-1 tvg-logo="http://alixbd.com/assets/images/sonysports2.png" group-title="Sports",Sony Sports 2
+http://103.114.11.37:8081/Sony-sports-2/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
 
-#EXTINF:-1 tvg-logo="http:/alixbd.com/assets/images/sonysports2.png" group-title="Sports",Sony Sports 2
-http:/103.114.11.37:8081/Sony-sports-2/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
+#EXTINF:-1 tvg-logo="http://alixbd.com/assets/images/sonysports3.png" group-title="Sports",Sony Sports 3
+http://103.114.11.37:8081/Sony-sports-3/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
 
-#EXTINF:-1 tvg-logo="http:/alixbd.com/assets/images/sonysports3.png" group-title="Sports",Sony Sports 3
-http:/103.114.11.37:8081/Sony-sports-3/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
+#EXTINF:-1 tvg-logo="http://alixbd.com/assets/images/starselect1.png" group-title="Sports",Star Select 1
+http://103.114.11.37:8081/Star-select-1/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
 
-#EXTINF:-1 tvg-logo="http:/alixbd.com/assets/images/starselect1.png" group-title="Sports",Star Select 1
-http:/103.114.11.37:8081/Star-select-1/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
+#EXTINF:-1 tvg-logo="http://alixbd.com/assets/images/starselect2.png" group-title="Sports",Star Select 2
+http://103.114.11.37:8081/Star-select-2/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
 
-#EXTINF:-1 tvg-logo="http:/alixbd.com/assets/images/starselect2.png" group-title="Sports",Star Select 2
-http:/103.114.11.37:8081/Star-select-2/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
+#EXTINF:-1 tvg-logo="http://alixbd.com/assets/images/starsports1.png" group-title="Sports",Star Sports 1
+http://103.114.11.37:8081/Star-sports-1/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
 
-#EXTINF:-1 tvg-logo="http:/alixbd.com/assets/images/starsports1.png" group-title="Sports",Star Sports 1
-http:/103.114.11.37:8081/Star-sports-1/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
+#EXTINF:-1 tvg-logo="http://alixbd.com/assets/images/starsports2.png" group-title="Sports",Star Sports 2
+http://103.114.11.37:8081/Star-sports-2/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
 
-#EXTINF:-1 tvg-logo="http:/alixbd.com/assets/images/starsports2.png" group-title="Sports",Star Sports 2
-http:/103.114.11.37:8081/Star-sports-2/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
+#EXTINF:-1 tvg-logo="http://alixbd.com/assets/images/united1.png" group-title="Sports",Unite8 Sports 1 1080p
+http://103.114.11.37:8081/Unite8-sports-2/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
 
-#EXTINF:-1 tvg-logo="http:/alixbd.com/assets/images/united1.png" group-title="Sports",Unite8 Sports 1 1080p
-http:/103.114.11.37:8081/Unite8-sports-2/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
+#EXTINF:-1 tvg-logo="http://alixbd.com/assets/images/cazetv.png" group-title="Sports",Caze Tv 1080p
+http://103.114.11.37:8081/CazeTv1080p/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
 
-#EXTINF:-1 tvg-logo="http:/alixbd.com/assets/images/cazetv.png" group-title="Sports",Caze Tv 1080p
-http:/103.114.11.37:8081/CazeTv1080p/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
-
-#EXTINF:-1 tvg-logo="http:/alixbd.com/assets/images/cazetv720.jpg" group-title="Sports",Caze Tv 720p
-http:/103.114.11.37:8081/caze-tv-720p/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
+#EXTINF:-1 tvg-logo="http://alixbd.com/assets/images/cazetv720.jpg" group-title="Sports",Caze Tv 720p
+http://103.114.11.37:8081/caze-tv-720p/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
 
 # GENERAL ENTERTAINMENT #
-#EXTINF:-1 tvg-logo="http:/alixbd.com/assets/images/colorsbangla.png" group-title="Entertainment",Colors Bangla
-http:/103.114.11.37:8081/Colours-bangla/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
+#EXTINF:-1 tvg-logo="http://alixbd.com/assets/images/colorsbangla.png" group-title="Entertainment",Colors Bangla
+http://103.114.11.37:8081/Colours-bangla/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
 
-#EXTINF:-1 tvg-logo="http:/alixbd.com/assets/images/Sony%20Aath.png" group-title="Entertainment",Sony Aath
-http:/103.114.11.37:8081/Sony-8/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
+#EXTINF:-1 tvg-logo="http://alixbd.com/assets/images/Sony%20Aath.png" group-title="Entertainment",Sony Aath
+http://103.114.11.37:8081/Sony-8/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
 
-#EXTINF:-1 tvg-logo="http:/alixbd.com/assets/images/Star%20Jalsha.png" group-title="Entertainment",Star Jalsha
-http:/103.114.11.37:8081/Star-Jalsha/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
+#EXTINF:-1 tvg-logo="http://alixbd.com/assets/images/Star%20Jalsha.png" group-title="Entertainment",Star Jalsha
+http://103.114.11.37:8081/Star-Jalsha/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
 
-#EXTINF:-1 tvg-logo="http:/alixbd.com/assets/images/Zee%20Bangla.png" group-title="Entertainment",ZEE Bangla
-http:/103.114.11.37:8081/ZEE-Bangla/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
+#EXTINF:-1 tvg-logo="http://alixbd.com/assets/images/Zee%20Bangla.png" group-title="Entertainment",ZEE Bangla
+http://103.114.11.37:8081/ZEE-Bangla/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
 
 # MOVIES #
-#EXTINF:-1 tvg-logo="http:/alixbd.com/assets/images/jalshamovies.png" group-title="Movies",Jalsha Movies
-http:/103.114.11.37:8081/Jalsha-Movies/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
+#EXTINF:-1 tvg-logo="http://alixbd.com/assets/images/jalshamovies.png" group-title="Movies",Jalsha Movies
+http://103.114.11.37:8081/Jalsha-Movies/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
 
-#EXTINF:-1 tvg-logo="http:/alixbd.com/assets/images/Sony%20Pix%20HD.png" group-title="Movies",Sony Pix
-http:/103.114.11.37:8081/Sony-pix/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
+#EXTINF:-1 tvg-logo="http://alixbd.com/assets/images/Sony%20Pix%20HD.png" group-title="Movies",Sony Pix
+http://103.114.11.37:8081/Sony-pix/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
 
-#EXTINF:-1 tvg-logo="http:/alixbd.com/assets/images/starmovies.jpg" group-title="Movies",Star Movies
-http:/103.114.11.37:8081/Star-Movies/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
+#EXTINF:-1 tvg-logo="http://alixbd.com/assets/images/starmovies.jpg" group-title="Movies",Star Movies
+http://103.114.11.37:8081/Star-Movies/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
 
-#EXTINF:-1 tvg-logo="http:/alixbd.com/assets/images/Zee%20Cinema%20HD%20.png" group-title="Movies",Zee Cinema
-http:/103.114.11.37:8081/Z-Cinema/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
+#EXTINF:-1 tvg-logo="http://alixbd.com/assets/images/Zee%20Cinema%20HD%20.png" group-title="Movies",Zee Cinema
+http://103.114.11.37:8081/Z-Cinema/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
 
 # DOCUMENTARY & INFOTAINMENT #
-#EXTINF:-1 tvg-logo="http:/alixbd.com/assets/images/Discovery.png" group-title="Documentary",Discovery
-http:/103.114.11.37:8081/Discovery/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
+#EXTINF:-1 tvg-logo="http://alixbd.com/assets/images/Discovery.png" group-title="Documentary",Discovery
+http://103.114.11.37:8081/Discovery/index.m3u8?token=sdhssdjhgdsgsdghslddgalghaghghghghgftdfdfdkhlhglhgkjhgkjhgkjfjhgkfjhgjhfgjhgljhgyhglhgjhfghjgjhgjhgjhgjhgjhgjyhg
