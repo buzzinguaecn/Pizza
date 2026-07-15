@@ -196,6 +196,12 @@ http://starhub.pro/live/farhat-3379/67897-913379/748388.ts
 
 
 
+#EXTM3U
+#EXTINF:-1 tvg-name="Live Stream" tvg-logo="" group-title="Live", Live Stream
+#EXTVLCOPT:http-user-agent=iPhone
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/9jiie2ephv/out/v1/9e895e2c1c894a75ac6d21a4deddd5d3/cenc.mpd
 
 
 
