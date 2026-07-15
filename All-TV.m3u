@@ -2263,17 +2263,20 @@ https://9xjio.wiseplayout.com/9XM/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NfW6LYVP/image.jpg" group-title="Indian-Bollywood", E24
 http://103.175.73.12:8080/live/159/159_0.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Indian-Bollywood", 
+#EXTINF:-1 tvg-logo="" group-title="Indian-Bollywood", All Time Movie
+https://vods2.aynaott.com/hindimovies/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Indian-Bollywood", Bhojpuri Cinema
+https://live-bhojpuri.akamaized.net/liveabr/pub-iobhojpuqbu6yj/live_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Indian-Bollywood", 
+#EXTINF:-1 tvg-logo="" group-title="Indian-Bollywood", B4U Kadak
+https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Indian-Bollywood", 
+#EXTINF:-1 tvg-logo="" group-title="Indian-Bollywood", Zee Cinema
+https://cdn.jsdelivr.net/gh/nurmd2006/empty@main/stream/by/your-abbu/nurmd2006/offline-channels/zeecinema.m3u8
 
-
-#EXTINF:-1 tvg-logo="" group-title="Indian-Bollywood", 
-
-#EXTINF:-1 tvg-logo="" group-title="Indian-Bollywood", 
+#EXTINF:-1 tvg-logo="" group-title="Indian-Bollywood", B4U Movies
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 
 
 
