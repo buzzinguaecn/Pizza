@@ -61,12 +61,20 @@ https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1784105762372/4246717_CASACARDS_SPORTY_APP.png" group-title="SAWARID سواريد - Cricket", Dambulla Sixers Vs Jaffna Kings | Lanka Premier League 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/dambulla_sixers_vs_jaffna_kings_4246717_english.m3u8
+#EXTINF:-1 tvg-id="tapmad-15068" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17841088321020x576.jpg" group-title="SAWARID سواريد - Cricket", West Indies vs New Zealand | New Zealand Tour of West Indies 2026
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-BAN_Web-match-card_1783952837295.png" group-title="SAWARID سواريد - Cricket", Zimbabwe Vs Bangladesh | Bangladesh tour of Zimbabwe 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/zimbabwe_vs_bangladesh_143405_english.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1784105762369/4246712_CASACARDS_SPORTY_APP.png" group-title="SAWARID سواريد - Cricket", Colombo Kaps Vs Kandy Royals | Lanka Premier League 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/colombo_kaps_vs_kandy_royals_4246712_english.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png" group-title="SAWARID سواريد - Cricket", West Indies Vs New Zealand | New Zealand tour of West Indies 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/west_indies_vs_new_zealand_143606_english.m3u8
 
 
 # 🆕 SAWARID سواريد - Cricket 👉 Updateded Done ✅✅✅✅✅✅
@@ -564,7 +572,7 @@ https://livecdn-tc-livestream.rumsport10.live/sla/13-6a46fc16d06bfc509411b856/ch
 # 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Racing 🟢🟢🟢🟢🟢🟢
 
 
-#EXTINF:-1 tvg-id="tapmad-15315" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17842956301020x576.jpg" group-title="SAWARID سواريد - Racing", GT World Challenge Race  Live | GT World Challenge EU & Asia 2026
+#EXTINF:-1 tvg-id="tapmad-15321" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17842963451020x576.jpg" group-title="SAWARID سواريد - Racing", TopJet F2000 Race Live | GT World Challenge EU & Asia 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
 
 
