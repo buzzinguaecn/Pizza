@@ -111,11 +111,11 @@ https://ld58dqz8ajj8.rockstreamer.com/isc_ssai/isc_ssai_ads/isc_ssai/isc_ssai_72
 #EXTINF:-1 tvg-id="toffee" tvg-name="FIFA World Cup" tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", FIFA
 https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
-http://stream.mcquack.net/72/index.m3u8
+# 3 https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
+# 4 http://stream.mcquack.net/72/index.m3u8
 https://fifa-stream-proxy.mdsabbirhowlader420.workers.dev/https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 https://cp11.adabmedia.com/hls2/sport.m3u8?nocache=1782057214460
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+# 7 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 https://andro.evrenesoglu57.click/checklist/androstreamlivetrt1.m3u8
 http://195.182.16.45:8080/live/omar777/01103978590/460861.ts
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181661.ts
@@ -144,9 +144,11 @@ https://pull.niues.live/live/stream-9912108_lhd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 # ✅http://107.150.60.122/live/cctv5hd.m3u8
 # ✅https://www.rtmpcdn.com/live/cctv5.m3u8
-https://live01-cn-ali.bvjicd.com/live/79361366.m3u8?nocache=1784409142398
+#https://live01-cn-ali.bvjicd.com/live/79361366.m3u8?nocache=1784409142398
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", PTV (Pakistan)
-https://tv.bdixbd.net/api/proxy/stream.m3u8?url=http://103.151.61.12/PTV/tracks-v1a1/mono.m3u8
+# https://tv.bdixbd.net/api/proxy/stream.m3u8?url=http://103.151.61.12/PTV/tracks-v1a1/mono.m3u8
 http://103.165.93.31:8095/ptv/video.m3u8
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
 # http://27.124.71.27/T-Sports/index.m3u8
@@ -156,36 +158,10 @@ http://tv.cloudcdn.me:80/live.ts?channelId=278&uid=3510&deviceMac=00:1A:79:31:34
 
 
 
-#EXTINF:-1 tvg-id="toffee" tvg-name="FIFA World Cup" tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", TOFFEE
-#https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/sst/0/master_1000.m3u8?hdntl=Expires=1783905203~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiOTQ2YmNmNTQtZTAxZC00NjkzLThiYTQtMzExMTRiZjQxMjJmIn0~Signature=AWIR_5GNQhgSK1tdMcAu0I51iL8WfK5pYjjvVxXg67L_yoX2XQ3i1Hm3Dpua1JMw0La4P8tNT_5ga_UdiOiZM2IKmCcE
-#http://sm-monirul.top/fifa/play/toffee3.m3u8
-#http://sm-monirul.top/fifa/play/toffee1.m3u8
-#http://sm-monirul.top/fifa/play/toffee3.m3u8
-#http://sm-monirul.top/fifa/play/toffee2.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", FUSSBALL 1 HD
-#https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sps1/1745177.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", FUSSBALL 1 FHD
-#https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sps1/1745176.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", FUSSBALL 1 UHD
-#https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sps1/1745180.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", FUSSBALL 2 HD
-#https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sps1/1745178.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", FUSSBALL 2 UHD
-#https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sps1/1745181.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", FUSSBALL 3 FHD
-#https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heain/sps1/1745179.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", FUSSBALL 3 UHD
-#https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sps1/1745182.m3u8
 
 
 
@@ -269,12 +245,12 @@ http://starhub.pro/live/farhat-3379/67897-913379/748388.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", FUSSBALL 2 UHD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg" group-title="FIFA World Cup", FUSSBALL 
 #EXTVLCOPT:http-user-agent=iPhone
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/9jiie2ephv/out/v1/9e895e2c1c894a75ac6d21a4deddd5d3/cenc.mpd
-https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
+#https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/9jiie2ephv/out/v1/9e895e2c1c894a75ac6d21a4deddd5d3/cenc.mpd
+#https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
 
 
 
@@ -321,9 +297,8 @@ https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
 
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg", Bein Sports 1 HD
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/9jiie2ephv/out/v1/9e895e2c1c894a75ac6d21a4deddd5d3/cenc.mpd|drmScheme=clearkey&drmLicense=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
-http://145.239.5.177:80/559/index.m3u8
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+#http://145.239.5.177:80/559/index.m3u8
+#https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup" tvg-logo="https://i.postimg.cc/kgqp1hLG/Fifa2026.jpg", Bein Sports 1 MAX
 http://proxpanel.cc/h1wqD6CY/byxHYgX/707929
