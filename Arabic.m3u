@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 06:51:51PM - 19-07-2026
-# Total Channel Found: 425 Channel
+# Update Time: 12:48:47AM - 20-07-2026
+# Total Channel Found: 427 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -1219,6 +1219,9 @@ https://snrtworker.kharazbelaid.workers.dev/?id=assadisa.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pHpFGeg.png" group-title="Religious", Ch4Teen Documentary
 https://ch14.tv/live/ch4teendoc/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.qmc.qa/img/LiveChannels/1ca67a44-9290-4b2a-8a16-d8c6e2260816.jpg" group-title="Religious", Qatar TV The Holy Quran
+https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vyVEXYL.png" group-title="News", AL24 News
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8
 
@@ -1275,6 +1278,9 @@ https://live.yementv.tv/memfs/c8fe49a3-b1ca-4d14-9d78-498e8bad4f76_fast_output_0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8FILgXT.jpeg" group-title="Family", Al-Souriya TV
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.qbc.news/_next/static/media/logo.0~2x9wpd284~a.svg" group-title="Business;News", QBC
+https://googlecdn1.alkassdigital.net/livestream/qbc4/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/aO-2614npPjbJny21ljgGDRqfixPUG39uLfXwG-xX6fd2y5sxjp_SR6ty92d9l08yt10" group-title="Entertainment", Ritmu TV
 https://659605a54e9a6.streamlock.net:8443/live/livestream/playlist.m3u8
