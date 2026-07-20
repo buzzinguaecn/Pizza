@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 07:46:10PM - 20-07-2026
-# Total Channel Found: 427 Channel
+# Update Time: 01:23:19AM - 21-07-2026
+# Total Channel Found: 430 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -156,7 +156,7 @@ https://snrtworker.kharazbelaid.workers.dev/?id=laayoune.m3u8
 http://5.253.46.190:8000/play/a0ac/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/whyZXzW.png" group-title="Arabic-Saudia", LBC
-https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8
+http://185.9.2.18/chid_327/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KSUny9D.jpeg" group-title="Arabic-Saudia", Libya Al Wataniya
 https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8
@@ -1175,7 +1175,7 @@ https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8
 https://cdn.streamlane.tv/hls/ltv/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h26xtUv.png" group-title="General", LBC International
-http://185.9.2.18/chid_327/index.m3u8
+http://185.9.2.18/chid_521/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png" group-title="General", MTV Lebanon
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8
@@ -1204,6 +1204,9 @@ http://116.90.120.157:8000/play/a0qo/index.m3u8
 #EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/bd/f5/fullhd_527bf54a5adb56ac17f572ac2cd0801304db3baf.png" group-title="Music", Jeddah Radio
 https://aloula-redirect.vercel.app/15/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P7PUHIx.png" group-title="Music", Mazzika
+http://149.100.11.235:8080/Mazzika/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/c2b6a882-458b-446e-b0fe-f97f7992149a?height=auto&width=144&croppingPoint=&version=1&type=png" group-title="Music", MBC Mood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8
 
@@ -1222,6 +1225,9 @@ https://ch14.tv/live/ch4teendoc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.qmc.qa/img/LiveChannels/1ca67a44-9290-4b2a-8a16-d8c6e2260816.jpg" group-title="Religious", Qatar TV The Holy Quran
 https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1d25a9Q.png" group-title="Religious", Seraj TV
+https://43869de4e1a0d641.servers.dvcloud.tv/hls/al_aqsa_channel/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vyVEXYL.png" group-title="News", AL24 News
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8
 
@@ -1233,6 +1239,9 @@ https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YPj6kXq.png" group-title="News", Alghadeer TV
 https://sd343444.vodu.store:3356/live/Alghadeer/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="News", Alikhbaria Syria
+http://185.9.2.18/chid_423/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" group-title="News", i24NEWS Arabic
 https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8
