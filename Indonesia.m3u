@@ -1,5 +1,5 @@
 #EXTM3U
-# Update Time: 02:06:08PM - 21-07-2026
+# Update Time: 07:14:28PM - 21-07-2026
 # Total Channel Found: 6309 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
@@ -24,7 +24,7 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_1500000=10
 http://157.15.187.3:25092/hls/49/49.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png" group-title="INDONESIA", RCTI
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
+https://cdnbal1.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-m.png" group-title="INDONESIA", GTV
 https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
@@ -72,7 +72,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e548c62390/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/589/589-LOGO-m.png" group-title="INDONESIA", TVONE
-https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
+https://cdnbal1.indihometv.com/atm/DASH/tvone/tvone-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/590/590-LOGO-m.png" group-title="INDONESIA", Kompas TV
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce2a0d83c16/manifest.mpd
@@ -4743,7 +4743,7 @@ https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 https://aka-live1049.delivery.roku.com/818e3132-87ef-4dd8-9568-b0685b4454e9/t2-origin/out/v1/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png" group-title="Local", RCTI
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
+https://cdnbal1.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/logo_mnc_hd.png" group-title="Local", MNCTV
 https://indihuy.streamized.net/atm/DASH/mnctv/manifest.mpd
@@ -5715,7 +5715,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/uchannel/manifest.mpd
 https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="TV Nasional Indonesia", RCTI
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
+https://cdnbal1.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png" group-title="TV Nasional Indonesia", GTV
 https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
@@ -10962,7 +10962,7 @@ https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707
 https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqtMTNUB-cRIiDGwpjeWFbAg.png" group-title="NasioNaL DiGitaL 📡", RCTI
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
+https://cdnbal1.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqaPd_dgDRboAAiRHVfcgrfw.png" group-title="NasioNaL DiGitaL 📡", MNC TV
 https://liveaneviadev.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
@@ -10980,7 +10980,7 @@ http://157.15.187.3:25092/hls/48/48.m3u8
 http://aromatv.co:80/Enjy3637/4JFEBAs359/444152
 
 #EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqDDkLWj_yz2dYsMdf57PLcw.png" group-title="NasioNaL DiGitaL 📡", TV ONE
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd|referrer=https://www.visionplus.id/
+https://cempedak-cdn-fly.mncnow.id/live/eds/TVOne-2/sa_dash/TVOne-2.mpd
 
 #EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqpu6z4EwsnPn0URbge-Frww.png" group-title="NasioNaL DiGitaL 📡", METRO TV
 https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
@@ -11052,7 +11052,7 @@ https://indihuy.streamized.net/atm/DASH/mnctv/manifest.mpd
 https://wahyu1ptv.pages.dev/MnC-TV.m3u8
 
 #EXTINF:-1 tvg-logo="https://get.perfecttv.net/logo/rcti.png" group-title="NasioNaL DiGitaL 📡", RCTI
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
+https://cdnbal1.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png" group-title="NasioNaL DiGitaL 📡", RCTI VIP 1
 https://wahyu1ptv.pages.dev/RcTi-HD.m3u8
@@ -11088,7 +11088,7 @@ https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707
 https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqtMTNUB-cRIiDGwpjeWFbAg.png" group-title="NasioNaL DiGitaL 📡", RCTI
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
+https://cdnbal1.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqaPd_dgDRboAAiRHVfcgrfw.png" group-title="NasioNaL DiGitaL 📡", MNC TV
 https://liveaneviadev.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
@@ -11097,7 +11097,7 @@ https://liveaneviadev.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
 
 #EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqDDkLWj_yz2dYsMdf57PLcw.png" group-title="NasioNaL DiGitaL 📡", TV ONE
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd|referrer=https://www.visionplus.id/
+https://cempedak-cdn-fly.mncnow.id/live/eds/TVOne-2/sa_dash/TVOne-2.mpd
 
 #EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqpu6z4EwsnPn0URbge-Frww.png" group-title="NasioNaL DiGitaL 📡", METRO TV
 https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
@@ -11208,7 +11208,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e54
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n0pnMMg.png" group-title="Nasional 🇮🇩", RCTI
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
+https://cdnbal1.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIVcibJ.png" group-title="Nasional 🇮🇩", rtv
 http://157.15.187.3:25092/hls/95/95.m3u8
@@ -12279,7 +12279,7 @@ https://liveaneviadev.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEV5AZmkgua14n6iicfAoE4rBMOX41S1gGBQ&usqp=CAU" group-title="TransVision", RCTI
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
+https://cdnbal1.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ5lk599q2KyBvDElidSDQwkAudqO5tpNVGA&s" group-title="TransVision", SCTV
 https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
@@ -15255,7 +15255,7 @@ https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/133/n
 https://cempedak-cdn-fly.mncnow.id/live/eds/NetTV-HD/sa_dash/NetTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dM0SYrN/rcti.png" group-title="TV BackUP", RCTI
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
+https://cdnbal1.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dM0SYrN/rcti.png" group-title="TV BackUP", RCTI - Trans
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.m3u8
@@ -15303,13 +15303,13 @@ https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HFjSW0t/tvone.png" group-title="TV BackUP", TV ONE
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd|referrer=https://www.visionplus.id/
+https://cempedak-cdn-fly.mncnow.id/live/eds/TVOne-2/sa_dash/TVOne-2.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HFjSW0t/tvone.png" group-title="TV BackUP", TV ONE - Indi
 https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HFjSW0t/tvone.png" group-title="TV BackUP", TV ONE
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd|referrer=https://www.visionplus.id/
+https://cempedak-cdn-fly.mncnow.id/live/eds/TVOne-2/sa_dash/TVOne-2.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4F68vbH/tvri.png" group-title="TV BackUP", TVRI NASIONAL
 https://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8?app_type=web&userid=lite&chname=TVRI
@@ -16585,70 +16585,70 @@ http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" group-title="NASIONAL", INDOSIAR 5 ON
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/rcti.jpg" group-title="INDONESIA TV", 06. RCTI
-https://cdnbal1.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-3277707030000000.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/rcti.png" group-title="INDONESIA TV", 06. RCTI
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/mnctv.jpg" group-title="INDONESIA TV", 05. MNCTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mnctv.png" group-title="INDONESIA TV", 05. MNCTV
 https://cdnbal1.indihometv.com/atm/DASH/mnctv/mnctv-avc1_2500000=7-3277707030000000.mpd
 
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/gtv.jpg" group-title="INDONESIA TV", 08. GTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/gtv.png" group-title="INDONESIA TV", 08. GTV
 https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd
 
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/inews.jpg" group-title="INDONESIA TV", 15. INEWS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/INews.png" group-title="INDONESIA TV", 15. INEWS
 https://cdnbal1.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-3277707030000000.mpd
 
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/inews.jpg" group-title="INDONESIA TV", 15. INEWS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/INews.png" group-title="INDONESIA TV", 15. INEWS
 https://ayo.maling.pl/Vision/index.mpd?id=4
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/sindonews.jpg" group-title="INDONESIA TV", SINDONEWS
 https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd
 
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/sctv.jpg" group-title="INDONESIA TV", 07. SCTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/sctv.png" group-title="INDONESIA TV", 07. SCTV
 https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
 
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/indosiar.jpg" group-title="INDONESIA TV", 03. INDOSIAR HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/indosiar.png" group-title="INDONESIA TV", 03. INDOSIAR HD
 https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/indosiar.jpg" group-title="INDONESIA TV", 03. INDOSIAR V
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/indosiar.png" group-title="INDONESIA TV", 03. INDOSIAR V
 http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505849.ts
 
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/moji.jpg" group-title="INDONESIA TV", 26. MOJI TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/moji.jpg" group-title="INDONESIA TV", 26. MOJI TV
 http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179175
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Jnn95wt/MENTARI.png" group-title="INDONESIA TV", 20. MENTARI TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mentari.png" group-title="INDONESIA TV", 20. MENTARI TV
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
 
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/transtv.jpg" group-title="INDONESIA TV", 04. TRANS TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/transtv.png" group-title="INDONESIA TV", 04. TRANS TV
 http://202.169.224.202:8800/udp/239.4.1.1:1234
 
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/transtv.jpg" group-title="INDONESIA TV", 04. TRANS TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/transtv.png" group-title="INDONESIA TV", 04. TRANS TV
 http://iptv.kilas7.com:80/live/kaukia/asdfrewq/3.m3u8
 
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/trans7.jpg" group-title="INDONESIA TV", 10. TRANS 7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/trans7.jpg" group-title="INDONESIA TV", 10. TRANS 7
 http://iptv.kilas7.com:80/live/kaukia/asdfrewq/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3KcXcgR.jpeg" group-title="INDONESIA TV", 02. ANTV
-https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=dash
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/antv.png" group-title="INDONESIA TV", 02. ANTV
+http://iptv.kilas7.com/live/kaukia/asdfrewq/7.m3u8
 
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/rtv.jpg" group-title="INDONESIA TV", 12. RTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/rtv.png" group-title="INDONESIA TV", 12. RTV
 https://cdnbal1.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/rtv.jpg" group-title="INDONESIA TV", 12. RTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/rtv.png" group-title="INDONESIA TV", 12. RTV
 https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a0VCnfW.jpeg" group-title="INDONESIA TV", 09. TvOne
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/tvone.png" group-title="INDONESIA TV", 09. TvOne
 https://nextgenz.my.id/event/pidio/play.mpd?id=783&type=dash
 
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/tvone.jpg" group-title="INDONESIA TV", 09. TVONE
-https://cdnbal1.indihometv.com/atm/DASH/tvone/tvone-avc1_2500000=7-3277707030000000.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/tvone.png" group-title="INDONESIA TV", 09. TVONE
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd|referrer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/kompastv.jpg" group-title="INDONESIA TV", 14. KOMPAS TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/Kompas.png" group-title="INDONESIA TV", 14. KOMPAS TV
 https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/KOMPAS_TV-avc1_2500000=7-3277707030000000.mpd
 
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/cnbcid.jpg" group-title="INDONESIA TV", 17. CNBC INDONESIA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/cnbc.png" group-title="INDONESIA TV", 17. CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1F0683P.jpeg" group-title="INDONESIA TV", 19. VTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/vtv.jpeg" group-title="INDONESIA TV", 19. VTV
 http://tvratu.my.id/oxygen/index.m3u8?id=vtv
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/btv.jpg" group-title="INDONESIA TV", 30. BTV
@@ -16657,10 +16657,10 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3112ca4fbc2642e79ecaf9b2b0999e07/in
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/beritasatu.jpg" group-title="INDONESIA TV", 31. BERITASATU
 https://cdnbal1.indihometv.com/atm/DASH/beritasatu/beritasatu-avc1_2500000=7-3277707030000000.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YWdcJ5x.jpeg" group-title="INDONESIA TV", 01.TVRI Nasional
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/tvri.png" group-title="INDONESIA TV", 01.TVRI Nasional
 https://nextgenz.my.id/event/pidio/play.mpd?id=6441&type=dash
 
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/tvri.jpg" group-title="INDONESIA TV", 01. TVRI NASIONAL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/tvri.png" group-title="INDONESIA TV", 01. TVRI NASIONAL
 https://cdnbal1.indihometv.com/atm/DASH/TVRI/TVRI-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/tvriworld.jpg" group-title="INDONESIA TV", 33. TVRI WORLD
@@ -16669,7 +16669,7 @@ https://cdnbal1.indihometv.com/atm/DASH/tvriworld/tvriworld-avc1_2500000=7-32777
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/daaitv.jpg" group-title="INDONESIA TV", 34. DAAI TV
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/mdtv.jpg" group-title="INDONESIA TV", 13. MDTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/net.png" group-title="INDONESIA TV", 13. MDTV
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/bntv.jpg" group-title="INDONESIA TV", 50. BN TV
@@ -16678,7 +16678,7 @@ https://flv.intechmedia.net/live/ch112.m3u8?|user-agent=YouTV/1.5.6-prod.release
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/bntv.jpg" group-title="INDONESIA TV", 50. BN TV
 http://202.169.224.202:8800/udp/239.1.3.2:1234
 
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/magna.jpg" group-title="INDONESIA TV", 18. MAGNA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/magna.jpg" group-title="INDONESIA TV", 18. MAGNA
 https://op-flashcon-digdayahd-1.dens.tv/h/h24/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/jtv.jpg" group-title="INDONESIA TV", 37. JTV
