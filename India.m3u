@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 07:28:32AM - 22-07-2026
-# Total Channel Found: 984 Channel
+# Update Time: 02:06:41PM - 22-07-2026
+# Total Channel Found: 978 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -489,7 +489,7 @@ http://103.161.153.165:8000/play/a05m/index.m3u8
 http://103.229.254.25:7001/play/a09v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies", &TV HD
-https://trs1.aynaott.com/andtvhd/index.m3u8
+http://103.161.153.165:8000/play/a05c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ORC4tn.png" group-title="Movies", Abzy Dhakad
 http://57.129.53.130:21001/ABZY_Dhakad/master.m3u8
@@ -804,7 +804,7 @@ https://mumt02.tangotv.in/BRIOTV/index.m3u8
 https://mumt01.tangotv.in/CAPTAIN/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="Entertainment", Colors
-http://103.72.101.252:8080/live/1368.m3u8
+http://103.229.254.25:7001/play/a077/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA/images/LOGO_HD/image.png" group-title="Entertainment", Colors Bangla HD
 http://103.72.101.252:8080/live/756.m3u8
@@ -969,7 +969,7 @@ http://stb-air.wasmer.app/play.php?id=LIVETV_LIVETVCHANNEL_SET_HD&pass=krish-ka&
 http://116.90.120.151:8000/play/a0km/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png" group-title="Entertainment", Sony SAB HD
-http://202.70.146.135:8000/play/a025/index.m3u8
+http://103.229.254.25:7001/play/a0db/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg" group-title="Entertainment", Sooriyan TV
 https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
@@ -1335,7 +1335,7 @@ https://cdn-3.pishow.tv/live/1469/master.m3u8
 https://live-cf-kalaignarnews.dailyhunt.in/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KALINGA_TV/images/LOGO_HD/image.png" group-title="News", Kalinga TV
-https://server.thelegitpro.in/kalingatv/kalingatv/index.fmp4.m3u8
+https://cdn-4.pishow.tv/live/1470/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FCXqPer.png" group-title="News", Kannur Vision
 https://stream.logichost.in/kannurvision/live/playlist.m3u8
@@ -2617,9 +2617,6 @@ http://149.71.34.166:8000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN40000100Y_20260204T004058SQUARE.png" group-title="Movies", The Movie Club +2
 https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3MWm9nD.png" group-title="Movies", Vijay Super
-http://202.70.146.135:8000/play/a008/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies", Zee Cinema
 https://trs1.aynaott.com/ZeeCinemaHD/index.m3u8
 
@@ -2662,14 +2659,8 @@ https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae7
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET_PLUS/images/LOGO_HD/image.png" group-title="Entertainment", Asianet Plus
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetplus_live_https/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA/images/LOGO_HD/image.png" group-title="Entertainment", Colors Bangla
-http://103.72.101.252:8080/live/1369.m3u8
-
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_GUJARATI/images/LOGO_HD/image.png" group-title="Entertainment", Colors Gujarati
 http://103.72.101.252:8080/live/196.m3u8
-
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png" group-title="Entertainment", like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Entertainment",Colors Infinity
-http://103.175.73.12:8080/live/29/29_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_KANNADA/images/LOGO_HD/image.png" group-title="Entertainment", Colors Kannada
 http://103.72.101.252:8080/live/1370.m3u8
@@ -2725,14 +2716,8 @@ https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="Entertainment", Star Jalsha HD
 http://tvsen7.aynascope.net/sjhdbd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5c9PVS0.png" group-title="Entertainment", Star Maa HD
-http://217.20.112.199:8080/maatv/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZT0u7AK.png" group-title="Entertainment", Star Pravah HD
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starpravah_live_https/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="Entertainment", StarPlus
-http://41.205.77.102/STAR-PLUS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="Entertainment", StarPlus HD
 http://202.70.146.135:8000/play/a009/index.m3u8
@@ -2749,11 +2734,8 @@ http://103.72.101.252:8080/live/445.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_MARATHI/images/LOGO_HD/LOGO_HD_image.png" group-title="Entertainment", Zee Marathi HD
 http://103.72.101.252:8080/live/1360.m3u8
 
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_SARTHAK/images/LOGO_HD/LOGO_HD_image.png" group-title="Entertainment", Zee Sarthak
-http://103.72.101.252:8080/live/722.m3u8
-
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png" group-title="Entertainment", Zee TV HD
-http://41.205.77.102/ZEE-TV/index.m3u8
+http://41.205.93.154/ZEE-TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_YUVA/images/LOGO_HD/LOGO_HD_image.png" group-title="Entertainment", Zee Yuva
 http://103.72.101.252:8080/live/414.m3u8
