@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 01:02:07AM - 22-07-2026
-# Total Channel Found: 576 Channel
+# Update Time: 07:28:33AM - 22-07-2026
+# Total Channel Found: 584 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -138,7 +138,7 @@ https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
 
 #EXTINF:-1 tvg-id="AntenaSport.ro@SD" tvg-logo="" group-title="Sports", AntenaSport
-https://hls.rundletv.eu.org/LIVE$AntenaSport/6.m3u8/Level/300720051?end=END&start=LIVE
+https://aes.m3u8simplu.workers.dev/antneassport/index.m3u8
 
 #EXTINF:-1 tvg-id="AS3SportTV.ve@SD" tvg-logo="https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg" group-title="Sports", AS3 Sport TV
 https://streamtv.as3sport.online:3394/hybrid/play.m3u8
@@ -441,7 +441,7 @@ https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 http://23.237.104.106:8080/USA_MSG/index.m3u8
 
 #EXTINF:-1 tvg-id="MSGPlus.us@SD" tvg-logo="https://i.imgur.com/7suDpSK.png" group-title="Sports", MSG Plus
-https://tvpass.org/live/msg-plus/hd
+https://gpuserver3.tier1streams.com/MSG_PLUS/index.m3u8
 
 #EXTINF:-1 tvg-id="MultivisionSports.gt@SD" tvg-logo="https://i.imgur.com/wLjSSo2.jpg" group-title="Sports", MultivisiÃ³n Sports
 https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
@@ -453,7 +453,7 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NBATV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png" group-title="Sports", NBA TV
-https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
+https://cdn1.ayitistream.com/NBATV/index.m3u8
 
 #EXTINF:-1 tvg-id="NBATVCanada.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/NBA_TV_Canada_2020.png" group-title="Sports", NBA TV Canada
 http://user.scalecdn.co:8080/live/54706135/09221986/3092.m3u8
@@ -1177,6 +1177,9 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-id="CBCSport.az@HD" tvg-logo="https://i.imgur.com/3mEdjuq.png" group-title="Sports", CBC Sport HD
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us@SD" tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="Sports", CBS Sports Network USA
+https://gpuserver3.tier1streams.com/CBS_SPORTS_NETWORK/index.m3u8
+
 #EXTINF:-1 tvg-id="CCTVBilliards.cn@HD" tvg-logo="https://i.imgur.com/WK3keM9.png" group-title="Sports", CCTV-Billiards
 http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 
@@ -1234,11 +1237,11 @@ http://91.201.172.14:35005
 #EXTINF:-1 tvg-id="DigiSport2.ro@HD" tvg-logo="https://i.imgur.com/KWDUi3v.png" group-title="Sports", Digi Sport 2 HD
 http://91.201.172.14:35006
 
-#EXTINF:-1 tvg-id="DigiSport3.ro@HD" tvg-logo="https://i.imgur.com/T1ci5UK.png" group-title="Sports", Digi Sport 3 HD
-http://82.78.243.219:45739/play/a01m/index.m3u8
+#EXTINF:-1 tvg-id="DigiSport3.ro@SD" tvg-logo="https://i.imgur.com/T1ci5UK.png" group-title="Sports", Digi Sport 3
+https://aes.m3u8simplu.workers.dev/digi3/index.m3u8
 
 #EXTINF:-1 tvg-id="DigiSport4.ro@SD" tvg-logo="https://i.imgur.com/Knj9I6f.png" group-title="Sports", Digi Sport 4
-http://82.78.243.219:45739/play/a00v/index.m3u8
+https://aes.m3u8simplu.workers.dev/digi4/index.m3u8
 
 #EXTINF:-1 tvg-id="DSports.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Sports", DSports
 https://streamvidex.qzz.io/videx/dsportsar/index.m3u8
@@ -1297,6 +1300,9 @@ http://145.239.5.177/556a/index.m3u8
 #EXTINF:-1 tvg-id="FoxDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png" group-title="Sports", Fox Deportes
 https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 
+#EXTINF:-1 tvg-id="FoxSoccerPlus.us@SD" tvg-logo="https://i.imgur.com/gR7u8DM.png" group-title="Sports", Fox Soccer Plus
+https://gpuserver3.tier1streams.com/FOX_SOCCER_PLUS/index.m3u8
+
 #EXTINF:-1 tvg-id="FoxSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="Sports", FOX Sports
 https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
 
@@ -1351,6 +1357,9 @@ http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTZID4SFOqZLZ81NguVP-JxM/m3u8
 #EXTINF:-1 tvg-id="M4SportPlus.hu@SD" tvg-logo="https://i.imgur.com/0wrFYdN.png" group-title="Sports", M4 Sport+
 http://46.149.191.217:9007/play/a02q
 
+#EXTINF:-1 tvg-id="MarqueeSportsNetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Marquee_Sports_Network_Logo.svg/960px-Marquee_Sports_Network_Logo.svg.png" group-title="Sports", Marquee Sports Network
+https://gpuserver3.tier1streams.com/MARQUEE_SPORTS_NETWORK/index.m3u8
+
 #EXTINF:-1 tvg-id="MatchUltra.ru@4K" tvg-logo="https://www.kartina.tv/media/news/images/News/SEO/kanal-match-ultra.jpg" group-title="Sports", Match! Ultra
 http://stream.mcquack.net/169/index.m3u8
 
@@ -1370,7 +1379,7 @@ http://213.91.179.28:8000/play/a05n
 https://indihuy.streamized.net/atm/DASH/useesport/manifest.mpd
 
 #EXTINF:-1 tvg-id="MLBNetwork.us@SD" tvg-logo="https://i.imgur.com/sA5V39D.png" group-title="Sports", MLB Network
-http://108.181.20.255:27347/livehttpplay?channel_id=23103
+https://gpuserver3.tier1streams.com/MLB_Network/index.m3u8
 
 #EXTINF:-1 tvg-id="MLBStrikeZone.us@SD" tvg-logo="https://i.imgur.com/uMI1ySO.png" group-title="Sports", MLB Strike Zone
 http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
@@ -1543,6 +1552,15 @@ https://stm.sinalmycn.com/20018/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZy
 #EXTINF:-1 tvg-id="PremiereFC8.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png" group-title="Sports", Premiere FC 8
 https://stm.sinalmycn.com/20021/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
 
+#EXTINF:-1 tvg-id="Prima4K.ro@SD" tvg-logo="https://i.imgur.com/fOFgdHj.png" group-title="Sports", Prima 4K
+https://aes.m3u8simplu.workers.dev/prima4kk/index.m3u8
+
+#EXTINF:-1 tvg-id="PrimaSport5.ro@SD" tvg-logo="" group-title="Sports", Prima Sport 5
+https://aes.m3u8simplu.workers.dev/primasp5/index.m3u8
+
+#EXTINF:-1 tvg-id="Prime.sy@HD" tvg-logo="https://prime1tv.com/wp-content/uploads/2025/12/7-1.png" group-title="General;Sports", Prime
+https://mn-nl.mncdn.com/primetv/live/index.m3u8
+
 #EXTINF:-1 tvg-id="RacerSelect.us@SD" tvg-logo="https://i.imgur.com/CurtYvn.png" group-title="Sports", Racer Select
 https://amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playlist.m3u8
 
@@ -1552,8 +1570,8 @@ https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
 #EXTINF:-1 tvg-id="RealMadridTVEnglish.es@SD" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Sports", Real Madrid TV English
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
-#EXTINF:-1 tvg-id="REVNAction.us@SD" tvg-logo="https://i.imgur.com/xsm8mMd.png" group-title="Auto;Outdoor;Series;Sports", REV'N Action
-https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8
+#EXTINF:-1 tvg-id="REVNAction.us@SD" tvg-logo="https://i.imgur.com/xsm8mMd.png" group-title="Auto;Outdoor;Series;Sports", Rev'n Action
+https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8
 
 #EXTINF:-1 tvg-id="SetantaSports1Eurasia.ie@SD" tvg-logo="https://i.imgur.com/zlJK7ca.png" group-title="Sports", Setanta Sports 1 Eurasia
 http://stream.mcquack.net/234/index.m3u8
@@ -1596,6 +1614,12 @@ http://stream.mcquack.net/393/index.m3u8
 
 #EXTINF:-1 tvg-id="Sport4.ua@SD" tvg-logo="https://i.imgur.com/xW6oGIx.png" group-title="Sports", Sport 4
 http://stream.mcquack.net/394/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport5.ua@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Sport5UA.jpg" group-title="Sports", Sport 5
+http://stream.mcquack.net/212/index.m3u8
+
+#EXTINF:-1 tvg-id="SportExtra.ro@SD" tvg-logo="https://i.imgur.com/3MH2OIr.png" group-title="Sports", Sport Extra
+https://aes.m3u8simplu.workers.dev/sportextra/index.m3u8
 
 #EXTINF:-1 tvg-id="SportKlub.pl@SD" tvg-logo="https://i.imgur.com/DpJUrlr.png" group-title="Sports", Sport Klub
 http://91.146.94.234:10001/play/a079
