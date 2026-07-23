@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 07:19:57PM - 22-07-2026
-# Total Channel Found: 584 Channel
+# Update Time: 07:47:21AM - 23-07-2026
+# Total Channel Found: 582 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -1139,10 +1139,13 @@ https://stream-lb.livemediama.com/arryadia-hd-03/hls/master.m3u8
 https://stream-lb.livemediama.com/arryadia-tnt/hls/master.m3u8
 
 #EXTINF:-1 tvg-id="AztecaDeportesNetwork.mx@SD" tvg-logo="https://match-images.icdb.tv/5913207f2494844101287828e87625eb.jpg" group-title="Sports", Azteca Deportes Network
-http://38.194.226.190:8000/play/a02r/index.m3u8
+http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="BandSports.br@SD" tvg-logo="https://i.imgur.com/EuPvzJe.png" group-title="Sports", Band Sports
 http://143.14.178.40:7777/Band_Sports_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSportsenEspanol.qa@SD" tvg-logo="https://i.imgur.com/J5aurrb.png" group-title="Sports", beIN Sports en Espanol
+https://futbol9865.ultratv13.workers.dev/deportivo111/69.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsHaber.tr@SD" tvg-logo="https://i.imgur.com/QWo0x7S.jpg" group-title="Sports", beIN Sports Haber
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
@@ -1303,8 +1306,8 @@ https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m
 #EXTINF:-1 tvg-id="FoxSoccerPlus.us@SD" tvg-logo="https://i.imgur.com/gR7u8DM.png" group-title="Sports", Fox Soccer Plus
 https://gpuserver3.tier1streams.com/FOX_SOCCER_PLUS/index.m3u8
 
-#EXTINF:-1 tvg-id="FoxSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="Sports", FOX Sports
-https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
+#EXTINF:-1 tvg-id="FoxSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="Sports", Fox Sports
+https://futbol9865.ultratv13.workers.dev/deportivo111/78.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports", Fox Sports 1
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
@@ -1353,9 +1356,6 @@ http://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u
 
 #EXTINF:-1 tvg-id="LaLigaTV.es@SD" tvg-logo="https://i.imgur.com/ilay5Jr.png" group-title="Sports", LaLiga TV
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTZID4SFOqZLZ81NguVP-JxM/m3u8
-
-#EXTINF:-1 tvg-id="M4SportPlus.hu@SD" tvg-logo="https://i.imgur.com/0wrFYdN.png" group-title="Sports", M4 Sport+
-http://46.149.191.217:9007/play/a02q
 
 #EXTINF:-1 tvg-id="MarqueeSportsNetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Marquee_Sports_Network_Logo.svg/960px-Marquee_Sports_Network_Logo.svg.png" group-title="Sports", Marquee Sports Network
 https://gpuserver3.tier1streams.com/MARQUEE_SPORTS_NETWORK/index.m3u8
@@ -1591,9 +1591,6 @@ https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Sport1.cz@SD" tvg-logo="https://i.imgur.com/X5X3tKC.png" group-title="Sports", Sport1
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sport1.hu@SD" tvg-logo="https://i.imgur.com/X5X3tKC.png" group-title="Sports", Sport 1
-http://46.149.191.217:9005/play/a017
-
 #EXTINF:-1 tvg-id="Sport1.ua@SD" tvg-logo="https://i.imgur.com/Zjb8awW.png" group-title="Sports", Sport 1
 http://stream.mcquack.net/391/index.m3u8
 
@@ -1602,9 +1599,6 @@ http://stream.mcquack.net/461/index.m3u8
 
 #EXTINF:-1 tvg-id="Sport2.cz@SD" tvg-logo="https://i.imgur.com/UxflVoU.png" group-title="Sports", Sport2
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Sport2.hu@SD" tvg-logo="https://i.imgur.com/UxflVoU.png" group-title="Sports", Sport 2
-http://46.149.191.217:9018/play/a01e
 
 #EXTINF:-1 tvg-id="Sport2.ua@SD" tvg-logo="https://i.imgur.com/vk0j1mY.png" group-title="Sports", Sport 2
 http://stream.mcquack.net/392/index.m3u8
