@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 07:52:28AM - 27-07-2026
-# Total Channel Found: 432 Channel
+# Update Time: 03:27:29PM - 27-07-2026
+# Total Channel Found: 434 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -1240,6 +1240,9 @@ http://185.9.2.18/chid_423/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" group-title="News", i24NEWS Arabic
 https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hRFa03k.png" group-title="News", Ma'an TV
+https://htvmada.mada.ps:4443/maannews/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MfyRQCs.png" group-title="News", NOW News Arabic
 https://live.nowtelly.com/now_arabic/live/playlist.m3u8
 
@@ -1281,6 +1284,9 @@ https://vmi747311.contaboserver.net/hls/livetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7uQoIXi.png" group-title="Undefined", Samarra TV
 https://samarra.tv/proxy.php/hls/main3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sf2A9vT.png" group-title="Undefined", Wattan TV
+https://htvmada.mada.ps:4443/wattan/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wN3REXv.png" group-title="Undefined", Yemen TV
 https://live.yementv.tv/memfs/c8fe49a3-b1ca-4d14-9d78-498e8bad4f76_fast_output_0.m3u8
