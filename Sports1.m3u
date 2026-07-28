@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 01:10:17AM - 28-07-2026
-# Total Channel Found: 596 Channel
+# Update Time: 07:27:46AM - 28-07-2026
+# Total Channel Found: 587 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -138,7 +138,7 @@ https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
 
 #EXTINF:-1 tvg-id="AntenaSport.ro@SD" tvg-logo="" group-title="Sports", AntenaSport
-https://aes.m3u8simplu.workers.dev/antneassport/index.m3u8
+https://hls.rundletv.eu.org/LIVE$AntenaSport/6.m3u8/Level/300720051?end=END&start=LIVE
 
 #EXTINF:-1 tvg-id="AS3SportTV.ve@SD" tvg-logo="https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg" group-title="Sports", AS3 Sport TV
 https://streamtv.as3sport.online:3394/hybrid/play.m3u8
@@ -456,7 +456,7 @@ https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
 https://cdn1.ayitistream.com/NBATV/index.m3u8
 
 #EXTINF:-1 tvg-id="NBATVCanada.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/NBA_TV_Canada_2020.png" group-title="Sports", NBA TV Canada
-https://sra72yz.s.gy/NBA_TV_CANADA
+http://user.scalecdn.co:8080/live/54706135/09221986/3092.m3u8
 
 #EXTINF:-1 tvg-id="NBCSportsBayArea.us@SD" tvg-logo="https://i.imgur.com/MTgUVKx.png" group-title="Sports", NBC Sports Bay Area
 https://tvpass.org/live/nbc-sports-bay-area/hd
@@ -591,10 +591,10 @@ http://69.64.57.208/la3/index.m3u8
 http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SSport.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png" group-title="Sports", S Sport
-https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+https://corestream.siteyaptim.live/s-sport/index.m3u8
 
 #EXTINF:-1 tvg-id="SSport2.tr@SD" tvg-logo="https://i.imgur.com/2jIItAy.png" group-title="Sports", S Sport 2
-https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+https://corestream.siteyaptim.live/s-sport2/index.m3u8
 
 #EXTINF:-1 tvg-id="SanMarinoRTVSport.sm@SD" tvg-logo="https://i.imgur.com/PGm944g.png" group-title="Sports", San Marino RTV Sport
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
@@ -1142,7 +1142,7 @@ https://stream-lb.livemediama.com/arryadia-tnt/hls/master.m3u8
 http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="BandSports.br@SD" tvg-logo="https://i.imgur.com/EuPvzJe.png" group-title="Sports", Band Sports
-http://143.14.178.40:7777/Band_Sports_HD/index.m3u8
+https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsenEspanol.qa@SD" tvg-logo="https://i.imgur.com/J5aurrb.png" group-title="Sports", beIN Sports en Espanol
 https://futbol9865.ultratv13.workers.dev/deportivo111/69.m3u8
@@ -1199,7 +1199,7 @@ http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
 
 #EXTINF:-1 tvg-id="Combate.br@SD" tvg-logo="https://i.imgur.com/ZPYK5jr.png" group-title="Sports", Combate
-http://45.190.156.152/COMBATE/index.m3u8
+http://143.14.134.107/167/index.m3u8
 
 #EXTINF:-1 tvg-id="CRTV.cl@SD" tvg-logo="https://i2.paste.pics/bf68b159547597c39574aec9dd7c626a.png" group-title="Sports", CRTV
 https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
@@ -1237,17 +1237,8 @@ http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8
 #EXTINF:-1 tvg-id="DeporTV.ar@SD" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="Sports", DeporTV
 https://edgectc.com/DEPORTES_CTC_PLUS/index.m3u8
 
-#EXTINF:-1 tvg-id="DigiSport1.ro@SD" tvg-logo="https://i.imgur.com/5zMxDYq.png" group-title="Sports", Digi Sport 1
-https://aes.m3u8simplu.workers.dev/digi1/index.m3u8
-
-#EXTINF:-1 tvg-id="DigiSport2.ro@SD" tvg-logo="https://i.imgur.com/KWDUi3v.png" group-title="Sports", Digi Sport 2
-https://aes.m3u8simplu.workers.dev/digi2/index.m3u8
-
-#EXTINF:-1 tvg-id="DigiSport3.ro@SD" tvg-logo="https://i.imgur.com/T1ci5UK.png" group-title="Sports", Digi Sport 3
-https://aes.m3u8simplu.workers.dev/digi3/index.m3u8
-
-#EXTINF:-1 tvg-id="DigiSport4.ro@SD" tvg-logo="https://i.imgur.com/Knj9I6f.png" group-title="Sports", Digi Sport 4
-https://aes.m3u8simplu.workers.dev/digi4/index.m3u8
+#EXTINF:-1 tvg-id="DiviSport.ua@SD" tvg-logo="https://i.logos-download.com/114030/29915-s5120-904df224e4c030fefcc45adda448b6e8.png/DiviSport_Logo_2023-s5120.png" group-title="Sports", DiviSport
+http://stream.mcquack.net/457/index.m3u8
 
 #EXTINF:-1 tvg-id="DSports.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Sports", DSports
 https://streamvidex.qzz.io/videx/dsportsar/index.m3u8
@@ -1263,9 +1254,6 @@ https://streamvidex.qzz.io/videx/dsportsplus/index.m3u8
 
 #EXTINF:-1 tvg-id="DynamoKyivTV.ua@SD" tvg-logo="https://i.imgur.com/ymxmyyG.png" group-title="Sports", Dynamo Kyiv TV
 http://stream.mcquack.net/396/index.m3u8
-
-#EXTINF:-1 tvg-id="EDGEsport.uk@SD" tvg-logo="https://i.imgur.com/bgQ6kz7.png" group-title="Sports", EDGEsport
-https://sra72yz.s.gy/EDGE_SPORTS_SD
 
 #EXTINF:-1 tvg-id="ElHeddafTV.dz@SD" tvg-logo="https://i.imgur.com/cDkIDIA.png" group-title="Sports", El-Heddaf TV
 https://live.elheddaftv.com:8081/elheddaf/index.mpd
@@ -1438,9 +1426,6 @@ http://stream.mcquack.net/492/index.m3u8
 #EXTINF:-1 tvg-id="OlympicChannel.es@SD" tvg-logo="https://i.imgur.com/wPQVVtj.png" group-title="Sports", Olympics Channel
 https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_1.m3u8
 
-#EXTINF:-1 tvg-id="OneSports.ph@SD" tvg-logo="https://i.imgur.com/ig5PBMu.png" group-title="Sports", One Sports
-https://sra72yz.s.gy/ONE_SPORTS_PH_SD
-
 #EXTINF:-1 tvg-id="PFLMMA.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/96dd0531-b500-4bd4-93ca-763cbf46defe/1500x1000_PFL_SHIELD_DARK_BG_-_Allie_Dinsmore.png" group-title="Sports", PFL MMA
 https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8
 
@@ -1543,9 +1528,6 @@ http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7305/index.m3u8
 #EXTINF:-1 tvg-id="PremierSports1.ie@SD" tvg-logo="https://i.imgur.com/eOybZMU.png" group-title="Sports", Premier Sports 1
 https://cdtest.global.ssl.fastly.net/1785070000~b023a98e129026ee64ab87ff37011c44/channel/n110/chunks.m3u8
 
-#EXTINF:-1 tvg-id="PremiereClubes.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png" group-title="Sports", Premiere Clubes
-http://45.190.156.152/PREMIERE_CLUBES/index.m3u8
-
 #EXTINF:-1 tvg-id="PremiereFC1.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png" group-title="Sports", Premiere FC 1
 https://stm.sinalmycn.com/20000/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
 
@@ -1569,12 +1551,6 @@ https://stm.sinalmycn.com/20018/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZy
 
 #EXTINF:-1 tvg-id="PremiereFC8.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png" group-title="Sports", Premiere FC 8
 https://stm.sinalmycn.com/20021/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
-
-#EXTINF:-1 tvg-id="Prima4K.ro@SD" tvg-logo="https://i.imgur.com/fOFgdHj.png" group-title="Sports", Prima 4K
-https://aes.m3u8simplu.workers.dev/prima4kk/index.m3u8
-
-#EXTINF:-1 tvg-id="PrimaSport5.ro@SD" tvg-logo="" group-title="Sports", Prima Sport 5
-https://aes.m3u8simplu.workers.dev/primasp5/index.m3u8
 
 #EXTINF:-1 tvg-id="Prime.sy@HD" tvg-logo="https://prime1tv.com/wp-content/uploads/2025/12/7-1.png" group-title="General;Sports", Prime
 https://mn-nl.mncdn.com/primetv/live/index.m3u8
@@ -1650,9 +1626,6 @@ http://stream.mcquack.net/394/index.m3u8
 
 #EXTINF:-1 tvg-id="Sport5.ua@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Sport5UA.jpg" group-title="Sports", Sport 5
 http://stream.mcquack.net/212/index.m3u8
-
-#EXTINF:-1 tvg-id="SportExtra.ro@SD" tvg-logo="https://i.imgur.com/3MH2OIr.png" group-title="Sports", Sport Extra
-https://aes.m3u8simplu.workers.dev/sportextra/index.m3u8
 
 #EXTINF:-1 tvg-id="SportKlub.pl@SD" tvg-logo="https://i.imgur.com/DpJUrlr.png" group-title="Sports", Sport Klub
 http://91.146.94.234:10001/play/a079
