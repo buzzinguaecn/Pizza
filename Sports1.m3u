@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 01:07:44AM - 31-07-2026
-# Total Channel Found: 578 Channel
+# Update Time: 07:47:51AM - 31-07-2026
+# Total Channel Found: 577 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -261,7 +261,7 @@ https://webtvstream.bhtelecom.ba/fightbox.m3u8
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports2.us@HD" tvg-logo="https://i.postimg.cc/v8r89JQ1/image.jpg" group-title="Sports", Fox Sports 2
-https://tvpass.org/live/FoxSports2/hd
+https://messi.damitv.st/papi/ts/fox-sports-2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FoxDeportes.us@SD" tvg-logo="https://i.postimg.cc/9F9MxDtJ/image.jpg" group-title="Sports", Fox Sports en Espanol
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
@@ -702,7 +702,7 @@ http://stream.mcquack.net/444/index.m3u8
 https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TSports.bd@SD" tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="Sports", T Sports
-https://trs1.aynaott.com/tsports/index.m3u8
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 
 #EXTINF:-1 tvg-id="TabiiSpor6.tr@SD" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w300/43020.jpeg" group-title="Sports", Tabii Spor 6
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
@@ -1238,7 +1238,7 @@ http://stream.mcquack.net/485/index.m3u8
 http://181.78.197.59:8000/play/a07z/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN3.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="Sports", ESPN 3
-http://181.78.197.59:8000/play/a081/index.m3u8
+http://190.83.2.182:8090/ESPN3/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN4.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="Sports", ESPN 4
 http://181.78.197.59:8000/play/a07n/index.m3u8
@@ -1277,10 +1277,7 @@ https://gpuserver3.tier1streams.com/FOX_SOCCER_PLUS/index.m3u8
 https://futbol9865.ultratv13.workers.dev/deportivo111/78.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports", Fox Sports 1
-http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
-
-#EXTINF:-1 tvg-id="FoxSportsPremium.mx@SD" tvg-logo="https://i.imgur.com/3lOZWeD.png" group-title="Sports", Fox Sports Premium
-http://108.181.20.255:27347/livehttpplay?channel_id=23054
+https://messi.damitv.st/papi/ts/fox-sports-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FUTV.cr@SD" tvg-logo="https://i.imgur.com/f8BkLql.png" group-title="Sports", FUTV
 http://190.61.90.17:40000/play/a03v/index.m3u8
