@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 01:07:24AM - 31-07-2026
-# Total Channel Found: 273 Channel
+# Update Time: 07:47:30AM - 31-07-2026
+# Total Channel Found: 271 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -42,7 +42,7 @@ http://99.27.51.147:8080/M6/index.m3u8
 http://41.205.70.146/MTVFRANCE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nFqjVNW.png" group-title="Entertainment", RTL9
-http://cdn.haititivi.com/rtl-9/index.m3u8
+http://145.239.5.177/308/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="Entertainment", TF1 HD
 http://151.80.18.177:86/TF1_HD/index.m3u8
@@ -529,68 +529,14 @@ https://jmp2.uk/plu-612e044c970e6f00083bcf3b.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/960px-France_3_2018.svg.png" group-title="General", like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="General",France 3
 http://85.14.32.26:8800/udp/239.100.10.144:5000
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ily4bEm.png" group-title="General", Paris Premiere
-http://cdn.haititivi.com/PARIS-PREMIERE/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/France_3_Cote_d%27Azur_-_Logo_2018.svg" group-title="General", France 3 Cote d'Azur
+http://89.187.185.76:8080/France3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/France_3_Lorraine_-_Logo_2018.svg" group-title="General", France 3 Lorraine
+http://5.180.164.197:8080/FRANCE3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png" group-title="General", like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="General",TMC
 http://151.80.18.177:86/TMC/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zv9VsVq.png" group-title="Movies", Action HD
-http://rezofoot.tv/Action/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fvPoNEa.jpeg" group-title="Movies", Canal+ Cinemas
-http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6823648580b2665220d9e69a/colorLogoPNG-1757404141.png" group-title="Movies", Ciné 666 by Pluto TV
-https://jmp2.uk/plu-6823648580b2665220d9e69a.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG_1752228138963.png" group-title="Movies", Ciné Action by Pluto TV
-https://jmp2.uk/plu-5f8ed1ff5c39700007e2204a.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8ed0f17564a300082b676a/colorLogoPNG_1775048900088.png" group-title="Movies", Ciné by Pluto TV
-https://jmp2.uk/plu-5f8ed0f17564a300082b676a.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65a69ef53af63d000825e0ee/colorLogoPNG_1751272916058.png" group-title="Movies", Ciné Catastrophe by Pluto TV
-https://jmp2.uk/plu-65a69ef53af63d000825e0ee.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62f3e2d000418d00070f7dbc/colorLogoPNG_1751272759694.png" group-title="Movies", Ciné d'Asie by Pluto TV
-https://jmp2.uk/plu-62f3e2d000418d00070f7dbc.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66e1978babec540008ce41ac/colorLogoPNG_1751272165674.png" group-title="Movies", Ciné Horreur by Pluto TV
-https://jmp2.uk/plu-66e1978babec540008ce41ac.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8ed168f72fcd0007e56269/colorLogoPNG_1751272859383.png" group-title="Movies", Ciné Rétro by Pluto TV
-https://jmp2.uk/plu-5f8ed168f72fcd0007e56269.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60812fc8539963000707d1e1/colorLogoPNG_1775048649580.png" group-title="Movies", Ciné Romance by Pluto TV
-https://jmp2.uk/plu-60812fc8539963000707d1e1.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60c34592c911890007f29a73/colorLogoPNG.png" group-title="Movies", Ciné Sci-Fi by Pluto TV
-https://jmp2.uk/plu-60c34592c911890007f29a73.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60c3472a51a2050008dad272/colorLogoPNG_1751272093012.png" group-title="Movies", Ciné Thrillers by Pluto TV
-https://jmp2.uk/plu-60c3472a51a2050008dad272.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65cca3e2ec452d0008af3a65/colorLogoPNG_1751272826143.png" group-title="Movies", Ciné Western by Pluto TV
-https://jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y2zeLS3.jpeg" group-title="Movies", like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Cine+ Classic
-http://99.27.51.147/CineClassic/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/upYjPvc.jpeg" group-title="Movies", Cine+ Emotion
-http://145.239.5.177/337/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MwFtbnR.jpeg" group-title="Movies", like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Cine+ Frisson
-http://99.27.51.147:8080/CineFrisson/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/29L2gbb.png" group-title="Movies", Nollywood TV
-http://145.239.5.177/148/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f98487036af340008da1e37/colorLogoPNG.png" group-title="Movies", Pluto TV Paranormal
-https://jmp2.uk/plu-5f8ed9461b35690007a0bc3a.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cQkfRhH.png" group-title="Movies", Wild Side TV
-https://jmp2.uk/plu-60b4d6c806ad2a00073b3108.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6683b680efa2a10008e8a393/colorLogoPNG.png" group-title="Animation", Daria
 https://jmp2.uk/plu-6683b680efa2a10008e8a393.m3u8
@@ -682,9 +628,6 @@ https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/611e6a9b4bb5790007a6f0f8/colorLogoPNG.png" group-title="Animation;Kids", Pluto TV Retro Toons
 https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/T%C3%A9l%C3%A9toon%2B_Logo.png/960px-T%C3%A9l%C3%A9toon%2B_Logo.png" group-title="Animation;Kids", Teletoon+
-http://cdn.haititivi.com/TELETOON-HD/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ffc8c345822750007e167de/colorLogoPNG.png" group-title="Kids", Bob l'éponge
 https://jmp2.uk/plu-5ffc8c345822750007e167de.m3u8
 
@@ -714,6 +657,60 @@ https://jmp2.uk/plu-5f8eba14a4ffb8000764e950.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/colorLogoPNG.png" group-title="Kids", Tortues Ninja TV
 https://jmp2.uk/plu-5f8ecc1b37867f00071469e9.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fvPoNEa.jpeg" group-title="Movies", Canal+ Cinemas
+http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6823648580b2665220d9e69a/colorLogoPNG-1757404141.png" group-title="Movies", Ciné 666 by Pluto TV
+https://jmp2.uk/plu-6823648580b2665220d9e69a.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG_1752228138963.png" group-title="Movies", Ciné Action by Pluto TV
+https://jmp2.uk/plu-5f8ed1ff5c39700007e2204a.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8ed0f17564a300082b676a/colorLogoPNG_1775048900088.png" group-title="Movies", Ciné by Pluto TV
+https://jmp2.uk/plu-5f8ed0f17564a300082b676a.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65a69ef53af63d000825e0ee/colorLogoPNG_1751272916058.png" group-title="Movies", Ciné Catastrophe by Pluto TV
+https://jmp2.uk/plu-65a69ef53af63d000825e0ee.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62f3e2d000418d00070f7dbc/colorLogoPNG_1751272759694.png" group-title="Movies", Ciné d'Asie by Pluto TV
+https://jmp2.uk/plu-62f3e2d000418d00070f7dbc.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66e1978babec540008ce41ac/colorLogoPNG_1751272165674.png" group-title="Movies", Ciné Horreur by Pluto TV
+https://jmp2.uk/plu-66e1978babec540008ce41ac.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8ed168f72fcd0007e56269/colorLogoPNG_1751272859383.png" group-title="Movies", Ciné Rétro by Pluto TV
+https://jmp2.uk/plu-5f8ed168f72fcd0007e56269.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60812fc8539963000707d1e1/colorLogoPNG_1775048649580.png" group-title="Movies", Ciné Romance by Pluto TV
+https://jmp2.uk/plu-60812fc8539963000707d1e1.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60c34592c911890007f29a73/colorLogoPNG.png" group-title="Movies", Ciné Sci-Fi by Pluto TV
+https://jmp2.uk/plu-60c34592c911890007f29a73.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60c3472a51a2050008dad272/colorLogoPNG_1751272093012.png" group-title="Movies", Ciné Thrillers by Pluto TV
+https://jmp2.uk/plu-60c3472a51a2050008dad272.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65cca3e2ec452d0008af3a65/colorLogoPNG_1751272826143.png" group-title="Movies", Ciné Western by Pluto TV
+https://jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y2zeLS3.jpeg" group-title="Movies", like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Cine+ Classic
+http://99.27.51.147/CineClassic/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/upYjPvc.jpeg" group-title="Movies", Cine+ Emotion
+http://145.239.5.177/337/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MwFtbnR.jpeg" group-title="Movies", like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Cine+ Frisson
+http://99.27.51.147:8080/CineFrisson/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/29L2gbb.png" group-title="Movies", Nollywood TV
+http://145.239.5.177/148/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f98487036af340008da1e37/colorLogoPNG.png" group-title="Movies", Pluto TV Paranormal
+https://jmp2.uk/plu-5f8ed9461b35690007a0bc3a.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cQkfRhH.png" group-title="Movies", Wild Side TV
+https://jmp2.uk/plu-60b4d6c806ad2a00073b3108.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png" group-title="Sports", like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Canal+ Sport 360
 https://futbol9865.ultratv13.workers.dev/deportivo111/14.m3u8
@@ -759,9 +756,6 @@ http://145.239.5.177/320/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j31lBL7.png" group-title="Music", MCM Pop
 http://rjcf.ofztvxv.top:8080/kang/71267133/99554
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EVtWQLd.png" group-title="Music", MCM Top
-http://rezofoot.tv/MCM/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H9ytKPN.png" group-title="Music", Mezzo Live
 http://stream.mcquack.net/276/index.m3u8
