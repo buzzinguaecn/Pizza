@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 01:06:33AM - 01-08-2026
-# Total Channel Found: 577 Channel
+# Update Time: 07:48:37AM - 01-08-2026
+# Total Channel Found: 578 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -459,7 +459,7 @@ https://cdn1.ayitistream.com/NBATV/index.m3u8
 http://user.scalecdn.co:8080/live/54706135/09221986/3092.m3u8
 
 #EXTINF:-1 tvg-id="NBCSportsBayArea.us@SD" tvg-logo="https://i.imgur.com/MTgUVKx.png" group-title="Sports", NBC Sports Bay Area
-https://tvpass.org/live/nbc-sports-bay-area/hd
+https://messi.damitv.st/papi/ts/nbc-sports-bayarea/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NBCSportsBoston.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NBC_Sports_Boston.png/960px-NBC_Sports_Boston.png" group-title="Sports", NBC Sports Boston
 https://tvpass.org/live/nbc-sports-boston/hd
@@ -468,7 +468,7 @@ https://tvpass.org/live/nbc-sports-boston/hd
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
 
 #EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Philadelphia.png/960px-NBC_Sports_Philadelphia.png" group-title="Sports", NBC Sports Philadelphia
-https://tvpass.org/live/nbc-sports-philadelphia/hd
+https://messi.damitv.st/papi/ts/nbc-sports-philly/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NFLChannel.us@SD" tvg-logo="https://i.imgur.com/mPGtwAP.png" group-title="Sports", NFL Channel
 https://pb-we3ltka9xobj6.akamaized.net/master.m3u8
@@ -1120,6 +1120,9 @@ https://nl1.nghk.ai/ArenaPremium3BH/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSportTenis.rs@SD" tvg-logo="" group-title="Sports", Arena Sport Tenis
 https://nl1.nghk.ai/SK4SRHD/index.m3u8
 
+#EXTINF:-1 tvg-id="Arryadia.ma@SD" tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="Sports", Arryadia
+http://149.100.11.252:8000/play/a065/index.m3u8
+
 #EXTINF:-1 tvg-id="AztecaDeportesNetwork.mx@SD" tvg-logo="https://match-images.icdb.tv/5913207f2494844101287828e87625eb.jpg" group-title="Sports", Azteca Deportes Network
 http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
 
@@ -1127,7 +1130,7 @@ http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
 https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsUSA.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="Sports", beIN Sports USA
-http://23.237.104.106:8080/USA_BEIN/index.m3u8
+https://messi.damitv.st/papi/ts/beinsports-usa/playlist.m3u8
 
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Sports", beIN SPORTS XTRA
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
@@ -1370,7 +1373,7 @@ http://40.160.24.58/NBC_SPORTS_NETWORK/index.m3u8
 http://23.237.104.106:8080/USA_NESN/index.m3u8
 
 #EXTINF:-1 tvg-id="NFLNetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png" group-title="Sports", NFL Network
-http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
+https://messi.damitv.st/papi/ts/nflnetwork-usa/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NHLNetwork.us@SD" tvg-logo="https://i.imgur.com/UNZ8bef.png" group-title="Sports", NHL Network
 https://nhl-firetv.amagi.tv/playlist.m3u8
