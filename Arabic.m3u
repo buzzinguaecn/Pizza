@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 07:48:18AM - 01-08-2026
-# Total Channel Found: 427 Channel
+# Update Time: 02:01:14PM - 01-08-2026
+# Total Channel Found: 428 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -975,7 +975,7 @@ https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
 https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="Sports", Arryadia
-http://5.253.46.190:8000/play/a0ea/index.m3u8
+http://149.100.11.252:8000/play/a065/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="Sports", Arryadia HD
 http://5.253.46.190:8000/play/a0bi/index.m3u8
@@ -1263,6 +1263,9 @@ https://vmi747311.contaboserver.net/hls/livetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7uQoIXi.png" group-title="Undefined", Samarra TV
 https://samarra.tv/proxy.php/hls/main3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cvnps2J.jpg" group-title="Undefined", Takbeer TV
+https://cd198.anystream.uk:9092/iqapp/t5kb86tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sf2A9vT.png" group-title="Undefined", Wattan TV
 https://htvmada.mada.ps:4443/wattan/index.m3u8
