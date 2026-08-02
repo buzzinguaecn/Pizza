@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 06:56:25PM - 02-08-2026
-# Total Channel Found: 6319 Channel
+# Update Time: 12:53:06AM - 03-08-2026
+# Total Channel Found: 6316 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -27,7 +27,7 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 https://cempedak-cdn-fly.mncnow.id/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-m.png" group-title="INDONESIA", GTV
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
+https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png" group-title="INDONESIA", MNCTV
 https://indihuy.streamized.net/atm/DASH/mnctv/manifest.mpd
@@ -93,7 +93,7 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/SEA-Channel/sa_dash/SEA-Channel.mpd|
 https://cempedak-cdn-fly.mncnow.id/live/eds/SEA-Channel/sa_dash/SEA-Channel.mpd|referer=https://www.visionplus.id
 
 #EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/vtv.png" group-title="INDONESIA", VTV
-http://157.15.187.3:25092/hls/47/47.m3u8
+http://103.66.62.83:8000/play/a00c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/598/598-LOGO-m.png" group-title="INDONESIA", Jaktv
 https://cempedak-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
@@ -4110,7 +4110,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/in
 http://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJRJr3BR/2560px-VTV-Indonesia-White-2023-svg.png" group-title="Kids", VTV
-http://157.15.187.3:25092/hls/47/47.m3u8
+http://103.66.62.83:8000/play/a00c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/music/mtv_live.png" group-title="MUSIC", MTV LIVE
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
@@ -4749,7 +4749,7 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
 https://indihuy.streamized.net/atm/DASH/mnctv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/logo_gtv_hd.png" group-title="Local", GTV
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
+https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_antara_small1.png?v=2.0.0.13" group-title="Local", Antara
 https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
@@ -5718,7 +5718,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 https://cempedak-cdn-fly.mncnow.id/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png" group-title="TV Nasional Indonesia", GTV
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
+https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-logo="https://c0.klipartz.com/pngpicture/382/669/gratis-png-logo-mnctv-television-medios-nusantara-citra-rcti-televisi-indonesia.png" group-title="TV Nasional Indonesia", MNC TV
 https://liveaneviadev.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
@@ -10746,7 +10746,7 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtv8/index.m3u8
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png" group-title="No SignaL 📺", GTV
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
+https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="No SignaL 📺", FS 1 🇺🇸
 http://1tv41.icu:8080/live/aQwbj3/140716/1846.ts
@@ -10968,7 +10968,7 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
 https://liveaneviadev.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 
 #EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqXcSDTjYwcL5sDlcEfWCYYw.png" group-title="NasioNaL DiGitaL 📡", GTV
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
+https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8KN5BFs.png" group-title="NasioNaL DiGitaL 📡", MOJI
 https://tvratu.my.id/vid/index.mpd?id=206&type=dash
@@ -11010,7 +11010,7 @@ http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeaDtmnMvCDGSMTsZV0KkPpw
 http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeWN_Qjz1R-u1AHCohxjsqh8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/irQoFrd.png" group-title="NasioNaL DiGitaL 📡", TVRI NASIONAL
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/85f6d3da0e064dbe99e7bf1e18bc47c4/index.mpd
+https://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8?app_type=web&userid=lite&chname=TVRI
 
 #EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDquyNlM9Uh7Ifp6MGX5vY-tA.png" group-title="NasioNaL DiGitaL 📡", TVRI SPORT
 https://op-flashcon-digdayahd-1.dens.tv/s/s107/index.m3u8?app_type=web&userid=lite&chname=TVRI_Sport
@@ -11094,7 +11094,7 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
 https://liveaneviadev.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 
 #EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqXcSDTjYwcL5sDlcEfWCYYw.png" group-title="NasioNaL DiGitaL 📡", GTV
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
+https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqDDkLWj_yz2dYsMdf57PLcw.png" group-title="NasioNaL DiGitaL 📡", TV ONE
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd|referrer=https://www.visionplus.id/
@@ -12285,7 +12285,7 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
 https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSul436uCmHMIpge6PzLn_kyCWYGBs9p2u5CGCrSRBkuPCvIh4QRyxdUECP&s=10" group-title="TransVision", GTV
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
+https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdxMDOZQHefJe_PLlzckuPGgssSfzwwn2kdauQVKlUBqUZL0c5lfCZQIo4&s=10" group-title="TransVision", Trans TV
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
@@ -15183,10 +15183,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
 https://hgmstream.servehttp.com/garuda/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/khnD6CC/gtv.png" group-title="TV BackUP", GTV
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
+https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/khnD6CC/gtv.png" group-title="TV BackUP", GTV
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
+https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/khnD6CC/gtv.png" group-title="TV BackUP", GTV - Trans
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.m3u8
@@ -15201,13 +15201,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6sfBLj/inews.png" group-title="TV BackUP", INEWS
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
+https://cdnbal1.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6sfBLj/inews.png" group-title="TV BackUP", INEWS
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
+https://cdnbal1.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6sfBLj/inews.png" group-title="TV BackUP", INEWS
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
+https://cdnbal1.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MR6fmDw/kompastv.png" group-title="TV BackUP", KOMPAS TV
 https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/KOMPAS_TV-avc1_2500000=7-3277707030000000.mpd
@@ -15312,7 +15312,7 @@ https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd|referrer=https://www.visionplus.id/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4F68vbH/tvri.png" group-title="TV BackUP", TVRI NASIONAL
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/85f6d3da0e064dbe99e7bf1e18bc47c4/index.mpd
+https://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8?app_type=web&userid=lite&chname=TVRI
 
 #EXTINF:-1 tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/148.png" group-title="TV BackUP", TVRI Nasional
 https://op-group1-swiftservesd-1.dens.tv/s/s11/01.m3u8|referrer=https://dens.tv/
@@ -15948,7 +15948,7 @@ http://seb.sason.top/ptv/ftv.php?id=ms
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jjuKnYs.png" group-title="General", GTV
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
+https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/960px-Indosiar_2015.svg.png" group-title="General", like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="General",Indosiar
 http://mpwtv.github.io/indosiar.m3u8
@@ -16585,23 +16585,20 @@ http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" group-title="NASIONAL", INDOSIAR 5 ON
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/rcti.png" group-title="INDONESIA TV", 06. RCTI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/rcti.png" group-title="INDONESIA TV", 06. RCTI MAX
 https://cdnbal1.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-3277707030000000.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/rcti.png" group-title="INDONESIA TV", 06. RCTI R+
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mnctv.png" group-title="INDONESIA TV", 05. MNCTV
-https://cdnbal1.indihometv.com/atm/DASH/mnctv/mnctv-avc1_2500000=7-3277707030000000.mpd
+http://opplextv.cyou:8080/Ahsaan003/shahfaisal/350996
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/gtv.png" group-title="INDONESIA TV", 08. GTV
-https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/INews.png" group-title="INDONESIA TV", 15. INEWS
-https://cdnbal1.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-3277707030000000.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/gtv.png" group-title="INDONESIA TV", 08. GTV R+
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/INews.png" group-title="INDONESIA TV", 15. INEWS
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/index.mpd
+http://opplextv.cyou:8080/Ahsaan003/shahfaisal/350973
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/INews.png" group-title="INDONESIA TV", 15. INEWS
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/sindonews.jpg" group-title="INDONESIA TV", SINDONEWS
 https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd
@@ -16626,9 +16623,6 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/ind
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/transtv.png" group-title="INDONESIA TV", 04. TRANS TV
 http://202.169.224.202:8800/udp/239.4.1.1:1234
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/transtv.png" group-title="INDONESIA TV", 04. TRANS TV
-https://video.detik.com/transtv-sec/smil:transtv.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1785078764314&wowzatokenhash=KPagFG_Rb_8c_-69o2iMl2qX-UEy3gO3qIGM3stAJ5w%3D&wowzatokenstarttime=0&wowzatokenendtime=1785078753396&wowzatokenhash=EY74gkO_hld5kkivGM1KBQ4LQhN0B7mDYdPAy5QVkTs%3D
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/trans7.jpg" group-title="INDONESIA TV", 10. TRANS 7
 https://stream.digitalbroadcast.id/lb0/8b2ccc69-a926-436b-bbc0-fb0822062ac4/index.fmp4.m3u8
@@ -16661,16 +16655,13 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=777&type=dash
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/vtv.jpeg" group-title="INDONESIA TV", 19. VTV
-http://tvratu.my.id/oxygen/index.m3u8?id=vtv
+http://157.15.187.3:25092/hls/47/47.m3u8
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/btv.jpg" group-title="INDONESIA TV", 30. BTV
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3112ca4fbc2642e79ecaf9b2b0999e07/index.mpd
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/beritasatu.jpg" group-title="INDONESIA TV", 31. BERITASATU
 https://cdnbal1.indihometv.com/atm/DASH/beritasatu/beritasatu-avc1_2500000=7-3277707030000000.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/tvri.png" group-title="INDONESIA TV", 01.TVRI Nasional
-https://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8?app_type=web&userid=lite&chname=TVRI
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/tvri.png" group-title="INDONESIA TV", 01. TVRI NASIONAL
 https://cdnbal1.indihometv.com/atm/DASH/TVRI/TVRI-avc1_2500000=7-3277707030000000.mpd
