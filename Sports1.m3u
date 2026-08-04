@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 01:17:39AM - 04-08-2026
-# Total Channel Found: 582 Channel
+# Update Time: 07:23:34AM - 04-08-2026
+# Total Channel Found: 587 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -405,7 +405,7 @@ http://stream.mcquack.net/353/index.m3u8
 https://jmp2.uk/plu-5f99a772c54853000797bf18.m3u8
 
 #EXTINF:-1 tvg-id="M4Sport.hu@SD" tvg-logo="https://i.imgur.com/TQ4uJZk.png" group-title="Sports", M4 Sport
-http://88.212.15.19/live/m4_hun/index.m3u8
+https://budapest-cache-1.antik.sk/stream/m4_sport_hun/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-id="MNetSport.mk@SD" tvg-logo="https://i.imgur.com/7k8ar1Z.png" group-title="Sports", M-Net Sport
 http://ares.mnet.mk/hls/mnet-sport.m3u8
@@ -681,7 +681,7 @@ http://ptu.ridsys.in/riptv/live/STAR_SPORTS_TAMIL/index.m3u8
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 
 #EXTINF:-1 tvg-id="StarSports2Hindi.in@SD" tvg-logo="https://i.imgur.com/kHerF19.png" group-title="Sports", Star Sports 2 Hindi
-http://116.90.120.151:8000/play/a0jc/index.m3u8
+https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8
 
 #EXTINF:-1 tvg-id="StarSports2Hindi.in@HD" tvg-logo="https://i.imgur.com/kHerF19.png" group-title="Sports", Star Sports 2 Hindi HD
 http://103.157.248.140:8000/play/a01m/index.m3u8
@@ -1285,6 +1285,15 @@ https://futbol9865.ultratv13.workers.dev/deportivo111/78.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports", Fox Sports 1
 https://messi.damitv.st/papi/ts/fox-sports-1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="FoxSports503.au@SD" tvg-logo="https://i.imgur.com/pBY6i2q.png" group-title="Sports", Fox Sports 503
+https://messi.damitv.st/papi/ts/fox-sports-503/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports505.au@SD" tvg-logo="https://i.imgur.com/sbooXpg.png" group-title="Sports", Fox Sports 505
+https://messi.damitv.st/papi/ts/fox-sports-505/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports506.au@SD" tvg-logo="https://i.imgur.com/sbooXpg.png" group-title="Sports", Fox Sports 506
+https://messi.damitv.st/papi/ts/fox-sports-506/playlist.m3u8
+
 #EXTINF:-1 tvg-id="FutbolTV.uz" tvg-logo="https://i.ibb.co/h1gQSkbB/Futbol-TV.png" group-title="Sports", Futbol TV
 http://stream3.cinerama.uz/1010/tracks-v1a1/mono.m3u8
 
@@ -1319,7 +1328,7 @@ https://aloula-redirect.vercel.app/16/playlist.m3u8
 http://45.4.1.201:8000/play/a1ai/index.m3u8
 
 #EXTINF:-1 tvg-id="L1Max.pe@SD" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Sports", L1 Max
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/liga1max.stream/playlist.m3u8
+http://190.93.224.42/LIGA-1-MAX/index.m3u8
 
 #EXTINF:-1 tvg-id="MSports.pk@SD" tvg-logo="https://msports.pk/wp-content/uploads/2026/02/m-sports-300.png" group-title="Sports", M Sports
 https://cdn.rabta.stream/M-Sports/index.m3u8
@@ -1561,6 +1570,9 @@ http://stream.mcquack.net/235/index.m3u8
 #EXTINF:-1 tvg-id="SetantaSportsPlusUkraine.ua@SD" tvg-logo="https://i.imgur.com/gHAP4p0.png" group-title="Sports", Setanta Sports+ Ukraine
 http://stream.mcquack.net/390/index.m3u8
 
+#EXTINF:-1 tvg-id="SkySportF1.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/960px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="Sports", Sky Sport F1
+https://7nyaler.streamhostingcdn.top/stream/8/index.m3u8
+
 #EXTINF:-1 tvg-id="SkySportsCricket.uk@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png" group-title="Sports", Sky Sports Cricket HD
 https://xemzi.short.gy/2000006
 
@@ -1743,6 +1755,9 @@ https://live05.meung.app/live/16226575.m3u8
 
 #EXTINF:-1 tvg-id="VTV6.vn@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/VTV6_logo_2026_final.svg/960px-VTV6_logo_2026_final.svg.png" group-title="Sports", VTV6
 https://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8
+
+#EXTINF:-1 tvg-id="WeSportTV.md@SD" tvg-logo="https://i.imgur.com/vJZgpOb.png" group-title="Sports", We Sport TV
+http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2471/index.m3u8
 
 #EXTINF:-1 tvg-id="Willow.us@SD" tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png" group-title="Sports", Willow
 http://tvsen5.aynascope.net/willowhd/index.m3u8
