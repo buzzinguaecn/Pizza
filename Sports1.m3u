@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 01:17:35AM - 05-08-2026
-# Total Channel Found: 587 Channel
+# Update Time: 07:28:50AM - 05-08-2026
+# Total Channel Found: 585 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -180,7 +180,7 @@ https://propee33f9c2.airspace-cdn.cbsivideo.com/index.m3u8
 http://123.175.209.52:9003/hls/5/index.m3u8
 
 #EXTINF:-1 tvg-id="CCTV5Plus.cn@SD" tvg-logo="https://i.imgur.com/OK8mdJV.png" group-title="Sports", CCTV-5+
-http://123.175.209.52:9003/hls/6/index.m3u8
+https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
 
 #EXTINF:-1 tvg-id="CCTV16.cn@SD" tvg-logo="https://i.imgur.com/ZzV6JQp.png" group-title="Sports", CCTV-16
 http://74.91.26.218:82/live/cctv16hd.m3u8
@@ -243,7 +243,7 @@ https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.
 https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FanDuelRacing.us@SD" tvg-logo="https://i.postimg.cc/7PJwDbty/image.jpg" group-title="Sports", FanDuel Racing
-http://206.212.244.63/6139/index.m3u8
+https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
 
 #EXTINF:-1 tvg-id="FanDuelTV.us@SD" tvg-logo="https://i.postimg.cc/brk7nD4Z/image.jpg" group-title="Sports", FanDuel TV
 http://40.160.24.55/TVG/index.m3u8
@@ -405,7 +405,7 @@ http://stream.mcquack.net/353/index.m3u8
 https://jmp2.uk/plu-5f99a772c54853000797bf18.m3u8
 
 #EXTINF:-1 tvg-id="M4Sport.hu@SD" tvg-logo="https://i.imgur.com/TQ4uJZk.png" group-title="Sports", M4 Sport
-https://budapest-cache-1.antik.sk/stream/m4_sport_hun/playlist_cbcs.mpd
+http://88.212.15.19/live/m4_hun/index.m3u8
 
 #EXTINF:-1 tvg-id="MNetSport.mk@SD" tvg-logo="https://i.imgur.com/7k8ar1Z.png" group-title="Sports", M-Net Sport
 http://ares.mnet.mk/hls/mnet-sport.m3u8
@@ -989,13 +989,13 @@ http://stream.mcquack.net/41/index.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 
 #EXTINF:-1 tvg-id="ACCNetwork.us@SD" tvg-logo="https://i.imgur.com/TpCkbkT.png" group-title="Sports", ACC Network
-http://206.212.244.63/2486/index.m3u8
+https://gpuserver3.tier1streams.com/ACC_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="AlIraqiaSport.iq@SD" tvg-logo="https://i.imgur.com/DrrlxTO.png" group-title="Sports", Al Iraqia Sport
 https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
 
-#EXTINF:-1 tvg-id="AltitudeSports.us@SD" tvg-logo="https://i.imgur.com/TzWflKZ.png" group-title="Sports", Altitude Sports
-http://206.212.244.63/6153/index.m3u8
+#EXTINF:-1 tvg-id="Arena.id@HD" tvg-logo="https://hosting.renderforestsites.com/35126779/1657983/media/a6a7392cdcfff7c5324b503d0eb3b35b.png" group-title="Sports", Arena
+https://gist.githubusercontent.com/iptvonlinetv/b9e0c530348c2a14bf2de025bcfec053/raw/96db8c5e17807ab5a22212f289b53afd6edb0966/udp310.910.810:1050.m3u8
 
 #EXTINF:-1 tvg-id="ArenaFight.rs@SD" tvg-logo="https://i.imgur.com/5abTrJU.png" group-title="Sports", Arena Fight
 https://nl1.nghk.ai/ArenaFight/index.m3u8
@@ -1384,9 +1384,6 @@ https://amg02873-kravemedia-mtrspt1-distrotv-mnsrl.amagi.tv/playlist/amg02873-kr
 #EXTINF:-1 tvg-id="NSports.br@SD" tvg-logo="https://i.imgur.com/7QnJojr.png" group-title="Sports", N Sports
 https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
 
-#EXTINF:-1 tvg-id="NBCSportsChicago.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Chicago_Logo.svg/500px-NBC_Sports_Chicago_Logo.svg.png" group-title="Sports", NBC Sports Chicago
-http://206.212.244.63/6141/index.m3u8
-
 #EXTINF:-1 tvg-id="NBCSN.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NBCSN_logo_%28flat%29.svg/960px-NBCSN_logo_%28flat%29.svg.png" group-title="Sports", NBCSN
 http://40.160.24.58/NBC_SPORTS_NETWORK/index.m3u8
 
@@ -1491,9 +1488,6 @@ https://jmp2.uk/plu-6357f33cb51d2d00077927c6.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVSport.se@SE" tvg-logo="https://images.pluto.tv/channels/6357f3de3643ba0007bc0b50/colorLogoPNG_1746816938506.png" group-title="Sports", Pluto TV Sport
 https://jmp2.uk/plu-62cd74e38f6f0d000798cd93.m3u8
-
-#EXTINF:-1 tvg-id="PokerGo.us@SD" tvg-logo="https://i.imgur.com/1603HED.png" group-title="Sports", PokerGo
-http://206.212.244.63/4249/index.m3u8
 
 #EXTINF:-1 tvg-id="PolsatSportExtra1.pl@SD" tvg-logo="https://i.imgur.com/g2YieTL.png" group-title="Sports", Polsat Sport Extra 1
 http://91.146.94.234:10001/play/a07r
