@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 07:28:47AM - 05-08-2026
-# Total Channel Found: 6318 Channel
+# Update Time: 02:14:36PM - 05-08-2026
+# Total Channel Found: 6329 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -16285,6 +16285,9 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fb
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1GsXBNwz/K.png" group-title="Movies", K+
 https://op-flashcon-digdayahd-1.dens.tv/h/h219/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://hosting.renderforestsites.com/35126779/1657983/media/2471109432fded503146d8fcf24c151e.png" group-title="Movies", Bioskop TelkomVision
+https://gist.githubusercontent.com/iptvonlinetv/8bf6f2e766091c54a07743ac6827f0f4/raw/afa1fdc6afa1fed44a29458da114bf98c2f9a0d6/udp810.710.800:2000.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_psqdb637/landscape_carousel_xxhdpi.webp" group-title="Movies", MAX Reels
 https://indihuy.streamized.net/atm/DASH/useeprime/manifest.mpd
 
@@ -16444,6 +16447,9 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GRZ1Myy/nfl.png" group-title="Sports", NFL 🇺🇸
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd
 
+#EXTINF:-1 tvg-logo="https://hosting.renderforestsites.com/35126779/1657983/media/a6a7392cdcfff7c5324b503d0eb3b35b.png" group-title="Sports", Arena
+https://gist.githubusercontent.com/iptvonlinetv/b9e0c530348c2a14bf2de025bcfec053/raw/96db8c5e17807ab5a22212f289b53afd6edb0966/udp310.910.810:1050.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_1u20u1ok/landscape_carousel_xxhdpi.webp" group-title="Sports", MAX Sports
 https://indihuy.streamized.net/atm/DASH/useesport/manifest.mpd
 
@@ -16452,6 +16458,9 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6856b8d2390016b9c47b
 
 #EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685840ff04901846166f4d93e5e/8e60b38dbec04327b6a595877c1e94b3.jpg" group-title="Kids", Cartoon TV Classics
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff0490184560100c34363/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://hosting.renderforestsites.com/35126779/1657983/media/37034d6b30d2c092aa6827a34fa145ab.png" group-title="Kids", Groovia Kids
+https://gist.githubusercontent.com/iptvonlinetv/244b66c61f162a7c0c2b4fa59b528139/raw/2376b7ba1989ebbd383301ec7d645e222a6c9338/udp780.510.345:4545.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_ynh2anw4/landscape_carousel_xxhdpi.webp" group-title="Kids", MAX Kids
 https://indihuy.streamized.net/atm/DASH/indikids/manifest.mpd
@@ -16591,8 +16600,14 @@ https://cdnbal1.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-327770703000000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mnctv.png" group-title="INDONESIA TV", 05. MNCTV
 http://opplextv.cyou:8080/Ahsaan003/shahfaisal/350996
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mnctv.png" group-title="INDONESIA TV", 05. MNCTV R+
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/gtv.png" group-title="INDONESIA TV", 08. GTV R+
 https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/gtv.png" group-title="INDONESIA TV", 08. GTV V+
+https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/INews.png" group-title="INDONESIA TV", 15. INEWS
 http://opplextv.cyou:8080/Ahsaan003/shahfaisal/350973
@@ -16608,9 +16623,6 @@ https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-327770703000000
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/sctv.png" group-title="INDONESIA TV", 07. SCTV
 https://tvratu.my.id/vid/index.mpd?id=204&type=dash
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/indosiar.png" group-title="INDONESIA TV", 03. INDOSIAR HD
-https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/indosiar.png" group-title="INDONESIA TV", 03. INDOSIAR V
 http://202.169.224.202:8800/udp/239.9.1.25:1234
@@ -16641,6 +16653,9 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h40/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/tvone.png" group-title="INDONESIA TV", 09. TVONE
 https://nextgenz.my.id/event/pidio/play.mpd?id=783&type=dash
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/Kompas.png" group-title="INDONESIA TV", 14. KOMPAS TV
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/Kompas.png" group-title="INDONESIA TV", 14. KOMPAS TV
 https://op-flashcon-digdayahd-1.dens.tv/h/h234/index.m3u8
@@ -17286,6 +17301,9 @@ http://103.58.160.157:8278/720-EATNGO/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://get.perfecttv.net/logo/indosiar.png" group-title="NasioNaL DiGitaL 📡", Indosiar D
 http://103.66.62.83:8000/play/a00o/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nf8ffSx.jpg" group-title="NasioNaL DiGitaL 📡", iNEWS TV
+https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTLsqu2.png" group-title="Nasional 🇮🇩", SindoNews TV
 https://cilok99.serv00.net/ythls/xxxx.py/play.m3u8?id=UCGfXjFgIUUTUUlzdG6BenXA
@@ -18799,6 +18817,9 @@ http://157.15.187.3:25092/hls/83/83.m3u8
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="TV BackUP", MoonBug
 http://157.15.187.3:25092/hls/89/89.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png" group-title="TV BackUP", INDOSIAR V+
+https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png" group-title="TV BackUP", INDOSIAR VD
 https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 
@@ -18843,6 +18864,9 @@ https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5WI1zwFD5QQllmY40Don7HGxohmRCOGkxrPFVBC6trTtyO5cTnPSV4jeH9SeCfw7E3qB5XDtk4fqb9eDZeU7l8q_phqw_p7ezv-jkdwv4cFQPcgqAfDSF4c2wXbMzbSFOHM869h92Jmx_Iw77Akrm_pY9cgqGGIOFYhX9tC19XPRXuN4f-JheICGsNJhj/s700/METRO%20TV.png" group-title="TV BackUP", METRO TV MC
 https://edge-medcom.streamized.net/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5WI1zwFD5QQllmY40Don7HGxohmRCOGkxrPFVBC6trTtyO5cTnPSV4jeH9SeCfw7E3qB5XDtk4fqb9eDZeU7l8q_phqw_p7ezv-jkdwv4cFQPcgqAfDSF4c2wXbMzbSFOHM869h92Jmx_Iw77Akrm_pY9cgqGGIOFYhX9tC19XPRXuN4f-JheICGsNJhj/s700/METRO%20TV.png" group-title="TV BackUP", METRO TV V+
+https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4S8ncj0jUU__dY6xhxtOLIcvsxg_8KuHKBkjcNi4u6t4ooU09mESxfGueK91oI5ErDNbOyP8dZobrjGCzTb7HfBVc0KexuXB5VP7ISiBz38Xvtrrt_Q8NNiGovWjkQiSaPqShp6ClbIEmKKexjTjB4i3-4vwKIHyKck-0nYaghChkd1r7GQqqerlDOp6F/s700/KOMPAS%20TV.png" group-title="TV BackUP", KOMPAS TV DN
 https://op-flashcon-digdayahd-1.dens.tv/h/h234/02.m3u8
@@ -18937,8 +18961,14 @@ https://afbtv.siar.us/live/afbtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DUY5WXf.png" group-title="General", AKTV
 https://akativi.siar.us/live/akativi.m3u8
 
+#EXTINF:-1 tvg-logo="https://hosting.renderforestsites.com/35126779/1657983/media/5a7c388fcec44b33bfae50736a60c9b4.png" group-title="General", Amara
+https://gist.githubusercontent.com/iptvonlinetv/23a95454a8469d86beac39e49e1b35c1/raw/b981f54ad2df25069b0524b07378d56e3deb608e/udp250.110.700:5100.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Logo_DTVI.png" group-title="General", dTVi
 https://e.siar.us/live/dtvi.m3u8
+
+#EXTINF:-1 tvg-logo="https://hosting.renderforestsites.com/35126779/1657983/media/e1b4737ec68d96b27f713c034543d472.png" group-title="General", Groovia Kanal
+https://gist.githubusercontent.com/iptvonlinetv/02d209207082846012c15305f7471c55/raw/4439b54b986e696e6fcfba7a53380d85b27bbbc1/udp450.500.723:6050.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="General", JTV Madiun
 http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8
@@ -18951,6 +18981,9 @@ http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MYU7dsZ.png" group-title="General", MGSTV
 https://mgstv.siar.us/live/mgstv.m3u8
+
+#EXTINF:-1 tvg-logo="https://hosting.renderforestsites.com/35126779/1657983/media/3ed50b4273b16759c16450206bec0196.png" group-title="General", YOY International
+https://gist.githubusercontent.com/iptvonlinetv/8a6b2f12e5e968537378f1245cea02c9/raw/78bf84476f8e24cc8ea9d5ac24855078c61b18db/udp305.575.530:3030.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xyLLLOi.png" group-title="Undefined", Jak TV
 https://indihuy.streamized.net/atm/DASH/JAK_TV/manifest.mpd
