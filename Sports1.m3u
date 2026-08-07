@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 05:48:04AM - 07-08-2026
-# Total Channel Found: 585 Channel
+# Update Time: 08:04:16AM - 07-08-2026
+# Total Channel Found: 583 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -261,7 +261,7 @@ https://webtvstream.bhtelecom.ba/fightbox.m3u8
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports2.us@HD" tvg-logo="https://i.postimg.cc/v8r89JQ1/image.jpg" group-title="Sports", Fox Sports 2
-https://messi.damitv.st/papi/ts/fox-sports-2/playlist.m3u8
+https://ftv.itscwd273.workers.dev/?id=FOXSPORTS2
 
 #EXTINF:-1 tvg-id="FoxDeportes.us@SD" tvg-logo="https://i.postimg.cc/9F9MxDtJ/image.jpg" group-title="Sports", Fox Sports en Espanol
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
@@ -1283,16 +1283,7 @@ https://gpuserver3.tier1streams.com/FOX_SOCCER_PLUS/index.m3u8
 https://futbol9865.ultratv13.workers.dev/deportivo111/78.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports", Fox Sports 1
-https://messi.damitv.st/papi/ts/fox-sports-1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FoxSports503.au@SD" tvg-logo="https://i.imgur.com/pBY6i2q.png" group-title="Sports", Fox Sports 503
-https://messi.damitv.st/papi/ts/fox-sports-503/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FoxSports505.au@SD" tvg-logo="https://i.imgur.com/sbooXpg.png" group-title="Sports", Fox Sports 505
-https://messi.damitv.st/papi/ts/fox-sports-505/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FoxSports506.au@SD" tvg-logo="https://i.imgur.com/sbooXpg.png" group-title="Sports", Fox Sports 506
-https://messi.damitv.st/papi/ts/fox-sports-506/playlist.m3u8
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 
 #EXTINF:-1 tvg-id="FutbolTV.uz" tvg-logo="https://i.ibb.co/h1gQSkbB/Futbol-TV.png" group-title="Sports", Futbol TV
 http://stream3.cinerama.uz/1010/tracks-v1a1/mono.m3u8
@@ -1689,6 +1680,9 @@ https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8
 
 #EXTINF:-1 tvg-id="StarSports1.in@SD" tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Sports", Star Sports 1
 https://tvsen7.aynaott.com/sspts1/index.m3u8
+
+#EXTINF:-1 tvg-id="StarSportsKhel.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_KHEL/images/LOGO_HD/LOGO_HD_image.png" group-title="Sports", Star Sports Khel
+http://103.175.73.12:8080/live/151/151_0.m3u8
 
 #EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-logo="https://i.imgur.com/Mh9tKPx.png" group-title="Sports", Star Sports Select 1 HD
 http://tvsen7.aynascope.net/sspts1/index.m3u8
