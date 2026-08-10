@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 01:07:42PM - 10-08-2026
-# Total Channel Found: 6426 Channel
+# Update Time: 12:41:13AM - 11-08-2026
+# Total Channel Found: 6423 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -4803,7 +4803,7 @@ http://119.82.250.109:8080/nl.m3u8?id=1048
 https://op-group1-densxvisionhd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_nusantaratv_small.png?v=1.1" group-title="Local", Nusantara TV
-https://op-flashcon-digdayahd-1.dens.tv/h/h37/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h37/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_rri_small1.png?v=2.0.0.13" group-title="Local", RRI NET
 https://public-streaming.rri.co.id/memfs/a3a573d6-1ed3-4d6e-9f9f-e9a4e2cefd9d.m3u8
@@ -5760,7 +5760,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
 https://op-group1-densxvisionhd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="TV Nasional Indonesia", Nusantara TV
-https://op-flashcon-digdayahd-1.dens.tv/h/h37/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h37/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/daai.png" group-title="TV Nasional Indonesia", DAAI TV
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cbde4783c06/manifest.mpd
@@ -11205,7 +11205,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8
 http://119.82.250.109:8080/nl.m3u8?id=1048
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lZO4muM.png" group-title="Nasional 🇮🇩", Nusantara TV
-https://op-flashcon-digdayahd-1.dens.tv/h/h37/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h37/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n0pnMMg.png" group-title="Nasional 🇮🇩", RCTI
 https://cempedak-cdn-fly.mncnow.id/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
@@ -17190,15 +17190,6 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/wRWZkWs/spotv.png" group-title="No SignaL 📺", SPOTV NOW
 https://slive.mana2.my/SpotvNow/index.mpd
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg" group-title="No SignaL 📺", CH 1
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg" group-title="No SignaL 📺", CH 3
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17140&type=dash
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg" group-title="No SignaL 📺", CH 4
-https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd?encoding=segmentBase
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Logo_Voli_TV.png" group-title="No SignaL 📺", Voli
 https://live2.streambylivepulse.com/live/channel33.m3u8
