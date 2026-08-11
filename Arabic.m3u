@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 06:38:57PM - 11-08-2026
-# Total Channel Found: 425 Channel
+# Update Time: 12:44:35AM - 12-08-2026
+# Total Channel Found: 422 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -111,7 +111,7 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
 https://flu.systemnet.tv/CBC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://freebox.cdn.scw.iliad.fr/medium_Logo_chada_tv_2ee1412d38.png" group-title="Arabic-Saudia", Chada TV
-https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
+https://edge13.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hpnL96b.png" group-title="Arabic-Saudia", El Oussra TV
 https://dvrfl06.bozztv.com/astv-elousra/index.m3u8
@@ -717,7 +717,7 @@ https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 http://31.14.40.237:1935/live/Nabaa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GoLhaDK.png" group-title="News", Nablus TV
-https://htvint.mada.ps/nabluslive/index.m3u8
+http://htvmada.mada.ps:8888/nabluslive/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UkQTR5b.png" group-title="News", Oman Mubashir
 https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
@@ -1138,9 +1138,6 @@ https://tgn.bozztv.com/gin-dvrfl05/ga-zeealwan/index.m3u8
 
 
 #🟡🟡🟡🟡 Gh-Pages Not Found Thats Channels, Now New Channel Added from 2nd Sourch 🟡🟡🟡🟡
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8DAriPs.png" group-title="General", Abu Dhabi TV
-http://185.9.2.18/chid_326/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t7CaTu3.png" group-title="General", Afaq TV
 https://stream.afaq.iq/live/channel/afaqtv/playlist.m3u8
 
@@ -1182,15 +1179,6 @@ https://nl.livekadeh.com/hls2/vilayet.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Mspf32.png" group-title="General", Zagros TV
 https://hlspackager.akamaized.net/live/DB/ZAGROS_TV/HLS/ZAGROS_TV.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/507piHp.png" group-title="Kids", 4Kids TV
-http://tvsen5.aynascope.net/4KidsTV/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Kids", BabyFirst
-https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Kids", Disney Channel EMEA
-http://185.102.171.218/DisneyChannel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/bd/f5/fullhd_527bf54a5adb56ac17f572ac2cd0801304db3baf.png" group-title="Music", Jeddah Radio
 https://live.kwikmotion.com/sbrksajeddahradiolive/srpksajeddahradio/chunks.m3u8
@@ -1244,7 +1232,7 @@ https://live.nowtelly.com/now_arabic/live/playlist.m3u8
 https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cDkIDIA.png" group-title="Sports", El-Heddaf TV
-https://live.elheddaftv.com:8081/elheddaf/index.mpd
+https://live.elheddaftv.com:8081/elheddaftv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JyWjfIB.png" group-title="Undefined", Al-Naeem TV
 http://37.238.136.61/hls/stream.m3u8
@@ -1256,7 +1244,7 @@ https://stream.addresses-sat.com/Alwesam/index.m3u8
 https://vmi747311.contaboserver.net/hls/livetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7uQoIXi.png" group-title="Undefined", Samarra TV
-https://samarra.tv/proxy.php/hls/main3/playlist.m3u8
+https://live.bradosti.net/live/samaraweb_playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cvnps2J.jpg" group-title="Undefined", Takbeer TV
 https://cd198.anystream.uk:9092/iqapp/t5kb86tv/playlist.m3u8
@@ -1264,11 +1252,14 @@ https://cd198.anystream.uk:9092/iqapp/t5kb86tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sf2A9vT.png" group-title="Undefined", Wattan TV
 https://htvmada.mada.ps:4443/wattan/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wN3REXv.png" group-title="Undefined", Yemen TV
-https://live.yementv.tv/memfs/c8fe49a3-b1ca-4d14-9d78-498e8bad4f76_fast_output_0.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8FILgXT.jpeg" group-title="Family", Al-Souriya TV
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Kids", BabyFirst
+https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Kids", Disney Channel EMEA
+http://185.102.171.218/DisneyChannel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.qbc.news/_next/static/media/logo.0~2x9wpd284~a.svg" group-title="Business;News", QBC
 https://googlecdn1.alkassdigital.net/livestream/qbc4/main.m3u8
