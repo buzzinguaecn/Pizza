@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 06:38:57PM - 11-08-2026
-# Total Channel Found: 273 Channel
+# Update Time: 12:44:35AM - 12-08-2026
+# Total Channel Found: 267 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -39,7 +39,7 @@ https://tv.num221tech.com:5443/LiveApp/streams/dntv.m3u8
 http://99.27.51.147:8080/M6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="Entertainment", MTV
-http://41.205.70.146/MTVFRANCE/index.m3u8
+http://99.27.51.147:8080/MTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nFqjVNW.png" group-title="Entertainment", RTL9
 http://145.239.5.177/308/index.m3u8
@@ -84,7 +84,7 @@ http://69.64.57.208/france2/mono.m3u8
 https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/960px-France_5_2018.svg.png" group-title="General", France 5
-http://69.64.57.208/france5/mono.m3u8
+http://145.239.5.177/305/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/960px-France_5_2018.svg.png" group-title="General", France 5 HD
 https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
@@ -204,10 +204,10 @@ https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews.m3u8
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eITXz6A.png" group-title="News", Franceinfo
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinfotv.m3u8
+https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-HLS8/franceinfo.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DED8EXs.png" group-title="News", LCI HD
-http://151.80.18.177:86/LCI_HD/index.m3u8
+http://145.239.5.177/368/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OK20oyl.png" group-title="News", Le Media TV
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/lemedia.m3u8
@@ -487,17 +487,11 @@ http://145.239.5.177/300/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6093f9ed2c75660007322bb7/colorLogoPNG_1750862971704.png" group-title="Entertainment", CATFISH TV
 https://jmp2.uk/plu-5f8eb66537867f0007146953.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6304f20c941c5d00089634e7/colorLogoPNG.png" group-title="Entertainment", Just Tattoo of Us
-https://jmp2.uk/plu-6304f20c941c5d00089634e7.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f92b56a367e170007cd43f4/colorLogoPNG.png" group-title="Entertainment", MTV CLASSICS
 https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/691b3669c48674840c3b832a/colorLogoPNG_1778491402325.png" group-title="Entertainment", Pluto TV ANIME GO!
 https://jmp2.uk/plu-691b3669c48674840c3b832a.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/69c2ae0d1f1accd54916c825/colorLogoPNG_1776860789196.png" group-title="Entertainment", Pluto TV Footanim'
-https://jmp2.uk/plu-69c2ae0d1f1accd54916c825.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62f3e0522443200008c567d7/colorLogoPNG.png" group-title="Entertainment", Pluto TV French Collection
 https://jmp2.uk/plu-62f3e0522443200008c567d7.m3u8
@@ -607,21 +601,6 @@ https://jmp2.uk/plu-5f914f4b36d67d0007a91a04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0N7EhuD.png" group-title="Series", Walker Texas Ranger
 https://jmp2.uk/plu-635659445b4c4700076d2ad1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FVDTJxW.png" group-title="Undefined", RFM TV
-http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/1038/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V8wRRg5.png" group-title="Undefined", Serie Club
-http://145.239.5.177/355/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gUOXdjv.png" group-title="Undefined", like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Undefined",Syfy
-http://99.27.51.147:8080/SYFY/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kDW0hN5.png" group-title="Undefined", Teva
-http://145.239.5.177/356/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O8W4yhn.png" group-title="Undefined", TV Breizh
-http://145.239.5.177/318/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="Animation;Kids", Banijay Mr Bean Animé
 https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
 
@@ -660,6 +639,21 @@ https://jmp2.uk/plu-5f8eba14a4ffb8000764e950.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/colorLogoPNG.png" group-title="Kids", Tortues Ninja TV
 https://jmp2.uk/plu-5f8ecc1b37867f00071469e9.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FVDTJxW.png" group-title="Undefined", RFM TV
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/1038/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V8wRRg5.png" group-title="Undefined", Serie Club
+http://145.239.5.177/355/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gUOXdjv.png" group-title="Undefined", like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Undefined",Syfy
+http://99.27.51.147:8080/SYFY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kDW0hN5.png" group-title="Undefined", Teva
+http://145.239.5.177/356/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O8W4yhn.png" group-title="Undefined", TV Breizh
+http://145.239.5.177/318/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fvPoNEa.jpeg" group-title="Movies", Canal+ Cinemas
 http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
@@ -712,9 +706,6 @@ http://145.239.5.177/148/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f98487036af340008da1e37/colorLogoPNG.png" group-title="Movies", Pluto TV Paranormal
 https://jmp2.uk/plu-5f8ed9461b35690007a0bc3a.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cQkfRhH.png" group-title="Movies", Wild Side TV
-https://jmp2.uk/plu-60b4d6c806ad2a00073b3108.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png" group-title="Sports", like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Canal+ Sport 360
 https://futbol9865.ultratv13.workers.dev/deportivo111/14.m3u8
 
@@ -756,9 +747,6 @@ https://jmp2.uk/plu-5f8eb8a8b2619a000710605c.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/M6_Music_%282012%29.png" group-title="Music", M6 Music
 http://145.239.5.177/320/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j31lBL7.png" group-title="Music", MCM Pop
-http://rjcf.ofztvxv.top:8080/kang/71267133/99554
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EVtWQLd.png" group-title="Music", MCM Top
 http://89.33.29.118/MCM/index.m3u8
@@ -820,20 +808,14 @@ https://jmp2.uk/plu-6671b21ffc3a46000857fe75.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66b4990746762a00084c2f78/colorLogoPNG.png" group-title="Movies;Series", Pluto TV 90's Classics
 https://jmp2.uk/plu-66b4990746762a00084c2f78.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66b498bc14a2bb00086965bc/colorLogoPNG.png" group-title="Movies;Series", Pluto TV 2010's Classics
-https://jmp2.uk/plu-66b498bc14a2bb00086965bc.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/69776b58036e883f39e5ab8a/colorLogoPNG_1769434091096.png" group-title="Movies;Series", Star Trek: The Original Series
-https://jmp2.uk/plu-67b4b3c51a5ca760802cc1c7.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X0UmU3K.png" group-title="Music;Religious", Trace Gospel Africa Franco
-https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/67b4b2d976a934282e92d71c/colorLogoPNG.png" group-title="Comedy;Movies", Pluto TV Comédies Cultes
 https://jmp2.uk/plu-67b4b2d976a934282e92d71c.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/colorLogoPNG_1733440509319.png" group-title="Cooking;Lifestyle", Pluto TV Cuisine
 https://jmp2.uk/plu-5f8ed48146ba9e00078424b6.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X0UmU3K.png" group-title="Music;Religious", Trace Gospel Africa Franco
+https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/680291e38e1ff89c2427aefd/colorLogoPNG_1749650211442.png" group-title="Lifestyle;Travel", Voyages & Saveurs
 https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8
