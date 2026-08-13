@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 12:45:55AM - 13-08-2026
-# Total Channel Found: 556 Channel
+# Update Time: 07:01:55AM - 13-08-2026
+# Total Channel Found: 555 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -441,7 +441,7 @@ https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 http://23.237.104.106:8080/USA_MSG/index.m3u8
 
 #EXTINF:-1 tvg-id="MSGPlus.us@SD" tvg-logo="https://i.imgur.com/7suDpSK.png" group-title="Sports", MSG Plus
-https://gpuserver3.tier1streams.com/MSG_PLUS/index.m3u8
+https://tvpass.org/live/msg-plus/hd
 
 #EXTINF:-1 tvg-id="MultivisionSports.gt@SD" tvg-logo="https://i.imgur.com/wLjSSo2.jpg" group-title="Sports", MultivisiÃ³n Sports
 https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
@@ -1332,9 +1332,6 @@ http://45.4.1.201:8000/play/a13e/index.m3u8
 
 #EXTINF:-1 tvg-id="NSports.br@SD" tvg-logo="https://i.imgur.com/7QnJojr.png" group-title="Sports", N Sports
 https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
-
-#EXTINF:-1 tvg-id="NESN.us@SD" tvg-logo="https://i.imgur.com/Lv1bUG5.png" group-title="Sports", NESN
-https://gpuserver3.tier1streams.com/NESN/index.m3u8
 
 #EXTINF:-1 tvg-id="NFLNetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png" group-title="Sports", NFL Network
 http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
