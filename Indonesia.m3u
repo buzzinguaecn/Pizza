@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 07:00:59AM - 14-08-2026
-# Total Channel Found: 6415 Channel
+# Update Time: 06:39:16PM - 14-08-2026
+# Total Channel Found: 6418 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -16002,7 +16002,7 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h207/02.m3u8
 http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iLFx8ia.png" group-title="General", RCTI HD
-https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
+https://mncmedia.malingtv.workers.dev/rcti.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8cFJa8G.png" group-title="General", Sampit TV
 https://sampit-tv.siar.us/live/sampit-tv.m3u8
@@ -16527,6 +16527,9 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6pycF7Vx/300px-IDTV.png" group-title="News", BeritaSatu
 https://xtdslboppkkv-pull.bpmedialive.com/live/beritasatu/abr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M2R3lfg.png" group-title="News", iNews HD
+https://mncmedia.malingtv.workers.dev/inews.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6857fe540a1018060aab83c40b9/1f60c0e2a14d4a26b0316f31aad41cbf.jpg" group-title="Lifestyle", Travel TV
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060aab83c40b9/manifest.mpd
@@ -19240,6 +19243,9 @@ https://e.siar.us/live/dtvi.m3u8
 #EXTINF:-1 tvg-logo="https://hosting.renderforestsites.com/35126779/1657983/media/e1b4737ec68d96b27f713c034543d472.png" group-title="General", Groovia Kanal
 https://gist.githubusercontent.com/iptvonlinetv/02d209207082846012c15305f7471c55/raw/4439b54b986e696e6fcfba7a53380d85b27bbbc1/udp450.500.723:6050.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jjuKnYs.png" group-title="General", GTV HD
+https://mncmedia.malingtv.workers.dev/gtv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="General", JTV Madiun
 http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8
 
@@ -19251,6 +19257,9 @@ http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MYU7dsZ.png" group-title="General", MGSTV
 https://mgstv.siar.us/live/mgstv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SK8pjQy.png" group-title="General", MNCTV HD
+https://mncmedia.malingtv.workers.dev/mnctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xyLLLOi.png" group-title="Undefined", like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",Jak TV
 https://op-group1-swiftservesd-1.dens.tv/s/s123/index2.m3u8
