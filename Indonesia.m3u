@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 06:38:13AM - 16-08-2026
-# Total Channel Found: 6418 Channel
+# Update Time: 06:17:09PM - 16-08-2026
+# Total Channel Found: 6419 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -16666,8 +16666,8 @@ https://cdnbal1.indihometv.com/atm/DASH/sinpotv/sinpotv-avc1_2500000=7-327770703
 #EXTINF:-1 tvg-logo="https://www.theindonesiachannel.world/logotic.png" group-title="INDONESIA TV", 44. THE INDONESIA CHANNEL
 https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221_output_0.m3u8?session=nbyNcn6zyXaUxFnXPYkdhw
 
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/jowotv.jpg" group-title="INDONESIA TV", 38. JOWO TV
-https://op-flashcon-digdayahd-1.dens.tv/h/h208/index.m3u8
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/jowotv.jpg" group-title="INDONESIA TV", 38.JOWO TV
+https://op-flashcon-digdayasd-1.dens.tv/h/h215/stream.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg" group-title="MOVIES", HBO 🇵🇭
 http://136.239.158.10:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BosKg8aLji3LHWqHUI%2FwQyJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001085&contentid=ch00000000000000001085&videoid=ch00000090990000001065&recommendtype=0&userid=1362658369654&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UVJL5F87UVBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
@@ -19230,6 +19230,9 @@ https://atemeshield1-voe.sysln.id/live/eds/BalaikotaBandung/mediampd/BalaikotaBa
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/elshintatv.jpg" group-title="TV BackUP", ELSHINTA TV
 https://op-flashcon-digdayahd-1.dens.tv/h/h228/index.m3u8?app_type=web&userid=lite&chname=Elshinta_TV
+
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/jowotv.jpg" group-title="TV BackUP", JOWO TV
+https://op-flashcon-digdayahd-1.dens.tv/h/h208/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bJpyzPbB/afbtv.png" group-title="General", AFBTV Kupang
 https://afbtv.siar.us/live/afbtv.m3u8
