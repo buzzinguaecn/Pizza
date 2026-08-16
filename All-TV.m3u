@@ -323,8 +323,9 @@ http://103.229.254.25:7001/play/a05x/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5jtHjvN/resized-300x180-ffffff-2.jpg" group-title="Bangladeshi", NTV BD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-http://103.230.105.252:1935/live/ntv/index.m3u8
+https://akash-by-hady.srhady.workers.dev/live/99.m3u8
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#http://103.230.105.252:1935/live/ntv/index.m3u8
 #https://bongoflixbd.top/bk/54.m3u8?user=bongoflix&pass=eaminvai
 
 
@@ -395,14 +396,16 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/prkPFJ9L/image.jpg" group-title="Bangladeshi", Channel I
-https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+https://akash-by-hady.srhady.workers.dev/live/132.m3u8
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8
 #http://stvlive.net:8080/channeli/index.m3u8
 #https://bongoflixbd.top/bk/6.m3u8?user=bongoflix&pass=eaminvai
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4ZFKFP9/resized-300x180-ffffff-4.jpg" group-title="Bangladeshi", Bangla Vision
-https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+https://akash-by-hady.srhady.workers.dev/live/100.m3u8
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8
 #https://bongoflixbd.top/bk/3.m3u8?user=bongoflix&pass=eaminvai
 #http://103.175.242.10:8080/banglavision/index.m3u8
@@ -442,7 +445,8 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Fs1hGmZ2/20260606-014907.png" group-title="Bangladeshi", Channel 1
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+https://akash-by-hady.srhady.workers.dev/live/299.m3u8
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/index.m3u8
 
 
@@ -541,7 +545,12 @@ https://byphdgllyk.gpcdn.net/hls/banglatveurope/0_1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jj4QnnGc/image.jpg" group-title="Bangladeshi", Desh TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
+https://akash-by-hady.srhady.workers.dev/live/303.m3u8
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
+https://bozztv.com/rongo/rongo-DeshTV/tracks-a1/mono.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/tracks-v1/mono.m3u8
+#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/playlist.m3u8
+#https://tvsen6.aynaott.com/deshtv/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi", 
@@ -710,11 +719,13 @@ http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92
 https://jolshabd.com/live/mbanglatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RVG76TXX/image.jpg" group-title="Bangladeshi", Star News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
+https://akash-by-hady.srhady.workers.dev/live/191.m3u8
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJbbCWY0/image.jpg" group-title="Bangladeshi", SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+https://akash-by-hady.srhady.workers.dev/live/141.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cr7jK6F/image.jpg" group-title="Bangladeshi", Bartoman Television
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/bartomantv.stream/playlist.m3u8
@@ -1486,7 +1497,8 @@ http://203.18.159.115/POGO/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LssrbDQ3/image.jpg" group-title="Bangladeshi", Al Jazeera TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+https://akash-by-hady.srhady.workers.dev/live/85.m3u8
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4NVBqV2Y/image.jpg" group-title="Bangladeshi", Al Jazeera Arabic
