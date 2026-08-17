@@ -67,6 +67,12 @@ http://203.18.159.115/NICK/tracks-v1a1/mono.m3u8
 #https://bongoflixbd.top/toffee/pogo_sd.m3u8?user=bongoflix&pass=eaminvai
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZzpT3Dh/image.jpg" group-title="Cartoon", Nick
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=294848a1c20273b5546c204b117fd7fe:47b4a3e3b2d5bbd54143a6af43268bbd
+https://live1-ott.izzigo.tv/12/out/u/dash/NICK-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZzpT3Dh/image.jpg" group-title="Cartoon", Nick
 http://103.140.254.2:3500/live/545.m3u8
 http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 http://103.140.254.2:3500/live/1226.m3u8
@@ -76,7 +82,11 @@ http://103.140.254.2:3500/live/544.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vBPLfCFJ/image.jpg" group-title="Cartoon", Nick JR
 http://203.18.159.115/NICK/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vBPLfCFJ/image.jpg" group-title="Cartoon", Nick JR
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ff80f6edca24a644b8f5b4532e908a4:273d66feb7edc254d70d73aecddd31f8
+https://live1-ott.izzigo.tv/14/out/u/dash/NICK-JR-HD/default.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jd4kDrfv/image.jpg" group-title="Cartoon", Tom & Jerry
