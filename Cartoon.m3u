@@ -117,11 +117,10 @@ http://89.187.189.98/SONIC/index.m3u8
 
 
 
-
 #🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
 #🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxjNsLb8/image.jpg" group-title="Bangladeshi", Discovery Kids
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxjNsLb8/image.jpg" group-title="Cartoon", Discovery Kids
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=601f58d4b7094d2baf78c85d1d9cb6c9:609e0cc03198455fa36fd2cc3e7f940d
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverykids2/default/manifest.mpd
@@ -131,8 +130,18 @@ http://103.140.254.2:3500/live/554.m3u8
 #https://bongoflixbd.top/bk/79.m3u8?user=bongoflix&pass=eaminvai
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7G7Ypmg/disney-logo-png-seeklogo-41972.png" group-title="Cartoon", Disney Channel
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f047ea1abdca6f03117454c4de0b6d5b:b038c8c8f114c568956d428e80ae38d7
+https://live1-ott.izzigo.tv/12/out/u/dash/DISNEY-CHANNEL-HD/default.mpd
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7G7Ypmg/disney-logo-png-seeklogo-41972.png" group-title="Cartoon",Disney Jr.
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d41d2ae9b0d875ba12e97c5a3f3eec82:3a443892e1ad1158c6fd2bf9c9146eb6
+https://live1-ott.izzigo.tv/15/out/u/dash/DISNEY-JR-HD/default.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WzXkCFmM/image.jpg" group-title="Cartoon", Jungle Book
