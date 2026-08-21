@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 06:24:20PM - 20-08-2026
-# Total Channel Found: 6246 Channel
+# Update Time: 06:38:23AM - 21-08-2026
+# Total Channel Found: 6245 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -16477,9 +16477,6 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" group-title="NASIONAL", INDOSIAR 5 ON
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/rcti.png" group-title="INDONESIA TV", 06. RCTI CBM
-https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/rcti.png" group-title="INDONESIA TV", 06. RCTI V+
 https://ayo.maling.pl/V/vision/id=1.cok.mpd
 
@@ -16487,13 +16484,13 @@ https://ayo.maling.pl/V/vision/id=1.cok.mpd
 https://ayo.maling.pl/V/vision/id=2.cok.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mnctv.png" group-title="INDONESIA TV", 05. MNCTV CBM
-https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/gtv.png" group-title="INDONESIA TV", 08. GTV V+
 https://ayo.maling.pl/V/vision/id=3.cok.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/gtv.png" group-title="INDONESIA TV", 08. GTV CBM
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.mpd
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/INews.png" group-title="INDONESIA TV", 15. INEWS V+
 https://ayo.maling.pl/V/vision/id=4.cok.mpd
@@ -16511,7 +16508,7 @@ http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
 http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/indosiar.png" group-title="INDONESIA TV", 03. INDOSIAR CBM
-https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
+http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaZ0x0ZXFPbysvMVBvYjc1eXFMemc1a3UxOWR6NmYxUTllMi80N1IzM2tGWQ
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/moji.jpg" group-title="INDONESIA TV", 26. MOJI TV
 http://202.150.161.212:5000/live/channel39/playlist.m3u8
