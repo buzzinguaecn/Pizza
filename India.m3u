@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 08:16:23AM - 30-08-2026
-# Total Channel Found: 1017 Channel
+# Update Time: 04:52:40PM - 30-08-2026
+# Total Channel Found: 1022 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -2076,7 +2076,7 @@ https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8
 https://mumt04.tangotv.in/CALVARYTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disha_tv.png" group-title="Undefined", Disha TV
-https://mumt04.tangotv.in/DISHATV/index.m3u8
+https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gj7dtNF.png" group-title="Undefined", Prarthana TV
 https://livetv.tarangplus.in/prarthana-origin/live/playlist.m3u8
@@ -2485,6 +2485,9 @@ https://cdn-1.pishow.tv/live/1059/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpHrRxR5/big_tv_malayalam.png" group-title="News", Big TV 24x7
 https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://papaji.freetvindia.com/media/Daily_post.png" group-title="News", Daily Post TV
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/103b8dd3-a888-4d1d-89a5-8a4bc25e48c1/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Bharat_Odia.png" group-title="News", Ekamra Bharat Odia
 https://live.ekamraott.com/bharat/bharat/index.m3u8
 
@@ -2560,11 +2563,20 @@ http://103.72.101.252:8080/live/876.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TNP_News.png" group-title="News", TNP News
 https://server.thelegitpro.in/tnpnews/tnpnews/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.tv13gujarati.com/assets/front/img/footer-logo.jpg" group-title="News", TV13 Gujarati
+https://live.wrencdn.in/wrencdn/hls/tv13_web/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://papaji.freetvindia.com/media/World_Punjabi_TV.png" group-title="News", World Punjabi TV
+https://live1.ottlive.co.in/worldpunjabitv/worldpunjabitv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-tamil-logo-20.svg" group-title="News", Zee Tamil News
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/ZMCL/ZeeTamilNews.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aryatvtamil.png" group-title="Music", Aaryaa TV
 https://stream.ottlive.co.in/aryatvtamil/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xIYITQ9.png" group-title="Music", Deewana HD
+https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHOWBOX/images/LOGO_HD/image.png" group-title="Music", Epic Music
 https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
@@ -2610,6 +2622,9 @@ http://103.72.101.252:8080/live/1632.m3u8
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BVJ8.png?lock=720x540" group-title="Movies", Epic Bhojpuri
 https://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BVJ8.png?lock=720x540" group-title="Movies", Epic Bhojpuri Digital
+https://cc-8hy4a26pz2uos.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8hy4a26pz2uos/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143026_ld_h15_aa.png?lock=720x540" group-title="Movies", ETV Cinema
 https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
