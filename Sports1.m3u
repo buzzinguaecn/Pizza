@@ -1,5 +1,5 @@
 #EXTM3U
-# Update Time: 02:08:04AM - 30-08-2026
+# Update Time: 08:16:24AM - 30-08-2026
 # Total Channel Found: 566 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
@@ -991,9 +991,6 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:-1 tvg-id="ACCNetwork.us@SD" tvg-logo="https://i.imgur.com/TpCkbkT.png" group-title="Sports", ACC Network
 http://23.239.31.26:8989/accnetwork/index.m3u8
 
-#EXTINF:-1 tvg-id="ACCNetwork.us@HD" tvg-logo="https://i.imgur.com/TpCkbkT.png" http-referrer="https://directv-iptv-player.vercel.app/" group-title="Sports", ACC Network HD
-https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F23.239.31.26%3A8989%2Faccnetwork%2Findex.m3u8
-
 #EXTINF:-1 tvg-id="AlIraqiaSport.iq@SD" tvg-logo="https://i.imgur.com/DrrlxTO.png" group-title="Sports", Al Iraqia Sport
 https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
 
@@ -1293,6 +1290,9 @@ http://45.4.1.201:8000/play/a1ai/index.m3u8
 
 #EXTINF:-1 tvg-id="L1Max.pe@SD" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Sports", L1 Max
 http://190.93.224.42/LIGA-1-MAX/index.m3u8
+
+#EXTINF:-1 tvg-id="LazioStyleChannel.it@HD" tvg-logo="https://i.imgur.com/vDB8HFq.png" group-title="Sports", Lazio Style Channel HD
+https://distribution.sportitalialive.it/origin/laziostyle_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LigadeCampeonesporMovistarPlusPlus.es@SD" tvg-logo="" group-title="Sports", Liga de Campeones por Movistar Plus+
 https://7nyaler.streamhostingcdn.top/stream/36/index.m3u8
