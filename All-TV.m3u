@@ -57,9 +57,9 @@
 
 
 
-#✅ All-TV - 🟢 SonyLiv Groups UPDATED - 🟢 - 2026-09-02 05:19:46PM BD Time
+#✅ All-TV - 🟢 SonyLiv Groups UPDATED - 🟢 - 2026-09-02 07:42:13PM BD Time
 
-#✅ All-TV - 🟢 Groups UPDATED - 🟢 - 2026-09-02 05:19:46PM BD Time
+#✅ All-TV - 🟢 Groups UPDATED - 🟢 - 2026-09-02 07:42:13PM BD Time
 
 
 
@@ -275,9 +275,6 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kurani-kerim-dersleri-t
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rytcs49Y/image.jpg" group-title="Bangladeshi", A Sports 
-https://iptvlive-beta.vercel.app/asports/index.m3u8
-
 
 
 
@@ -292,7 +289,18 @@ https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LswPm0nR/image.jpg" group-title="Bangladeshi", Al Jazeera Mubasher
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNyNjNm1/r8Mm-FRX.png" group-title="Bangladeshi", Afghanistan International
+https://hls.afintl.com/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZRBGksK/BBC-NEWS.png" group-title="Bangladeshi", BBC NEWS
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZRBGksK/BBC-NEWS.png" group-title="Bangladeshi", BBC NEWS Arabic
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/mobile_wifi_main_hd_abr_v2.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/28p9xVqD/BBC-Drama-2019.png" group-title="Bangladeshi", BBC DRAMA
+https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gh90zdt4/image.jpg" group-title="Bangladeshi", CGTN News
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtn.stream/playlist.m3u8
@@ -576,6 +584,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwYm1HYJ/resized-300x180-ffffff-16.jpg" group-title="Bangladeshi",T Sports
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
 https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8?nocache=1783826412104
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
@@ -617,7 +626,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9MWRQ94R/resized-300x180-ffffff-5.jpg" group-title="Bangladeshi", Maasranga TV
-http://tvsen5.aynascope.net/maasrangatv/index.m3u8
+https://tvsen5.aynaott.com/maasrangatv/index.m3u8
+https://tvsen5.aynascope.net/maasrangatv/index.m3u8
 http://103.229.254.25:7001/play/a05q/index.m3u8
 #http://116.204.149.16/maasranga/index.m3u8
 #https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
