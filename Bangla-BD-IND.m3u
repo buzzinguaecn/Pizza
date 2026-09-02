@@ -939,14 +939,10 @@ http://89.187.189.98/SONIC/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gt7VxrNx/image.jpg" group-title="Indian-Bangla", Star Jalsha
-http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8
-http://103.59.176.72:8083/live2/tracks-v1a1/mono.m3u8?token=123
-http://starshare.cx:80/PeH5kPWFfG/infamous7funny/198
-http://starshare.cx:80/PeH5kPWFfG/infamous7funny/8540
-http://starshare.cx:80/PeH5kPWFfG/infamous7funny/98883
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist.m3u8
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
-
-
+#http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8
+#http://103.59.176.72:8083/live2/tracks-v1a1/mono.m3u8?token=123
 #https://playztv-apps.pages.dev/star-jalsha/index.m3u8
 #http://103.229.254.25:7001/play/a075/index.m3u8
 #https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
@@ -969,11 +965,13 @@ http://starshare.cx:80/PeH5kPWFfG/infamous7funny/98884
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Indian-Bangla", Zee Bangla
-http://starshare.cx:80/PeH5kPWFfG/infamous7funny/435
-http://starshare.cx:80/PeH5kPWFfG/infamous7funny/23305
-https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Indian-Bangla", Zee Bangla
 https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
-http://starshare.cx:80/PeH5kPWFfG/infamous7funny/23305
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
 #https://smart.bengaldigital.live/Zee-Bangla-Cinema/tracks-v1a1/mono.m3u8
 #https://tvsen3.aynaott.com/PNEb3v2q6GBk/index.m3u8
 #https://tvsen1.aynaott.com/PNEb3v2q6GBk/index.m3u8
@@ -986,9 +984,7 @@ http://starshare.cx:80/PeH5kPWFfG/infamous7funny/23305
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqDsVsYL/resized-300x175-transparent.png" group-title="Indian-Bangla", Zee-Bangla Cinema
-http://198.195.239.50:8095/bdixbd.net_ZeeBanglaCinemaHD/video.m3u8
-http://starshare.cx:80/PeH5kPWFfG/infamous7funny/410
-http://starshare.cx:80/PeH5kPWFfG/infamous7funny/49615
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.m3u8
 #https://bongoflixbd.top/bk/29.m3u8?user=bongoflix&pass=eaminvai
 #http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
