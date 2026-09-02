@@ -38,6 +38,22 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
 
 
 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gt7VxrNx/image.jpg" group-title="SAWARID سواريد - Zee5", Star Jalsha
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RcS6984/image.jpg" group-title="SAWARID سواريد - Zee5", Star-Jalsha Movies
+https://iptvlive-beta.vercel.app/jalsha-movies/index.m3u8
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/LOGO/Indian/Zee-Bangla-Cinema.png" group-title="SAWARID سواريد - Zee5", Zee Bangla Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
