@@ -189,20 +189,20 @@ https://toffee-proxy.usergamil15.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.to
 
 
 
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/VGfIqjrc.png" group-title="SAWARID سواريد - Zee5", Zee Talkies
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/LOGO/Indian/Zee_Talkies.png" group-title="SAWARID سواريد - Zee5", Zee Talkies
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkies/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f081f32756374c3d8265e1a1e029614e:356a3a6d8ce34d49a84ad464b20b1a3e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/zee-talkies/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/VGfIqjrc.png" group-title="SAWARID سواريد - Zee5", Zee Talkies HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/LOGO/Indian/Zee_Talkies_HD.png" group-title="SAWARID سواريد - Zee5", Zee Talkies HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/zee-talkies-hd/manifest.m3u8
 
 
 
-#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV.png" group-title="SAWARID سواريد - Zee5", &TV SD
+#EXTINF:1 tvg-logo="https://i.postimg.cc/cCq5wsRc/download.png" group-title="SAWARID سواريد - Zee5", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Xzoj8ac8TJarq85f_-ewaw","kid":"Jt-G7uuwTX-8RclI926B_Q"}],"type":"temporary"}
@@ -211,7 +211,7 @@ https://toffee-proxy.usergamil15.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.to
 
 
 
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png" group-title="SAWARID سواريد - Zee5", &TV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hsGjLK3/s-LE3-Gp-YDRKG0-GDvo5lj-SHw.jpg" group-title="SAWARID سواريد - Zee5", &TV HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=67d18634ccb04875875c60fb8d9caaba:99a66471c09e4b8a8dc39a0de6803f75
@@ -221,13 +221,13 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
 
 
 
-#EXTINF:1 tvg-chno="6" tvg-id="&TV SD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV.png" group-title="SAWARID سواريد - Zee5", &TV SD (Alt)
+#EXTINF:1 tvg-chno="6" tvg-id="&TV SD" tvg-logo="https://i.postimg.cc/cCq5wsRc/download.png" group-title="SAWARID سواريد - Zee5", &TV SD (Alt)
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
 
 
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-pictures/channel_web/1170x658withlog_1269578414.png" group-title="SAWARID سواريد - Zee5", & Pictures SD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYcqf0Q2/download.png" group-title="SAWARID سواريد - Zee5", & Pictures SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8dea532cabfe4f71ba20f62310e7949f:7a214a974e4f4d1d9bb66364d5f0cb92
@@ -237,7 +237,7 @@ https://toffee-proxy.usergamil15.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.to
 
 
 
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_web/1170x658withlog1476130363.png" group-title="SAWARID سواريد - Zee5", & Pictures HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mD0ZGXxR/download.png" group-title="SAWARID سواريد - Zee5", & Pictures HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6
@@ -299,13 +299,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/zee-tamil/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/list/1920x1080list813457fc09e349d9ac922d5268ecbf8a.jpg" group-title="SAWARID سواريد - Zee5", Zee Café HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/LOGO/Indian/Zee_Café.png" group-title="SAWARID سواريد - Zee5", Zee Café HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 #https://alex4528.site/zee5/unite8-1-hd/manifest.m3u8
 https://toffee-proxy.usergamil15.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fzee_cafe_hd%2Fplaylist.m3u8&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1788436853%3AKeyName%3Dprod_linear%3ASignature%3Dyb3twN2LgtWsSS-8CWTaQA9y4zzvMxQ3YmI1P_KMo_HLIN799yY5U5uJby-CuN5eAyWloSU-HJoRJDVI0tRFAg&secret_key=FS_LIVE_TV_SECRET_2026&dummy=.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/TknReKLD.png" group-title="SAWARID سواريد - Zee5", Zee Hindustan
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/LOGO/Indian/Zee_Hindustan.png" group-title="SAWARID سواريد - Zee5", Zee Hindustan
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeehindustan/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=10616d7c4bee41f1825bd805c6295172:dc85f2112f63477fb39fc149493c49be
