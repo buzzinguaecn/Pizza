@@ -13,6 +13,7 @@
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed068cf84f0640ccbc7c0e395c0a272e:bb722190f2bb446391020411a7d0828b
+https://toffee-proxy.usergamil15.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fzee_tv_hd%2Fplaylist.m3u8&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1788436853%3AKeyName%3Dprod_linear%3ASignature%3Dyb3twN2LgtWsSS-8CWTaQA9y4zzvMxQ3YmI1P_KMo_HLIN799yY5U5uJby-CuN5eAyWloSU-HJoRJDVI0tRFAg&secret_key=FS_LIVE_TV_SECRET_2026&dummy=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/LOGO/Indian/Zee-TV-HD.png" group-title="SAWARID سواريد - Zee5", Zee TV HD
@@ -39,6 +40,18 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
 
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/LOGO/Indian/Zee-Bangla-Cinema.png" group-title="SAWARID سواريد - Zee5", Zee Bangla Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
+https://alex4528.site/zee5/zee-bangla-sonar/manifest.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
+https://toffee-proxy.usergamil15.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fzee_bangla_cinema%2Fplaylist.m3u8&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1788436853%3AKeyName%3Dprod_linear%3ASignature%3Dyb3twN2LgtWsSS-8CWTaQA9y4zzvMxQ3YmI1P_KMo_HLIN799yY5U5uJby-CuN5eAyWloSU-HJoRJDVI0tRFAg&secret_key=FS_LIVE_TV_SECRET_2026&dummy=.m3u8
+https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gt7VxrNx/image.jpg" group-title="SAWARID سواريد - Zee5", Star Jalsha
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist.m3u8
 
@@ -47,21 +60,33 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist.m3u
 https://iptvlive-beta.vercel.app/jalsha-movies/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Ss5tqm2x/image.jpg" group-title="SAWARID سواريد - Zee5", Sony Aath
+https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
+https://toffee-proxy.usergamil15.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fsonyaath%2Fplaylist.m3u8&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1788436853%3AKeyName%3Dprod_linear%3ASignature%3Dyb3twN2LgtWsSS-8CWTaQA9y4zzvMxQ3YmI1P_KMo_HLIN799yY5U5uJby-CuN5eAyWloSU-HJoRJDVI0tRFAg&secret_key=FS_LIVE_TV_SECRET_2026&dummy=.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13zpPtdH/depositphotos-11267379-stock-illustration-black-and-white-icons-of.jpg" group-title="SAWARID سواريد - Zee5", Sony Entertainment Television 
+https://toffee-proxy.usergamil15.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fsonyentertainmnt_hd%2Fplaylist.m3u8&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1788436853%3AKeyName%3Dprod_linear%3ASignature%3Dyb3twN2LgtWsSS-8CWTaQA9y4zzvMxQ3YmI1P_KMo_HLIN799yY5U5uJby-CuN5eAyWloSU-HJoRJDVI0tRFAg&secret_key=FS_LIVE_TV_SECRET_2026&dummy=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13zpPtdH/depositphotos-11267379-stock-illustration-black-and-white-icons-of.jpg" group-title="SAWARID سواريد - Zee5", Sony Entertainment Television
+https://toffee-proxy.usergamil15.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fsony_entertainment%2Fplaylist.m3u8&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1788436853%3AKeyName%3Dprod_linear%3ASignature%3Dyb3twN2LgtWsSS-8CWTaQA9y4zzvMxQ3YmI1P_KMo_HLIN799yY5U5uJby-CuN5eAyWloSU-HJoRJDVI0tRFAg&secret_key=FS_LIVE_TV_SECRET_2026&dummy=.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5t00P9Gy/download-1.jpg" group-title="SAWARID سواريد - Zee5", Sony MAX HD
+https://toffee-proxy.usergamil15.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fsony_max_hd%2Fplaylist.m3u8&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1788436853%3AKeyName%3Dprod_linear%3ASignature%3Dyb3twN2LgtWsSS-8CWTaQA9y4zzvMxQ3YmI1P_KMo_HLIN799yY5U5uJby-CuN5eAyWloSU-HJoRJDVI0tRFAg&secret_key=FS_LIVE_TV_SECRET_2026&dummy=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMc98XjK/downl12oad.jpg" group-title="SAWARID سواريد - Zee5", Sony MAX 2
+https://toffee-proxy.usergamil15.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fsonymax_2%2Fplaylist.m3u8&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1788436853%3AKeyName%3Dprod_linear%3ASignature%3Dyb3twN2LgtWsSS-8CWTaQA9y4zzvMxQ3YmI1P_KMo_HLIN799yY5U5uJby-CuN5eAyWloSU-HJoRJDVI0tRFAg&secret_key=FS_LIVE_TV_SECRET_2026&dummy=.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/LOGO/Indian/Zee-Bangla-Cinema.png" group-title="SAWARID سواريد - Zee5", Zee Bangla Cinema
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
-https://alex4528.site/zee5/zee-bangla-sonar/manifest.m3u8
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDg1s6k5/download.jpg" group-title="SAWARID سواريد - Zee5", Sony SAB HD
+https://toffee-proxy.usergamil15.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fsonysab_hd%2Fplaylist.m3u8&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1788436853%3AKeyName%3Dprod_linear%3ASignature%3Dyb3twN2LgtWsSS-8CWTaQA9y4zzvMxQ3YmI1P_KMo_HLIN799yY5U5uJby-CuN5eAyWloSU-HJoRJDVI0tRFAg&secret_key=FS_LIVE_TV_SECRET_2026&dummy=.m3u8
+https://toffee-proxy.usergamil15.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fsony_max%2Fplaylist.m3u8&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1788436853%3AKeyName%3Dprod_linear%3ASignature%3Dyb3twN2LgtWsSS-8CWTaQA9y4zzvMxQ3YmI1P_KMo_HLIN799yY5U5uJby-CuN5eAyWloSU-HJoRJDVI0tRFAg&secret_key=FS_LIVE_TV_SECRET_2026&dummy=.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/05cNtYQ8/download-1.jpg" group-title="SAWARID سواريد - Zee5", Sony PIX HD
+https://toffee-proxy.usergamil15.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fsonypix_hd%2Fplaylist.m3u8&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1788436853%3AKeyName%3Dprod_linear%3ASignature%3Dyb3twN2LgtWsSS-8CWTaQA9y4zzvMxQ3YmI1P_KMo_HLIN799yY5U5uJby-CuN5eAyWloSU-HJoRJDVI0tRFAg&secret_key=FS_LIVE_TV_SECRET_2026&dummy=.m3u8
 
 
 
@@ -108,6 +133,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XUCpAyOPStmKu-0Yd9Tj0Q","kid":"9WvqrJ8SRhaHLHQcnOT6Tg"}],"type":"temporary"}
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
 https://cdn.jsdelivr.net/gh/nurmd2006/empty@main/stream/by/your-abbu/nurmd2006/offline-channels/zeecinema.m3u8
+https://toffee-proxy.usergamil15.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fzee_cinema_hd%2Fplaylist.m3u8&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1788436853%3AKeyName%3Dprod_linear%3ASignature%3Dyb3twN2LgtWsSS-8CWTaQA9y4zzvMxQ3YmI1P_KMo_HLIN799yY5U5uJby-CuN5eAyWloSU-HJoRJDVI0tRFAg&secret_key=FS_LIVE_TV_SECRET_2026&dummy=.m3u8
 
 
 
@@ -129,6 +155,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=e61523260c614746b25b9a5523fe9a39:72ddbf37f76f49acbb8e140e7279e7a1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/zee-bollywood/manifest.m3u8
+https://toffee-proxy.usergamil15.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fzee_bollywood%2Fplaylist.m3u8&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1788436853%3AKeyName%3Dprod_linear%3ASignature%3Dyb3twN2LgtWsSS-8CWTaQA9y4zzvMxQ3YmI1P_KMo_HLIN799yY5U5uJby-CuN5eAyWloSU-HJoRJDVI0tRFAg&secret_key=FS_LIVE_TV_SECRET_2026&dummy=.m3u8
 
 #EXTINF:-1 tvg-logo="https://english.cdn.zeenews.com/images/logo/livetv/Salaam_Tv.png" group-title="SAWARID سواريد - Zee5" lang="Hindi", Zee Salaam
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
@@ -147,7 +174,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/main.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PD6NAln3SPGDD3E6dpdg5w","kid":"nXoZF+4yRNGYGTzdH/H+rg"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
-https://alex4528.site/zee5/zee-action/manifest.m3u8
+https://toffee-proxy.usergamil15.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fzee_action%2Fplaylist.m3u8&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1788436853%3AKeyName%3Dprod_linear%3ASignature%3Dyb3twN2LgtWsSS-8CWTaQA9y4zzvMxQ3YmI1P_KMo_HLIN799yY5U5uJby-CuN5eAyWloSU-HJoRJDVI0tRFAg&secret_key=FS_LIVE_TV_SECRET_2026&dummy=.m3u8
+
 
 
 
@@ -165,16 +193,22 @@ https://alex4528.site/zee5/zee-talkies/manifest.m3u8
 https://alex4528.site/zee5/zee-talkies-hd/manifest.m3u8
 
 
+
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV.png" group-title="SAWARID سواريد - Zee5", &TV SD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Xzoj8ac8TJarq85f_-ewaw","kid":"Jt-G7uuwTX-8RclI926B_Q"}],"type":"temporary"}
+https://toffee-proxy.usergamil15.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fand_tv_hd%2Fplaylist.m3u8&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1788436853%3AKeyName%3Dprod_linear%3ASignature%3Dyb3twN2LgtWsSS-8CWTaQA9y4zzvMxQ3YmI1P_KMo_HLIN799yY5U5uJby-CuN5eAyWloSU-HJoRJDVI0tRFAg&secret_key=FS_LIVE_TV_SECRET_2026&dummy=.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png" group-title="SAWARID سواريد - Zee5", &TV HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=67d18634ccb04875875c60fb8d9caaba:99a66471c09e4b8a8dc39a0de6803f75
 
 
-#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV.png" group-title="SAWARID سواريد - Zee5", &TV SD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Xzoj8ac8TJarq85f_-ewaw","kid":"Jt-G7uuwTX-8RclI926B_Q"}],"type":"temporary"}
 
 
 
@@ -190,8 +224,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8dea532cabfe4f71ba20f62310e7949f:7a214a974e4f4d1d9bb66364d5f0cb92
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
-https://alex4528.site/zee5/andpictures/manifest.m3u8
-https://cdn.jsdelivr.net/gh/nurmd2006/empty@main/stream/by/your-abbu/nurmd2006/offline-channels/andpictures.m3u8
+#https://alex4528.site/zee5/andpictures/manifest.m3u8 NOTWORKING THIS LINK
+https://toffee-proxy.usergamil15.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fandpicture_hd%2Fplaylist.m3u8&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1788436853%3AKeyName%3Dprod_linear%3ASignature%3Dyb3twN2LgtWsSS-8CWTaQA9y4zzvMxQ3YmI1P_KMo_HLIN799yY5U5uJby-CuN5eAyWloSU-HJoRJDVI0tRFAg&secret_key=FS_LIVE_TV_SECRET_2026&dummy=.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_web/1170x658withlog1476130363.png" group-title="SAWARID سواريد - Zee5", & Pictures HD
@@ -258,7 +293,8 @@ https://alex4528.site/zee5/zee-tamil/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/list/1920x1080list813457fc09e349d9ac922d5268ecbf8a.jpg" group-title="SAWARID سواريد - Zee5", Zee Café HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
-https://alex4528.site/zee5/unite8-1-hd/manifest.m3u8
+#https://alex4528.site/zee5/unite8-1-hd/manifest.m3u8
+https://toffee-proxy.usergamil15.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fzee_cafe_hd%2Fplaylist.m3u8&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1788436853%3AKeyName%3Dprod_linear%3ASignature%3Dyb3twN2LgtWsSS-8CWTaQA9y4zzvMxQ3YmI1P_KMo_HLIN799yY5U5uJby-CuN5eAyWloSU-HJoRJDVI0tRFAg&secret_key=FS_LIVE_TV_SECRET_2026&dummy=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/TknReKLD.png" group-title="SAWARID سواريد - Zee5", Zee Hindustan
