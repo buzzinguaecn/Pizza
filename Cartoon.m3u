@@ -77,6 +77,18 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/boomerang.smil/manifest.mpd
 
 
 
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xj5SLmYC/POGO.jpg" group-title="Cartoon", POGO
+https://toffee-proxy.usergamil15.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fpogo_sd%2Fplaylist.m3u8&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1788436853%3AKeyName%3Dprod_linear%3ASignature%3Dyb3twN2LgtWsSS-8CWTaQA9y4zzvMxQ3YmI1P_KMo_HLIN799yY5U5uJby-CuN5eAyWloSU-HJoRJDVI0tRFAg&secret_key=FS_LIVE_TV_SECRET_2026&dummy=.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rFpy5654/1770379038530.png" group-title="Cartoon", BuddyStar HD
 https://akash-by-hady.srhady.workers.dev/live/212.m3u8
 
@@ -169,10 +181,7 @@ http://89.187.189.98/SONIC/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=601f58d4b7094d2baf78c85d1d9cb6c9:609e0cc03198455fa36fd2cc3e7f940d
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverykids2/default/manifest.mpd
-http://198.195.239.50:8095/DiscoveryKids/tracks-v1a1/mono.m3u8
-http://103.140.254.2:3500/live/554.m3u8
-#https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
-#https://bongoflixbd.top/bk/79.m3u8?user=bongoflix&pass=eaminvai
+https://toffee-proxy.usergamil15.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fdiscovery_kids%2Fplaylist.m3u8&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1788436853%3AKeyName%3Dprod_linear%3ASignature%3Dyb3twN2LgtWsSS-8CWTaQA9y4zzvMxQ3YmI1P_KMo_HLIN799yY5U5uJby-CuN5eAyWloSU-HJoRJDVI0tRFAg&secret_key=FS_LIVE_TV_SECRET_2026&dummy=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7G7Ypmg/disney-logo-png-seeklogo-41972.png" group-title="Cartoon", Disney Channel
