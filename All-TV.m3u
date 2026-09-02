@@ -262,10 +262,6 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kurani-kerim-dersleri-t
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rytcs49Y/image.jpg" group-title="Live Event Sports", A Sports 
-https://iptvlive-beta.vercel.app/asports/index.m3u8
-
-
 
 
 
@@ -1040,6 +1036,10 @@ http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRLbS1Hd/image.jpg" group-title="Bangladeshi", G Series Drama
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wT3G4q7N/channels4-profile.jpg" group-title="Bangladeshi", Bangla Movie
+https://live20.bozztv.com/giatvplayout7/giatv-209627/tracks-v1a1/mono.ts.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-210419/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi", PCV
 https://padmaonline.duckdns.org:8088/pcv/index.m3u8
 
@@ -1746,6 +1746,48 @@ http://203.18.159.115/SONIC/index.m3u8
 http://89.187.189.98/SONIC/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2jBG2wW/Bantul-The-Great.jpg" group-title="Bangladeshi", Bantul The Great
+https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi", 
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi", 
+
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi", 
+
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi", 
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi", 
+
+
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi", 
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi", 
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi", 
+
+
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi", 
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi", 
+
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi", 
+
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi",
+
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7LZSJsmD/image.jpg" group-title="Bangladeshi", Gubbare 
 https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 
@@ -2389,15 +2431,40 @@ https://vg-pitaaratvyupp.akamaized.net/ptnr-yupptv/title-PitaaraComedy/v1/manife
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52S9Hzd0/image.jpg" group-title="Indian-Bollywood", 9XM
 https://b.jsrdn.com/strm/channels/9xm/m1.m3u8
-http://103.175.73.12:8080/live/155/155_0.m3u8
 https://9xjio.wiseplayout.com/9XM/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5gBz4Nj/Agb-PZBl-WSp2pndrq-Ijudzg.png" group-title="Indian-Bollywood", 9X Jalwa
+https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Lsy7vy7V/v9b-Ejk93-TCGuc-X19sy-MW9-Q.png" group-title="Indian-Bollywood", 9X Tashan
+https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RJSvgxD/o-BEI1-Idh-Qg-vuu-WLpxpk-JQ.png" group-title="Indian-Bollywood", 9X Jhakaas
+https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NfW6LYVP/image.jpg" group-title="Indian-Bollywood", E24
 http://103.175.73.12:8080/live/159/159_0.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKFWch5k/Screenshot-2.jpg" group-title="Indian-Bollywood",  Hindi Movie 24/7
+https://vods2.aynaott.com/hindimovies/tracks-v1a1/mono.ts.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-210733/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Indian-Bollywood", 
 
+#EXTINF:-1 tvg-logo="" group-title="Indian-Bollywood", 
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/brq9XTyJ/x-IYITQ9.png" group-title="Indian-Bollywood", Deewana HD
+https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Indian-Bollywood", Animation Movie
+https://live20.bozztv.com/giatvplayout7/giatv-210677/tracks-v1a1/mono.ts.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-210663/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Indian-Bollywood", 
 
@@ -2412,6 +2479,7 @@ http://103.175.73.12:8080/live/159/159_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7xh8Jbm/image.jpg" group-title="Indian-Bollywood", T Series 
 http://45.148.145.57/TSER247/index.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-210427/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0N1Qr1VW/image.jpg" group-title="Indian-Bollywood", Yrf Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
