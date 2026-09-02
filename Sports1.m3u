@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 02:16:35AM - 02-09-2026
-# Total Channel Found: 557 Channel
+# Update Time: 07:52:11AM - 02-09-2026
+# Total Channel Found: 558 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -1581,6 +1581,9 @@ https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sportivnyy.ru@SD" tvg-logo="https://i.imgur.com/ujS6mMo.png" group-title="Sports", Sportivnyy
 https://live-3.otcnet.ru/sportivny/index.m3u8
+
+#EXTINF:-1 tvg-id="SportsTelevision.kp@HD" tvg-logo="https://i.imgur.com/HvFpGeH.png" group-title="Sports", Sports Television
+https://kctv.koryofront.org/stream/sports/index.m3u8
 
 #EXTINF:-1 tvg-id="SporTV3.br@SD" tvg-logo="https://i.imgur.com/mWOR8pi.png" group-title="Sports", SporTV 3
 http://170.83.49.66:8083/SPORTV3HD/index.m3u8
