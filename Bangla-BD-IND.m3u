@@ -868,13 +868,11 @@ http://203.18.159.115/NICK/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/43skDR7B/image.jpg" group-title="Bangladeshi", Gopal Bhar
-https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
-
+#https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Wz3sQLyD/image.jpg" group-title="Bangladeshi", Motu Patlu
-https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
 
 
@@ -889,6 +887,8 @@ http://89.187.189.98/SONIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m2jBG2wW/Bantul-The-Great.jpg" group-title="Bangladeshi", Bantul The Great
 https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2jBG2wW/Bantul-The-Great.jpg" group-title="Bangladeshi", Bantul The Great
 
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi", 
 
