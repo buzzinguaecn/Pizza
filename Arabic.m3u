@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 07:57:45AM - 03-09-2026
-# Total Channel Found: 422 Channel
+# Update Time: 04:19:36PM - 03-09-2026
+# Total Channel Found: 423 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -1206,6 +1206,9 @@ https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vyVEXYL.png" group-title="News", AL24 News
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aAGjAoW.png" group-title="News", Al Alam Al Yawm
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b928000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rxDh6W1.png" group-title="News", Al Janoub TV
 https://live.alissahost.net/hls/test.m3u8
