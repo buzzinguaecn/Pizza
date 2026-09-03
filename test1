@@ -8,6 +8,55 @@
 #EXTM3U x-tvg-url="https://rb.gy/hspor2"
 
 
+
+
+
+
+
+#EXTINF:-1 tvg-id="203" tvg-name="DD News" tvg-logo="https://img.media.jio.com/imagespublic/30/71/DDNews_1574777483286_tv.jpg" group-title="DD Channels",DD News
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/203/
+#EXTVLCOPT:http-user-agent=JioTV.Plus/2.8.4_2076/StreamFlex(StreamFlex;JioSTB) JioTvPlus-AndroidTv
+#EXTHTTP:{"cookie":"__hdnea__=st=1788428426~exp=1788450026~acl=/bpk-tv/DD_News_BTS/WDVLive/*~hmac=55a6ba48b4bb138aefe45cf61674748a2c3b338f5193974798094021629ff1f3"}
+https://jiotvbpkstb.cdn.jio.com/bpk-tv/DD_News_BTS/WDVLive/index.mpd?__hdnea__=st=1788428426~exp=1788450026~acl=/bpk-tv/DD_News_BTS/WDVLive/*~hmac=55a6ba48b4bb138aefe45cf61674748a2c3b338f5193974798094021629ff1f3?|Cookie=__hdnea__=st=1788428426~exp=1788450026~acl=/bpk-tv/DD_News_BTS/WDVLive/*~hmac=55a6ba48b4bb138aefe45cf61674748a2c3b338f5193974798094021629ff1f3&xxx=%7Ccookie=__hdnea__=st=1788428426~exp=1788450026~acl=/bpk-tv/DD_News_BTS/WDVLive/*~hmac=55a6ba48b4bb138aefe45cf61674748a2c3b338f5193974798094021629ff1f3
+
+#EXTINF:-1 tvg-id="182" tvg-name="B4U Movies" tvg-logo="https://img.media.jio.com/tvpimages/80/18/300002_1754934453417_l_medium.jpg" group-title="Movies",B4U Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/182/
+#EXTVLCOPT:http-user-agent=JioTV.Plus/2.8.4_2076/StreamFlex(StreamFlex;JioSTB) JioTvPlus-AndroidTv
+#EXTHTTP:{"cookie":"__hdnea__=st=1788428427~exp=1788450027~acl=/bpk-tv/b4u_movies/HLSPartner/*~hmac=6cdf769b267552f5212f052f342d17841cae9fe5446e289a777d84f43689fae2"}
+https://jiotvbpkstb.cdn.jio.com/bpk-tv/b4u_movies/HLSPartner/index.m3u8?__hdnea__=st=1788428427~exp=1788450027~acl=/bpk-tv/b4u_movies/HLSPartner/*~hmac=6cdf769b267552f5212f052f342d17841cae9fe5446e289a777d84f43689fae2?|Cookie=__hdnea__=st=1788428427~exp=1788450027~acl=/bpk-tv/b4u_movies/HLSPartner/*~hmac=6cdf769b267552f5212f052f342d17841cae9fe5446e289a777d84f43689fae2&xxx=%7Ccookie=__hdnea__=st=1788428427~exp=1788450027~acl=/bpk-tv/b4u_movies/HLSPartner/*~hmac=6cdf769b267552f5212f052f342d17841cae9fe5446e289a777d84f43689fae2
+
+#EXTINF:-1 tvg-id="204" tvg-name="DD Sports" tvg-logo="https://img.media.jio.com/imagespublic/17/8/DDSports_1579505057008_tv.jpg" group-title="DD Channels",DD Sports
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/204/
+#EXTVLCOPT:http-user-agent=JioTV.Plus/2.8.4_2076/StreamFlex(StreamFlex;JioSTB) JioTvPlus-AndroidTv
+#EXTHTTP:{"cookie":"__hdnea__=st=1788428427~exp=1788450027~acl=/bpk-tv/DD_Sports_BTS/WDVLive/*~hmac=134d9b315c63c842499c07c140e773887b6788ae641b8932931f7f4a01150cb8"}
+https://jiotvbpkstb.cdn.jio.com/bpk-tv/DD_Sports_BTS/WDVLive/index.mpd?__hdnea__=st=1788428427~exp=1788450027~acl=/bpk-tv/DD_Sports_BTS/WDVLive/*~hmac=134d9b315c63c842499c07c140e773887b6788ae641b8932931f7f4a01150cb8?|Cookie=__hdnea__=st=1788428427~exp=1788450027~acl=/bpk-tv/DD_Sports_BTS/WDVLive/*~hmac=134d9b315c63c842499c07c140e773887b6788ae641b8932931f7f4a01150cb8&xxx=%7Ccookie=__hdnea__=st=1788428427~exp=1788450027~acl=/bpk-tv/DD_Sports_BTS/WDVLive/*~hmac=134d9b315c63c842499c07c140e773887b6788ae641b8932931f7f4a01150cb8
+
+#EXTINF:-1 tvg-id="177" tvg-name="ABP News" tvg-logo="https://img.media.jio.com/tvpimages/23/60/300001_1753177482990_l_medium.jpg" group-title="News",ABP News
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/177/
+#EXTVLCOPT:http-user-agent=JioTV.Plus/2.8.4_2076/StreamFlex(StreamFlex;JioSTB) JioTvPlus-AndroidTv
+#EXTHTTP:{"cookie":"__hdnea__=st=1788428427~exp=1788450027~acl=/bpk-tv/ABP_News_India_BTS/WDVLive/*~hmac=7edafa3ebfdc8e50f54c0f25660263df2417155a60e0ae3ee891fda380530a7d"}
+https://jiotvbpkstb.cdn.jio.com/bpk-tv/ABP_News_India_BTS/WDVLive/index.mpd?__hdnea__=st=1788428427~exp=1788450027~acl=/bpk-tv/ABP_News_India_BTS/WDVLive/*~hmac=7edafa3ebfdc8e50f54c0f25660263df2417155a60e0ae3ee891fda380530a7d?|Cookie=__hdnea__=st=1788428427~exp=1788450027~acl=/bpk-tv/ABP_News_India_BTS/WDVLive/*~hmac=7edafa3ebfdc8e50f54c0f25660263df2417155a60e0ae3ee891fda380530a7d&xxx=%7Ccookie=__hdnea__=st=1788428427~exp=1788450027~acl=/bpk-tv/ABP_News_India_BTS/WDVLive/*~hmac=7edafa3ebfdc8e50f54c0f25660263df2417155a60e0ae3ee891fda380530a7d
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
 #EXTINF: -1 tvg-id="521" group-title="Entertainment" tvg-logo="https://i.ibb.co/V0v2rYGV/sun.png", Sun TV HD
