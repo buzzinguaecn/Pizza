@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 02:15:45AM - 04-09-2026
-# Total Channel Found: 560 Channel
+# Update Time: 07:52:58AM - 04-09-2026
+# Total Channel Found: 561 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -1317,6 +1317,9 @@ http://stream.mcquack.net/490/index.m3u8
 
 #EXTINF:-1 tvg-id="MatchBoets.ru@SD" tvg-logo="https://i.imgur.com/DogOkA4.png" group-title="Sports", Match! Boets
 http://stream.mcquack.net/112/index.m3u8
+
+#EXTINF:-1 tvg-id="MatchPlaneta.ru@SD" tvg-logo="https://i.imgur.com/vhyMb9D.png" group-title="Sports", Match! Planeta
+https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="MatchUltra.ru@4K" tvg-logo="https://www.kartina.tv/media/news/images/News/SEO/kanal-match-ultra.jpg" group-title="Sports", Match! Ultra
 http://stream.mcquack.net/169/index.m3u8
