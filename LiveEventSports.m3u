@@ -53,12 +53,12 @@
 # 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Football 🟢🟢🟢🟢🟢🟢
 
 
-#EXTINF:-1 tvg-id="tapmad-16939" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885301341020x576.jpg" group-title="SAWARID سواريد - Football", Athletic vs Atletico Madrid | LaLiga 2026/27
-https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
-
-
 #EXTINF:-1 tvg-id="tapmad-16898" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885297511020x576.jpg" group-title="SAWARID سواريد - Football", Al-Taawoun vs Al Fateh | Saudi Pro League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+
+
+#EXTINF:-1 tvg-id="tapmad-16940" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885302081020x576.jpg" group-title="SAWARID سواريد - Football", Rayo Vallecano vs Racing Santander | LaLiga 2026/27
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 
 
 # 🆕 SAWARID سواريد - Football 👉 Updateded Done ✅✅✅✅✅✅
@@ -91,562 +91,448 @@ https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 # 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Live 🟢🟢🟢🟢🟢🟢
 
 
-#EXTINF:-1 tvg-id="43299" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brentford%20vs%20Sunderland.jpg" group-title="SAWARID سواريد - Live", Brentford vs Sunderland - Premier League [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143074/720p/chunks.m3u8?is_vip=false&token=1788710545-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-480cf4b4d28d6e0eb41bfdb84825099e
-
-
-#EXTINF:-1 tvg-id="43299" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brentford%20vs%20Sunderland.jpg" group-title="SAWARID سواريد - Live", Brentford vs Sunderland - Premier League [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce884044-hd/chunks.m3u8?is_vip=false&token=1788710546-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-00d0b4a5fe669b4ca7e9bbacf3ad8f1b
-
-
-#EXTINF:-1 tvg-id="43299" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brentford%20vs%20Sunderland.jpg" group-title="SAWARID سواريد - Live", Brentford vs Sunderland - Premier League [Server 3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce884044-backup/chunks.m3u8?is_vip=false&token=1788710548-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-94202fd7345b317ab6c6d30a93cd2c7a
-
-
-#EXTINF:-1 tvg-id="43299" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brentford%20vs%20Sunderland.jpg" group-title="SAWARID سواريد - Live", Brentford vs Sunderland - Premier League [Server 4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce884044/chunks.m3u8?is_vip=false&token=1788710549-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-92a9ddf38f945107126f8c1f7803f95d
-
-
-#EXTINF:-1 tvg-id="43744" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Athletic%20Club%20vs%20Atletico%20Madrid.jpg" group-title="SAWARID سواريد - Live", Athletic Club vs Atletico Madrid - La Liga [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/136434/720p/chunks.m3u8?is_vip=false&token=1788710551-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-30edb315be2771b7f0e67305c082b1a9
-
-
-#EXTINF:-1 tvg-id="43744" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Athletic%20Club%20vs%20Atletico%20Madrid.jpg" group-title="SAWARID سواريد - Live", Athletic Club vs Atletico Madrid - La Liga [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce8840c2-hd/chunks.m3u8?is_vip=false&token=1788710552-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6f4d8c468a60703e2a4c4ecb3f701467
-
-
-#EXTINF:-1 tvg-id="43744" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Athletic%20Club%20vs%20Atletico%20Madrid.jpg" group-title="SAWARID سواريد - Live", Athletic Club vs Atletico Madrid - La Liga [Server 3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce8840c2-backup/chunks.m3u8?is_vip=false&token=1788710553-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a00d9b96b1459e096bf1cfc08162dd15
-
-
-#EXTINF:-1 tvg-id="43744" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Athletic%20Club%20vs%20Atletico%20Madrid.jpg" group-title="SAWARID سواريد - Live", Athletic Club vs Atletico Madrid - La Liga [Server 4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce8840c2/chunks.m3u8?is_vip=false&token=1788710554-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3ce540f9844bf86f69c2bd0545c5e25e
-
-
 #EXTINF:-1 tvg-id="45245" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lens%20vs%20Lorient.jpg" group-title="SAWARID سواريد - Live", Lens vs Lorient - Ligue 1 [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce884133-hd/chunks.m3u8?is_vip=false&token=1788710556-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-dcdba234848a72c3da4b914f5eb9f5e5
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce884133-hd/chunks.m3u8?is_vip=false&token=1788713244-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2449cf121810553c812e5bd4b891c020
 
 
 #EXTINF:-1 tvg-id="45245" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lens%20vs%20Lorient.jpg" group-title="SAWARID سواريد - Live", Lens vs Lorient - Ligue 1 [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce884133-fhd/chunks.m3u8?is_vip=false&token=1788710556-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f1d6f4e659d2983243b3047ff8df9b33
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce884133-fhd/chunks.m3u8?is_vip=false&token=1788713245-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-447296864c410f229347522d71ec4b20
 
 
 #EXTINF:-1 tvg-id="45245" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lens%20vs%20Lorient.jpg" group-title="SAWARID سواريد - Live", Lens vs Lorient - Ligue 1 [Server 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce884133-backup/chunks.m3u8?is_vip=false&token=1788710557-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bc2a340840e24dbd24ba27e4571aef4d
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce884133-backup/chunks.m3u8?is_vip=false&token=1788713245-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-399ec8cc61d1d48adf6f99ed2301c92c
 
 
 #EXTINF:-1 tvg-id="45245" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lens%20vs%20Lorient.jpg" group-title="SAWARID سواريد - Live", Lens vs Lorient - Ligue 1 [Server 4]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce884133/chunks.m3u8?is_vip=false&token=1788710558-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1dd6a55e79593403e33218758c12df74
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce884133/chunks.m3u8?is_vip=false&token=1788713246-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2236dc7fcde9744a68a3aed937af24af
 
 
 #EXTINF:-1 tvg-id="44136" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Inter%20vs%20Napoli.jpg" group-title="SAWARID سواريد - Live", Inter vs Napoli - Serie A [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e0e1-hd/chunks.m3u8?is_vip=false&token=1788710559-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f474acf2181bbea86396aad5ece26102
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e0e1-hd/chunks.m3u8?is_vip=false&token=1788713248-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fa95c767b914c31f94a2bc3ffdab5068
 
 
 #EXTINF:-1 tvg-id="44136" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Inter%20vs%20Napoli.jpg" group-title="SAWARID سواريد - Live", Inter vs Napoli - Serie A [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e0e1-cnhd/chunks.m3u8?is_vip=false&token=1788710560-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7de7d791c87fece39cfcc78f2bcc9fb1
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e0e1-backup/chunks.m3u8?is_vip=false&token=1788713248-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f826ecec1a95f1881ad8982d8337dc3c
 
 
 #EXTINF:-1 tvg-id="44136" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Inter%20vs%20Napoli.jpg" group-title="SAWARID سواريد - Live", Inter vs Napoli - Serie A [Server 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e0e1/chunks.m3u8?is_vip=false&token=1788710562-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ffc5a7e5608c88f0280dd4330d211574
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e0e1/chunks.m3u8?is_vip=false&token=1788713249-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-94034176453b6efe9290f3457c4d7ec5
 
 
-#EXTINF:-1 tvg-id="53547" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sporting%20Gijon%20vs%20Girona.jpg" group-title="SAWARID سواريد - Live", Sporting Gijon vs Girona - Segunda División
+#EXTINF:-1 tvg-id="44934" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Schalke%2004%20vs%20Bayern%20M%C3%BCnchen.jpg" group-title="SAWARID سواريد - Live", FC Schalke 04 vs Bayern München - Bundesliga [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e25a/chunks.m3u8?is_vip=false&token=1788710663-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1801f6b5811ec6d70a1868828742abe2
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e145-hd/chunks.m3u8?is_vip=false&token=1788713250-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-082b74933ba9df339da38d8fb200009f
 
 
-#EXTINF:-1 tvg-id="53623" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Riga%20Mariners%20vs%20R%C4%93zekne%20FA.jpg" group-title="SAWARID سواريد - Live", Riga Mariners vs Rēzekne FA - 1. Liga [Server 1]
+#EXTINF:-1 tvg-id="44934" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Schalke%2004%20vs%20Bayern%20M%C3%BCnchen.jpg" group-title="SAWARID سواريد - Live", FC Schalke 04 vs Bayern München - Bundesliga [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e108-backup/chunks.m3u8?is_vip=false&token=1788710664-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1363154c2f26d119bf47e7eb3a9ea64f
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e145-fhd/chunks.m3u8?is_vip=false&token=1788713250-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-06be2085cc141ab3087592b59ded5a51
 
 
-#EXTINF:-1 tvg-id="53623" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Riga%20Mariners%20vs%20R%C4%93zekne%20FA.jpg" group-title="SAWARID سواريد - Live", Riga Mariners vs Rēzekne FA - 1. Liga [Server 2]
+#EXTINF:-1 tvg-id="44934" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Schalke%2004%20vs%20Bayern%20M%C3%BCnchen.jpg" group-title="SAWARID سواريد - Live", FC Schalke 04 vs Bayern München - Bundesliga [Server 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e108/chunks.m3u8?is_vip=false&token=1788710665-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b9341826109a568d26367abd20dd50d5
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e145-backup/chunks.m3u8?is_vip=false&token=1788713251-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-90cd1e01fe2bb85d00f97d0a59eb3026
 
 
-#EXTINF:-1 tvg-id="53548" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Dordrecht%20vs%20Jong%20AZ.jpg" group-title="SAWARID سواريد - Live", Dordrecht vs Jong AZ - Eerste Divisie [Server 1]
+#EXTINF:-1 tvg-id="43745" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rayo%20Vallecano%20vs%20Racing%20Santander.jpg" group-title="SAWARID سواريد - Live", Rayo Vallecano vs Racing Santander - La Liga [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce8840c4-backup/chunks.m3u8?is_vip=false&token=1788710666-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3d3bedba095909594a37a50963c91194
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e144-hd/chunks.m3u8?is_vip=false&token=1788713253-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ba7043c1592aacc9a91b5c3548cd0331
 
 
-#EXTINF:-1 tvg-id="53548" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Dordrecht%20vs%20Jong%20AZ.jpg" group-title="SAWARID سواريد - Live", Dordrecht vs Jong AZ - Eerste Divisie [Server 2]
+#EXTINF:-1 tvg-id="43745" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rayo%20Vallecano%20vs%20Racing%20Santander.jpg" group-title="SAWARID سواريد - Live", Rayo Vallecano vs Racing Santander - La Liga [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce8840c4/chunks.m3u8?is_vip=false&token=1788710667-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ab3ff409dff852eaea3bf21151569d98
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e144-backup/chunks.m3u8?is_vip=false&token=1788713253-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-92465c48df61c4602b19bcfe8d51c02d
 
 
-#EXTINF:-1 tvg-id="53549" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/NEC%20Nijmegen%20vs%20Feyenoord.jpg" group-title="SAWARID سواريد - Live", NEC Nijmegen vs Feyenoord - Eredivisie [Server 1]
+#EXTINF:-1 tvg-id="43301" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hull%20City%20vs%20Aston%20Villa.jpg" group-title="SAWARID سواريد - Live", Hull City vs Aston Villa - Premier League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce8840c3-hd/chunks.m3u8?is_vip=false&token=1788710668-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d2246a8749965bbd76dba0b52bf0a57d
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e143-hd/chunks.m3u8?is_vip=false&token=1788713254-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b1cbd9710638b502a1e93c12308269f3
 
 
-#EXTINF:-1 tvg-id="53549" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/NEC%20Nijmegen%20vs%20Feyenoord.jpg" group-title="SAWARID سواريد - Live", NEC Nijmegen vs Feyenoord - Eredivisie [Server 2]
+#EXTINF:-1 tvg-id="43301" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hull%20City%20vs%20Aston%20Villa.jpg" group-title="SAWARID سواريد - Live", Hull City vs Aston Villa - Premier League [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce8840c3-fhd/chunks.m3u8?is_vip=false&token=1788710669-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-15d4e11d3a9cb15e1a06506743000239
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e143-fhd/chunks.m3u8?is_vip=false&token=1788713255-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7a463317843fc0e88368979475aa793d
 
 
-#EXTINF:-1 tvg-id="53549" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/NEC%20Nijmegen%20vs%20Feyenoord.jpg" group-title="SAWARID سواريد - Live", NEC Nijmegen vs Feyenoord - Eredivisie [Server 3]
+#EXTINF:-1 tvg-id="43301" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hull%20City%20vs%20Aston%20Villa.jpg" group-title="SAWARID سواريد - Live", Hull City vs Aston Villa - Premier League [Server 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce8840c3-backup/chunks.m3u8?is_vip=false&token=1788710670-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d767a87815990658393510ce1cc04179
-
-
-#EXTINF:-1 tvg-id="53549" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/NEC%20Nijmegen%20vs%20Feyenoord.jpg" group-title="SAWARID سواريد - Live", NEC Nijmegen vs Feyenoord - Eredivisie [Server 4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce8840c3/chunks.m3u8?is_vip=false&token=1788710671-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b48c6cb4c95e53a5522e75c5d1084d33
-
-
-#EXTINF:-1 tvg-id="53550" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Uta%20Arad%20vs%20Csikszereda.jpg" group-title="SAWARID سواريد - Live", Uta Arad vs Csikszereda - Liga I [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7b9a-fhd/chunks.m3u8?is_vip=false&token=1788710672-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8409e8bbf4d541a59569dc8d0d1062e9
-
-
-#EXTINF:-1 tvg-id="53550" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Uta%20Arad%20vs%20Csikszereda.jpg" group-title="SAWARID سواريد - Live", Uta Arad vs Csikszereda - Liga I [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7b9a-backup/chunks.m3u8?is_vip=false&token=1788710675-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7a56d319f5219fce9bd90528ba349b2e
-
-
-#EXTINF:-1 tvg-id="53550" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Uta%20Arad%20vs%20Csikszereda.jpg" group-title="SAWARID سواريد - Live", Uta Arad vs Csikszereda - Liga I [Server 3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7b9a/chunks.m3u8?is_vip=false&token=1788710676-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f819ccac3e41435c4242724f33e9530a
-
-
-#EXTINF:-1 tvg-id="54407" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Estrela%20vs%20Famalicao.jpg" group-title="SAWARID سواريد - Live", Estrela vs Famalicao - Primeira Liga [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e26a-backup/chunks.m3u8?is_vip=false&token=1788710677-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4769ca27060de80e89908ac88f0f6849
-
-
-#EXTINF:-1 tvg-id="54407" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Estrela%20vs%20Famalicao.jpg" group-title="SAWARID سواريد - Live", Estrela vs Famalicao - Primeira Liga [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e26a/chunks.m3u8?is_vip=false&token=1788710678-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-711382ac720c1c08412501b241ce4ec9
-
-
-#EXTINF:-1 tvg-id="54414" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Benfica%20B%20vs%20Torreense.jpg" group-title="SAWARID سواريد - Live", Benfica B vs Torreense - Segunda Liga [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7cc8-backup/chunks.m3u8?is_vip=false&token=1788710679-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-037b9d7151b37f9e4490ad89ac9812d5
-
-
-#EXTINF:-1 tvg-id="54414" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Benfica%20B%20vs%20Torreense.jpg" group-title="SAWARID سواريد - Live", Benfica B vs Torreense - Segunda Liga [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7cc8/chunks.m3u8?is_vip=false&token=1788710680-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bf9c736faa2804a7a695ae8795625d3b
-
-
-#EXTINF:-1 tvg-id="54415" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Feirense%20vs%20Sporting%20CP%20B.jpg" group-title="SAWARID سواريد - Live", Feirense vs Sporting CP B - Segunda Liga [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7cc7-backup/chunks.m3u8?is_vip=false&token=1788710683-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-00489ed54fc9618473d30f94af9b1e5d
-
-
-#EXTINF:-1 tvg-id="54415" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Feirense%20vs%20Sporting%20CP%20B.jpg" group-title="SAWARID سواريد - Live", Feirense vs Sporting CP B - Segunda Liga [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7cc7/chunks.m3u8?is_vip=false&token=1788710683-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-11acda4d3a80d011eba034733e1854bd
-
-
-#EXTINF:-1 tvg-id="53551" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rot-Wei%C3%9F%20Essen%20vs%20FC%20Viktoria%20K%C3%B6ln.jpg" group-title="SAWARID سواريد - Live", Rot-Weiß Essen vs FC Viktoria Köln - 3. Liga [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce884022-backup/chunks.m3u8?is_vip=false&token=1788710684-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5b9c75492177438ac2da37eaa6e58fab
-
-
-#EXTINF:-1 tvg-id="53551" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rot-Wei%C3%9F%20Essen%20vs%20FC%20Viktoria%20K%C3%B6ln.jpg" group-title="SAWARID سواريد - Live", Rot-Weiß Essen vs FC Viktoria Köln - 3. Liga [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce884022/chunks.m3u8?is_vip=false&token=1788710685-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3cefd3673f07737729c8422707818772
-
-
-#EXTINF:-1 tvg-id="53552" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Austria%20Salzburg%20vs%20First%20Vienna.jpg" group-title="SAWARID سواريد - Live", Austria Salzburg vs First Vienna - Cup [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7f0a82eeaf4f1e6ae7e90f-backup/chunks.m3u8?is_vip=false&token=1788710686-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c1e0ada218a925ab0a414978fee7e3c8
-
-
-#EXTINF:-1 tvg-id="53552" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Austria%20Salzburg%20vs%20First%20Vienna.jpg" group-title="SAWARID سواريد - Live", Austria Salzburg vs First Vienna - Cup [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7f0a82eeaf4f1e6ae7e90f/chunks.m3u8?is_vip=false&token=1788710687-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2893a86b2935dc24c0a2eb67b0345438
-
-
-#EXTINF:-1 tvg-id="52817" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Volgar%20Astrakhan%20vs%20Kaluga.jpg" group-title="SAWARID سواريد - Live", Volgar Astrakhan vs Kaluga - Second League A - Division A Gold [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a79ee81b630e987f37621b3-backup/chunks.m3u8?is_vip=false&token=1788710690-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ef610711e931ac4bff36e9bf45bec604
-
-
-#EXTINF:-1 tvg-id="52817" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Volgar%20Astrakhan%20vs%20Kaluga.jpg" group-title="SAWARID سواريد - Live", Volgar Astrakhan vs Kaluga - Second League A - Division A Gold [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a79ee81b630e987f37621b3/chunks.m3u8?is_vip=false&token=1788710691-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-770e0ca4643a47ee0d7ab869522d3e1a
-
-
-#EXTINF:-1 tvg-id="53565" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Leithaprodersdorf%20vs%20WSG%20Wattens.jpg" group-title="SAWARID سواريد - Live", Leithaprodersdorf vs WSG Wattens - Cup [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7f0a82eeaf4f1e6ae7e92e-backup/chunks.m3u8?is_vip=false&token=1788710692-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-45d62168c026be2beb8eac77a41f2cb6
-
-
-#EXTINF:-1 tvg-id="53565" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Leithaprodersdorf%20vs%20WSG%20Wattens.jpg" group-title="SAWARID سواريد - Live", Leithaprodersdorf vs WSG Wattens - Cup [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7f0a82eeaf4f1e6ae7e92e/chunks.m3u8?is_vip=false&token=1788710694-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-73e10e8a36abe9b9d2d1582e033681fc
-
-
-#EXTINF:-1 tvg-id="63042" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/US%20Open.jpg" group-title="SAWARID سواريد - Live", US Open - US Open
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788710695-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-20b1e30668d150207e7d79128ab26ea2
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e143/chunks.m3u8?is_vip=false&token=1788713256-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2bce1fe7d735982a32beb6a6c2ae6ae9
 
 
 #EXTINF:-1 tvg-id="63043" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Louis%20Armstrong%20Stadium.jpg" group-title="SAWARID سواريد - Live", Louis Armstrong Stadium - US Open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788710696-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-49bc3992c9ad93320243afeca54f09e1
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788713257-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8671a1c0545f516ce9f10d1bced2bfb4
+
+
+#EXTINF:-1 tvg-id="52817" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Volgar%20Astrakhan%20vs%20Kaluga.jpg" group-title="SAWARID سواريد - Live", Volgar Astrakhan vs Kaluga - Second League A - Division A Gold
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a79ee81b630e987f37621b3/chunks.m3u8?is_vip=false&token=1788713259-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-43cc2e2cba495bfffd950bb682d86470
+
+
+#EXTINF:-1 tvg-id="63042" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/US%20Open.jpg" group-title="SAWARID سواريد - Live", US Open - US Open
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788713260-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cc38f1e93824474fedbab4e0620733ca
+
+
+#EXTINF:-1 tvg-id="53565" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Leithaprodersdorf%20vs%20WSG%20Wattens.jpg" group-title="SAWARID سواريد - Live", Leithaprodersdorf vs WSG Wattens - Cup
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7f0a82eeaf4f1e6ae7e92e-backup/chunks.m3u8?is_vip=false&token=1788713261-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-33183bf689c40300006f3947899a18bc
 
 
 #EXTINF:-1 tvg-id="53619" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ascoli%20vs%20Benevento.jpg" group-title="SAWARID سواريد - Live", Ascoli vs Benevento - Serie B [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402efb009bc39fb347d7-backup/chunks.m3u8?is_vip=false&token=1788710697-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6c70328a6c93bb52f113c5d392fa379f
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402efb009bc39fb347d7-backup/chunks.m3u8?is_vip=false&token=1788713262-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-be721784ea4880b24ce4e4ae9bc35809
 
 
 #EXTINF:-1 tvg-id="53619" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ascoli%20vs%20Benevento.jpg" group-title="SAWARID سواريد - Live", Ascoli vs Benevento - Serie B [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402efb009bc39fb347d7/chunks.m3u8?is_vip=false&token=1788710698-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7878909e215a456529105e65a164c5cd
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402efb009bc39fb347d7/chunks.m3u8?is_vip=false&token=1788713263-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3a716d931403a26cb8559b6ee6714bd0
 
 
-#EXTINF:-1 tvg-id="53620" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Korona%20Kielce%20vs%20Wisla%20Krakow.jpg" group-title="SAWARID سواريد - Live", Korona Kielce vs Wisla Krakow - Ekstraklasa [Server 1]
+#EXTINF:-1 tvg-id="53620" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Korona%20Kielce%20vs%20Wisla%20Krakow.jpg" group-title="SAWARID سواريد - Live", Korona Kielce vs Wisla Krakow - Ekstraklasa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce884134-backup/chunks.m3u8?is_vip=false&token=1788710699-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-47547f4bc5468e7dbf953466a6f266ce
-
-
-#EXTINF:-1 tvg-id="53620" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Korona%20Kielce%20vs%20Wisla%20Krakow.jpg" group-title="SAWARID سواريد - Live", Korona Kielce vs Wisla Krakow - Ekstraklasa [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce884134/chunks.m3u8?is_vip=false&token=1788710700-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-219858858b5fa6f3c18550b90adbd431
-
-
-#EXTINF:-1 tvg-id="53632" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sassuolo%20W%20vs%20Ternana%20W.jpg" group-title="SAWARID سواريد - Live", Sassuolo W vs Ternana W - Serie A Cup Women
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e139-backup/chunks.m3u8?is_vip=false&token=1788710701-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c73570910f7417b87071f6ed4f04c244
-
-
-#EXTINF:-1 tvg-id="53622" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Traiskirchen%20vs%20Austria%20Vienna.jpg" group-title="SAWARID سواريد - Live", Traiskirchen vs Austria Vienna - Cup [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7f0a82eeaf4f1e6ae7e92f-backup/chunks.m3u8?is_vip=false&token=1788710704-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8cc4d762b37798223b1398fecac0f687
-
-
-#EXTINF:-1 tvg-id="53622" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Traiskirchen%20vs%20Austria%20Vienna.jpg" group-title="SAWARID سواريد - Live", Traiskirchen vs Austria Vienna - Cup [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7f0a82eeaf4f1e6ae7e92f/chunks.m3u8?is_vip=false&token=1788710705-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0aeaaeda6d846226df8b77fab28c762c
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce884134/chunks.m3u8?is_vip=false&token=1788713264-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5e9ff076ae296010ea79f0d05d3feb76
 
 
 #EXTINF:-1 tvg-id="45601" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al-Faisaly%20FC%20vs%20Al-Hazm.jpg" group-title="SAWARID سواريد - Live", Al-Faisaly FC vs Al-Hazm - Pro League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce884136/chunks.m3u8?is_vip=false&token=1788710706-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-caf6dfb7d0e31cd2f857aa6fc0418364
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce884136/chunks.m3u8?is_vip=false&token=1788713266-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bf8f7cffd76bd56901a9858bc72ddbac
 
 
 #EXTINF:-1 tvg-id="45602" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al%20Taawon%20vs%20Al-Fateh.jpg" group-title="SAWARID سواريد - Live", Al Taawon vs Al-Fateh - Pro League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce884137/chunks.m3u8?is_vip=false&token=1788710707-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-80505810d63812b5bfba94d31ca57d9f
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce884137/chunks.m3u8?is_vip=false&token=1788713267-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a05fafd0d92724d5d9b24556ed04ea9a
 
 
-#EXTINF:-1 tvg-id="53555" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Dinamo%20Zagreb%20vs%20HNK%20Gorica.jpg" group-title="SAWARID سواريد - Live", Dinamo Zagreb vs HNK Gorica - HNL
+#EXTINF:-1 tvg-id="53624" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Rostov%20vs%20Fakel.jpg" group-title="SAWARID سواريد - Live", FC Rostov vs Fakel - Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402efb009bc39fb3487e-fhd/chunks.m3u8?is_vip=false&token=1788710708-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-61883804426aaee192d2e044615fc623
-
-
-#EXTINF:-1 tvg-id="53624" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Rostov%20vs%20Fakel.jpg" group-title="SAWARID سواريد - Live", FC Rostov vs Fakel - Premier League [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e0e6-fhd/chunks.m3u8?is_vip=false&token=1788710709-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2976582f03ce248bb7d167f601373755
-
-
-#EXTINF:-1 tvg-id="53624" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Rostov%20vs%20Fakel.jpg" group-title="SAWARID سواريد - Live", FC Rostov vs Fakel - Premier League [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e0e6/chunks.m3u8?is_vip=false&token=1788710710-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-08865367aed652f603843bd8d8bf37cf
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e0e6-backup/chunks.m3u8?is_vip=false&token=1788713268-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5aaaec1a380cf232f8a1cfd4c56e6949
 
 
 #EXTINF:-1 tvg-id="54619" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Prelims.jpg" group-title="SAWARID سواريد - Live", Prelims - UFC FIGHT NIGHT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1788710711-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9f4887755dadb927912881a90347529f
+https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1788713269-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e81bf645306a88e97b0632187b7064d4
 
 
-#EXTINF:-1 tvg-id="43299" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brentford%20vs%20Sunderland.jpg" group-title="SAWARID سواريد - Live", Brentford vs Sunderland - Premier League [Server 1]
+#EXTINF:-1 tvg-id="53555" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Dinamo%20Zagreb%20vs%20HNK%20Gorica.jpg" group-title="SAWARID سواريد - Live", Dinamo Zagreb vs HNK Gorica - HNL [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143074/720p/chunks.m3u8?is_vip=false&token=1788710545-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-480cf4b4d28d6e0eb41bfdb84825099e
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402efb009bc39fb3487e-fhd/chunks.m3u8?is_vip=false&token=1788713271-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bc071ef4c9dc4f6599f5567746565842
 
 
-#EXTINF:-1 tvg-id="43299" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brentford%20vs%20Sunderland.jpg" group-title="SAWARID سواريد - Live", Brentford vs Sunderland - Premier League [Server 2]
+#EXTINF:-1 tvg-id="53555" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Dinamo%20Zagreb%20vs%20HNK%20Gorica.jpg" group-title="SAWARID سواريد - Live", Dinamo Zagreb vs HNK Gorica - HNL [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce884044-hd/chunks.m3u8?is_vip=false&token=1788710546-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-00d0b4a5fe669b4ca7e9bbacf3ad8f1b
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402efb009bc39fb3487e-backup/chunks.m3u8?is_vip=false&token=1788713271-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b7a8651e5a1e5dff9b113a31b9603a49
 
 
-#EXTINF:-1 tvg-id="43299" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brentford%20vs%20Sunderland.jpg" group-title="SAWARID سواريد - Live", Brentford vs Sunderland - Premier League [Server 3]
+#EXTINF:-1 tvg-id="53634" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/KV%20Mechelen%20vs%20KVC%20Westerlo.jpg" group-title="SAWARID سواريد - Live", KV Mechelen vs KVC Westerlo - Jupiler Pro League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce884044-backup/chunks.m3u8?is_vip=false&token=1788710548-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-94202fd7345b317ab6c6d30a93cd2c7a
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e13f/chunks.m3u8?is_vip=false&token=1788713273-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-45e1088f11cb37f2dc95a9b9dd3c14d1
 
 
-#EXTINF:-1 tvg-id="43299" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brentford%20vs%20Sunderland.jpg" group-title="SAWARID سواريد - Live", Brentford vs Sunderland - Premier League [Server 4]
+#EXTINF:-1 tvg-id="53635" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Shabab%20Al%20Ahli%20Dubai%20vs%20Al-Jazira.jpg" group-title="SAWARID سواريد - Live", Shabab Al Ahli Dubai vs Al-Jazira - Pro League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce884044/chunks.m3u8?is_vip=false&token=1788710549-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-92a9ddf38f945107126f8c1f7803f95d
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e140-backup/chunks.m3u8?is_vip=false&token=1788713274-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-335a4db24c12cd1c6baba7d3d82ea24c
 
 
-#EXTINF:-1 tvg-id="43744" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Athletic%20Club%20vs%20Atletico%20Madrid.jpg" group-title="SAWARID سواريد - Live", Athletic Club vs Atletico Madrid - La Liga [Server 1]
+#EXTINF:-1 tvg-id="53635" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Shabab%20Al%20Ahli%20Dubai%20vs%20Al-Jazira.jpg" group-title="SAWARID سواريد - Live", Shabab Al Ahli Dubai vs Al-Jazira - Pro League [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/136434/720p/chunks.m3u8?is_vip=false&token=1788710551-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-30edb315be2771b7f0e67305c082b1a9
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e140/chunks.m3u8?is_vip=false&token=1788713275-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d0a7508c8030b99035273857d632da0e
 
 
-#EXTINF:-1 tvg-id="43744" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Athletic%20Club%20vs%20Atletico%20Madrid.jpg" group-title="SAWARID سواريد - Live", Athletic Club vs Atletico Madrid - La Liga [Server 2]
+#EXTINF:-1 tvg-id="54381" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Keflavik%20vs%20Valur%20Reykjavik.jpg" group-title="SAWARID سواريد - Live", Keflavik vs Valur Reykjavik - Úrvalsdeild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce8840c2-hd/chunks.m3u8?is_vip=false&token=1788710552-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6f4d8c468a60703e2a4c4ecb3f701467
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7cb1/chunks.m3u8?is_vip=false&token=1788713276-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-af3c35bbdb69c52bf467866d434a28fa
 
 
-#EXTINF:-1 tvg-id="43744" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Athletic%20Club%20vs%20Atletico%20Madrid.jpg" group-title="SAWARID سواريد - Live", Athletic Club vs Atletico Madrid - La Liga [Server 3]
+#EXTINF:-1 tvg-id="53636" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/AD%20Ceuta%20FC%20vs%20Celta%20de%20Vigo%20II.jpg" group-title="SAWARID سواريد - Live", AD Ceuta FC vs Celta de Vigo II - Segunda División
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce8840c2-backup/chunks.m3u8?is_vip=false&token=1788710553-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a00d9b96b1459e096bf1cfc08162dd15
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e261/chunks.m3u8?is_vip=false&token=1788713277-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-275f5883498f5f20f0632eb4ee458679
 
 
-#EXTINF:-1 tvg-id="43744" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Athletic%20Club%20vs%20Atletico%20Madrid.jpg" group-title="SAWARID سواريد - Live", Athletic Club vs Atletico Madrid - La Liga [Server 4]
+#EXTINF:-1 tvg-id="54476" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Aldosivi%20vs%20Banfield.jpg" group-title="SAWARID سواريد - Live", Aldosivi vs Banfield - Liga Profesional Argentina [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce8840c2/chunks.m3u8?is_vip=false&token=1788710554-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3ce540f9844bf86f69c2bd0545c5e25e
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b6850d-backup/chunks.m3u8?is_vip=false&token=1788713278-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-eababe67ee96417b33b8e190f68059b8
+
+
+#EXTINF:-1 tvg-id="54476" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Aldosivi%20vs%20Banfield.jpg" group-title="SAWARID سواريد - Live", Aldosivi vs Banfield - Liga Profesional Argentina [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b6850d/chunks.m3u8?is_vip=false&token=1788713279-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3d68962f2708fe28ecfcb8787a8b24d2
+
+
+#EXTINF:-1 tvg-id="53639" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Utrecht%20vs%20GO%20Ahead%20Eagles.jpg" group-title="SAWARID سواريد - Live", Utrecht vs GO Ahead Eagles - Eredivisie [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7b94-hd/chunks.m3u8?is_vip=false&token=1788713280-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fc41857807b981d53b52bdbb8390910a
+
+
+#EXTINF:-1 tvg-id="53639" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Utrecht%20vs%20GO%20Ahead%20Eagles.jpg" group-title="SAWARID سواريد - Live", Utrecht vs GO Ahead Eagles - Eredivisie [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7b94-fhd/chunks.m3u8?is_vip=false&token=1788713282-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5f3f6396bbb3089d1a87e64a6e22f21c
+
+
+#EXTINF:-1 tvg-id="53639" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Utrecht%20vs%20GO%20Ahead%20Eagles.jpg" group-title="SAWARID سواريد - Live", Utrecht vs GO Ahead Eagles - Eredivisie [Server 3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7b94-backup/chunks.m3u8?is_vip=false&token=1788713283-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-321d45c0fa426094fcdbb9105cfedfa6
+
+
+#EXTINF:-1 tvg-id="53639" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Utrecht%20vs%20GO%20Ahead%20Eagles.jpg" group-title="SAWARID سواريد - Live", Utrecht vs GO Ahead Eagles - Eredivisie [Server 4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7b94/chunks.m3u8?is_vip=false&token=1788713284-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fbe1d5d533afa08e40cc07577cff740c
+
+
+#EXTINF:-1 tvg-id="54327" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fenerbah%C3%A7e%20vs%20Be%C5%9Fikta%C5%9F.jpg" group-title="SAWARID سواريد - Live", Fenerbahçe vs Beşiktaş - Süper Lig
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e1c0-hd/chunks.m3u8?is_vip=false&token=1788713285-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-58f62dcf08aac1188908d5348a1a6ade
+
+
+#EXTINF:-1 tvg-id="54623" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day%202%20-%20Session%202.jpg" group-title="SAWARID سواريد - Live", Day 2 - Session 2 - Czech Darts Open
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1788713286-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bd766314fe09d06c61be1cc096944bcf
+
+
+#EXTINF:-1 tvg-id="54642" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Practice%202%20Grand%20Prix%20of%20Laguna%20Seca.jpg" group-title="SAWARID سواريد - Live", Practice 2: Grand Prix of Laguna Seca - Indycar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1788713288-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b751b55c4126cb6c53b5381b11784c50
 
 
 #EXTINF:-1 tvg-id="45245" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lens%20vs%20Lorient.jpg" group-title="SAWARID سواريد - Live", Lens vs Lorient - Ligue 1 [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce884133-hd/chunks.m3u8?is_vip=false&token=1788710556-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-dcdba234848a72c3da4b914f5eb9f5e5
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce884133-hd/chunks.m3u8?is_vip=false&token=1788713244-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2449cf121810553c812e5bd4b891c020
 
 
 #EXTINF:-1 tvg-id="45245" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lens%20vs%20Lorient.jpg" group-title="SAWARID سواريد - Live", Lens vs Lorient - Ligue 1 [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce884133-fhd/chunks.m3u8?is_vip=false&token=1788710556-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f1d6f4e659d2983243b3047ff8df9b33
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce884133-fhd/chunks.m3u8?is_vip=false&token=1788713245-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-447296864c410f229347522d71ec4b20
 
 
 #EXTINF:-1 tvg-id="45245" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lens%20vs%20Lorient.jpg" group-title="SAWARID سواريد - Live", Lens vs Lorient - Ligue 1 [Server 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce884133-backup/chunks.m3u8?is_vip=false&token=1788710557-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bc2a340840e24dbd24ba27e4571aef4d
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce884133-backup/chunks.m3u8?is_vip=false&token=1788713245-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-399ec8cc61d1d48adf6f99ed2301c92c
 
 
 #EXTINF:-1 tvg-id="45245" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lens%20vs%20Lorient.jpg" group-title="SAWARID سواريد - Live", Lens vs Lorient - Ligue 1 [Server 4]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce884133/chunks.m3u8?is_vip=false&token=1788710558-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1dd6a55e79593403e33218758c12df74
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce884133/chunks.m3u8?is_vip=false&token=1788713246-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2236dc7fcde9744a68a3aed937af24af
 
 
 #EXTINF:-1 tvg-id="44136" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Inter%20vs%20Napoli.jpg" group-title="SAWARID سواريد - Live", Inter vs Napoli - Serie A [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e0e1-hd/chunks.m3u8?is_vip=false&token=1788710559-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f474acf2181bbea86396aad5ece26102
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e0e1-hd/chunks.m3u8?is_vip=false&token=1788713248-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fa95c767b914c31f94a2bc3ffdab5068
 
 
 #EXTINF:-1 tvg-id="44136" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Inter%20vs%20Napoli.jpg" group-title="SAWARID سواريد - Live", Inter vs Napoli - Serie A [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e0e1-cnhd/chunks.m3u8?is_vip=false&token=1788710560-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7de7d791c87fece39cfcc78f2bcc9fb1
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e0e1-backup/chunks.m3u8?is_vip=false&token=1788713248-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f826ecec1a95f1881ad8982d8337dc3c
 
 
 #EXTINF:-1 tvg-id="44136" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Inter%20vs%20Napoli.jpg" group-title="SAWARID سواريد - Live", Inter vs Napoli - Serie A [Server 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e0e1/chunks.m3u8?is_vip=false&token=1788710562-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ffc5a7e5608c88f0280dd4330d211574
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e0e1/chunks.m3u8?is_vip=false&token=1788713249-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-94034176453b6efe9290f3457c4d7ec5
 
 
-#EXTINF:-1 tvg-id="53547" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sporting%20Gijon%20vs%20Girona.jpg" group-title="SAWARID سواريد - Live", Sporting Gijon vs Girona - Segunda División
+#EXTINF:-1 tvg-id="44934" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Schalke%2004%20vs%20Bayern%20M%C3%BCnchen.jpg" group-title="SAWARID سواريد - Live", FC Schalke 04 vs Bayern München - Bundesliga [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e25a/chunks.m3u8?is_vip=false&token=1788710663-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1801f6b5811ec6d70a1868828742abe2
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e145-hd/chunks.m3u8?is_vip=false&token=1788713250-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-082b74933ba9df339da38d8fb200009f
 
 
-#EXTINF:-1 tvg-id="54407" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Estrela%20vs%20Famalicao.jpg" group-title="SAWARID سواريد - Live", Estrela vs Famalicao - Primeira Liga [Server 1]
+#EXTINF:-1 tvg-id="44934" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Schalke%2004%20vs%20Bayern%20M%C3%BCnchen.jpg" group-title="SAWARID سواريد - Live", FC Schalke 04 vs Bayern München - Bundesliga [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e26a-backup/chunks.m3u8?is_vip=false&token=1788710677-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4769ca27060de80e89908ac88f0f6849
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e145-fhd/chunks.m3u8?is_vip=false&token=1788713250-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-06be2085cc141ab3087592b59ded5a51
 
 
-#EXTINF:-1 tvg-id="54407" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Estrela%20vs%20Famalicao.jpg" group-title="SAWARID سواريد - Live", Estrela vs Famalicao - Primeira Liga [Server 2]
+#EXTINF:-1 tvg-id="44934" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Schalke%2004%20vs%20Bayern%20M%C3%BCnchen.jpg" group-title="SAWARID سواريد - Live", FC Schalke 04 vs Bayern München - Bundesliga [Server 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e26a/chunks.m3u8?is_vip=false&token=1788710678-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-711382ac720c1c08412501b241ce4ec9
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e145-backup/chunks.m3u8?is_vip=false&token=1788713251-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-90cd1e01fe2bb85d00f97d0a59eb3026
 
 
-#EXTINF:-1 tvg-id="54414" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Benfica%20B%20vs%20Torreense.jpg" group-title="SAWARID سواريد - Live", Benfica B vs Torreense - Segunda Liga [Server 1]
+#EXTINF:-1 tvg-id="43745" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rayo%20Vallecano%20vs%20Racing%20Santander.jpg" group-title="SAWARID سواريد - Live", Rayo Vallecano vs Racing Santander - La Liga [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7cc8-backup/chunks.m3u8?is_vip=false&token=1788710679-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-037b9d7151b37f9e4490ad89ac9812d5
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e144-hd/chunks.m3u8?is_vip=false&token=1788713253-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ba7043c1592aacc9a91b5c3548cd0331
 
 
-#EXTINF:-1 tvg-id="54414" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Benfica%20B%20vs%20Torreense.jpg" group-title="SAWARID سواريد - Live", Benfica B vs Torreense - Segunda Liga [Server 2]
+#EXTINF:-1 tvg-id="43745" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rayo%20Vallecano%20vs%20Racing%20Santander.jpg" group-title="SAWARID سواريد - Live", Rayo Vallecano vs Racing Santander - La Liga [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7cc8/chunks.m3u8?is_vip=false&token=1788710680-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bf9c736faa2804a7a695ae8795625d3b
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e144-backup/chunks.m3u8?is_vip=false&token=1788713253-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-92465c48df61c4602b19bcfe8d51c02d
 
 
-#EXTINF:-1 tvg-id="54415" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Feirense%20vs%20Sporting%20CP%20B.jpg" group-title="SAWARID سواريد - Live", Feirense vs Sporting CP B - Segunda Liga [Server 1]
+#EXTINF:-1 tvg-id="43301" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hull%20City%20vs%20Aston%20Villa.jpg" group-title="SAWARID سواريد - Live", Hull City vs Aston Villa - Premier League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7cc7-backup/chunks.m3u8?is_vip=false&token=1788710683-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-00489ed54fc9618473d30f94af9b1e5d
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e143-hd/chunks.m3u8?is_vip=false&token=1788713254-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b1cbd9710638b502a1e93c12308269f3
 
 
-#EXTINF:-1 tvg-id="54415" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Feirense%20vs%20Sporting%20CP%20B.jpg" group-title="SAWARID سواريد - Live", Feirense vs Sporting CP B - Segunda Liga [Server 2]
+#EXTINF:-1 tvg-id="43301" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hull%20City%20vs%20Aston%20Villa.jpg" group-title="SAWARID سواريد - Live", Hull City vs Aston Villa - Premier League [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7cc7/chunks.m3u8?is_vip=false&token=1788710683-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-11acda4d3a80d011eba034733e1854bd
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e143-fhd/chunks.m3u8?is_vip=false&token=1788713255-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7a463317843fc0e88368979475aa793d
 
 
-#EXTINF:-1 tvg-id="53552" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Austria%20Salzburg%20vs%20First%20Vienna.jpg" group-title="SAWARID سواريد - Live", Austria Salzburg vs First Vienna - Cup [Server 1]
+#EXTINF:-1 tvg-id="43301" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hull%20City%20vs%20Aston%20Villa.jpg" group-title="SAWARID سواريد - Live", Hull City vs Aston Villa - Premier League [Server 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7f0a82eeaf4f1e6ae7e90f-backup/chunks.m3u8?is_vip=false&token=1788710686-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c1e0ada218a925ab0a414978fee7e3c8
-
-
-#EXTINF:-1 tvg-id="53552" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Austria%20Salzburg%20vs%20First%20Vienna.jpg" group-title="SAWARID سواريد - Live", Austria Salzburg vs First Vienna - Cup [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7f0a82eeaf4f1e6ae7e90f/chunks.m3u8?is_vip=false&token=1788710687-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2893a86b2935dc24c0a2eb67b0345438
-
-
-#EXTINF:-1 tvg-id="53565" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Leithaprodersdorf%20vs%20WSG%20Wattens.jpg" group-title="SAWARID سواريد - Live", Leithaprodersdorf vs WSG Wattens - Cup [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7f0a82eeaf4f1e6ae7e92e-backup/chunks.m3u8?is_vip=false&token=1788710692-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-45d62168c026be2beb8eac77a41f2cb6
-
-
-#EXTINF:-1 tvg-id="53565" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Leithaprodersdorf%20vs%20WSG%20Wattens.jpg" group-title="SAWARID سواريد - Live", Leithaprodersdorf vs WSG Wattens - Cup [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7f0a82eeaf4f1e6ae7e92e/chunks.m3u8?is_vip=false&token=1788710694-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-73e10e8a36abe9b9d2d1582e033681fc
-
-
-#EXTINF:-1 tvg-id="63042" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/US%20Open.jpg" group-title="SAWARID سواريد - Live", US Open - US Open
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788710695-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-20b1e30668d150207e7d79128ab26ea2
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e143/chunks.m3u8?is_vip=false&token=1788713256-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2bce1fe7d735982a32beb6a6c2ae6ae9
 
 
 #EXTINF:-1 tvg-id="63043" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Louis%20Armstrong%20Stadium.jpg" group-title="SAWARID سواريد - Live", Louis Armstrong Stadium - US Open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788710696-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-49bc3992c9ad93320243afeca54f09e1
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788713257-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8671a1c0545f516ce9f10d1bced2bfb4
 
 
-#EXTINF:-1 tvg-id="53632" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sassuolo%20W%20vs%20Ternana%20W.jpg" group-title="SAWARID سواريد - Live", Sassuolo W vs Ternana W - Serie A Cup Women
+#EXTINF:-1 tvg-id="63042" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/US%20Open.jpg" group-title="SAWARID سواريد - Live", US Open - US Open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e139-backup/chunks.m3u8?is_vip=false&token=1788710701-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c73570910f7417b87071f6ed4f04c244
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788713260-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cc38f1e93824474fedbab4e0620733ca
 
 
-#EXTINF:-1 tvg-id="53622" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Traiskirchen%20vs%20Austria%20Vienna.jpg" group-title="SAWARID سواريد - Live", Traiskirchen vs Austria Vienna - Cup [Server 1]
+#EXTINF:-1 tvg-id="53565" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Leithaprodersdorf%20vs%20WSG%20Wattens.jpg" group-title="SAWARID سواريد - Live", Leithaprodersdorf vs WSG Wattens - Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7f0a82eeaf4f1e6ae7e92f-backup/chunks.m3u8?is_vip=false&token=1788710704-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8cc4d762b37798223b1398fecac0f687
-
-
-#EXTINF:-1 tvg-id="53622" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Traiskirchen%20vs%20Austria%20Vienna.jpg" group-title="SAWARID سواريد - Live", Traiskirchen vs Austria Vienna - Cup [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7f0a82eeaf4f1e6ae7e92f/chunks.m3u8?is_vip=false&token=1788710705-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0aeaaeda6d846226df8b77fab28c762c
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7f0a82eeaf4f1e6ae7e92e-backup/chunks.m3u8?is_vip=false&token=1788713261-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-33183bf689c40300006f3947899a18bc
 
 
 #EXTINF:-1 tvg-id="45601" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al-Faisaly%20FC%20vs%20Al-Hazm.jpg" group-title="SAWARID سواريد - Live", Al-Faisaly FC vs Al-Hazm - Pro League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce884136/chunks.m3u8?is_vip=false&token=1788710706-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-caf6dfb7d0e31cd2f857aa6fc0418364
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce884136/chunks.m3u8?is_vip=false&token=1788713266-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bf8f7cffd76bd56901a9858bc72ddbac
 
 
 #EXTINF:-1 tvg-id="45602" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al%20Taawon%20vs%20Al-Fateh.jpg" group-title="SAWARID سواريد - Live", Al Taawon vs Al-Fateh - Pro League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce884137/chunks.m3u8?is_vip=false&token=1788710707-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-80505810d63812b5bfba94d31ca57d9f
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce884137/chunks.m3u8?is_vip=false&token=1788713267-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a05fafd0d92724d5d9b24556ed04ea9a
 
 
-#EXTINF:-1 tvg-id="53555" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Dinamo%20Zagreb%20vs%20HNK%20Gorica.jpg" group-title="SAWARID سواريد - Live", Dinamo Zagreb vs HNK Gorica - HNL
+#EXTINF:-1 tvg-id="53624" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Rostov%20vs%20Fakel.jpg" group-title="SAWARID سواريد - Live", FC Rostov vs Fakel - Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402efb009bc39fb3487e-fhd/chunks.m3u8?is_vip=false&token=1788710708-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-61883804426aaee192d2e044615fc623
-
-
-#EXTINF:-1 tvg-id="53624" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Rostov%20vs%20Fakel.jpg" group-title="SAWARID سواريد - Live", FC Rostov vs Fakel - Premier League [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e0e6-fhd/chunks.m3u8?is_vip=false&token=1788710709-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2976582f03ce248bb7d167f601373755
-
-
-#EXTINF:-1 tvg-id="53624" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Rostov%20vs%20Fakel.jpg" group-title="SAWARID سواريد - Live", FC Rostov vs Fakel - Premier League [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e0e6/chunks.m3u8?is_vip=false&token=1788710710-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-08865367aed652f603843bd8d8bf37cf
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e0e6-backup/chunks.m3u8?is_vip=false&token=1788713268-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5aaaec1a380cf232f8a1cfd4c56e6949
 
 
 #EXTINF:-1 tvg-id="54619" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Prelims.jpg" group-title="SAWARID سواريد - Live", Prelims - UFC FIGHT NIGHT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1788710711-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9f4887755dadb927912881a90347529f
+https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1788713269-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e81bf645306a88e97b0632187b7064d4
+
+
+#EXTINF:-1 tvg-id="53555" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Dinamo%20Zagreb%20vs%20HNK%20Gorica.jpg" group-title="SAWARID سواريد - Live", Dinamo Zagreb vs HNK Gorica - HNL [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402efb009bc39fb3487e-fhd/chunks.m3u8?is_vip=false&token=1788713271-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bc071ef4c9dc4f6599f5567746565842
+
+
+#EXTINF:-1 tvg-id="53555" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Dinamo%20Zagreb%20vs%20HNK%20Gorica.jpg" group-title="SAWARID سواريد - Live", Dinamo Zagreb vs HNK Gorica - HNL [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402efb009bc39fb3487e-backup/chunks.m3u8?is_vip=false&token=1788713271-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b7a8651e5a1e5dff9b113a31b9603a49
+
+
+#EXTINF:-1 tvg-id="53635" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Shabab%20Al%20Ahli%20Dubai%20vs%20Al-Jazira.jpg" group-title="SAWARID سواريد - Live", Shabab Al Ahli Dubai vs Al-Jazira - Pro League [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e140-backup/chunks.m3u8?is_vip=false&token=1788713274-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-335a4db24c12cd1c6baba7d3d82ea24c
+
+
+#EXTINF:-1 tvg-id="53635" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Shabab%20Al%20Ahli%20Dubai%20vs%20Al-Jazira.jpg" group-title="SAWARID سواريد - Live", Shabab Al Ahli Dubai vs Al-Jazira - Pro League [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e140/chunks.m3u8?is_vip=false&token=1788713275-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d0a7508c8030b99035273857d632da0e
+
+
+#EXTINF:-1 tvg-id="53636" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/AD%20Ceuta%20FC%20vs%20Celta%20de%20Vigo%20II.jpg" group-title="SAWARID سواريد - Live", AD Ceuta FC vs Celta de Vigo II - Segunda División
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e261/chunks.m3u8?is_vip=false&token=1788713277-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-275f5883498f5f20f0632eb4ee458679
+
+
+#EXTINF:-1 tvg-id="54476" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Aldosivi%20vs%20Banfield.jpg" group-title="SAWARID سواريد - Live", Aldosivi vs Banfield - Liga Profesional Argentina [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b6850d-backup/chunks.m3u8?is_vip=false&token=1788713278-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-eababe67ee96417b33b8e190f68059b8
+
+
+#EXTINF:-1 tvg-id="54476" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Aldosivi%20vs%20Banfield.jpg" group-title="SAWARID سواريد - Live", Aldosivi vs Banfield - Liga Profesional Argentina [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b6850d/chunks.m3u8?is_vip=false&token=1788713279-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3d68962f2708fe28ecfcb8787a8b24d2
+
+
+#EXTINF:-1 tvg-id="54327" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fenerbah%C3%A7e%20vs%20Be%C5%9Fikta%C5%9F.jpg" group-title="SAWARID سواريد - Live", Fenerbahçe vs Beşiktaş - Süper Lig
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e1c0-hd/chunks.m3u8?is_vip=false&token=1788713285-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-58f62dcf08aac1188908d5348a1a6ade
+
+
+#EXTINF:-1 tvg-id="54623" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day%202%20-%20Session%202.jpg" group-title="SAWARID سواريد - Live", Day 2 - Session 2 - Czech Darts Open
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1788713286-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bd766314fe09d06c61be1cc096944bcf
+
+
+#EXTINF:-1 tvg-id="54642" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Practice%202%20Grand%20Prix%20of%20Laguna%20Seca.jpg" group-title="SAWARID سواريد - Live", Practice 2: Grand Prix of Laguna Seca - Indycar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1788713288-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b751b55c4126cb6c53b5381b11784c50
 
 
 # 🆕 SAWARID سواريد - Live 👉 Updateded Done ✅✅✅✅✅✅
@@ -805,7 +691,7 @@ https://playztv-apps.pages.dev/willow-tv/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwYm1HYJ/resized-300x180-ffffff-16.jpg" group-title="Live Event Sports", T Sports
-#AUTO-UPDATED - T Sports ⛔ SKIPPED ⛔ - 2026-09-05 22:15:02 🟡 - 🔄 - 🔴
+#AUTO-UPDATED - T Sports ⛔ SKIPPED ⛔ - 2026-09-05 23:01:24 🟡 - 🔄 - 🔴
 https://playztv-apps.pages.dev/unite8-sports-2/index.m3u8
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 # 🔴 Duplicate Link Found 🔴
