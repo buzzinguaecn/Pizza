@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 01:59:56AM - 05-09-2026
-# Total Channel Found: 268 Channel
+# Update Time: 07:53:21AM - 05-09-2026
+# Total Channel Found: 269 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -399,7 +399,7 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mais
 https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cwC7Q2V.png" group-title="Lifestyle", TV5Monde Style
-https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
+http://103.190.232.129/stream/tvb/style/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uM1v1sd.png" group-title="Documentary", Francophonie24
 https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
@@ -531,6 +531,9 @@ http://5.180.164.197:8080/FRANCE3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png" group-title="General", like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="General",TMC
 http://151.80.18.177:86/TMC/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WmRbudc.png" group-title="General", TV5Monde France Belgium Switzerland Monaco
+http://5.78.65.164/TV5Monde/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://academie.kasumay.international/ico/radioalsace.png" group-title="General", TV Alsace
 http://194.163.157.137:8080/hls/radioalsace.m3u8
