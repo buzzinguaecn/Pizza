@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 07:53:21AM - 05-09-2026
-# Total Channel Found: 423 Channel
+# Update Time: 03:36:47PM - 05-09-2026
+# Total Channel Found: 424 Channel
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes.
 # 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
@@ -156,7 +156,7 @@ http://5.253.46.190:8000/play/a0eg/index.m3u8
 http://5.253.46.190:8000/play/a0ac/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/whyZXzW.png" group-title="Arabic-Saudia", LBC
-https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8
+http://185.9.2.18/chid_327/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KSUny9D.jpeg" group-title="Arabic-Saudia", Libya Al Wataniya
 https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8
@@ -663,7 +663,7 @@ https://cloud.odysee.live/content/f92670235a1ce2bce4cf77671cc4dcc2188baa1d/maste
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="News", CGTN Arabic
-https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Channel8corp.png/960px-Channel8corp.png" group-title="News", Channel 8 Kurdish
 https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
@@ -1197,6 +1197,9 @@ https://stream.alabbassia.com/live/alabbassia/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pHpFGeg.png" group-title="Religious", Ch4Teen Documentary
 https://ch14.tv/live/ch4teendoc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U9z8WBY.png" group-title="Religious", Charity TV
+https://652930de05533.streamlock.net/live/ngrp:livestream_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Religious", Muslim Network TV
 https://afghantv.app/hls2/muslimnetwork/index.m3u8
