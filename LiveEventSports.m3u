@@ -109,11 +109,7 @@
 
 #EXTINF:-1 tvg-logo="" group-title="All Sports", 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RGCTxWM/image.jpg" group-title="All Sports", Euro Sports
 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RGCTxWM/image.jpg" group-title="All Sports", Eurosport HD
-https://stream.ottplus.bd/live/euro_sports_hd_abr/index.m3u8
 
 
 
@@ -258,8 +254,6 @@ https://stream.ottplus.bd/live/euro_sports_hd_abr/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jVBfQNj.png" group-title="All Sports",Mundial
-https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
 
 
 
@@ -541,6 +535,8 @@ http://stream.mcquack.net/72/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jVBfQNj.png" group-title="All Sports", Mundial
+https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
 
 
 
@@ -705,9 +701,7 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 tvg-logo="" group-title="All Sports", 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7P04hWZh/image.jpg" group-title="Live Event", Live Match
 
-#https://anywhere.pwisetthon.com/এখানে থাকবে চ্যানেলের লিংক যেগুলো চ্যানেল সাপোর্ট করেনা অন্য প্লেয়ারে
 
 
 
@@ -732,7 +726,7 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Ps2H8rFk/Sirome-TV-8.jpg" group-title="All Football Match & League", Football Match
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2d8YXgm/24528.jpg" group-title="All Football Match & League", Football Match
 http://ua1.online24.pm/134/video.m3u8?token=25602AD9468C2BD
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
@@ -779,16 +773,9 @@ https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_r
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hx75zHSQ/T-Sports-logo.png" group-title="All Sports", GTV
-https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
-https://tvsen6.aynaott.com/gtvhdforgame/index.m3u8
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vBXCdpZH/image.jpg" group-title="All Sports", Sony LIV
-https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
-http://203.18.159.115:8081/SS5_TG_josharmy007/index.m3u8
-http://sonymtpristinenew.akamaized.net/hls/live/2119931/cricacc12409/ENG/std_lrh-800300010.m3u8
-https://live-en.aisports.cc/moviebox/football001/playlist.m3u8
 
 
 
@@ -1024,7 +1011,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/starsports2kannada/master.m3u8
 
 
 #👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DPZRPqKs/Sirome-TV-4.jpg" group-title="All Sports", Star Sports 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dz3cnRkK/24528.jpg" group-title="All Sports", Star Sports 3
 http://103.59.176.72:8083/ss_select_2/tracks-v1a1/mono.m3u8?token=123
 http://103.59.176.72:8083/star_sports_3/tracks-v1a1/mono.m3u8?token=123
 
@@ -1033,7 +1020,7 @@ http://103.59.176.72:8083/star_sports_3/tracks-v1a1/mono.m3u8?token=123
 
 #👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/NngCmV9f/Sirome-TV-2.jpg" group-title="All Sports", Star Sports Khel
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydvhhdJJ/24528.jpg" group-title="All Sports", Star Sports Khel
 https://live.dinesh29.com.np/stream/jiotv/starsportskhel/stream_0.m3u8
 
 #🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
@@ -1059,16 +1046,19 @@ https://live.dinesh29.com.np/stream/jiotv/starsportskhel/stream_0.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="All Sports", Sky Sports Cricket
-http://b1g.ooo:80/live/rv/rv123/261002.ts
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RGCTxWM/image.jpg" group-title="All Sports", Eurosport HD
+https://stream.ottplus.bd/live/euro_sports_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RGCTxWM/image.jpg" group-title="All Sports", Euro Sports
-http://103.175.73.12:8080/live/82/82_0.m3u8
-#https://bongoflixbd.top/toffee/euro_sports_hd.m3u8?user=bongoflix&pass=eaminvai
-#http://66.102.120.18:8000/play/a01g
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RGCTxWM/image.jpg" group-title="All Sports", Euro Sports 2
-http://178.23.88.55/Eurosport_2/index.m3u8
-https://satoshi-cors.herokuapp.com/http://178.23.88.55/Eurosport_2/index.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-logo="" group-title="All Sports", 
 
