@@ -30,11 +30,12 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Vk0GFLj1/Discovery-Channel-logo.png" group-title="Documentary", Discovery English
-https://toffee-proxy.usergamil15.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fdiscovery_sd%2Fplaylist.m3u8&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1788436853%3AKeyName%3Dprod_linear%3ASignature%3Dyb3twN2LgtWsSS-8CWTaQA9y4zzvMxQ3YmI1P_KMo_HLIN799yY5U5uJby-CuN5eAyWloSU-HJoRJDVI0tRFAg&secret_key=FS_LIVE_TV_SECRET_2026&dummy=.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1787484290:KeyName=prod_linear:Signature=PtWjkx3msPFFU9qFvVfAs-Y3ulHfj80n9-XmT7bO3feXARU8f-Wx0_jJI40Ml6LpMjS9uEbM3MNXD32U1PR7Ag"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/636nnyDC/discovery-banglmmmma-hd.jpg" group-title="Documentary", Discovery Hindi
 https://stream.ottplus.bd/live/discovery_sd_abr/index.m3u8
-https://toffee-proxy.usergamil15.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fdiscovery_hd%2Fplaylist.m3u8&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1788436853%3AKeyName%3Dprod_linear%3ASignature%3Dyb3twN2LgtWsSS-8CWTaQA9y4zzvMxQ3YmI1P_KMo_HLIN799yY5U5uJby-CuN5eAyWloSU-HJoRJDVI0tRFAg&secret_key=FS_LIVE_TV_SECRET_2026&dummy=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/LOGO/Documentary/Discovery-Bangla.jpg" group-title="Documentary", Discovery Bangla
@@ -82,11 +83,12 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/nat
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/v89tFjmf/image.jpg" group-title="Documentary", Animal Planet
-https://toffee-proxy.usergamil15.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fanimal_planet_sd%2Fplaylist.m3u8&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1788436853%3AKeyName%3Dprod_linear%3ASignature%3Dyb3twN2LgtWsSS-8CWTaQA9y4zzvMxQ3YmI1P_KMo_HLIN799yY5U5uJby-CuN5eAyWloSU-HJoRJDVI0tRFAg&secret_key=FS_LIVE_TV_SECRET_2026&dummy=.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/v89tFjmf/image.jpg" group-title="Documentary", Animal Planet HD
 https://stream.ottplus.bd/live/animal_planet_hd_abr/playlist.m3u8
-https://toffee-proxy.usergamil15.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fanimal_planet_hd%2Fplaylist.m3u8&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1788436853%3AKeyName%3Dprod_linear%3ASignature%3Dyb3twN2LgtWsSS-8CWTaQA9y4zzvMxQ3YmI1P_KMo_HLIN799yY5U5uJby-CuN5eAyWloSU-HJoRJDVI0tRFAg&secret_key=FS_LIVE_TV_SECRET_2026&dummy=.m3u8
+http://27.124.71.27/Animal_Planet/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="Documentary", 
 
@@ -98,6 +100,37 @@ https://toffee-proxy.usergamil15.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.to
 
 #EXTINF:-1 tvg-logo="" group-title="Documentary", 
 
+#EXTINF:-1 tvg-logo="" group-title="Documentary", 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZncsQ1SC/IMG-20230501-151424.jpg" group-title="Documentary", Love Natural
+http://27.124.71.27/Love_Nature/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Documentary", 
+
+#EXTINF:-1 tvg-logo="" group-title="Documentary", 
+
+#EXTINF:-1 tvg-logo="" group-title="Documentary", 
+
+#EXTINF:-1 tvg-logo="" group-title="Documentary", 
+
+#EXTINF:-1 tvg-logo="" group-title="Documentary", 
+
+#EXTINF:-1 tvg-logo="" group-title="Documentary", 
+
+#EXTINF:-1 tvg-logo="" group-title="Documentary", 
+
+#EXTINF:-1 tvg-logo="" group-title="Documentary", 
+
+#EXTINF:-1 tvg-logo="" group-title="Documentary", 
+
+#EXTINF:-1 tvg-logo="" group-title="Documentary", 
+
+#EXTINF:-1 tvg-logo="" group-title="Documentary", 
+
+#EXTINF:-1 tvg-logo="" group-title="Documentary", 
+
+#EXTINF:-1 tvg-logo="" group-title="Documentary", 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kz3qLH4S/image.jpg" group-title="Documentary", BBC Earth
 https://toffee-proxy.usergamil15.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fsonybbc_earth_hd%2Fplaylist.m3u8&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1788436853%3AKeyName%3Dprod_linear%3ASignature%3Dyb3twN2LgtWsSS-8CWTaQA9y4zzvMxQ3YmI1P_KMo_HLIN799yY5U5uJby-CuN5eAyWloSU-HJoRJDVI0tRFAg&secret_key=FS_LIVE_TV_SECRET_2026&dummy=.m3u8
@@ -226,6 +259,7 @@ https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary", CGTN Documentary
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Documentary", RTA Documentary
 https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
