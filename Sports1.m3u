@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 08:01:25AM - 09-09-2026
-# Total Channels: 465
+# Update Time: 04:19:47PM - 09-09-2026
+# Total Channels: 467
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -1337,8 +1337,8 @@ https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8
 https://7nyaler.streamhostingcdn.top/stream/8/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png" group-title="Sports1",Sky Sports Cricket HD
-https://xemzi.short.gy/2000006
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png" group-title="Sports1",Sky Sports Cricket
+https://leaf.highfly.dev/m3u/now-sky-sports-cricket/live.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" group-title="Sports1",Sky Sports F1
@@ -1347,6 +1347,10 @@ https://xemzi.short.gy/2000005
 
 #EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png" group-title="Sports1",Sky Sports Football
 http://188.138.29.131/skyfootball/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1322.png" group-title="Sports1",Sky Sports Golf HD
+https://leaf.highfly.dev/m3u/now-sky-sports-golf/live.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1SxIsnw.png" group-title="Sports1",Sky Thoroughbred Central
@@ -1822,6 +1826,10 @@ http://59.103.38.46:8000/play/a125/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/LOGO_HD_BvXTgRk6Y_UNITE8-SPORTS-2_264X144.webp" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports1",Unite8 Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://59.103.38.46:8000/play/a126/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://s4.vcdn.biz/static/f/9219528031/image.jpg" group-title="Sports1",UPL.TV
+http://dtv.vol.net.ua/UPL-TV/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" group-title="Sports1",USA Network
