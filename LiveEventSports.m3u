@@ -61,6 +61,14 @@ https://sonydaimenew.akamaized.net/hls/live/2022315/footlive0909/ENG/master.m3u8
 https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive0909/ENG/master.m3u8?hdnea=exp=1788988831~acl=/*~id=62415026938628427784494396688495~hmac=d75d1f44dec53c1039710f390e6b0ac45f16df36c8d2db19db166342b22245ca
 
 
+#EXTINF:-1 tvg-id="tapmad-17019" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17887847691020x576.jpg" group-title="SAWARID سواريد - Football", Barcelona vs Feyenoord | UEFA Champions League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+
+
+#EXTINF:-1 tvg-id="tapmad-17020" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17887856441020x576.jpg" group-title="SAWARID سواريد - Football", VFB Stuttgart vs Viking | UEFA Champions League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+
+
 # 🆕 SAWARID سواريد - Football 👉 Updateded Done ✅✅✅✅✅✅
 
 
@@ -82,10 +90,6 @@ https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/master.m3u8
 https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
 
 
-#EXTINF:-1 tvg-id="tapmad-16705" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889326131020x576.jpg" group-title="SAWARID سواريد - Cricket", Dublin Guardians vs Belfast Wolves | European T20 Premier League 2026
-https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
-
-
 # 🆕 SAWARID سواريد - Cricket 👉 Updateded Done ✅✅✅✅✅✅
 
 
@@ -95,52 +99,100 @@ https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
 # 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Live 🟢🟢🟢🟢🟢🟢
 
 
+#EXTINF:-1 tvg-id="57030" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Barcelona%20vs%20Feyenoord.jpg" group-title="SAWARID سواريد - Live", Barcelona vs Feyenoord - UEFA Champions League [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/238/720p/chunks.m3u8?is_vip=false&token=1789057947-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-64ecef8ba35bf23a27ef9b7151895d62
+
+
+#EXTINF:-1 tvg-id="57030" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Barcelona%20vs%20Feyenoord.jpg" group-title="SAWARID سواريد - Live", Barcelona vs Feyenoord - UEFA Champions League [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90f2da14cfe5ec671d76f4-hd/chunks.m3u8?is_vip=false&token=1789057948-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b457ca5c733fc3ecd122abd56c148697
+
+
+#EXTINF:-1 tvg-id="56991" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/VfB%20Stuttgart%20vs%20Viking.jpg" group-title="SAWARID سواريد - Live", VfB Stuttgart vs Viking - UEFA Champions League [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/493650/720p/chunks.m3u8?is_vip=false&token=1789057950-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-21caf08ca3b6d2e978ef10d4d24d159d
+
+
+#EXTINF:-1 tvg-id="56991" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/VfB%20Stuttgart%20vs%20Viking.jpg" group-title="SAWARID سواريد - Live", VfB Stuttgart vs Viking - UEFA Champions League [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90f2daf2fa6c299ee129b6-hd/chunks.m3u8?is_vip=false&token=1789057950-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7ea71108433e3de188246880702240a2
+
+
 #EXTINF:-1 tvg-id="65134" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Pakistan.jpg" group-title="SAWARID سواريد - Live", England vs Pakistan - 3rd Test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789057042-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e0a193f5ab8d7a70d8614442ea62801e
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789057952-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-82640d3d01fafb2982fe5b4cd0790203
 
 
 #EXTINF:-1 tvg-id="65133" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Us%20open.jpg" group-title="SAWARID سواريد - Live", Us open - US Open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1789057044-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fd1cea8faa3b7d81b0f5e2ddba760991
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1789057953-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b385f4d004408c9145aa4376416a7438
 
 
 #EXTINF:-1 tvg-id="45610" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al%20Kholood%20vs%20Al%20Shabab.jpg" group-title="SAWARID سواريد - Live", Al Kholood vs Al Shabab - Pro League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8086086c5a23a8c2be1f55-fhd/chunks.m3u8?is_vip=false&token=1789057045-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0cb361ce4491e2c50a3965ad23f8301a
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8086086c5a23a8c2be1f55-fhd/chunks.m3u8?is_vip=false&token=1789057954-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-36c85d7c41c8c603fc9425cc7e70240f
 
 
 #EXTINF:-1 tvg-id="45610" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al%20Kholood%20vs%20Al%20Shabab.jpg" group-title="SAWARID سواريد - Live", Al Kholood vs Al Shabab - Pro League [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8086086c5a23a8c2be1f55/chunks.m3u8?is_vip=false&token=1789057046-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-44d5342b19caedb370fbb8c1f16d9677
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8086086c5a23a8c2be1f55/chunks.m3u8?is_vip=false&token=1789057955-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d964400301b0ebd9561c1126cb7863b5
+
+
+#EXTINF:-1 tvg-id="57030" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Barcelona%20vs%20Feyenoord.jpg" group-title="SAWARID سواريد - Live", Barcelona vs Feyenoord - UEFA Champions League [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/238/720p/chunks.m3u8?is_vip=false&token=1789057947-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-64ecef8ba35bf23a27ef9b7151895d62
+
+
+#EXTINF:-1 tvg-id="57030" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Barcelona%20vs%20Feyenoord.jpg" group-title="SAWARID سواريد - Live", Barcelona vs Feyenoord - UEFA Champions League [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90f2da14cfe5ec671d76f4-hd/chunks.m3u8?is_vip=false&token=1789057948-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b457ca5c733fc3ecd122abd56c148697
+
+
+#EXTINF:-1 tvg-id="56991" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/VfB%20Stuttgart%20vs%20Viking.jpg" group-title="SAWARID سواريد - Live", VfB Stuttgart vs Viking - UEFA Champions League [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/493650/720p/chunks.m3u8?is_vip=false&token=1789057950-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-21caf08ca3b6d2e978ef10d4d24d159d
+
+
+#EXTINF:-1 tvg-id="56991" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/VfB%20Stuttgart%20vs%20Viking.jpg" group-title="SAWARID سواريد - Live", VfB Stuttgart vs Viking - UEFA Champions League [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90f2daf2fa6c299ee129b6-hd/chunks.m3u8?is_vip=false&token=1789057950-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7ea71108433e3de188246880702240a2
 
 
 #EXTINF:-1 tvg-id="65134" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Pakistan.jpg" group-title="SAWARID سواريد - Live", England vs Pakistan - 3rd Test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789057042-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e0a193f5ab8d7a70d8614442ea62801e
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789057952-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-82640d3d01fafb2982fe5b4cd0790203
 
 
 #EXTINF:-1 tvg-id="65133" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Us%20open.jpg" group-title="SAWARID سواريد - Live", Us open - US Open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1789057044-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fd1cea8faa3b7d81b0f5e2ddba760991
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1789057953-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b385f4d004408c9145aa4376416a7438
 
 
 #EXTINF:-1 tvg-id="45610" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al%20Kholood%20vs%20Al%20Shabab.jpg" group-title="SAWARID سواريد - Live", Al Kholood vs Al Shabab - Pro League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8086086c5a23a8c2be1f55-fhd/chunks.m3u8?is_vip=false&token=1789057045-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0cb361ce4491e2c50a3965ad23f8301a
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8086086c5a23a8c2be1f55-fhd/chunks.m3u8?is_vip=false&token=1789057954-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-36c85d7c41c8c603fc9425cc7e70240f
 
 
 #EXTINF:-1 tvg-id="45610" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al%20Kholood%20vs%20Al%20Shabab.jpg" group-title="SAWARID سواريد - Live", Al Kholood vs Al Shabab - Pro League [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8086086c5a23a8c2be1f55/chunks.m3u8?is_vip=false&token=1789057046-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-44d5342b19caedb370fbb8c1f16d9677
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8086086c5a23a8c2be1f55/chunks.m3u8?is_vip=false&token=1789057955-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d964400301b0ebd9561c1126cb7863b5
 
 
 # 🆕 SAWARID سواريد - Live 👉 Updateded Done ✅✅✅✅✅✅
@@ -481,7 +533,7 @@ https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwYm1HYJ/resized-300x180-ffffff-16.jpg" group-title="All Sports", T Sports
-#AUTO-UPDATED - T Sports ⛔ SKIPPED ⛔ - 2026-09-09 22:28:25 🟡 - 🔄 - 🔴
+#AUTO-UPDATED - T Sports ⛔ SKIPPED ⛔ - 2026-09-09 22:39:41 🟡 - 🔄 - 🔴
 https://playztv-apps.pages.dev/unite8-sports-2/index.m3u8
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 # 🔴 Duplicate Link Found 🔴
