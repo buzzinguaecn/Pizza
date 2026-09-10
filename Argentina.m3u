@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 02:10:06AM - 10-09-2026
-# Total Channels: 174
+# Update Time: 07:58:34AM - 10-09-2026
+# Total Channels: 175
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -93,6 +93,10 @@ https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TOlncyp.png" group-title="Argentina",Canal 2 Gualeguay
 https://stream.arcast.net:4443/gualeguay/gualeguay/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wlKFPBW.jpeg" group-title="Argentina",Canal 2 Mar del Plata
+https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YqTNXDf.png" group-title="Argentina",Canal 2 Misiones
