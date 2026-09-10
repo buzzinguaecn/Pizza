@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 09:25:57PM - 10-09-2026
-# Total Channels: 5471
+# Update Time: 02:11:42AM - 11-09-2026
+# Total Channels: 5473
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -10224,7 +10224,15 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/sctv.png" group-title="Indonesia",07. SCTV 1
+http://livestream.biznetvideo.net/sctv/smil:sctv.smil/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/indosiar.png" group-title="Indonesia",03. INDOSIAR 1
+http://livestream.biznetvideo.net/indosiar/smil:indosiar.smil/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/indosiar.png" group-title="Indonesia",03. INDOSIAR 2
 http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaZ0x0ZXFPbysvMVBvYjc1eXFMemc1a3UxOWR6NmYxUTllMi80N1IzM2tGWQ
 
 
@@ -10236,7 +10244,7 @@ https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/8237/res=1080
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/antv.png" group-title="Indonesia",02. ANTV 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/antv.png" group-title="Indonesia",02. ANTV 1
 http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
 
 
