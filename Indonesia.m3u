@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 09:27:55PM - 11-09-2026
-# Total Channels: 5473
+# Update Time: 02:10:52AM - 12-09-2026
+# Total Channels: 5514
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -484,6 +484,10 @@ http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34540
 http://ikitv.sqn.at:8000/play/a024/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cdbfc4a1934bf/a7166b21b4664d2eba55bc446d84af23.jpg" group-title="Indonesia",Cinemax
+https://cdnbal1.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-3277707030000000.mpd
+
+
 #EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg" group-title="Indonesia",HBO [xgo]
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
@@ -532,6 +536,10 @@ https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c68587f789fe0188421
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc464d33c0b/manifest.mpd
 
 
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg" group-title="Indonesia",HBO (MAX)
+https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd
+
+
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg" group-title="Indonesia",HBO 🇵🇭
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
 
@@ -540,12 +548,24 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 
 
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/movies/hbohits.jpg" group-title="Indonesia",HBO HITS (MAX)
+https://cdnbal1.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-3277707030000000.mpd
+
+
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/movies/hbohits.jpg" group-title="Indonesia",HBO HITS 🇵🇭
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.mpd
 
 
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/movies/hbosig.jpg" group-title="Indonesia",HBO SIGNATURE (MAX)
+https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3277707030000000.mpd
+
+
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/movies/hbosig.jpg" group-title="Indonesia",HBO SIGNATURE 🇵🇭
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
+
+
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/movies/hbofam.jpg" group-title="Indonesia",HBO FAMILY (MAX)
+https://cdnbal1.indihometv.com/atm/DASH/hbofamily/hbofamily-avc1_2500000=7-3277707030000000.mpd
 
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/movies/hbofam.jpg" group-title="Indonesia",HBO FAMILY 🇵🇭
@@ -986,10 +1006,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/561d7d484
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="Indonesia",Action Movies 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961b411c00090b52b3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-
-#EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png" group-title="Indonesia",Moviesphere Free
-https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="Indonesia",Douyu TV Movies
@@ -10352,10 +10368,6 @@ https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221_output_
 https://op-flashcon-digdayasd-1.dens.tv/h/h215/stream.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
 
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/677/677-LOGO-l.png" group-title="Indonesia",Al Quran Al Kareem (V+)
-https://visionplus.fazznet.my.id/out/v1/099aba2d60b44679915cd56f303b975d/index.mpd
-
-
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8f54fa3e-aec2-486d-97df-008746dfeff4/dgknozq-8812c673-c713-48ef-9c1f-d99f65636b86.png/v1/fill/w_874,h_914/abc_kids_logo__2023_present__by_johngamble1997_dgknozq-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTMzOSIsInBhdGgiOiIvZi84ZjU0ZmEzZS1hZWMyLTQ4NmQtOTdkZi0wMDg3NDZkZmVmZjQvZGdrbm96cS04ODEyYzY3My1jNzEzLTQ4ZWYtOWMxZi1kOTlmNjU2MzZiODYucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.E21Mfh6WNAE-u5YaikLyK7Rp1fFCq7AQIcF4xuzKTUI" group-title="Indonesia",h_914/abc_kids_logo__2023_present__by_johngamble1997_dgknozq-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTMzOSIsInBhdGgiOiIvZi84ZjU0ZmEzZS1hZWMyLTQ4NmQtOTdkZi0wMDg3NDZkZmVmZjQvZGdrbm96cS04ODEyYzY3My1jNzEzLTQ4ZWYtOWMxZi1kOTlmNjU2MzZiODYucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.E21Mfh6WNAE-u5YaikLyK7Rp1fFCq7AQIcF4xuzKTUI" group-title="Indonesia",ABC KIDS
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/537787e477cb491b8cfd57eb8cc37da4/index.m3u8?hdnea=st=1787853313~exp=1787854213~acl=/*~hmac=ada471be31a496563b0b8628d0500f751507d6073fe9bf7875e22d73be888b15
 
@@ -10376,36 +10388,192 @@ https://cilok99.serv00.net/ythls/xxxx.py/play.m3u8?id=UCgN4BNfZn6foloZTSii77iA
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd|referrer=https://visionplus.id
 
 
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fb9ec72f-0968-4eb6-9381-8e19f0e0c03a/dmcz0po-cf788641-f645-4e4e-82c0-886c849e554a.png/v1/fill/w_1280,h_663/canal__cinema_logo__1995__sonriverse__by_sonrialda_dmcz0po-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjYzIiwicGF0aCI6Ii9mL2ZiOWVjNzJmLTA5NjgtNGViNi05MzgxLThlMTlmMGUwYzAzYS9kbWN6MHBvLWNmNzg4NjQxLWY2NDUtNGU0ZS04MmMwLTg4NmM4NDllNTU0YS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.6JVfTECoIxlhNQvY3lYH_WYnp2zFud-IzGk9eeDQvBs" group-title="Indonesia",h_663/canal__cinema_logo__1995__sonriverse__by_sonrialda_dmcz0po-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjYzIiwicGF0aCI6Ii9mL2ZiOWVjNzJmLTA5NjgtNGViNi05MzgxLThlMTlmMGUwYzAzYS9kbWN6MHBvLWNmNzg4NjQxLWY2NDUtNGU0ZS04MmMwLTg4NmM4NDllNTU0YS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.6JVfTECoIxlhNQvY3lYH_WYnp2zFud-IzGk9eeDQvBs" group-title="Indonesia" , CANAL+ FR
-http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vFOgVbG.png" group-title="Indonesia",4ever Cinema
+http://stream.mcquack.net/258/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/5a/68/b8/5a68b86de75c499a4694fc2497d934cc.jpg" group-title="Indonesia",CINEMA RU
-https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tJQckal.png" group-title="Indonesia",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Indonesia",AXN Movies
+http://50.7.120.34:8080/AXN_BLACK/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2023/03/sony-movies-logo.png" group-title="Indonesia",SONY MOVIES
-http://177.234.249.178:8888/SONY-MOVIES/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="Indonesia",Boreal [Not 24/7]
+https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qMWw8Tph/HBO.png" group-title="Indonesia",HBO
-https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b3FcLU1.png" group-title="Indonesia",like Gecko) Chrome/152.0.0.0 Safari/537.36" group-title="Indonesia",Cine+ Hit
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDAvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI3NDUmc3Q9cVZaQ3Vpd2l3UzEwLW1tMzEwMktDZw%3D%3D&master=539
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/CpFzG9rS/HBO-HITS.png" group-title="Indonesia",HBO Hits
-https://cdnbal1.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-3277707030000000.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QtOfzSH.png" group-title="Indonesia",like Gecko) Chrome/152.0.0.0 Safari/537.36" group-title="Indonesia",Cine+ Legend
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoMzQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI2Mzgmc3Q9RHdRc3AyN2l6V3J1dllqUEZ5aS1yUQ%3D%3D&master=568
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8DTHTfjB/HBO-FAMILY.png" group-title="Indonesia",HBO Family
-https://cdnbal1.indihometv.com/atm/DASH/hbofamily/hbofamily-avc1_2500000=7-3277707030000000.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png" group-title="Indonesia",Dom kino
+http://stream.mcquack.net/236/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zT7PdwCC/HBO-SIGNATURE.png" group-title="Indonesia",HBO Signature
-https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3277707030000000.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png" group-title="Indonesia",Dom kino International
+https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pWPCfLb/CINEMAX.png" group-title="Indonesia",CINEMAX
-https://cdnbal1.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-3277707030000000.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rJpQtvK.png" group-title="Indonesia",Dom kino Premium HD
+http://stream.mcquack.net/108/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZH5LuXU.png" group-title="Indonesia",Dorama
+https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZH5LuXU.png" group-title="Indonesia",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Indonesia",Dorama HD
+http://stream.mcquack.net/412/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fewPTFE.png" group-title="Indonesia",EBS Cinema
+https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BVJ8.png?lock=720x540" group-title="Indonesia",Epic Bhojpuri Digital
+https://cc-8hy4a26pz2uos.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8hy4a26pz2uos/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143026_ld_h15_aa.png?lock=720x540" group-title="Indonesia",ETV Cinema HD
+https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/29af70d1-d3ba-4a16-bc4d-bd99e7e7def4/hallmark-movies-and-more_color.png" group-title="Indonesia",Hallmark Movies & More
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bQdkyF9.png" group-title="Indonesia",IFC
+http://23.237.104.106:8080/USA_IFC/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FWVxBWI.png" group-title="Indonesia",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Indonesia",Kino 1
+http://stream.mcquack.net/395/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/uk/3/35/KINO_2_UA.png" group-title="Indonesia",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Indonesia",Kino 2
+http://stream.mcquack.net/465/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lxWdjXG.png" group-title="Indonesia",MBC+ Drama
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/laGiFM1.png" group-title="Indonesia",Mei Ah Movie Channel
+http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX/images/LOGO_HD/image.png" group-title="Indonesia",MNX
+http://59.103.38.46:8000/play/a052/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.mongolsat.mn/assets/img/channel/909.png" group-title="Indonesia",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Indonesia",MovieBox
+https://cdn4.skygo.mn/live/disk1/Moviebox/DASH-FTA/Moviebox.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NIVhISa.png" group-title="Indonesia",Movies Action
+https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Indonesia",MovieSphere
+https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Indonesia",MovieSphere UK
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hgIro9r.png" group-title="Indonesia",Persiana Cinema
+https://cinehls.persiana.live/hls/stream.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lMZsuWi.png" group-title="Indonesia",Persiana Family
+https://familyhls.persiana.live/hls/stream.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vqrrpBi.png" group-title="Indonesia",Persiana Iranian
+https://irhls.persiana.live/hls/stream.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/si2ZnIA.png" group-title="Indonesia",Persiana Korea
+https://korhls.persiana.live/hls/stream.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Indonesia",Persiana Latino
+https://latinohls.persiana.live/hls/stream.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0xttibX.png" group-title="Indonesia",Persiana Plus
+https://euhls.persiana.live/hls/stream.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UG63hZ0.png" group-title="Indonesia",Shokiruyushchee HD
+http://stream.mcquack.net/75/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5sis895.png" group-title="Indonesia",Star Cinema
+https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eGuGHnZ.png" group-title="Indonesia",Star Family
+https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ghzzKoT.png" group-title="Indonesia",Starz Cinema
+http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://ibb.co/BH6CZx3K" group-title="Indonesia",TV 21 International
+http://stream.mcquack.net/152/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/io0WAkA.png" group-title="Indonesia",like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Indonesia",Viasat Kino Romania
+https://flash1.bogulus1.cfd/tivi10/usergenrxs4f7zc.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GPiE2Rb.png" group-title="Indonesia",like Gecko) Chrome/152.0.0.0 Safari/537.36" group-title="Indonesia",Viasat Kino World
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDgvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk5NDcmc3Q9N3ROblpCZy02WTBka1RuekRIZjU0QQ%3D%3D&master=102
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Viasat_Serial.svg" group-title="Indonesia",like Gecko) Chrome/152.0.0.0 Safari/537.36" group-title="Indonesia",Viasat Serial
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDUvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA2MDExNzAmc3Q9VS12czVHQmhOdF9WQXJ4bHVYVzR2dw%3D%3D&master=599
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZMsyjSr.png" group-title="Indonesia",viju TV1000
+http://stream.mcquack.net/110/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TMmyuzh.png" group-title="Indonesia",viju TV1000 action
+http://stream.mcquack.net/100/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Meak2y4.png" group-title="Indonesia",viju TV1000 russkoe
+https://fs.uplink.kz/viju_tv1000_russkoe/mono.m3u8?token=onlinetv
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oIQNddV.png" group-title="Indonesia",viju+ Megahit HD
+http://stream.mcquack.net/200/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/klRvhR5.png" group-title="Indonesia",viju+ Premiere HD
+http://stream.mcquack.net/202/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="Indonesia",Xtrema Accion
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j91M4Yf.png" group-title="Indonesia",Xtrema Cine Clasico
+https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FcaTUym.png" group-title="Indonesia",Xtrema Terror
+https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bgz7p5F.png" group-title="Indonesia",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Indonesia",Yes Movies Action
+http://stream.mcquack.net/380/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/614/614-LOGO-m.png" group-title="Indonesia",Tvn Movies
@@ -10414,10 +10582,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/in
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/376/612376-LOGO-m.png" group-title="Indonesia",Hits Now
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/73b9fdd0cd0e4570b482c92fa43ecda9/index.mpd
-
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/683/683-LOGO-l.png" group-title="Indonesia",Shanghai Dragon
-https://visionplus.fazznet.my.id/out/v1/2c21b0f4792a42a09a7ed5fee3f010c0/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/683/683-LOGO-m.png" group-title="Indonesia",Dragon TV
