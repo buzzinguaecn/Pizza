@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 02:10:51AM - 12-09-2026
-# Total Channels: 175
+# Update Time: 08:01:29AM - 12-09-2026
+# Total Channels: 178
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -335,6 +335,10 @@ http://45.162.193.35/CINECANAL/index.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oL8SMTL.png" group-title="Argentina",Ciudad TV Resistencia
+https://617c5175c970b.streamlock.net:4444/chacodxdtv/livenew/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Argentina",Comedy Central Latin America
 http://15.204.246.24:8080/ComedyCentralHD/index.m3u8
 
@@ -449,6 +453,10 @@ https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
 https://vd01.streaminghd.net.ar:3349/live/bzuctkgnlive.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QIGSf4L.png" group-title="Argentina",Litus TV [Not 24/7]
+https://edge.enhdtv.com/litustv/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TJ4gWQM.png" group-title="Argentina",Más FM 95.9
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 
@@ -551,6 +559,10 @@ https://stream.radiosmundiales.com/hls/sanluismas/sanluismas.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UkpXogr.png" group-title="Argentina",San Pedro TV [Not 24/7]
 https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C1mY5X4.png" group-title="Argentina",Santa Fe Canal
+https://canalsantaferts.argtelemax.workers.dev/
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBYcKTj/Senal-U-Uncuyo-en-vivo-Online.png" group-title="Argentina",Senal U
