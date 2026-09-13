@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 01:50:00AM - 13-09-2026
-# Total Channels: 178
+# Update Time: 07:56:13AM - 13-09-2026
+# Total Channels: 180
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -185,6 +185,10 @@ https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iJMH0UK.png" group-title="Argentina",Canal 7 Santiago del Estero
 https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G7TaQ1L.png" group-title="Argentina",Canal 8 Mar del Plata [Not 24/7]
+https://canal8mdq.unpocodeawita.workers.dev/
 
 
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/f7jbdo.png" group-title="Argentina",Canal 8 San Juan [Not 24/7]
@@ -615,6 +619,10 @@ http://200.91.32.158:8080/telefehdvalle/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/960px-Telefe_Rosario_%282018%29.png" group-title="Argentina",Telefe Rosario
 https://smt-usr-edge01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telefe_Salta_%282018%29.png/960px-Telefe_Salta_%282018%29.png" group-title="Argentina",Telefe Salta
+https://canal11saltatv.unpocodeawita.workers.dev/
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Telefe_Tucum%C3%A1n_%282018%29.png/960px-Telefe_Tucum%C3%A1n_%282018%29.png" group-title="Argentina",Telefe Tucuman
