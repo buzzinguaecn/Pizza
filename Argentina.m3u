@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 01:58:39AM - 14-09-2026
-# Total Channels: 180
+# Update Time: 08:13:46AM - 14-09-2026
+# Total Channels: 176
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -417,10 +417,6 @@ https://edgectc.com/CANAL7_MZA/index.m3u8
 http://15.204.246.24:8080/eltreceHD/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="Argentina",Encuentro
-http://138.121.113.175:8000/play/a04c/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w5SOfyJ.png" group-title="Argentina",Europa Europa
 https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8
 
@@ -497,10 +493,6 @@ http://45.134.141.161:2200/ARG/Net_TV/index.m3u8
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GJbRWwH.png" group-title="Argentina",Pakapaka
-http://138.121.113.175:8000/play/a04d/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u1dnEVv.png" group-title="Argentina",Panc TV [Not 24/7]
 https://panel.host-live.com:19360/20004/20004.m3u8
 
@@ -515,10 +507,6 @@ https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6f8EYC2.jpeg" group-title="Argentina",Quantica TV
 https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RO9Dz3X.png" group-title="Argentina",Quiero Musica en mi Idioma
-http://177.234.249.178:8888/MTV/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXS38zo.png" group-title="Argentina",Radio Conexion Web TV
@@ -643,10 +631,6 @@ http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/79sTxtP.png" group-title="Argentina",Telesol
 https://cdn1.tvlin.net/open/telesol/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="Argentina",Television Publica
-http://138.121.113.175:8000/play/a03l/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/2vlskg.png" group-title="Argentina",The Cabbin FM
