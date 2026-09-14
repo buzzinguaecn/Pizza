@@ -56,13 +56,13 @@
 #EXTINF:-1 tvg-id="64116" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Asian%20Championship.jpg" group-title="SAWARID سواريد - Live", Asian Championship - Asian Tour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1789448546-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b248de9dd3375a0388b517dc863537ae
+https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1789453043-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e7c6c71324f5bf019794aa77af9e4530
 
 
 #EXTINF:-1 tvg-id="64116" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Asian%20Championship.jpg" group-title="SAWARID سواريد - Live", Asian Championship - Asian Tour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1789448546-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b248de9dd3375a0388b517dc863537ae
+https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1789453043-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e7c6c71324f5bf019794aa77af9e4530
 
 
 # 🆕 SAWARID سواريد - Live 👉 Updateded Done ✅✅✅✅✅✅
@@ -351,11 +351,9 @@ https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwYm1HYJ/resized-300x180-ffffff-16.jpg" group-title="All Sports", T Sports
-#AUTO-UPDATED - T Sports ⛔ SKIPPED ⛔ - 2026-09-14 11:06:45 🟡 - 🔄 - 🔴
-https://playztv-apps.pages.dev/unite8-sports-2/index.m3u8
+#AUTO-UPDATED - T Sports ⛔ SKIPPED ⛔ - 2026-09-14 12:19:13 🟡 - 🔄 - 🔴
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 # 🔴 Duplicate Link Found 🔴
-https://playztv-apps.pages.dev/tsports/index.m3u8
 http://103.151.60.204/bdixbd.net/tracks-v1/index.m3u8
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-ariana/index.m3u8
 http://103.165.93.31:8095/tsports/video.m3u8 
@@ -366,6 +364,8 @@ http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
 # 🔴 Duplicate Link Found 🔴
 #https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8?nocache=1783826412104
 # 🔴 Duplicate Link Found 🔴
+#https://playztv-apps.pages.dev/tsports/index.m3u8
+#https://playztv-apps.pages.dev/unite8-sports-2/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rytcs49Y/image.jpg" group-title="All Sports", A Sports 
@@ -449,6 +449,20 @@ http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/6564/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/19054/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRV7W8cV/fancode.png" group-title="All Sports",FANCODE 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRV7W8cV/fancode.png" group-title="All Sports" ,FANCODE 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jh4tm8RS/a3703744593-5.jpg" group-title="All Sports", XOILACZ
@@ -917,7 +931,8 @@ https://live.dinesh29.com.np/stream/jiotv/starsportskhel/stream_0.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RGCTxWM/image.jpg" group-title="All Sports", Eurosport HD
-https://stream.ottplus.bd/live/euro_sports_hd_abr/index.m3u8
+https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
+#https://stream.ottplus.bd/live/euro_sports_hd_abr/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RGCTxWM/image.jpg" group-title="All Sports", Euro Sports
