@@ -29,14 +29,15 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/LOGO/Indian/Zee-Bangla.png" group-title="SAWARID سواريد - Zee5", Zee Bangla
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
-https://alex4528.site/zee5/zee-bangla/manifest.m3u8
+https://drk6xq0vhn.gpcdn.net/live/zee_bangla_720/index.m3u8
 https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
+#https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8 ✅
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/buzzinguaecn/Pizza/main/LOGO/Indian/Zee-Bangla-HD.png" group-title="SAWARID سواريد - Zee5", Zee Bangla HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe
+https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist.m3u8
 
 
 
@@ -55,6 +56,7 @@ https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gt7VxrNx/image.jpg" group-title="SAWARID سواريد - Zee5", Star Jalsha
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RcS6984/image.jpg" group-title="SAWARID سواريد - Zee5", Star-Jalsha Movies
