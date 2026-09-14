@@ -70,7 +70,8 @@ https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 EXTINF:-1 tvg-logo="https://i.postimg.cc/BZ22d0KD/image.jpg" group-title="Documentary", Discovery Turbo
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HnTW39Sd/image.jpg" group-title="Documentary", National Geo
-https://satoshi-cors.herokuapp.com/http://151.80.18.177:86/National_Geo_HD/index.m3u8
+https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8
+http://202.70.146.135:8000/play/a05j/index.m3u8
 http://203.18.159.115/NATGEOWILDHD/index.m3u8
 http://203.18.159.115/NATGEOHD/index.m3u8
 http://103.229.254.25:7001/play/a06r/index.m3u8
@@ -87,9 +88,9 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/nat
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/v89tFjmf/image.jpg" group-title="Documentary", Animal Planet HD
-https://stream.ottplus.bd/live/animal_planet_hd_abr/playlist.m3u8
+https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd/index.m3u8
 http://27.124.71.27/Animal_Planet/index.m3u8
-
+#https://stream.ottplus.bd/live/animal_planet_hd_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Documentary", 
 
@@ -107,7 +108,8 @@ http://27.124.71.27/Animal_Planet/index.m3u8
 http://27.124.71.27/Love_Nature/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="Documentary", 
+#EXTINF:-1 tvg-logo="" group-title="Documentary", Nature Time
+https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Documentary", 
 
