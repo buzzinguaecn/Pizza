@@ -28,6 +28,19 @@ https://sps1.starzplayarabia.com/out/v1/eee188845e9543699fd24e5a9890c6e2/index.m
 #KODIPROP:inputstream.adaptive.license_key=ee861edcd99093153a763a94b14c2c5a:ab3991f6a7729ba1ea4bcdba0c1ae6c0
 https://sps2.starzplayarabia.com/out/v1/15e7d1ffb99746dda03f71dbbbc3c08b/index.mpd
 
+
+
+
+#EXTINF:-1 tvg-id="ADS1" tvg-name="Abu Dhabi Sports 1" group-title="Sports",Abu Dhabi Sports 1 🍀
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e78769d87a41e15036a4fb8bfdf1371e:37be0375dc9fe544c3c6de6a105f7c0a
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd
+
+#EXTINF:-1 tvg-id="ADS1" group-title="Sports",Abu Dhabi Sports 1 🍀🍀
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd|drmScheme=clearkey&drmLicense=e78769d87a41e15036a4fb8bfdf1371e:37be0375dc9fe544c3c6de6a105f7c0a
+
+
 #EXTINF:-1 tvg-id="ADS1" tvg-name="Abu Dhabi Sports 1" group-title="Sports",Abu Dhabi Sports 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
