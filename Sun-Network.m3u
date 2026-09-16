@@ -38,6 +38,12 @@ https://livestream.sunnxt.com/585bb66e95c84ccea3f828c96b3567b5/SunMusicB_IN_inde
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VwG+5O6bYl0MjtfeAyp0eA", "kid":"Id3BTE2pTAedT0w0Ps3NgA" } ], "type":"temporary" }
 
 
+#EXTINF:-1 tvg-id="Sun Music" tvg-logo="https://i.postimg.cc/vTtVdcKf/sawaridtvvvt.jpg" group-title="SAWARID سواريد - Sun Network", Sun Neo HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09ffaaff477d490abb4516b7e0711d35:759cc157a993e8a76ff4d675e34b5400
+https://livestream8.sunnxt.com/248c92b73514435686fd72ba325d4008/SunNeoHDB_IN_index.mpd
+
+
 #EXTINF:-1 tvg-id="Sun Life" tvg-logo="https://sund-images.sunnxt.com/194391/640x360_SunLife_194391_d407948a-b7a2-4a1f-8409-56f7261cefa1.jpg" group-title="SAWARID سواريد - Sun Network",Sun Life
 https://livestream.sunnxt.com/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
