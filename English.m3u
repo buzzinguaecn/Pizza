@@ -1,7 +1,7 @@
 #EXTM3U
 # 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
 # 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes. 
-# 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
+# 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈 #konanda-sg/MPD/refs/heads/main/MPD
 
 #EXTINF:-1 tvg-logo="" group-title="English", Cinemax East
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -96,22 +96,42 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="English",
+#EXTINF:-1 tvg-logo="" group-title="English", CINEMAX
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 
 
-#EXTINF:-1 tvg-logo="" group-title="English",
+#EXTINF:-1 tvg-logo="" group-title="English", MONO PLUS
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
 
 
-#EXTINF:-1 tvg-logo="" group-title="English",
+#EXTINF:-1 tvg-logo="" group-title="English", Movies Now HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
 
-#EXTINF:-1 tvg-logo="" group-title="English",
+#EXTINF:-1 tvg-logo="" group-title="English", MNX HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 
 
-#EXTINF:-1 tvg-logo="" group-title="English",
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Vv6DTWJ3/sawaridtvvvt.jpg" group-title="English", MN+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 
 
-#EXTINF:-1 tvg-logo="" group-title="English",
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4NWTnq4/sawaridtvvvt.jpg" group-title="English", Romedy Now
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
 
 #EXTINF:-1 tvg-logo="" group-title="English",
