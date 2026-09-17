@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 09:50:08PM - 17-09-2026
-# Total Channels: 356
+# Update Time: 02:42:41AM - 18-09-2026
+# Total Channels: 357
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -1030,6 +1030,10 @@ https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AwVHXyC.png" group-title="Arabic",Palestine Edu
 https://pbc.furrera.ps/PalestineEDU/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/40rR4hD.png" group-title="Arabic",TV7
+http://185.9.2.18/chid_352/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/73142189-aeca-4f65-8977-d769c91e2573?height=auto&width=600&croppingPoint=&version=1&type=png" group-title="Arabic",Al Arabiya Business
