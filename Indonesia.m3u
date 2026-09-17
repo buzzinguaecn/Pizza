@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 09:50:08PM - 17-09-2026
-# Total Channels: 5534
+# Update Time: 02:42:42AM - 18-09-2026
+# Total Channels: 5533
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -10236,28 +10236,28 @@ http://extraott.com:900/live/3162523972/3791698850/33005.m3u8
 http://extraott.com:900/live/3162523972/3791698850/13127.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/rcti.png" group-title="Indonesia",06. RCTI 1
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/rcti.png" group-title="Indonesia",06. RCTI 2
-http://filex.me:8080/live/3114654477/5787654467/302297.ts
+https://rcti-linier.rctiplus.id/hdntl=exp=1789715925~acl=%2F*~data=hdntl~hmac=e8aae9ac9e4702f194105722c1171e1d25722d8fd6228e722fe7858a3af13f3b/rcti-sdi-avc1_450000=8-mp4a_96000=1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mnctv.png" group-title="Indonesia",05. MNCTV 2
 http://filex.me:8080/live/3114654477/5787654467/302278.ts
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mnctv.png" group-title="Indonesia",05. MNCTV 1
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/gtv.png" group-title="Indonesia",08. GTV 2
 http://filex.me:8080/live/3114654477/5787654467/302247.ts
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/gtv.png" group-title="Indonesia",08. GTV 1
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/INews.png" group-title="Indonesia",15. INEWS 2
-http://filex.me:8080/live/3114654477/5787654467/501254.ts
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/INews.png" group-title="Indonesia",15. INEWS 1
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
+https://inews-linier.rctiplus.id/hdntl=exp=1789715800~acl=%2F*~data=hdntl~hmac=983736e45092e95546d05783a5bcca6c0ad8b84f500aa8914f98998f2bf88d54/inews-sdi-avc1_450000=11-mp4a_96000=1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/sindonews.jpg" group-title="Indonesia",SINDONEWS (MAX)
@@ -10273,7 +10273,7 @@ http://31.43.191.125:8080/live/VIP013901729009150111/f2bed74245dd/34327.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/indosiar.png" group-title="Indonesia",03. INDOSIAR 2
-http://filex.me:8080/live/3114654477/5787654467/302264.ts
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=205
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/moji.jpg" group-title="Indonesia",26. MOJI TV 1
@@ -10329,7 +10329,7 @@ http://filex.me:8080/live/3114654477/5787654467/302271.ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/metrotv.png" group-title="Indonesia",12. METRO TV 2
-http://filex.me:8080/live/3114654477/5787654467/302273.ts
+https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w25391797_b1492000_sleng.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/metrotv.png" group-title="Indonesia",12. METRO TV 1
@@ -10341,7 +10341,7 @@ https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/cnbc.png" group-title="Indonesia",17. CNBC INDONESIA (FEED)
-https://live.cnbcindonesia.com/livecnbc-sec/smil:cnbctv.smil/chunklist_w991970130_b384000_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODk1NDY0Nzc1NDImd293emF0b2tlbmhhc2g9TExIV1hVaEoxU05pc2tqQ0ZzdWtvYUlwX014enRlQjVNY3loMjBUNTJrST0=.m3u8
+https://live.cnbcindonesia.com/livecnbc-sec/smil:cnbctv.smil/chunklist_w694817306_b384000_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODk2NTQ1Nzc4MDgmd293emF0b2tlbmhhc2g9UFk2MHBOV0o5RFJoeUk0cDFsdHlPRzhZMmhnYmJnanQ1UmRsLVhiSFNWQT0=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/vtv.jpeg" group-title="Indonesia",19. VTV
@@ -10357,7 +10357,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8?app_type=web&userid=lit
 
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/tvriworld.jpg" group-title="Indonesia",33. TVRI JATENG
-https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng-avc1_500000=10007-mp4a_64000=20002.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/daaitv.jpg" group-title="Indonesia",34. DAAI TV (XL1)
@@ -11304,10 +11304,6 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtv8/index.m3u8
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png" group-title="Indonesia",GTV (R+)
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="Indonesia",FS 1 🇺🇸
 http://1tv41.icu:8080/live/aQwbj3/140716/1846.ts
 
@@ -12046,10 +12042,6 @@ https://d1vckova5fh9mt.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/in
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/512px-Sin_Po_TV.svg.png" group-title="Indonesia",SINPO TV
 https://popmi.my.id/tes.m3u8?id=19046
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/MNCTV_MNC-Group.png" group-title="Indonesia",MNC TV (R+)
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZP0QQ11.png" group-title="Indonesia",aLLplay Ent ⁱ
@@ -21902,6 +21894,10 @@ https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI Jawa Barat
 https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI Jawa Tengah
+https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI Kalimantan Barat
