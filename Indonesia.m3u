@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 04:36:37PM - 17-09-2026
-# Total Channels: 5533
+# Update Time: 09:50:08PM - 17-09-2026
+# Total Channels: 5534
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -10272,6 +10272,10 @@ http://filex.me:8080/live/3114654477/5787654467/302301.ts
 http://31.43.191.125:8080/live/VIP013901729009150111/f2bed74245dd/34327.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/indosiar.png" group-title="Indonesia",03. INDOSIAR 2
+http://filex.me:8080/live/3114654477/5787654467/302264.ts
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/moji.jpg" group-title="Indonesia",26. MOJI TV 1
 http://filex.me:8080/live/3114654477/5787654467/302279.ts
 
@@ -10348,8 +10352,12 @@ https://flv.intechmedia.net/live/ch107.m3u8?|user-agent=YouTV/1.5.6-prod.release
 https://op-flashcon-digdayahd-1.dens.tv/h/h314/S2/mnf.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/tvriworld.jpg" group-title="Indonesia",33. TVRI WORLD (MAX)
-https://cdnbal1.indihometv.com/atm/DASH/tvriworld/tvriworld-avc1_2500000=7-3277707030000000.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/tvri.png" group-title="Indonesia",01. TVRI NASIONAL 2
+https://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8?app_type=web&userid=lite&chname=TVRI
+
+
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/tvriworld.jpg" group-title="Indonesia",33. TVRI JATENG
+https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/daaitv.jpg" group-title="Indonesia",34. DAAI TV (XL1)
@@ -21104,8 +21112,8 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/85f6d3da0e064dbe99e7bf1e18bc47c4/ind
 https://cdnbal1.indihometv.com/atm/DASH/TVRI/TVRI-avc1_2500000=7-3277707030000000.mpd
 
 
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/tvri.jpg" group-title="Indonesia",TVRI NASIONAL (DNS)
-https://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8?app_type=web&userid=lite&chname=TVRI
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/tvriworld.jpg" group-title="Indonesia",TVRI WORLD (MAX)
+https://cdnbal1.indihometv.com/atm/DASH/tvriworld/tvriworld-avc1_2500000=7-3277707030000000.mpd
 
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/bntv.jpg" group-title="Indonesia",BN TV (INTECH)
@@ -21894,10 +21902,6 @@ https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI Jawa Barat
 https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI Jawa Tengah
-https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI Kalimantan Barat
