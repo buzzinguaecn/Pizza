@@ -66,7 +66,7 @@ https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5c753aa1a570084a6ce60b251d1193d:9c52c44a532dd1480f8f0be10351dbb1
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hxcaiulcs1/out/v1/66224f834bde4f0ea5859a30c09056fe/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hxcaiulcs1/out/v1/66224f834bde4f0ea5859a30c09056fe/cenc.mpd
 
 
 #EXTINF:-1 tvg-id="B0HHQ6L9KX" tvg-name="Afghanistan vs India in India 2026 - 3rd T20I - Afghanistan vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.aeb47d4a-1dc2-4beb-ae5d-2ce72ee660bd/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="SAWARID سواريد - Cricket",Afghanistan vs India in India 2026 - 3rd T20I - Afghanistan vs India
@@ -153,19 +153,61 @@ https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_BMW1709/ENG/master.m3u8
 #EXTINF:-1 tvg-id="62332" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tekstilshchik%20vs%20Rotor%20Volgograd.jpg" group-title="SAWARID سواريد - Live", Tekstilshchik vs Rotor Volgograd - First League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8b121293add94b3746a980/chunks.m3u8?is_vip=false&token=1789743751-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-226abba81f0a7292bb2a81a8c5e52dd9
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8b121293add94b3746a980/chunks.m3u8?is_vip=false&token=1789746445-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7d2ac7f42f127ce8c264393baafa6d51
 
 
 #EXTINF:-1 tvg-id="65037" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Afghanistan%20vs%20India.jpg" group-title="SAWARID سواريد - Live", Afghanistan vs India - India tour of Afghanistan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789743752-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-569039aa84a95fca2c22894b456fee3c
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789746447-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-80e075748c2175ec5ff68136d8ca9a91
+
+
+#EXTINF:-1 tvg-id="62335" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Orel%20vs%20Shumbrat.jpg" group-title="SAWARID سواريد - Live", Orel vs Shumbrat - Second League - Group 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8db522e4f896100fb58066/chunks.m3u8?is_vip=false&token=1789746448-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d4df386c4ad9d08dd5b5a0669489b771
+
+
+#EXTINF:-1 tvg-id="62336" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Akron%20vs%20Akhmat.jpg" group-title="SAWARID سواريد - Live", Akron vs Akhmat - Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8b121293add94b3746a987/chunks.m3u8?is_vip=false&token=1789746451-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b36bc5e53a112fc219fd39cbf127c167
+
+
+#EXTINF:-1 tvg-id="62337" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Rostov%20vs%20Dynamo.jpg" group-title="SAWARID سواريد - Live", FC Rostov vs Dynamo - Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8b121293add94b3746a986/chunks.m3u8?is_vip=false&token=1789746454-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9f644a334ba14a9c63f4b265f7fb8c01
+
+
+#EXTINF:-1 tvg-id="65045" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Sri%20Lanka.jpg" group-title="SAWARID سواريد - Live", England vs Sri Lanka - 2nd T20I
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789746455-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6b0305110e1c6e000dc8fc1b18f85315
 
 
 #EXTINF:-1 tvg-id="65037" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Afghanistan%20vs%20India.jpg" group-title="SAWARID سواريد - Live", Afghanistan vs India - India tour of Afghanistan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789743752-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-569039aa84a95fca2c22894b456fee3c
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789746447-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-80e075748c2175ec5ff68136d8ca9a91
+
+
+#EXTINF:-1 tvg-id="62336" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Akron%20vs%20Akhmat.jpg" group-title="SAWARID سواريد - Live", Akron vs Akhmat - Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8b121293add94b3746a987/chunks.m3u8?is_vip=false&token=1789746451-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b36bc5e53a112fc219fd39cbf127c167
+
+
+#EXTINF:-1 tvg-id="62337" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Rostov%20vs%20Dynamo.jpg" group-title="SAWARID سواريد - Live", FC Rostov vs Dynamo - Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8b121293add94b3746a986/chunks.m3u8?is_vip=false&token=1789746454-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9f644a334ba14a9c63f4b265f7fb8c01
+
+
+#EXTINF:-1 tvg-id="65045" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Sri%20Lanka.jpg" group-title="SAWARID سواريد - Live", England vs Sri Lanka - 2nd T20I
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789746455-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6b0305110e1c6e000dc8fc1b18f85315
 
 
 # 🆕 SAWARID سواريد - Live 👉 Updateded Done ✅✅✅✅✅✅
@@ -454,7 +496,7 @@ https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=fal
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwYm1HYJ/resized-300x180-ffffff-16.jpg" group-title="All Sports", T Sports
-#AUTO-UPDATED - T Sports ⛔ SKIPPED ⛔ - 2026-09-17 21:11:14 🟡 - 🔄 - 🔴
+#AUTO-UPDATED - T Sports ⛔ SKIPPED ⛔ - 2026-09-17 21:48:49 🟡 - 🔄 - 🔴
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 # 🔴 Duplicate Link Found 🔴
 http://103.151.60.204/bdixbd.net/tracks-v1/index.m3u8
