@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 04:12:29PM - 18-09-2026
-# Total Channels: 5535
+# Update Time: 09:23:42PM - 18-09-2026
+# Total Channels: 5539
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -10241,7 +10241,7 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/rcti.png" group-title="Indonesia",06. RCTI 2
-https://rcti-linier.rctiplus.id/hdntl=exp=1789715925~acl=%2F*~data=hdntl~hmac=e8aae9ac9e4702f194105722c1171e1d25722d8fd6228e722fe7858a3af13f3b/rcti-sdi-avc1_450000=8-mp4a_96000=1.m3u8
+http://filex.me:8080/live/3114654477/5787654467/302297.ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mnctv.png" group-title="Indonesia",05. MNCTV 2
@@ -10253,7 +10253,7 @@ http://filex.me:8080/live/3114654477/5787654467/302247.ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/INews.png" group-title="Indonesia",15. INEWS 2
-https://inews-linier.rctiplus.id/hdntl=exp=1789715800~acl=%2F*~data=hdntl~hmac=983736e45092e95546d05783a5bcca6c0ad8b84f500aa8914f98998f2bf88d54/inews-sdi-avc1_450000=11-mp4a_96000=1.m3u8
+http://filex.me:8080/live/3114654477/5787654467/501254.ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/INews.png" group-title="Indonesia",15. INEWS 1
@@ -10264,7 +10264,7 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/sctv.png" group-title="Indonesia",07. SCTV 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/sctv.png" group-title="Indonesia",07. SCTV 2
 http://filex.me:8080/live/3114654477/5787654467/302301.ts
 
 
@@ -10272,12 +10272,12 @@ http://filex.me:8080/live/3114654477/5787654467/302301.ts
 http://31.43.191.125:8080/live/VIP013901729009150111/f2bed74245dd/34327.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/indosiar.png" group-title="Indonesia",03. INDOSIAR 2
-https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=205
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/moji.jpg" group-title="Indonesia",26. MOJI TV 1
 http://filex.me:8080/live/3114654477/5787654467/302279.ts
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mentari.png" group-title="Indonesia",20. MENTARI TV 2
+http://tvratu.my.id/nissa/index.mpd?id=8237&type=dash
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mentari.png" group-title="Indonesia",20. MENTARI TV 1
@@ -10300,12 +10300,8 @@ https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w2685575259_b744100_s
 http://filex.me:8080/live/3114654477/5787654467/302311.ts
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/antv.png" group-title="Indonesia",02. ANTV 2
-http://filex.me:8080/live/3114654477/5787654467/302206.ts
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/antv.png" group-title="Indonesia",02. ANTV 1
-https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
+http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/rtv.png" group-title="Indonesia",12. RTV 2
@@ -10341,7 +10337,7 @@ https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/cnbc.png" group-title="Indonesia",17. CNBC INDONESIA (FEED)
-https://live.cnbcindonesia.com/livecnbc-sec/smil:cnbctv.smil/chunklist_w694817306_b384000_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODk2NTQ1Nzc4MDgmd293emF0b2tlbmhhc2g9UFk2MHBOV0o5RFJoeUk0cDFsdHlPRzhZMmhnYmJnanQ1UmRsLVhiSFNWQT0=.m3u8
+https://live.cnbcindonesia.com/livecnbc-sec/smil:cnbctv.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1789702265200&wowzatokenhash=9f3SPkpykhy1CwWI86fqvUTdIOscyPIvwMV5kuUza4c%3D
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/vtv.jpeg" group-title="Indonesia",19. VTV
@@ -11504,12 +11500,12 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/846192.ts
 https://liveplus.rctiplus.id/RTMP-IN.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJ31qhO.png" group-title="Indonesia",antv
+https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
+
+
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/antv.png" group-title="Indonesia",ANTV - FHD
 http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaaFlGWmxCbzV1aCsvOHZXbm5XZGdjQTdOTDRMMEJJWUhlRFVsUHl6OU5RLw
-
-
-#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/antv.png" group-title="Indonesia",antv VD
-http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
 
 
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png" group-title="Indonesia",INDOSIAR - FHD
@@ -12076,6 +12072,10 @@ http://khano.nng.cloudns.us/live/m3u8/id/ef7e8c7bc86110e.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w528835010_b384000_sleng.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJajHRL.png" group-title="Indonesia",Indosiar
+https://calistaiptv.my.id/indopart/play.mpd?id=205&type=dash
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K3Dtbl1.png" group-title="Indonesia",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
 
@@ -12092,12 +12092,20 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h207/02.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h37/02.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8g6gNYB.png" group-title="Indonesia",SCTV
+http://vidsemar.pages.dev/terraluna2/204.mpd
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTLsqu2.png" group-title="Indonesia",SindoNews TV
 https://cilok99.serv00.net/ythls/xxxx.py/play.m3u8?id=UCGfXjFgIUUTUUlzdG6BenXA
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M0uA3Ki.png" group-title="Indonesia",Trans 7
+https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eVuKMF8.png" group-title="Indonesia",Trans TV
-https://visionplus.fazznet.my.id/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o9Xg7V4.png" group-title="Indonesia",tvOne
@@ -20050,6 +20058,14 @@ https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_ITV_1_TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwoNz6L9nDGTphcEIYSC7A4olw4XaVUwjfkyPhWHyZRDFs8MeaRRseeIF0i9t5o17cKlEeLMnZcTdHuDp__Jgrv6prMJ1EcujiV5IeH4KV5ejOuFPoUgXf6qJ4y4r61xTGalcc2b36sar88qyAQYP26BSbT1kwaCPszLGNAqLKXvKOAVFUosU1pJ0bD4Bq/s700/FIFA%20WC%202026%201.gif" group-title="Indonesia",FOX SPORTS KILATLIVE
 https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/FOX_SPORTS_1_TV/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="Indonesia",INDOSIAR +
+http://livestream.biznetvideo.net/indosiar/smil:indosiar.smil/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia",SCTV +
+http://livestream.biznetvideo.net/sctv/smil:sctv.smil/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/GTV.png" group-title="Indonesia",GTV+ 1
