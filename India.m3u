@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 08:07:48AM - 19-09-2026
-# Total Channels: 809
+# Update Time: 03:53:50PM - 19-09-2026
+# Total Channels: 810
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -1264,6 +1264,10 @@ http://202.70.146.135:8000/play/a06c/index.m3u8
 http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY
 
 
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ALANKAR/images/LOGO_HD/image.png" group-title="India",Alankar TV
+https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ALL_TIME_MOVIES/images/LOGO_HD/image.png" group-title="India",All Time Movies
 https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8
 
@@ -2020,7 +2024,7 @@ https://cdn.pishow.tv/ott/live/1521/master.m3u8
 https://mumbai-edge.smartplaytv.in/MahaMax/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/neZm4CY.png" group-title="India",Mango (India)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/neZm4CY.png" group-title="India",Mango
 https://stmv6.voxtvhd.com.br/cinehindi/cinehindi/playlist.m3u8
 
 
