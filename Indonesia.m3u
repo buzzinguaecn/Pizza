@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 05:22:09PM - 21-09-2026
-# Total Channels: 5531
+# Update Time: 11:21:42PM - 21-09-2026
+# Total Channels: 5532
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -10248,7 +10248,7 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/indosiar.png" group-title="Indonesia",03. INDOSIAR 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/indosiar.png" group-title="Indonesia",03. INDOSIAR 2
 http://31.43.191.125:8080/live/VIP013901729009150111/f2bed74245dd/34327.m3u8
 
 
@@ -12033,11 +12033,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h313/stream.m3u8?app_type=web&userid=l
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XKEJwhD.png" group-title="Indonesia",CNBC Indonesia
-http://khano.nng.cloudns.us/live/m3u8/id/ef7e8c7bc86110e.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lU0ESEv.png" group-title="Indonesia",CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w528835010_b384000_sleng.m3u8
+https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJajHRL.png" group-title="Indonesia",Indosiar
@@ -12060,8 +12056,16 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h207/02.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h37/02.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n0pnMMg.png" group-title="Indonesia",RCTI
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302297
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Riau_TV.png/revision/latest?cb=20181001034314" group-title="Indonesia",Riau TV
+http://122.248.43.242:1935/RIAUTV/_definst_/myStream/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8g6gNYB.png" group-title="Indonesia",SCTV
-http://vidsemar.pages.dev/terraluna2/204.mpd
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302301.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTLsqu2.png" group-title="Indonesia",SindoNews TV
@@ -12086,10 +12090,6 @@ https://www.dropbox.com/scl/fi/jk02yt13eilekjqjadugi/No_SigNaL.mp4?rlkey=ac7b7t5
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XJARIur.png" group-title="Indonesia",TVRI Nasional
 https://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Riau_TV.png/revision/latest?cb=20181001034314" group-title="Indonesia",Riau TV
-http://122.248.43.242:1935/RIAUTV/_definst_/myStream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png" group-title="Indonesia",Jowo Channel
@@ -20522,6 +20522,10 @@ https://ott-balancer.tvri.go.id/live/eds/TV BackUP/hls/TV BackUP.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="Indonesia",TVRI TV BackUP KH
 http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a9f.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA7qSD5p4GXRw29qwq1o5SwOZS0g0R9LeKbGucDCMLPtJxEuuwQsYtIwwjtqY_QqGzKkqA7Bk-up1JhFasm0lELKOPPNJZFP_Cf2gwhe2hXX0yAHwcQe2wzAnGfb9ijFoAYw1qJpAbufr_b6X2l1KTxUgxvOTVU5M3hBzKnjGCreQ3XAsAr6s8vTgT1rNA/s700/CNN%20INDONESIA.png" group-title="Indonesia",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w528835010_b384000_sleng.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ5ZDD4TxA3wy6iQyqB-kFD59p6QjMTKzzXNIyUxtp_rH3Mb9ZL86ORdehMs3Zllpjq2YZANUla-wgFrewOk4AQz_quNJcV2RFj5Q0iO1tf8PihS1k_0QQ3oKxCl8CGnbDFO2LicNYLku3gzZNiJ5QBGnzMr8nhFZDBbKR7FPhqxXZ8Los7gbNOX9U3rTA/s700/CNBC%20INDONESIA.png" group-title="Indonesia",CNBC INDONESIA
