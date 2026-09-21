@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 01:56:19AM - 21-09-2026
-# Total Channels: 176
+# Update Time: 08:13:35AM - 21-09-2026
+# Total Channels: 177
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -490,6 +490,10 @@ http://45.134.141.161:2200/ARG/Net_TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lJCIqYn.png" group-title="Argentina",NG Federal
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jTX2vp0.png" group-title="Argentina",Norte TV [Not 24/7]
+https://ntvcanal7.com.ar:81/dash/stream.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u1dnEVv.png" group-title="Argentina",Panc TV [Not 24/7]
