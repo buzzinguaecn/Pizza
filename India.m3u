@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 08:13:35AM - 21-09-2026
-# Total Channels: 796
+# Update Time: 05:22:10PM - 21-09-2026
+# Total Channels: 793
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -388,20 +388,12 @@ https://stream.ottlive.co.in/livingindia/index.m3u8
 https://mumt05.tangotv.in/87NeALx2LOKSAAHI/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8fdUkOl.png" group-title="India",M Sign Media [Not 24/7]
-http://rtmp2.logicwebs.in:1935/msign/msignmedia/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Madhimugam_TV.png" group-title="India",Madhimugam TV
 https://mumt01.tangotv.in/O5aw8Zn3MATHIMUGAMTV/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/buT76vR.png" group-title="India",Mahaa News
 https://mumbai-edge.smartplaytv.in/MahaNews/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Un2gxt4.png" group-title="India",Malabar News [Not 24/7]
-http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OC5TQxp.png" group-title="India",Malai Murasu TV
@@ -1157,7 +1149,7 @@ https://cdn.pishow.tv/ott/live/1143/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143757_ld_h15_aa.png?lock=720x540" group-title="India",Sangeet Bhojpuri
-http://103.213.31.109:90/SangeetBhojpuri/playlist.m3u8
+https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANGEET_MARATHI/images/LOGO_HD/image.png" group-title="India",Sangeet Marathi
@@ -1165,7 +1157,7 @@ https://cdn.pishow.tv/ott/live/1229/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142920_ld_h9_aa.png?lock=720x540" group-title="India",Songdew TV
-http://103.72.101.252:8080/live/1411.m3u8
+https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Steelbird_Music.png" group-title="India",Steelbird Music [Not 24/7]
@@ -1381,7 +1373,7 @@ https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/mas
 
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00297P3E.png?lock=720x540" group-title="India",Shemaroo Josh
-https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
+https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RQhorAG.png" group-title="India",Shubh Cinema TV
@@ -2333,7 +2325,7 @@ https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sd
 
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_MARATHIBANA/images/LOGO_HD/image.png" group-title="India",Shemaroo Marathi Bana
-https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8]
+https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHUBH_TV/images/LOGO_HD/image.png" group-title="India",Shubh TV
@@ -2616,6 +2608,58 @@ http://103.72.101.252:8080/live/1094.m3u8
 https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png" group-title="India",CBeebies Asia India
+http://202.70.146.135:8000/play/a0a2/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xv9cWSh.png" group-title="India",Chithiram
+https://cdn.pishow.tv/ott/live/1243/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LOGO_HD/image.png" group-title="India",Disney Channel (India)
+http://202.70.146.135:8000/play/a01q/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL_HD/images/LOGO_HD/image.png" group-title="India",Disney Channel (India) HD
+http://66.102.126.10:8000/play/a013/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD/images/LOGO_HD/image.png" group-title="India",Disney International HD
+http://202.70.146.135:8000/play/a04p/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GUBBARE/images/LOGO_HD/image.png" group-title="India",Epic Kids Digital
+https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsTxPV9.png" group-title="India",ETV Bal Bharat
+http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LOGO_HD/image.png" group-title="India",Hungama TV
+http://103.185.24.134:3001/HUNGAMA/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png" group-title="India",Nick Jr. (India)
+http://103.185.24.134:3001/NICK-JR/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png" group-title="India",Nickelodeon (India)
+http://103.185.24.134:3001/NICK/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png" group-title="India",Sonic
+http://103.185.24.134:3001/SONIC/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://pash.ink/storage/uploads/JungleBook_Logo.png" group-title="India",The Jungle Book
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/zbcatun.png" group-title="India",ZB Cartoon
+https://server.zillarbarta.com/zbcatun/video.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4ss0KfA.png" group-title="India",CCV
 https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
 
@@ -2776,10 +2820,6 @@ https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E3WYWF5.jpg" group-title="India",Mayyazhi [Not 24/7]
-http://131.153.22.8:1935/MAYYAZHI/live/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s135691_ld_h15_aa.png?lock=720x540" group-title="India",MBC TV
 https://mumbai-edge.smartplaytv.in/MBCTV/index.m3u8
 
@@ -2842,58 +2882,6 @@ https://cloudsavre.in.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iZufxya.jpg" group-title="India",We One Kerala
 http://kl.logicwebs.in:1935/sreemedia/sreemedia/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xv9cWSh.png" group-title="India",Chithiram
-https://cdn.pishow.tv/ott/live/1243/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LOGO_HD/image.png" group-title="India",Disney Channel (India)
-http://202.70.146.135:8000/play/a01q/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL_HD/images/LOGO_HD/image.png" group-title="India",Disney Channel (India) HD
-http://66.102.126.10:8000/play/a013/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD/images/LOGO_HD/image.png" group-title="India",Disney International HD
-http://202.70.146.135:8000/play/a04p/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GUBBARE/images/LOGO_HD/image.png" group-title="India",Epic Kids Digital
-https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zsTxPV9.png" group-title="India",ETV Bal Bharat
-http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LOGO_HD/image.png" group-title="India",Hungama TV
-http://103.185.24.134:3001/HUNGAMA/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s159121_ld_h15_aa.png?lock=720x540" group-title="India",Nick HD+
-http://103.72.101.252:8080/live/1226.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png" group-title="India",Nick Jr. (India)
-http://103.185.24.134:3001/NICK-JR/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png" group-title="India",Nickelodeon (India)
-http://103.185.24.134:3001/NICK/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png" group-title="India",Sonic
-http://103.185.24.134:3001/SONIC/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://pash.ink/storage/uploads/JungleBook_Logo.png" group-title="India",The Jungle Book
-https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/zbcatun.png" group-title="India",ZB Cartoon
-https://server.zillarbarta.com/zbcatun/video.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBCAwaaz.png" group-title="India",CNBC Awaaz
@@ -3069,7 +3057,7 @@ https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143791_ld_h9_aa.png?lock=720x540" group-title="India",Sirippoli TV
-http://ptuf.ridsys.in/riptv/live/KALAIGNAR_SIRIPOLI/index.m3u8
+https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100002GD_20260325T012327SQUARE.png" group-title="India",Zee Comedy Nation
@@ -3153,7 +3141,7 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/in
 
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/0d5b07555b2d4415aa9f145273095ed7.png" group-title="India",Shemaroo Filmi Gaane
-http://103.213.31.109:90/ShemarooFilmiGaane/playlist.m3u8
+https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="India",The Pet Collective India
