@@ -62,7 +62,7 @@ https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2209/ENG/master.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=70b921e2eae48d00b0a2249b0de197b4:4b994f1b4666368565dd56a76975843e
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ww2lshzug5/out/v1/de6a9587a2a3473ab685fb93d1de0929/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ww2lshzug5/out/v1/de6a9587a2a3473ab685fb93d1de0929/cenc.mpd
 
 
 # 🆕 SAWARID سواريد - Cricket 👉 Updateded Done ✅✅✅✅✅✅
@@ -74,100 +74,148 @@ https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ww2l
 # 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Live 🟢🟢🟢🟢🟢🟢
 
 
-#EXTINF:-1 tvg-id="66606" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Sri%20Lanka.jpg" group-title="SAWARID سواريد - Live", England vs Sri Lanka - Sri Lanka tour of England [Server 1]
+#EXTINF:-1 tvg-id="66606" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Sri%20Lanka.jpg" group-title="SAWARID سواريد - Live", England vs Sri Lanka - Sri Lanka tour of England
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1790184756-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-e66c556aafe9b50a6aa86e963c4dbb67
-
-
-#EXTINF:-1 tvg-id="66606" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Sri%20Lanka.jpg" group-title="SAWARID سواريد - Live", England vs Sri Lanka - Sri Lanka tour of England [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1790184760-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-c3f090313cb9c0ffc5df591021726768
-
-
-#EXTINF:-1 tvg-id="66646" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Players%20Championship%2029%20-%20Den%20Bosch.jpg" group-title="SAWARID سواريد - Live", Players Championship 29 - Den Bosch - Players Championship
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1790184765-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-aa981beb2abcfad4ff78bc840cc2321b
-
-
-#EXTINF:-1 tvg-id="66649" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Men's%20Junior%20ITT.jpg" group-title="SAWARID سواريد - Live", Men's Junior ITT - Cycling World Championships
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1790184772-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-d7c05684e9a1c897fb6bf69da03227ea
-
-
-#EXTINF:-1 tvg-id="66139" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayern%20Munich%20W%20vs%20Manchester%20City%20W.jpg" group-title="SAWARID سواريد - Live", Bayern Munich W vs Manchester City W - UEFA Champions League Women
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d/chunks.m3u8?is_vip=false&token=1790184798-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-a7d4afdc6c108fefbcd1da593540e542
+https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1790186559-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-5fcf4f3f1783083922d073da5e79a957
 
 
 #EXTINF:-1 tvg-id="66148" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Inter%20Milano%20W%20vs%20H%C3%A4cken%20W.jpg" group-title="SAWARID سواريد - Live", Inter Milano W vs Häcken W - UEFA Champions League Women [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5c-fancode/chunks.m3u8?is_vip=false&token=1790184805-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ecf23ce117dd0fd418e5aa1819e348ee
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5c-fancode/chunks.m3u8?is_vip=false&token=1790186577-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-2d98599de950a102c6076d474ebc8367
 
 
 #EXTINF:-1 tvg-id="66148" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Inter%20Milano%20W%20vs%20H%C3%A4cken%20W.jpg" group-title="SAWARID سواريد - Live", Inter Milano W vs Häcken W - UEFA Champions League Women [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5c/chunks.m3u8?is_vip=false&token=1790184809-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-4d129491f95946d3e93af199a521aa3d
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5c/chunks.m3u8?is_vip=false&token=1790186582-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-150d7f1022b7772730fc435103145cae
+
+
+#EXTINF:-1 tvg-id="66139" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayern%20Munich%20W%20vs%20Manchester%20City%20W.jpg" group-title="SAWARID سواريد - Live", Bayern Munich W vs Manchester City W - UEFA Champions League Women [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d-fancode/chunks.m3u8?is_vip=false&token=1790186595-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-b2a37f33c7c70ecbcb8e3e5479365de5
+
+
+#EXTINF:-1 tvg-id="66139" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayern%20Munich%20W%20vs%20Manchester%20City%20W.jpg" group-title="SAWARID سواريد - Live", Bayern Munich W vs Manchester City W - UEFA Champions League Women [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d/chunks.m3u8?is_vip=false&token=1790186600-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-5ac792f661e5ea878ba23dc135732ea8
 
 
 #EXTINF:-1 tvg-id="66618" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tampa%20Bay%20Rays%20vs%20New%20York%20Yankees.jpg" group-title="SAWARID سواريد - Live", Tampa Bay Rays vs New York Yankees - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1790184819-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-eac1128a3c8d80d93054655180cad593
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1790186607-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-c3ea858b73e073b3152ca8a6061205f6
 
 
-#EXTINF:-1 tvg-id="66606" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Sri%20Lanka.jpg" group-title="SAWARID سواريد - Live", England vs Sri Lanka - Sri Lanka tour of England [Server 1]
+#EXTINF:-1 tvg-id="66100" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Leicester%20vs%20Fulham%20U21.jpg" group-title="SAWARID سواريد - Live", Leicester vs Fulham U21 - EFL Trophy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1790184756-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-e66c556aafe9b50a6aa86e963c4dbb67
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1b8-hd/chunks.m3u8?is_vip=false&token=1790186613-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-37a4d28ad0049b5135d05718cd2f2774
 
 
-#EXTINF:-1 tvg-id="66606" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Sri%20Lanka.jpg" group-title="SAWARID سواريد - Live", England vs Sri Lanka - Sri Lanka tour of England [Server 2]
+#EXTINF:-1 tvg-id="66107" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Milton%20Keynes%20Dons%20vs%20Crawley%20Town.jpg" group-title="SAWARID سواريد - Live", Milton Keynes Dons vs Crawley Town - EFL Trophy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1790184760-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-c3f090313cb9c0ffc5df591021726768
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a193/chunks.m3u8?is_vip=false&token=1790186623-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-62cac27f45093b574bb4dd109d695c5b
 
 
-#EXTINF:-1 tvg-id="66646" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Players%20Championship%2029%20-%20Den%20Bosch.jpg" group-title="SAWARID سواريد - Live", Players Championship 29 - Den Bosch - Players Championship
+#EXTINF:-1 tvg-id="66106" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gillingham%20vs%20Cambridge%20United.jpg" group-title="SAWARID سواريد - Live", Gillingham vs Cambridge United - EFL Trophy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1790184765-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-aa981beb2abcfad4ff78bc840cc2321b
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a19c/chunks.m3u8?is_vip=false&token=1790186629-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-cb1f2b3d1ca66f826e9fa304a1120f31
 
 
-#EXTINF:-1 tvg-id="66649" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Men's%20Junior%20ITT.jpg" group-title="SAWARID سواريد - Live", Men's Junior ITT - Cycling World Championships
+#EXTINF:-1 tvg-id="66104" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Plymouth%20vs%20Crystal%20Palace%20U21.jpg" group-title="SAWARID سواريد - Live", Plymouth vs Crystal Palace U21 - EFL Trophy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1790184772-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-d7c05684e9a1c897fb6bf69da03227ea
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1a7/chunks.m3u8?is_vip=false&token=1790186642-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-663d4271c16d196d1ee36ab09981bb4c
 
 
-#EXTINF:-1 tvg-id="66139" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayern%20Munich%20W%20vs%20Manchester%20City%20W.jpg" group-title="SAWARID سواريد - Live", Bayern Munich W vs Manchester City W - UEFA Champions League Women
+#EXTINF:-1 tvg-id="66101" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Walsall%20vs%20Stevenage.jpg" group-title="SAWARID سواريد - Live", Walsall vs Stevenage - EFL Trophy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d/chunks.m3u8?is_vip=false&token=1790184798-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-a7d4afdc6c108fefbcd1da593540e542
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1b7/chunks.m3u8?is_vip=false&token=1790186664-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ad1f7dad9d7ded837ecec71d6ed0ec05
+
+
+#EXTINF:-1 tvg-id="66087" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Salford%20City%20vs%20Sheffield%20Wednesday.jpg" group-title="SAWARID سواريد - Live", Salford City vs Sheffield Wednesday - EFL Trophy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96c5578b0323bfecf64cad/chunks.m3u8?is_vip=false&token=1790186671-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-9684eeaf5956ac5e1539f1a89ebd9d7d
+
+
+#EXTINF:-1 tvg-id="66097" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Oldham%20vs%20Fleetwood%20Town.jpg" group-title="SAWARID سواريد - Live", Oldham vs Fleetwood Town - EFL Trophy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1c9-hd/chunks.m3u8?is_vip=false&token=1790186683-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-8f0afba8660a28e64fdc11e093dc6cbf
+
+
+#EXTINF:-1 tvg-id="66095" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Notts%20County%20vs%20Grimsby.jpg" group-title="SAWARID سواريد - Live", Notts County vs Grimsby - EFL Trophy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1ce/chunks.m3u8?is_vip=false&token=1790186696-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-18e70c4090ec390e86b0815700d8b215
+
+
+#EXTINF:-1 tvg-id="66093" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tranmere%20vs%20Shrewsbury.jpg" group-title="SAWARID سواريد - Live", Tranmere vs Shrewsbury - EFL Trophy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1d4/chunks.m3u8?is_vip=false&token=1790186708-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-d1bb2ff90a7023036645418630790517
+
+
+#EXTINF:-1 tvg-id="66092" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chesterfield%20vs%20Port%20Vale.jpg" group-title="SAWARID سواريد - Live", Chesterfield vs Port Vale - EFL Trophy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16da063f1058c99159/chunks.m3u8?is_vip=false&token=1790186715-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-82f6b2f54f2e4f2d7c8e723a4763522f
+
+
+#EXTINF:-1 tvg-id="66091" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/York%20vs%20Rotherham.jpg" group-title="SAWARID سواريد - Live", York vs Rotherham - EFL Trophy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16da063f1058c9915d/chunks.m3u8?is_vip=false&token=1790186723-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-9eb6d334e5c9a2b426503037c6d80f23
+
+
+#EXTINF:-1 tvg-id="66089" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Wigan%20vs%20Blackpool.jpg" group-title="SAWARID سواريد - Live", Wigan vs Blackpool - EFL Trophy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96c5578b0323bfecf64cab-hd/chunks.m3u8?is_vip=false&token=1790186735-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-20a65f4a37c91b140c9a2a436c57a01f
+
+
+#EXTINF:-1 tvg-id="66606" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Sri%20Lanka.jpg" group-title="SAWARID سواريد - Live", England vs Sri Lanka - Sri Lanka tour of England
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1790186559-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-5fcf4f3f1783083922d073da5e79a957
 
 
 #EXTINF:-1 tvg-id="66148" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Inter%20Milano%20W%20vs%20H%C3%A4cken%20W.jpg" group-title="SAWARID سواريد - Live", Inter Milano W vs Häcken W - UEFA Champions League Women [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5c-fancode/chunks.m3u8?is_vip=false&token=1790184805-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ecf23ce117dd0fd418e5aa1819e348ee
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5c-fancode/chunks.m3u8?is_vip=false&token=1790186577-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-2d98599de950a102c6076d474ebc8367
 
 
 #EXTINF:-1 tvg-id="66148" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Inter%20Milano%20W%20vs%20H%C3%A4cken%20W.jpg" group-title="SAWARID سواريد - Live", Inter Milano W vs Häcken W - UEFA Champions League Women [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5c/chunks.m3u8?is_vip=false&token=1790184809-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-4d129491f95946d3e93af199a521aa3d
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5c/chunks.m3u8?is_vip=false&token=1790186582-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-150d7f1022b7772730fc435103145cae
+
+
+#EXTINF:-1 tvg-id="66139" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayern%20Munich%20W%20vs%20Manchester%20City%20W.jpg" group-title="SAWARID سواريد - Live", Bayern Munich W vs Manchester City W - UEFA Champions League Women [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d-fancode/chunks.m3u8?is_vip=false&token=1790186595-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-b2a37f33c7c70ecbcb8e3e5479365de5
+
+
+#EXTINF:-1 tvg-id="66139" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayern%20Munich%20W%20vs%20Manchester%20City%20W.jpg" group-title="SAWARID سواريد - Live", Bayern Munich W vs Manchester City W - UEFA Champions League Women [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d/chunks.m3u8?is_vip=false&token=1790186600-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-5ac792f661e5ea878ba23dc135732ea8
 
 
 #EXTINF:-1 tvg-id="66618" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tampa%20Bay%20Rays%20vs%20New%20York%20Yankees.jpg" group-title="SAWARID سواريد - Live", Tampa Bay Rays vs New York Yankees - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1790184819-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-eac1128a3c8d80d93054655180cad593
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1790186607-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-c3ea858b73e073b3152ca8a6061205f6
 
 
 # 🆕 SAWARID سواريد - Live 👉 Updateded Done ✅✅✅✅✅✅
@@ -182,37 +230,37 @@ https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20Sri%20Lanka.png" group-title="SAWARID سواريد - Sri Lanka Tour Of England, 2026", England vs Sri Lanka - Willow Cricket
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.playerr03.com:7060/hls/willowsd.m3u8?md5=ZJWVNryr7dONNAH-qN7OMg&expires=1790101239&ch=willowsd&s=ca9e919274e51e04751f99e8a64df9e3
+https://mz01.playerr03.com:7060/hls/willowsd.m3u8?md5=tQWCZdVV5GQAaAZ5XSL_6Q&expires=1790104840&ch=willowsd&s=04ebea08a55f0349ff48bfe5f7837c00
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20Sri%20Lanka.png" group-title="SAWARID سواريد - Sri Lanka Tour Of England, 2026", England vs Sri Lanka - Willow Xtra
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz01.playerr03.com:7060/hls/wextres5.m3u8?md5=Ny5KyduMPfpj0lfg4n5VRQ&expires=1790101241&ch=wextres5&s=94807e419b6f9aa7a768807286e91b27
+https://mz02.playerr03.com:7060/hls/wextres5.m3u8?md5=NK9TBlkUZmZVSeuSvYDprA&expires=1790104843&ch=wextres5&s=7fd3d4c949947bbc370884f45e9e1085
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20Sri%20Lanka.png" group-title="SAWARID سواريد - Sri Lanka Tour Of England, 2026", England vs Sri Lanka - Sony Sports Ten 1
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.playerr03.com:7060/hls/ten1co.m3u8?md5=HRUDPj4wVgwnp1KX9uUGnw&expires=1790101245&ch=ten1co&s=2f46e38ede67673b729c93f94781dfa3
+https://mz02.playerr03.com:7060/hls/ten1co.m3u8?md5=y5pTNxjJd45LBnATxYh2vQ&expires=1790104846&ch=ten1co&s=bf9e92a83469bc56f5a4a7046171e661
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20Sri%20Lanka.png" group-title="SAWARID سواريد - Sri Lanka Tour Of England, 2026", England vs Sri Lanka - Willow HD
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz01.playerr03.com:7060/hls/hdwillos5.m3u8?md5=KD77D18Nb2giPbleYv6CEg&expires=1790101247&ch=hdwillos5&s=a8fb66d36764edcbc5ecc419acce1223
+https://mz01.playerr03.com:7060/hls/hdwillos5.m3u8?md5=itqVxf46ylsgVoWr1vRfbg&expires=1790104849&ch=hdwillos5&s=2158330513f410a17b3e9ce6afea42dc
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20Sri%20Lanka.png" group-title="SAWARID سواريد - Sri Lanka Tour Of England, 2026", England vs Sri Lanka - CricLife 1
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.playerr03.com:7060/hls/criclife1.m3u8?md5=RcvKKxpU1EBAREyGypyORA&expires=1790101249&ch=criclife1&s=14fe13d9f62d7789804812e37c9060d6
+https://mz01.playerr03.com:7060/hls/criclife1.m3u8?md5=vy2suoK1o_YW6vI7odAxcg&expires=1790104852&ch=criclife1&s=eac1a295e259503774558ba1b5a7e149
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20Sri%20Lanka.png" group-title="SAWARID سواريد - Sri Lanka Tour Of England, 2026", England vs Sri Lanka - Sky Cricket
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz01.playerr03.com:7060/hls/dodosky2.m3u8?md5=221AkUKZjkhliInVVxzzng&expires=1790101253&ch=dodosky2&s=1bb08371e4305f8bd7f9f8fc9c453914
+https://mz01.playerr03.com:7060/hls/dodosky2.m3u8?md5=RKHDrrORMN9QS-It3ZUNBw&expires=1790104854&ch=dodosky2&s=c3f2c46b4b036ceb24b2d3295e661bf5
 
 
 # 🆕 SAWARID سواريد - Sri Lanka Tour Of England, 2026 👉 Updateded Done ✅✅✅✅✅✅
@@ -501,7 +549,7 @@ https://mz01.playerr03.com:7060/hls/dodosky2.m3u8?md5=221AkUKZjkhliInVVxzzng&exp
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwYm1HYJ/resized-300x180-ffffff-16.jpg" group-title="All Sports", T Sports
-#AUTO-UPDATED - T Sports ⛔ SKIPPED ⛔ - 2026-09-22 23:51:29 🟡 - 🔄 - 🔴
+#AUTO-UPDATED - T Sports ⛔ SKIPPED ⛔ - 2026-09-23 00:07:00 🟡 - 🔄 - 🔴
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 # 🔴 Duplicate Link Found 🔴
 http://103.151.60.204/bdixbd.net/tracks-v1/index.m3u8
