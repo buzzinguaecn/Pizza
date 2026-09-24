@@ -113,59 +113,10 @@
 
 
 #EXTINF:-1 tvg-logo="" group-title="All Sports", Willow Sports
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=71a0d47149350b92846f380f637114f8:bf5386127fc245e3525c39060550d621
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/alfdweafqm/out/v1/a429fd66def345f7baf21a2a43c12dfd/cenc.mpd
 
-
-
-#EXTM3U
-
-#EXTINF:-1 group-title="All Sports", Fancode 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=KID:KEY
-#EXTVLCOPT:http-referrer=https://fancode.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd
-
-#EXTINF:-1 group-title="All Sports", Fancode 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=KID:KEY
-#EXTVLCOPT:http-referrer=https://fancode.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://abjqoehaaaaaaaamlzr65eai5t3fs.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="All Sports", Cricket Sports
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6
-#EXTVLCOPT:http-referrer=https://www.cricbuzz.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd
-
-#আপনার Ultimate M3UParser অনুযায়ী URL-এর সঙ্গে header দেওয়ার ফরম্যাটে চাইলে:
-#EXTINF:-1 tvg-logo="" group-title="All Sports", Cricket Sports ০০০
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6
-https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd
 
 #🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
-#EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="All Sports", FanCode 10
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6
-#EXTVLCOPT:http-referrer=https://www.cricbuzz.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="All Sports", FanCode 20
 #KODIPROP:inputstream=inputstream.adaptive
@@ -176,23 +127,12 @@ https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://abjqoehaaaaaaaamlzr65eai5t3fs.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="All Sports", PTV Sports
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="All Sports", FanCode 30
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=16ce164bd9025d4bebc09c4096938a95:34e9d1984fdd50d0be65f9cc9bb82e93
-#EXTVLCOPT:http-referrer=https://www.cricbuzz.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36
-https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/w4ezdyyny6/out/v1/2c82c2bf6e3e4b89a30ece7adf11089c/cenc.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="All Sports", TNT Sports
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=595932d92efbd8423ac32fbffcc78dca:adea3202c6154d11faad1d54b363763c
-#EXTVLCOPT:http-referrer=https://www.amazon.com/gp/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/h1kfxvwp9c/out/v1/2899320e61bb4d218ccb5bf704c27cc2/cenc.mpd?
+#KODIPROP:inputstream.adaptive.license_key=5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e
+https://abjqoehaaaaaaaamlzr65eai5t3fs.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
 
 #🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
 #🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
@@ -279,6 +219,10 @@ http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/514856.ts
 #EXTINF:-1 tvg-logo="" group-title="All Sports", 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DySZB4wf/image.jpg" group-title="All Sports", Willow Sports
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=71a0d47149350b92846f380f637114f8:bf5386127fc245e3525c39060550d621
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/alfdweafqm/out/v1/a429fd66def345f7baf21a2a43c12dfd/cenc.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=881660f21b521a54803840a388caaffa:b152a33ccb29c23fc05f8e6379f69551
