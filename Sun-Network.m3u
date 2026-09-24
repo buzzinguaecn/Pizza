@@ -26,16 +26,18 @@ https://livestream9.sunnxt.com/b0aacde03b744564870634ecb10e8a31/SunMarathiB_IN_i
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MImf2lyk37WkU1zhDE1zQQ", "kid":"XqkKHzseSgqbcsjg9Km/MQ" } ], "type":"temporary" }
 
 
-#EXTINF:-1 tvg-id="Sun Music HD" tvg-logo="https://sund-images.sunnxt.com/194406/640x360_SunMusicHD_194406_87e8d029-f695-477c-9ace-a3c2cbe15004.jpg" group-title="SAWARID سواريد - Sun Network",Sun Music HD
-https://livestream.sunnxt.com/d434796d90fa4dc9b7ecfacedbe683f1/SunMusicHDB_IN_index.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6Ab+wb8cioRCFhGMlLrQIA", "kid":"taLG0TuXSN6c7rwKityK8w" } ], "type":"temporary" }
 
 
 #EXTINF:-1 tvg-id="Sun Music" tvg-logo="https://sund-images.sunnxt.com/194410/640x360_SunMusic_194410_d4d08876-9d23-432c-aab4-b5c70c58aaac.jpg" group-title="SAWARID سواريد - Sun Network",Sun Music
 https://livestream.sunnxt.com/585bb66e95c84ccea3f828c96b3567b5/SunMusicB_IN_index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VwG+5O6bYl0MjtfeAyp0eA", "kid":"Id3BTE2pTAedT0w0Ps3NgA" } ], "type":"temporary" }
+
+
+#EXTINF:-1 tvg-id="Sun Music HD" tvg-logo="https://sund-images.sunnxt.com/194406/640x360_SunMusicHD_194406_87e8d029-f695-477c-9ace-a3c2cbe15004.jpg" group-title="SAWARID سواريد - Sun Network",Sun Music HD
+https://livestream.sunnxt.com/d434796d90fa4dc9b7ecfacedbe683f1/SunMusicHDB_IN_index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6Ab+wb8cioRCFhGMlLrQIA", "kid":"taLG0TuXSN6c7rwKityK8w" } ], "type":"temporary" }
 
 
 #EXTINF:-1 tvg-id="Sun Music" tvg-logo="https://i.postimg.cc/cCjFKBXC/20260924-223416.jpg" group-title="SAWARID سواريد - Sun Network", Sun Neo HD
