@@ -202,8 +202,7 @@ https://tvsen5.aynascope.net/maasrangatv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cj70MbY/image.jpg" group-title="Bangladeshi", Duronto
 https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
-
-
+http://198.195.239.50:8095/duranta/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cLjx6jQD/image.jpg" group-title="Bangladeshi", Deepto TV
@@ -1216,8 +1215,9 @@ http://103.122.252.100:8080/SUN-BANGLA/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvWwS84s/image.jpg" group-title="Indian-Bangla", Sangeet Bangla
-https://cdn-4.pishow.tv/live/1143/master.m3u8
-https://mumt05.tangotv.in/SANGEETBANGLA/index.m3u8
+http://198.195.239.50:8095/sangeetBangla/index.m3u8
+#https://cdn-4.pishow.tv/live/1143/master.m3u8
+#https://mumt05.tangotv.in/SANGEETBANGLA/index.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbangla2/default/dash/Sangeetbangla2.m3u8
 #https://bongoflixbd.top/sangeetbangla.m3u8?user=bongoflix&pass=eaminvai
 #https://aynapubluc.vercel.app/api/stream/75412270-ce20-4376-8e7f-21fc76f84ed4.m3u8
@@ -1235,8 +1235,9 @@ https://tplay.live/originals/bengali-beats/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Ss5tqm2x/image.jpg" group-title="Indian-Bangla", Sony Aath
+http://198.195.239.50:8095/sonyAath/index.m3u8
 https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
-https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
+#https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 
 
 
@@ -1247,11 +1248,11 @@ https://mumt03.tangotv.in/AAKASHAATH/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zBKwKxyv/resized-300x175-ffffff-1.jpg" group-title="Indian-Bangla",Enter 10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
+http://198.195.239.50:8095/enter10Bangla/index.m3u8
 http://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-https://cdn-4.pishow.tv/live/241/master.m3u8
-http://stvlive.net:8080/entertenbn/index.m3u8
+#https://cdn-4.pishow.tv/live/241/master.m3u8
+#http://stvlive.net:8080/entertenbn/index.m3u8
 #http://103.122.252.100:8080/ENTER-10-BANGLA/tracks-v1a1/mono.m3u8
-#https://bongoflixbd.top/enterr10.m3u8?user=bongoflix&pass=eaminvai
 
 
 
