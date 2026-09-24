@@ -38,7 +38,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist.m3u8
-
+http://198.195.239.50:8095/zeeBangla/index.m3u8
 
 
 
@@ -55,17 +55,24 @@ https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gt7VxrNx/image.jpg" group-title="SAWARID سواريد - Zee5", Star Jalsha
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist.m3u8
-
+http://198.195.239.50:8095/starJalsha/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RcS6984/image.jpg" group-title="SAWARID سواريد - Zee5", Star-Jalsha Movies
 https://iptvlive-beta.vercel.app/jalsha-movies/index.m3u8
-
+http://198.195.239.50:8095/jalshaMovies/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Ss5tqm2x/image.jpg" group-title="SAWARID سواريد - Zee5", Sony Aath
-https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
-https://toffee-proxy.usergamil15.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fsonyaath%2Fplaylist.m3u8&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1788436853%3AKeyName%3Dprod_linear%3ASignature%3Dyb3twN2LgtWsSS-8CWTaQA9y4zzvMxQ3YmI1P_KMo_HLIN799yY5U5uJby-CuN5eAyWloSU-HJoRJDVI0tRFAg&secret_key=FS_LIVE_TV_SECRET_2026&dummy=.m3u8
+http://198.195.239.50:8095/sonyAath/index.m3u8
+https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
+#https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCzKNs7B/image.jpg" group-title="SAWARID سواريد - Zee5", Colors Bengali HD
+http://198.195.239.50:8095/colorsBangla/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFNCHHjQ/image.jpg" group-title="SAWARID سواريد - Zee5", Colors Bangla Cinema
+http://198.195.239.50:8095/colorsBanglaChinema/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13zpPtdH/depositphotos-11267379-stock-illustration-black-and-white-icons-of.jpg" group-title="SAWARID سواريد - Zee5", Sony Entertainment
