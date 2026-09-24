@@ -54,8 +54,9 @@ https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4VswLcv/resized-300x180-ffffff-1.jpg" group-title="Bangladeshi", BTV NEWS
 https://btv.hridoytv-channel.workers.dev/news.m3u8
-http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8
+http://198.195.239.50:8095/btv/index.m3u8
+#http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
+#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/tracks-v1a1/mono.m3u8
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/tracks-v1a1/mono.ts.m3u8
 
@@ -1127,6 +1128,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gt7VxrNx/image.jpg" group-title="Indian-Bangla", Star Jalsha
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist.m3u8
+http://198.195.239.50:8095/starJalsha/index.m3u8
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 #http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8
 #http://103.59.176.72:8083/live2/tracks-v1a1/mono.m3u8?token=123
@@ -1142,6 +1144,7 @@ https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RcS6984/image.jpg" group-title="Indian-Bangla", Star-Jalsha Movies
+http://198.195.239.50:8095/jalshaMovies/index.m3u8
 http://103.165.93.31:8095/jalshaMovies/tracks-v1a1/mono.m3u8
 https://iptvlive-beta.vercel.app/jalsha-movies/index.m3u8
 
@@ -1151,8 +1154,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Indian-Bangla", Zee Bangla
-https://stream.ottplus.bd/live/zee_bangla_abr/live/zee_bangla_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Indian-Bangla", Zee Bangla HD
+http://198.195.239.50:8095/zeeBangla/index.m3u8
+#https://stream.ottplus.bd/live/zee_bangla_abr/live/zee_bangla_720/index.m3u8
 https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
 #https://smart.bengaldigital.live/Zee-Bangla-Cinema/tracks-v1a1/mono.m3u8
@@ -1192,22 +1196,18 @@ https://live.dinesh29.com.np/stream/jiotvplus/colorsbanglasd/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCzKNs7B/image.jpg" group-title="Indian-Bangla", Colors Bengali HD
-http://103.165.93.31:8095/colorsBangla/index.m3u8
+http://198.195.239.50:8095/colorsBangla/index.m3u8
 http://198.195.239.50:8095/bdixbd.net_ColorsBanglaHD/video.m3u8
-http://203.18.159.115/COLORSBANGLAHD/index.m3u8
-https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
-https://iptvcable.netlify.app/Altogether-007/Kolkata/ColorsBanglaHD.m3u8
+#http://203.18.159.115/COLORSBANGLAHD/index.m3u8
+#https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+#https://iptvcable.netlify.app/Altogether-007/Kolkata/ColorsBanglaHD.m3u8
 #https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/colorsbengalihd/master.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFNCHHjQ/image.jpg" group-title="Indian-Bangla", Colors Bangla Cinema
-http://103.229.254.25:7001/play/a078/index.m3u8
-http://starshare.cx:80/PeH5kPWFfG/infamous7funny/271038
-http://198.195.239.50:8095/ColorsBanglaChinema/index.m3u8
-#https://live.dinesh29.com.np/stream/jiotvplus/colorsbanglacinema/master.m3u8
-
+http://198.195.239.50:8095/colorsBanglaChinema/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mgNFmf82/image.jpg" group-title="Indian-Bangla", Sun Bangla
