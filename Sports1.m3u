@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 02:54:30AM - 25-09-2026
-# Total Channels: 428
+# Update Time: 08:22:37AM - 25-09-2026
+# Total Channels: 431
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -26,6 +26,10 @@ http://str2.iptvhd.ru:8080/5SPORT_4K/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dRVsB89.png" group-title="Sports1",5Sport
 http://str2.iptvhd.ru:8080/5sport/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IQtAKIa.png" group-title="Sports1",5Stars
+http://89.33.29.115:8080/IL_5Stars/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lv53nh4.png" group-title="Sports1",30A Golf Kingdom
@@ -312,7 +316,7 @@ http://138.121.113.175:8000/play/a0ca/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Sports1",DSports
-http://138.121.113.175:8000/play/a0cj/index.m3u8
+http://15.204.146.163:8002/play/a00g/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ymxmyyG.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports1",Dynamo Kyiv TV
@@ -1300,12 +1304,20 @@ http://str2.iptvhd.ru:8080/Sport_2/index.m3u8
 http://stream.mcquack.net/392/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qkvavfH.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports1",Sport 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/stSrBBh.png" group-title="Sports1",Sport 3 (Israel)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/12251/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qkvavfH.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports1",Sport 3 (Ukraine)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/393/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xW6oGIx.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports1",Sport 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wFXzzYs.png" group-title="Sports1",Sport 4 (Israel)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/2389/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xW6oGIx.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports1",Sport 4 (Ukraine)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/394/index.m3u8
 
