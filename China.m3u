@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 02:50:41AM - 26-09-2026
-# Total Channels: 2232
+# Update Time: 08:26:45AM - 26-09-2026
+# Total Channels: 2234
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -2018,6 +2018,14 @@ https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="China",Chuxiong News Channel [Not 24/7]
 http://hwapi.yntv.net/ew265l/848y54.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="China",CGTN Spanish
+http://45.186.106.147:8880/play/a06f/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="China",Chaozhou Public Channel
+http://113.64.146.48:1688/hls/4/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="China",1987年春晚
