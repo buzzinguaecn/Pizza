@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 08:23:23AM - 27-09-2026
-# Total Channels: 740
+# Update Time: 09:57:50PM - 27-09-2026
+# Total Channels: 738
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -1353,15 +1353,11 @@ https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/in
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gqUYk6C.png" group-title="India",Sony Max 2
-https://cloudplay-sonyliv.pages.dev/max2.m3u8
+http://149.71.34.166:8000/play/a00z/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="India",Sony Max
-https://cloudplay-sonyliv.pages.dev/max.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="India",Sony Max HD
-https://cloudplay-sonyliv.pages.dev/maxhd.m3u8
+http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png" group-title="India",Sony Pix HD
@@ -1374,10 +1370,6 @@ https://cloudplay-sonyliv.pages.dev/wah.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20260325T012316SQUARE.png" group-title="India",South Station
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G0ZfzZr.png" group-title="India",Star Gold 2
-http://107.167.16.138/stargold2/index.m3u8?token=test
 
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143826_ld_h15_aa.png?lock=720x540" group-title="India",Star Maa Movies HD
@@ -2584,7 +2576,7 @@ https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s135691_ld_h15_aa.png?lock=720x540" group-title="India",MBC TV
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s135691_ld_h15_aa.png?lock=720x540" group-title="India",MBC TV (India)
 https://mumbai-edge.smartplaytv.in/MBCTV/index.m3u8
 
 
