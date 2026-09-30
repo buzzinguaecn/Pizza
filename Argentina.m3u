@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 03:37:18AM - 30-09-2026
-# Total Channels: 179
+# Update Time: 08:52:42AM - 30-09-2026
+# Total Channels: 183
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -16,9 +16,8 @@ https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
 https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LnXQkIU.png" http-user-agent="Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML,como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36" group-title="Argentina",A24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="Argentina",A24
+http://138.59.227.20:8000/play/a05u/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l4TSfDr.png" group-title="Argentina",ABTV Bariloche
@@ -330,6 +329,10 @@ https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/playlist.m3u8
 https://srv4.zcast.com.br/chamametv/chamametv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Iozv4tT.png" group-title="Argentina",Cine.Ar
+http://181.209.105.115:2525/play/cinear/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HJkSz2U.png" group-title="Argentina",Ciudad Magica
 https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8
 
@@ -358,6 +361,10 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 https://canaletaplus.com:3922/live/cosmoslive.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png" group-title="Argentina",Cronica TV
+http://181.209.105.115:2525/play/cronica/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6901dfd41a05195b77301d7b/b306e57e4_Logo-TV-C.png" group-title="Argentina",Cumbia Mix
 https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
 
@@ -366,6 +373,10 @@ https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h250/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="Argentina",DeporTV
+http://181.209.105.115:2525/play/deportv/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Argentina",Disney Channel Latin America
@@ -410,6 +421,10 @@ https://edgectc.com/CANAL7_MZA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TrgBAdA.png" group-title="Argentina",El Trece
 http://15.204.246.24:8080/eltreceHD/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="Argentina",Encuentro
+http://138.59.227.20:8000/play/a05s/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w5SOfyJ.png" group-title="Argentina",Europa Europa
@@ -497,7 +512,7 @@ https://ntvcanal7.com.ar:81/dash/stream.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GJbRWwH.png" group-title="Argentina",Pakapaka
-https://xyktmobile00.s.gy/PPV910_PAKAKA_ARG
+http://181.209.105.115:2525/play/pakapaka/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u1dnEVv.png" group-title="Argentina",Panc TV [Not 24/7]
