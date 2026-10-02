@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 12:12:05AM - 02-10-2026
-# Total Channels: 184
+# Update Time: 09:01:19AM - 02-10-2026
+# Total Channels: 185
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -211,6 +211,10 @@ https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bq29sfG.png" group-title="Argentina",Canal 10 Mar del Plata
 https://g1.mc-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b93YC0V.jpeg" group-title="Argentina",Canal 12 Venado Tuerto (1080i)
+https://nd106.republicaservers.com:4433/hls/diegologonitv/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VYcTRbd.png" group-title="Argentina",Canal 12 Web
@@ -459,8 +463,8 @@ https://cloud.tvomix.com/KPOPMIX/index.m3u8
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3544498_ico.png" http-referrer="https://lamil35.streamingvideo.com.ar/" group-title="Argentina",LAMIL35 TV
-#EXTVLCOPT:http-referrer=https://lamil35.streamingvideo.com.ar/
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3544498_ico.png" http-referrer="https://lamil35.streamingvideo.com.ar/index.html" group-title="Argentina",LAMIL35 TV
+#EXTVLCOPT:http-referrer=https://lamil35.streamingvideo.com.ar/index.html
 https://streamingvideo.com.ar/hls/eea3c96df781e0a3.m3u8
 
 
