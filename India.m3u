@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 09:01:20AM - 02-10-2026
-# Total Channels: 836
+# Update Time: 05:31:55PM - 02-10-2026
+# Total Channels: 841
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -452,6 +452,10 @@ https://stream.ottlive.co.in/livingindia/index.m3u8
 https://mumt05.tangotv.in/87NeALx2LOKSAAHI/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/M_Nadu.png" group-title="India",M Nadu TV
+https://cloudcdnplayer.mslivestream.net/mslivecdn/mnadu/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Madhimugam_TV.png" group-title="India",Madhimugam TV
 https://mumt01.tangotv.in/O5aw8Zn3MATHIMUGAMTV/index.m3u8
 
@@ -642,6 +646,10 @@ https://cdn.pishow.tv/ott/live/273/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_J.png" group-title="India",News J
 http://51.75.127.199:3141/newsj/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://img-cdn.publive.online/fit-in/360x280/filters:format(webp)/newsleaderlive/media/agency_attachments/2026/04/15/2026-04-15t100517555z-news-leader-640-480-1-sarvajeet-singh-chauhan-2026-04-15-15-35-17.png" group-title="India",News Leader
+https://stream.ottlive.co.in/newsleader/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_LIVE/images/LOGO_HD/image.png" group-title="India",News Live
@@ -872,11 +880,11 @@ https://mumt01.tangotv.in/O5aw8Zn3SANDESHNEWS/index.m3u8
 https://mumt07.tangotv.in/zHjX9OFlSATHIYAMTV/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q8ajPij.png" group-title="India",Star Bharat
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q8ajPij.png" group-title="India",Star Bharat (India)
 http://51.75.127.199:3141/starbharat/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q8ajPij.png" group-title="India",Star Bharat HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q8ajPij.png" group-title="India",Star Bharat (India) HD
 http://51.75.127.199:3141/starbharathd/index.m3u8
 
 
@@ -952,6 +960,10 @@ https://mumt07.tangotv.in/zHjX9OFlTV5KANNADA/index.m3u8
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/tv5_nim_https/110322/tv5/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://tv7bharat.tv/wp-content/uploads/2023/07/Logo-Bharat.jpg" group-title="India",TV7 Bharat
+https://stream.ottlive.co.in/tv7bharat/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_BANGLA/images/LOGO_HD/image.png" group-title="India",TV9 Bangla
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 
@@ -998,6 +1010,10 @@ https://server.livelegitpro.in/bnews24/bnews24/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://en.tvpunjab.com/storage/2022/03/logo-2022.png" group-title="India",TV Punjab
 https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://papaji.freetvindia.com/media/channels/Upnow.png" group-title="India",UP NOW
+http://45.122.122.61:8080/UPNOW/video.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s144047_ld_h15_aa.png?lock=720x540" group-title="India",V6 News
@@ -1382,6 +1398,10 @@ https://jmp2.uk/stvp-IN4000600Q
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA_CINEMA/images/LOGO_HD/image.png" group-title="India",Colors Bangla Cinema
 http://51.75.127.199:3141/colorsbanglacinema/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX/images/LOGO_HD/image.png" group-title="India",Colors Cineplex
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_HD/images/LOGO_HD/image.png" group-title="India",Colors Cineplex HD
@@ -1842,6 +1862,10 @@ https://mumbai-edge.smartplaytv.in/MahaBhakthi/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mahimaitv.com/images/mahimaitamil.png" group-title="India",Mahimai TV
 https://mahimai.iptelevision.live/mahimaitv/video.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Mangalmaylive.png" group-title="India",Mangalmay TV
+https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/klNH4tV.png" group-title="India",Mercy TV (India)
@@ -2889,7 +2913,7 @@ https://d1msejlow1t3l4.cloudfront.net/fta/jantv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jeevan_TV.png" group-title="India",Jeevan TV
-https://cdn.pishow.tv/ott/live/1467/master.m3u8
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/JeevanTV.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JONACK/images/LOGO_HD/image.png" group-title="India",Jonack
@@ -3134,10 +3158,6 @@ https://cloudplay-sonyliv.pages.dev/ten4hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png" group-title="India",Sony Sports Ten 5
 https://cloudplay-sonyliv.pages.dev/ten5.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png" group-title="India",Sony Sports Ten 5 HD
-https://cloudplay-sonyliv.pages.dev/ten5hd.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="India",Star Sports 1
