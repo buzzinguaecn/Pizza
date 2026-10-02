@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 12:12:05AM - 02-10-2026
-# Total Channels: 204
+# Update Time: 09:01:19AM - 02-10-2026
+# Total Channels: 209
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -140,6 +140,10 @@ https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ily4bEm.png" group-title="France",Paris Premiere
+http://193.254.245.162/PARIS-PREMIERE/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1274572654016675842/A6v8Qo_X_400x400.jpg" group-title="France",Puissance TV
 https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
 
@@ -154,6 +158,10 @@ https://videas.agglo-lenslievin.fr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png" group-title="France",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="France",TMC
 http://151.80.18.177:86/TMC/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png" group-title="France",TMC HD
+http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X2yd0zL/logo-tv3v.jpg" group-title="France",TV3V
@@ -528,6 +536,10 @@ https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/
 https://futbol9865.ultratv13.workers.dev/deportivo111/14.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EOXnU15.png" group-title="France",Canal+ Sport
+http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QPpbRcZ.png" group-title="France",Equidia
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
 
@@ -538,6 +550,10 @@ https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qsLLyn4.png" group-title="France",Foot+
 http://145.239.5.177/556a/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WHnddkg.png" group-title="France",Golf +
+http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M1Ee79b.png" group-title="France",Kozoom TV
@@ -602,6 +618,10 @@ https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="France",M6 Music
 http://145.239.5.177/320/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j31lBL7.png" group-title="France",MCM Pop
+http://193.254.245.162/MCM/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/auNdGeW.png" group-title="France",Mezzo
