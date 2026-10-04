@@ -129,8 +129,9 @@ https://cd198.anystream.uk:9092/iqapp/d33ntv/playlist.m3u8
 #https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3n9nysb/image.jpg" group-title="Bangladeshi", SATV
+https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/satvoff5666.stream/tracks-v1a1/mono.ts.m3u8
-https://tvsen6.aynaott.com/satv/index.m3u8
+#https://tvsen6.aynaott.com/satv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hx75zHSQ/T-Sports-logo.png" group-title="Bangladeshi", GTV
 http://starshare.cx:80/PeH5kPWFfG/infamous7funny/767
@@ -302,6 +303,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Wp8hd1gR/resized-300x180-ffffff-25.jpg" group-title="Bangladeshi", Bangla TV
 https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3x4Rfj67/resized-300x180-ffffff-26.jpg" group-title="Bangladeshi", Bangla-TV Europe
 https://byphdgllyk.gpcdn.net/hls/banglatveurope/0_1/index.m3u8
 
@@ -405,7 +407,7 @@ https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6QPTCqCN/image.jpg" group-title="Bangladeshi", Asian TV
-https://toffee-proxy.usergamil15.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fasian_tv%2Fplaylist.m3u8&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1788436853%3AKeyName%3Dprod_linear%3ASignature%3Dyb3twN2LgtWsSS-8CWTaQA9y4zzvMxQ3YmI1P_KMo_HLIN799yY5U5uJby-CuN5eAyWloSU-HJoRJDVI0tRFAg&secret_key=FS_LIVE_TV_SECRET_2026&dummy=.m3u8
+https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/tracks-v1a1/mono.ts.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
 #https://mtlivestream.com/hls/asian/ytlive/index.m3u8
 #https://tvsen6.aynaott.com/asiantv/index.m3u8
@@ -539,7 +541,8 @@ http://116.204.149.16/globaltv/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/index.m3u8
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi" Jalsha Bangla
+https://dish.porosh.com.bd/hls/jalshabangla.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Fs449qBg/image.jpg" group-title="Bangladeshi", Falguni TV
@@ -589,8 +592,8 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi",  
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9MKYpDSW/channels4-profile.jpg" group-title="Bangladeshi", Time Television
+https://app.ncare.live/live-orgin/timetvusa.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi", 
 
@@ -1270,7 +1273,6 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 tvg-logo="" group-title="Indian-Bangla", 
 
-#EXTINF:-1 tvg-logo="" group-title="Indian-Bangla", 
 
 
 
@@ -1279,7 +1281,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3B9k5D7/image.jpg" group-title="Indian-Bangla", Tara TV
-https://live.dinesh29.com.np/stream/jiotv/taratv/stream_0.m3u8
+https://legitpro.co.in/taratv/taratv/tracks-v1a1/mono.m3u8
+#https://live.dinesh29.com.np/stream/jiotv/taratv/stream_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j2xCxYp2/image.jpg" group-title="Indian-Bangla", Tara Cinema
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
@@ -1321,7 +1324,8 @@ http://idvd.multitvsolution.com/idvo/rplusgold.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SNst1gz1/image.jpg" group-title="Indian-Bangla", R Plus News
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kX5pwSBJ/channels4-profile.jpg" group-title="Indian-Bangla",  Zillar Barta News
+https://server.zillarbarta.com/zillarbarta/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tC8R2hsX/image.jpg" group-title="Indian-Bangla", Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
@@ -1330,6 +1334,7 @@ https://tvsen7.aynaott.com/RongeenTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FKBB435p/image.jpg" group-title="Indian-Bangla", Kalkata TV
 https://cdn.ottlive.co.in/kolkatatv/index.m3u8
 https://tvsen6.aynaott.com/kolkatatv/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="Indian-Bangla", EKHON KOLKATA
 http://live.dataplayer.in:8080/live/ekhonkolkata.m3u8
