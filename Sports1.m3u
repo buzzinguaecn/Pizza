@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 02:19:13AM - 04-10-2026
-# Total Channels: 444
+# Update Time: 09:18:01AM - 04-10-2026
+# Total Channels: 445
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -1024,7 +1024,7 @@ https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-a
 https://racitonsen.s.gy/PS1PH
 
 
-#EXTINF:-1 tvg-logo="" http-user-agent="Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36" group-title="Sports1",Prima Sport 5
+#EXTINF:-1 tvg-logo="https://www.media-max.ro/wp-content/uploads/2022/11/Prima-Sport-5-HD-disponibil-in-grila-Vodafone.jpg" http-user-agent="Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36" group-title="Sports1",Prima Sport 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36
 https://dokagents.site/live/pr5/mono.m3u8
 
@@ -1743,6 +1743,10 @@ http://51.75.127.199:3141/andflixhd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s4.vcdn.biz/static/f/9219528031/image.jpg" group-title="Sports1",UPL.TV
 http://dtv.vol.net.ua/UPL-TV/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" group-title="Sports1",USA Network
+http://190.197.41.183/USA_NETWORK/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCw8Pmz.png" group-title="Sports1",V Sport Golf [Not 24/7]
