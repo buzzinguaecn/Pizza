@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 09:11:38AM - 07-10-2026
-# Total Channels: 5593
+# Update Time: 06:15:19PM - 07-10-2026
+# Total Channels: 5595
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -4908,8 +4908,8 @@ http://58.8.186.128:10006/bysid/2630
 http://58.8.186.128:10006/bysid/2614
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/960px-TVRI_Sport_2022.svg.png" group-title="Indonesia",like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Indonesia",TVRI Sport
-https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/960px-TVRI_Sport_2022.svg.png" group-title="Indonesia",TVRI Sport
+http://202.150.172.59/TVRISport/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/RELIGI/muslim_tv.png" group-title="Indonesia",MUSLIM TV (V+)
@@ -6909,7 +6909,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M2R3lfg.png" group-title="Indonesia",iNews HD
-https://mncmedia.malingtv.workers.dev/inews.m3u8
+http://202.150.172.59/iNews/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bD6UHeZ.png" group-title="Indonesia",like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Indonesia",Kompas TV
@@ -22149,7 +22149,11 @@ https://gist.githubusercontent.com/iptvonlinetv/02d209207082846012c15305f7471c55
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jjuKnYs.png" group-title="Indonesia",GTV (Indonesia) HD
-https://mncmedia.malingtv.workers.dev/gtv.m3u8
+http://202.150.172.59/GTVHD/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/960px-Indosiar_2015.svg.png" group-title="Indonesia",Indosiar HD
+http://202.150.172.59/Indosiar/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Jambi_TV.png" group-title="Indonesia",Jambi TV
@@ -22196,6 +22200,10 @@ https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
 https://flv.intechmedia.net/live/ch118.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tfJo0SO.png" group-title="Indonesia",Magna Channel
+http://202.150.172.59/MagnaChannel/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MYU7dsZ.png" group-title="Indonesia",MGSTV [Not 24/7]
 https://mgstv.siar.us/live/mgstv.m3u8
 
@@ -22209,11 +22217,11 @@ http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iLFx8ia.png" group-title="Indonesia",RCTI HD
-https://mncmedia.malingtv.workers.dev/rcti.m3u8
+http://202.150.172.59/RCTIHD/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="Indonesia",like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Indonesia",SCTV
-https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="Indonesia",SCTV
+http://202.150.172.59/SCTV/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="Indonesia",like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Indonesia",TVRI SD
@@ -22296,8 +22304,8 @@ https://www.streaming.radartv.co.id/hls/test.m3u8
 https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dlsv1sl.png" group-title="Indonesia",Rajawali TV (576i)
-http://175.158.57.130:8888/stream/channelid/412436804
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dlsv1sl.png" group-title="Indonesia",Rajawali TV
+http://202.150.172.59/RajawaliTV/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RRI_NET_2023.svg/960px-RRI_NET_2023.svg.png" group-title="Indonesia",RRI Net
