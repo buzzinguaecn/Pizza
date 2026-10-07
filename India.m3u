@@ -1,5 +1,5 @@
 #EXTM3U
-# Update Time: 09:11:38AM - 07-10-2026
+# Update Time: 06:15:19PM - 07-10-2026
 # Total Channels: 855
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
@@ -2072,8 +2072,8 @@ https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
 http://51.75.127.199:3141/asianet/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Wv7MOzg.png" group-title="India",Asianet HD
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/AsianetHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wv7MOzg.png" group-title="India",Asianet HD [Not 24/7]
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b1928000.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002YJ850.png?lock=720x540" group-title="India",Big Magic
@@ -2980,7 +2980,7 @@ https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s135691_ld_h15_aa.png?lock=720x540" group-title="India",MBC TV (India)
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s135691_ld_h15_aa.png?lock=720x540" group-title="India",MBC TV
 https://mumbai-edge.smartplaytv.in/MBCTV/index.m3u8
 
 
@@ -3041,7 +3041,7 @@ https://cdn.pishow.tv/ott/live/1243/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LOGO_HD/image.png" group-title="India",Disney Channel (India)
-http://202.70.146.135:8000/play/a01q/index.m3u8
+http://51.75.127.199:3141/disneychannel/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL_HD/images/LOGO_HD/image.png" group-title="India",Disney Channel (India) HD
