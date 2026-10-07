@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 03:59:10AM - 07-10-2026
-# Total Channels: 459
+# Update Time: 09:11:38AM - 07-10-2026
+# Total Channels: 449
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -87,21 +87,6 @@ http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
 https://nl1.nghk.ai/SK2SRHD/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://tvarenasport.mk/wp-content/themes/tvarenasport-mk/assets/channels/arena-m1.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports1",Arena Sport Premium M1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://racitonsen.s.gy/AM1P
-
-
-#EXTINF:-1 tvg-logo="https://tvarenasport.mk/wp-content/themes/tvarenasport-mk/assets/channels/arena-m2.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports1",Arena Sport Premium M2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://racitonsen.s.gy/AM2P
-
-
-#EXTINF:-1 tvg-logo="https://tvarenasport.mk/wp-content/themes/tvarenasport-mk/assets/channels/arena-m3.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports1",Arena Sport Premium M3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://racitonsen.s.gy/AM3P
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="Sports1",Arryadia
 http://149.100.11.252:8000/play/a065/index.m3u8
 
@@ -176,10 +161,6 @@ https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BZijfKh.png" group-title="Sports1",Billiard TV
 https://pb-wm04vonaerv0k.akamaized.net/billi.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fo1k0Oj.png" group-title="Sports1",Billiards TV
-https://xyktmobile00.s.gy/PPV942_BILLIARD
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R1UjyfX.png" group-title="Sports1",Boks TV
@@ -674,10 +655,6 @@ https://1853185335.rsc.cdn77.org/K192/tv/playlist.m3u8
 http://180.188.254.253/live/KABADDI24X7.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xZ2s9eY.png" group-title="Sports1",KBS N Sports
-https://xyktmobile00.s.gy/PPV919_KBSNSPO_SD
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdHdOV.png" group-title="Sports1",KHL
 http://31.148.48.15/KHL_TV/index.m3u8
 
@@ -1040,30 +1017,12 @@ https://jmp2.uk/plu-5fc54366b04b2300072e31af.m3u8
 http://92.114.85.87:8016/play/a00b/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hy1SKE0.png" http-user-agent="Enigma2" group-title="Sports1",Polsat Sport Premium 1
-#EXTVLCOPT:http-user-agent=Enigma2
-https://racitonsen.s.gy/PSP1_SHD
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/myyWeXY.png" http-user-agent="Enigma2" group-title="Sports1",Polsat Sport Premium 2
-#EXTVLCOPT:http-user-agent=Enigma2
-https://racitonsen.s.gy/PSP2_SHD
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lKjXwtG.png" group-title="Sports1",Premier Football
-https://racitonsen.s.gy/PREMIER_FOOTBALL
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UQeXWd2.png" group-title="Sports1",Premier Sports 2
-https://racitonsen.s.gy/PS2PH
+https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BURPHzI.png" group-title="Sports1",Premier Sports
 https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BURPHzI.png" group-title="Sports1",Premier Sports HD
-https://racitonsen.s.gy/PS1PH
 
 
 #EXTINF:-1 tvg-logo="https://www.media-max.ro/wp-content/uploads/2022/11/Prima-Sport-5-HD-disponibil-in-grila-Vodafone.jpg" http-user-agent="Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36" group-title="Sports1",Prima Sport 5
@@ -1197,10 +1156,6 @@ https://corestream.siteyaptim.live/s-sport/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PGm944g.png" group-title="Sports1",San Marino RTV Sport
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/SBS_Golf_logo_2018.svg/960px-SBS_Golf_logo_2018.svg.png" group-title="Sports1",SBS Golf
-https://xyktmobile00.s.gy/PPV922_GOLF_TV
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8ANUZAu.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports1",Setanta Sports 1
@@ -1730,10 +1685,8 @@ https://stream.smashmalta.com:25463/live/webplayer/livestream/29.m3u8
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/960px-TVRI_Sport_2022.svg.png" http-referrer="https://www.dens.tv/" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML,like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Sports1",TVRI Sport
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/960px-TVRI_Sport_2022.svg.png" group-title="Sports1",TVRI Sport
+http://202.150.172.59/TVRISport/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-bowling-network.jpg" group-title="Sports1",TVS Bowling Network
