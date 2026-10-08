@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 04:24:10AM - 08-10-2026
-# Total Channels: 186
+# Update Time: 09:27:17AM - 08-10-2026
+# Total Channels: 189
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -321,6 +321,10 @@ https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmd
 https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Argentina",Cartoon Network Latin America South Atlantic
+http://158.172.217.18:8000/play/a03a/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CEuPoqG.png" group-title="Argentina",Catamarca TV
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
 
@@ -445,6 +449,10 @@ https://stmvideo6.livecastv.com/radioactivasanjuan/radioactivasanjuan/playlist.m
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="Argentina",FX Latin America South
 http://72.1.184.5:8089/play/a05i/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" group-title="Argentina",Investigation Discovery Latin America South
+http://38.65.175.84:8000/play/a0ch/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dbu9nx4.png" group-title="Argentina",IP Noticias
@@ -618,6 +626,10 @@ http://138.121.15.230:9002/SONY/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZcD0rUP.png" group-title="Argentina",T5 Satelital
 https://stream.t5satelital.blog/hls/t5satelitalweb.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QpDkrmT.png" group-title="Argentina",TCM Latin America South
+http://45.171.64.30:6060/play/a014/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p7tt72X.png" group-title="Argentina",TELE 6
