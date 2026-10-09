@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 09:32:49AM - 09-10-2026
-# Total Channels: 348
+# Update Time: 06:14:45PM - 09-10-2026
+# Total Channels: 347
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -192,8 +192,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfef
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="Arabic",like Gecko) Chrome/154.0.0.0 Safari/537.36" group-title="Arabic",MBC 1 USA
-https://sh.cdn1-stmify.workers.dev/out/v1/MBC_1_USA/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="Arabic",MBC 1 USA
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D0LxiPE.png" group-title="Arabic",MBC Iraq
@@ -341,7 +341,7 @@ https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mRSQ5bP.png" group-title="Arabic",Jawhara TV [Not 24/7]
-http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
+https://streaming.toutech.net/live/jtv/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/bd/f5/fullhd_527bf54a5adb56ac17f572ac2cd0801304db3baf.png" group-title="Arabic",Jeddah Radio
@@ -813,11 +813,7 @@ https://ghaasiflu.online/alhqeqa/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tiQp2sR.png" group-title="Arabic",Alhurra
-https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fsgQDcN.png" group-title="Arabic",Alhurra Iraq
-https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/merge.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://alikhbariah.com/wp-content/themes/alekhbariah-custom-theme/img/logo.webp" group-title="Arabic",Alikhbaria Syria
@@ -1256,8 +1252,8 @@ https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="Arabic",like Gecko) Chrome/154.0.0.0 Safari/537.36" group-title="Arabic",MBC 3 USA
-https://sh.cdn1-stmify.workers.dev/out/v1/MBC_3_USA/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="Arabic",MBC 3 USA
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hdsrxvX.png" group-title="Arabic",Taha TV
