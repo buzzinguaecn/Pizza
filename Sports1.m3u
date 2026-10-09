@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 04:37:17AM - 09-10-2026
-# Total Channels: 447
+# Update Time: 09:32:50AM - 09-10-2026
+# Total Channels: 444
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -80,11 +80,6 @@ http://88.212.15.19/live/test_arenasport/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Yq3Jf19.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports1",Arena Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/Arena_Sport_5_Premium_%282025%2C_short%29.png/revision/latest?cb=20260619135051" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports1",Arena Sport 5 Premium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://nl1.nghk.ai/SK2SRHD/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="Sports1",Arryadia
@@ -314,23 +309,8 @@ http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8
 https://7nyaler.streamhostingcdn.top/stream/79/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5zMxDYq.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Sports1",Digi Sport 1 HD (576i)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dokagents.site/live/digisport1/mono.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KWDUi3v.png" group-title="Sports1",Digi Sport 2 HD (1080i)
 https://lbgo.bozztv.com/ssh101/ssh101/digisport222/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T1ci5UK.png" http-user-agent="Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36" group-title="Sports1",Digi Sport 3 (576i)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36
-https://dokagents.site/live/digisport3/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Knj9I6f.png" http-user-agent="Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36" group-title="Sports1",Digi Sport 4 (576i)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36
-https://dokagents.site/live/digisport4/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.logos-download.com/114030/29915-s5120-904df224e4c030fefcc45adda448b6e8.png/DiviSport_Logo_2023-s5120.png" group-title="Sports1",DiviSport
@@ -529,6 +509,10 @@ http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="Sports1",Fox Sports
+http://138.59.227.20:8000/play/a085/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yvUjOI3.png" group-title="Sports1",FTF Sports
 https://1593604785.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
 
@@ -604,6 +588,10 @@ https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/960px-Golf_Channel_Logo_2018.png" group-title="Sports1",Golf Channel Latin America
 http://15.204.246.24:8080/GolfChannelHD/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZR8cRj8d/Golf-Zone.png" group-title="Sports1",Golf Zone
+http://57.128.231.171:8080/248/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nt9B6jx.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Sports1",Hard Knocks
@@ -1023,11 +1011,6 @@ https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-a
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BURPHzI.png" group-title="Sports1",Premier Sports
 https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.media-max.ro/wp-content/uploads/2022/11/Prima-Sport-5-HD-disponibil-in-grila-Vodafone.jpg" http-user-agent="Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36" group-title="Sports1",Prima Sport 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36
-https://dokagents.site/live/pr5/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://prime1tv.com/wp-content/uploads/2025/12/7-1.png" group-title="Sports1",Prime (Syria)
