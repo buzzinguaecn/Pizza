@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 03:58:45AM - 10-10-2026
-# Total Channels: 444
+# Update Time: 09:13:12AM - 10-10-2026
+# Total Channels: 447
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -377,6 +377,15 @@ http://181.78.197.59:8000/play/a07z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd-deportes_c.png" group-title="Sports1",ESPN Deportes HD
 http://168.228.44.241:9998/play/a0dz/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8P8N2Ov.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/145.0.0.0 Safari/537.36" group-title="Sports1",ESPN Extra Latin America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd?
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="Sports1",ESPN Premium HD
+http://190.128.214.97:64333/play/a02i/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="Sports1",ESPNU
@@ -1635,6 +1644,10 @@ https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor
 http://58.8.186.128:10004/bysid/2418
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJyAWU8.png" group-title="Sports1",TSN4
+http://109.104.153.220:80/TSN-4/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png" group-title="Sports1",TSN The Ocho
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 
@@ -1697,7 +1710,7 @@ https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Sports1",TyC Sports
-http://45.181.87.106/TYCSPORTSHD/index.m3u8
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Sports1",TyC Sports USA
