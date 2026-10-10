@@ -1,5 +1,5 @@
 #EXTM3U
-# Update Time: 10:32:37PM - 10-10-2026
+# Update Time: 02:50:05AM - 11-10-2026
 # Total Channels: 46
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
@@ -181,6 +181,7 @@ https://live-stream.skynewsarabia.com/c-vertical-channel/vertical-stream/index.m
 
 
 #EXTINF:-1 group-title="Arab-Emirates" ,Spacetoon Arabic
+#EXTVLCOPT:http-referrer=https://spacetoon.com
 https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8
 
 
