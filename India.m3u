@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 09:13:12AM - 10-10-2026
-# Total Channels: 855
+# Update Time: 05:32:26PM - 10-10-2026
+# Total Channels: 857
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -308,7 +308,7 @@ https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
 https://stream.ottlive.co.in/hindikhabar/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143136_ld_h15_aa.png?lock=720x540" group-title="India",HMTV
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143136_ld_h15_aa.png?lock=720x540" group-title="India",HMTV (India)
 https://cdn.pishow.tv/ott/live/280/master.m3u8
 
 
@@ -1332,8 +1332,12 @@ http://51.75.127.199:3141/wahpunjabi/index.m3u8
 https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png" group-title="India",YRF Music
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pKj3F4M.png" group-title="India",YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mxx05Z9.png" group-title="India",YRF Music Nepal
+https://vidaa.kableone.com/hls/live/2111218/YrfMusic/1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/zbmusic.png" group-title="India",ZB Music
@@ -1346,6 +1350,10 @@ http://107.167.16.138/zing/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png" group-title="India",Zoom (India)
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png" group-title="India",Zoom (India) Nepal
+https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png" group-title="India",&TV
