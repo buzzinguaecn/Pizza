@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 10:57:46PM - 11-10-2026
-# Total Channels: 5589
+# Update Time: 03:11:23AM - 12-10-2026
+# Total Channels: 5591
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -10744,6 +10744,10 @@ https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w2685575259_b744100_s
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/antv.png" group-title="Indonesia",02. ANTV 2
+http://013tv.com:8080/F33848/cbd9779b/165072
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/antv.png" group-title="Indonesia",02. ANTV 1
 http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
 
@@ -10790,6 +10794,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mediampd/DAAITV.mpd
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/daaitv.jpg" group-title="Indonesia",34. DAAI TV (FEED)
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/net.png" group-title="Indonesia",13. MDTV 2
+http://202.150.161.212:5000/live/channel31/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/bntv.jpg" group-title="Indonesia",50. BN TV (INTECH)
