@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 05:55:29AM - 13-10-2026
-# Total Channels: 197
+# Update Time: 10:30:25AM - 13-10-2026
+# Total Channels: 198
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -22,6 +22,10 @@ http://138.59.227.20:8000/play/a05u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l4TSfDr.png" group-title="Argentina",ABTV Bariloche
 https://videostream.shockmedia.com.ar/hls/abtvbariloche/abtvbariloche.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png" group-title="Argentina",Adult Swim Latin America
+http://170.244.209.30:8000/play/a02v/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/60vSWW0.png" group-title="Argentina",Aire de Santa Fe
@@ -407,7 +411,7 @@ http://45.185.163.75:8000/play/a016/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Argentina",Disney Jr. Latin America South HD
-http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Argentina",DSports
