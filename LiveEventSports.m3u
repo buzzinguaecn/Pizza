@@ -53,8 +53,12 @@
 # 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Football 🟢🟢🟢🟢🟢🟢
 
 
-#EXTINF:-1 tvg-id="sonyliv-1090547795" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025826/179109030000422_UYL26_Villarreal_vs_Napoli_live_landscape_thumb.jpg" group-title="SAWARID سواريد - Football", Villarreal vs Napoli - 13 Oct 2026 | UEFA Youth League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791942671~acl=/*~id=53571488147588431695791173069995~hmac=fcec0f3cc8abfd36018b1e06f7a79af2df8fbf24f4736a88fe17fc79cb744edf
+#EXTINF:-1 tvg-id="sonyliv-1090547842" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791169760121329_UCL2627_MD2_Lens_vs_SportingCP_landscape_thumb.jpg" group-title="SAWARID سواريد - Football", Lens vs Sporting CP - MD2 - 13 Oct 2026 | UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791951643~acl=/*~id=48008506554638385024598208552323~hmac=365fe173278ac77b8411a7f0651fbaf8ab5f196ca6594305ed9e6d446db4684a
+
+
+#EXTINF:-1 tvg-id="sonyliv-1090547843" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791170232100329_UCL2627_MD2_Sabah_vs_Slavia_Praha_landscape_thumb.jpg" group-title="SAWARID سواريد - Football", Sabah vs Slavia Praha - 13 Oct 2026 | UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791951652~acl=/*~id=37612463050887949662377689323105~hmac=4a3bc6d49fdf11857769a0e9a05ed9009dd4e12ad7cbbd8eeaf51ae96a80666c
 
 
 # 🆕 SAWARID سواريد - Football 👉 Updateded Done ✅✅✅✅✅✅
@@ -66,28 +70,12 @@ https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive1310/ENG/std_lrh-800
 # 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Cricket 🟢🟢🟢🟢🟢🟢
 
 
-#EXTINF:-1 tvg-id="B0HLG67G7Q" tvg-name="Afghanistan vs Bangladesh in UAE 2026 - One-off Test - Afghanistan vs Bangladesh" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.abf514cc-bb21-4f3c-900b-065784936f1b/9/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="SAWARID سواريد - Cricket",Afghanistan vs Bangladesh in UAE 2026 - One-off Test - Afghanistan vs Bangladesh
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a2214fdc084b8b63e81e8538f619028b:38623ddd2f6879754eb796e7e83778c2
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wvkvmlaalt/out/v1/5d0ae98a28814b1f92804c8fb583bfcc/cenc.mpd
-
-
-#EXTINF:-1 tvg-id="B0HK14NRTX" tvg-name="World Championship of Legends 2026 - 14th Match -  South Africa Champions vs England Champions" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cdc9cd37-d91c-4bfd-98de-3dca55bce2e8/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="SAWARID سواريد - Cricket",World Championship of Legends 2026 - 14th Match -  South Africa Champions vs England Champions
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f68ee17bb04e91269fe9b7aa25638467:ea4b416e8694fa1dcf92e3b4b318c7d8
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/eax7szfszf/out/v1/721844f560444e3991ac80af6169f7a3/cenc.mpd
-
-
 #EXTINF:-1 tvg-id="B0HL1539PF" tvg-name="Sri Lanka tour of Pakistan 2026 - 3rd T20I - Pakistan vs Sri Lanka" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.51687d87-e60f-4b13-b24a-cdc87f75cd9c/5/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="SAWARID سواريد - Cricket",Sri Lanka tour of Pakistan 2026 - 3rd T20I - Pakistan vs Sri Lanka
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ede638607823805e7767784e4558292b:91fccc57c058218c2a22fa21f378a1af
-https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/1izizyimsv/out/v1/8e83c58952df4181b17e46dd1253d66e/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/1izizyimsv/out/v1/8e83c58952df4181b17e46dd1253d66e/cenc.mpd
 
 
 #EXTINF:-1 tvg-id="B0HL8XQ54M" tvg-name="Atlanta Open T20 2026 - 1st Match - ICR Falcons vs All Stars Cardinals" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b719baa2-6bec-4a46-8c30-ed697705c000/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="SAWARID سواريد - Cricket",Atlanta Open T20 2026 - 1st Match - ICR Falcons vs All Stars Cardinals
@@ -95,7 +83,7 @@ https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/1izizyimsv
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8d8c7a199d1d3201edcd77ad23a56636:4ef990a3da8025ede81e8b2dbe158eee
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/yoqsehjli4/out/v1/146b94e0275e4876b160c2284c97117b/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/yoqsehjli4/out/v1/146b94e0275e4876b160c2284c97117b/cenc.mpd
 
 
 #EXTINF:-1 tvg-id="B0HMP5RSYC" tvg-name="Atlanta Open T20 2026 - 2nd Match - Prime Gladiators vs Atlanta Force" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1aff7eec-1af3-4f98-b32d-1ae28480d28b/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="SAWARID سواريد - Cricket",Atlanta Open T20 2026 - 2nd Match - Prime Gladiators vs Atlanta Force
@@ -111,31 +99,18 @@ https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fnawicszul
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1e52f136a486820c3bedeea6869903ab:f272649ec1b7f44198a62f01da0e38a3
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bafo2fufrs/out/v1/8c3c8c859fc447e1adae50eca2293775/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bafo2fufrs/out/v1/8c3c8c859fc447e1adae50eca2293775/cenc.mpd
 
 
-#EXTINF:-1 tvg-id="B0HKRXBRWV" tvg-name="World Championship of Legends 2026 - 15th Match - India Champions vs West Indies Champions" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dc23bbae-312c-498d-a861-9e646bdd67cb/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="SAWARID سواريد - Cricket",World Championship of Legends 2026 - 15th Match - India Champions vs West Indies Champions
+#EXTINF:-1 tvg-id="B0HKRXBRWV" tvg-name="World Championship of Legends 2026 - 15th Match - India Champions vs West Indies Champions" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dc23bbae-312c-498d-a861-9e646bdd67cb/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="SAWARID سواريد - Cricket",World Championship of Legends 2026 - 15th Match - India Champions vs West Indies Champions
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=07d2bdb28f769642674f06186e07dc80:b6f46ea24ca3841dde63374caa5ecef6
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/0o0sfxif50/out/v1/96ec63a0253f4f4dbca19d1977080209/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0o0sfxif50/out/v1/96ec63a0253f4f4dbca19d1977080209/cenc.mpd
 
 
 # 🆕 SAWARID سواريد - Cricket 👉 Updateded Done ✅✅✅✅✅✅
-
-
-# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
-
-
-# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Archery 🟢🟢🟢🟢🟢🟢
-
-
-#EXTINF:-1 tvg-id="sonyliv-1090547796" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026134/1791662341885703_APL26_Prithviraj_Yodhas_vs_Mighty_Marathas_live_landscape_thumb.jpg" group-title="SAWARID سواريد - Archery", Prithviraj Yodhas vs Mighty Marathas - 13 Oct 2026 | Archery Premier League 2026
-https://sonydaimenew.akamaized.net/hls/live/2120303/Archery_1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791942654~acl=/*~id=52202277425947946907390348955007~hmac=d7b92e679ec3889bb3acec38f2a5067ae38a049d1581742f514808cfee46858d
-
-
-# 🆕 SAWARID سواريد - Archery 👉 Updateded Done ✅✅✅✅✅✅
 
 
 # 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
