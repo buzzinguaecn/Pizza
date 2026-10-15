@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 04:31:04PM - 15-10-2026
-# Total Channels: 776
+# Update Time: 09:55:26PM - 15-10-2026
+# Total Channels: 782
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -1940,6 +1940,10 @@ https://mumbai-edge.smartplaytv.in/DDNational/index.m3u8
 https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540" group-title="India",Discovery Channel (India)
+https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_E24/images/LOGO_HD/image.png" group-title="India",E 24
 https://mumt04.tangotv.in/m18aqlK4E24/index.m3u8
 
@@ -2308,6 +2312,10 @@ https://ranacable.duckdns.org/ZodiakTv/index.m3u8
 https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET/images/LOGO_HD/image.png" group-title="India",Animal Planet (India)
+https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET/images/LOGO_HD/image.png" group-title="India",Animal Planet (India) HD
 https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
 
@@ -2326,6 +2334,10 @@ http://103.151.60.162:2122/play/a00y/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540" group-title="India",History TV18 HD
 https://techtraveleat.in/stream.m3u8?id=historytv18eng
+
+
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY/images/LOGO_HD/image.png" group-title="India",Investigation Discovery (India)
+https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png" group-title="India",INWILD
@@ -2944,6 +2956,10 @@ https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540" group-title="India",Eurosport
+https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://papaji.freetvindia.com/media/kabaddi_24x7.png" group-title="India",Kabaddi 24x7
 http://180.188.254.253/live/KABADDI24X7.m3u8
 
@@ -3012,6 +3028,18 @@ http://103.151.60.162:2122/play/a0fj/index.m3u8?hls
 http://103.151.60.162:2122/play/a01m/index.m3u8?hls
 
 
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s159107_ld_h15_aa.png?lock=720x540" group-title="India",Discovery Science
+https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn.uc.assets.prezly.com/f12e798d-6da4-46e1-8ec5-e391d6762659/InWonder_portrait-purple.png" group-title="India",InWonder
+https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_TURBO/images/LOGO_HD/image.png" group-title="India",Discovery Turbo (India)
+https://drk6xq0vhn.gpcdn.net/live/discovery_turbo_abr/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Comedy.png" group-title="India",ETV Comedy
 https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8
 
@@ -3034,10 +3062,6 @@ https://amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv/playlist/amg01
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jT3NCPp/logo-tv.png" group-title="India",Indywood TV
 https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://cdn.uc.assets.prezly.com/f12e798d-6da4-46e1-8ec5-e391d6762659/InWonder_portrait-purple.png" group-title="India",InWonder
-https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JAYA_PLUS/images/LOGO_HD/image.png" group-title="India",Jaya Plus
