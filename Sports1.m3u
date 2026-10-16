@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 02:39:56AM - 16-10-2026
-# Total Channels: 465
+# Update Time: 08:07:09AM - 16-10-2026
+# Total Channels: 469
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -673,6 +673,10 @@ http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 http://138.59.227.20:8000/play/a085/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FhMQrJk.png" group-title="Sports1",Fox Sports News
+https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yvUjOI3.png" group-title="Sports1",FTF Sports
 https://1593604785.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
 
@@ -825,6 +829,11 @@ http://45.4.1.201:8000/play/a1ai/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Sports1",L1 Max
 http://190.93.224.42/LIGA-1-MAX/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t35zhM9.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/133.0.0.0 Safari/537.36" group-title="Sports1",L'Equipe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m_xSJFydxZ9QBU-85OuchjmzS0Bo0_Tukmk7to8hBfyl8=s512-c-k-c0x00ffffff-no-rj" group-title="Sports1",Lacrosse TV
@@ -1344,6 +1353,18 @@ https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TxQvFnQ.png" group-title="Sports1",Sky Racing 2
 https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" http-referrer="https://stmify.com/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/155.0.0.0 Safari/537.36" group-title="Sports1",Sky Sports F1
+#EXTVLCOPT:http-referrer=https://stmify.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+https://cdn.stmify.com/out/v1/SKY_SPORTS_F1/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1333.png" http-referrer="https://stmify.com/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/155.0.0.0 Safari/537.36" group-title="Sports1",Sky Sports NFL
+#EXTVLCOPT:http-referrer=https://stmify.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+https://cdn.stmify.com/out/v1/SKY_SPORTS_ACTION/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8bzAfgK.png" group-title="Sports1",Slopes TV
