@@ -185,21 +185,21 @@ http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 https://amg00771-kochfilmsgerman-moviedomefamily-tcl-tpicw.amagi.tv/playlist/amg00771-kochfilmsgerman-moviedomefamily-tcl/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="English", My Time
+#EXTINF:-1 tvg-logo="" group-title="English", My Time Movie
 https://mytime-tcl.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="English", My Time UK
+#EXTINF:-1 tvg-logo="" group-title="English", My Time Movie UK
 https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="English",
+#EXTINF:-1 tvg-logo="" group-title="English", My Time Movie Network
+https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="English", My Time Movie Network BR
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="English",
-
-
-#EXTINF:-1 tvg-logo="" group-title="English",
-
+#EXTINF:-1 tvg-logo="" group-title="English", Sparkle Movies
+https://61fc4f1a40a342daa23f92141853b7b4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_SparkleMovies/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="English",
 
