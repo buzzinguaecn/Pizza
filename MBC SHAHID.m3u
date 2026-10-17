@@ -44,3 +44,44 @@ https://shd-amg-fast.edgenextcdn.net/tx020/1080p-d/index.m3u8
 
 
 #KSA MBC siksa40/Siksa-Player/main/mbc_shahid.m3u
+
+
+
+
+#EXTINF:-1 tvg-id="MBC 1 HD.sa" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/rRwmJm8c/mbc-1.png" group-title="MBC شاهد", MBC 1
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
+
+#EXTINF:-1 tvg-id="MBC Drama HD.sa" tvg-name="MBC DRAMA" tvg-logo="https://i.ibb.co/WNTgbyQH/mbc-drama.png" group-title="MBC شاهد", MBC DRAMA
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
+
+#EXTINF:-1 tvg-id="MBC+ Drama HD.sa" tvg-name="MBC+ DRAMA" tvg-logo="https://i.ibb.co/ksc4ZS9j/mbc-plus-drama.png" group-title="MBC شاهد", MBC+ DRAMA
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
+
+#EXTINF:-1 tvg-name="MBC MASR DRAMA" tvg-logo="https://i.ibb.co/JWBzpr7B/mbc-maser-drama.png" group-title="MBC شاهد", MBC MASR DRAMA
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
+
+#EXTINF:-1 tvg-id="MBCMasr.eg@SD" tvg-logo="https://i.imgur.com/o2elx0u.png" group-title="MBC شاهد", MBC Masr
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8
+
+#EXTINF:-1 tvg-id="MBC MASR 2.sa" tvg-name="MBC MASR 2" tvg-logo="https://i.ibb.co/HTNBsb3t/mbc-maser-2.png" group-title="MBC شاهد", MBC MASR 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-drm-license=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
+https://shd-mediacdn-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/7eaa7c0393e9a9637ae311aac75eb40e/index.mpd
+
+#EXTINF:-1 tvg-name="MBC IRAQ" tvg-logo="https://i.ibb.co/4qHDJDR/mbc-iraq.png" group-title="MBC شاهد", MBC IRAQ
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
+
+#EXTINF:-1 tvg-id="MBC 4 HD.sa" tvg-name="MBC 4" tvg-logo="https://i.ibb.co/RT3DcsRB/mbc-4.png" group-title="MBC شاهد", MBC 4
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
+
+#EXTINF:-1 tvg-name="MBC 5" tvg-logo="https://i.ibb.co/KzSkvg6d/mbc-5.png" group-title="MBC شاهد", MBC 5
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+
+#EXTINF:-1 tvg-name="MBC 5" tvg-logo="https://hala-tv.com/images/hala_logo.png" group-title="MBC شاهد",  هلا قناة
+https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=867c8d7670eab5e7aa10571830ad3d8c:030cf68626950b12145bc7147d6a9bda
+#KODIPROP:inputstream.adaptive.manifest_type=dash
