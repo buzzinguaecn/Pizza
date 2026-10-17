@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 02:12:47AM - 17-10-2026
-# Total Channels: 469
+# Update Time: 08:00:51AM - 17-10-2026
+# Total Channels: 476
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -132,6 +132,38 @@ https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d8x7c8i.png" group-title="Sports1",Barca TV
 https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="Sports1",beIN Sports 1
+http://primetv.cc.cd/beinfhd1/tracks-v1a1/mono.tbin.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="Sports1",beIN Sports 2
+http://primetv.cc.cd/beinfhd2/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="Sports1",beIN Sports 3
+http://primetv.cc.cd/beinfhd3/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vwAgJNi.png" group-title="Sports1",beIN Sports 4
+http://primetv.cc.cd/beinfhd4/tracks-v1a1/mono.tbin.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Rha5aY.png" group-title="Sports1",beIN Sports 5
+http://primetv.cc.cd/beinfhd5/tracks-v1a1/mono.tbin.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0wBdLYb.png" group-title="Sports1",beIN Sports 6
+http://primetv.cc.cd/beinfhd6/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iODFwZi.png" group-title="Sports1",beIN Sports 7
+http://primetv.cc.cd/beinfhd7/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CaFEyVn.png" group-title="Sports1",beIN Sports 8
+http://primetv.cc.cd/beinfhd8/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Sports1",beIN SPORTS XTRA
@@ -1862,10 +1894,6 @@ http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12077/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/960px-Iribvarzesh2022.png" group-title="Sports1",Varzesh TV
 https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Viaplay_TV_logo.svg" group-title="Sports1",Viaplay TV [Not 24/7]
-https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fXESG0l.png" group-title="Sports1",viju+ Sport
