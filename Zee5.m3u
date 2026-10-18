@@ -63,10 +63,14 @@ http://198.195.239.50:8095/starJalsha/index.m3u8
 https://iptvlive-beta.vercel.app/jalsha-movies/index.m3u8
 http://198.195.239.50:8095/jalshaMovies/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RcS6984/image.jpg" group-title="SAWARID سواريد - Zee5", Star Maa Movies HD
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Ss5tqm2x/image.jpg" group-title="SAWARID سواريد - Zee5", Sony Aath
+https://drk6xq0vhn.gpcdn.net/live/sony_aath_abr/index.m3u8
 http://198.195.239.50:8095/sonyAath/index.m3u8
 https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
-#https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCzKNs7B/image.jpg" group-title="SAWARID سواريد - Zee5", Colors Bengali HD
