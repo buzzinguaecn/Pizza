@@ -137,8 +137,12 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwYm1HYJ/resized-300x180-ffffff-16.jpg" group-title="All Sports", T Sports
-https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8
+https://robitv.com/rn/http://45.117.61.162/01_Tsports_HD/tracks-v1a1/mono.m3u8
+http://116.204.149.16/T_SportsFHD/index.m3u8
+#https://robitv.com/lps/http://116.204.149.16/T_SportsFHD/index.m3u8
+#https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8
 https://playztv-apps.pages.dev/ptv-sports/index.m3u8
+
 
 
 
@@ -199,14 +203,11 @@ https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 #EXTINF:-1 tvg-logo="" group-title="All Sports", 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HntSg3xw/20240823_024624.png" group-title="All Sports",Willow Sports NEW
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DySZB4wf/image.jpg" group-title="All Sports", Willow Sports
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WzLL5m4Z/Willow-SPORTS1.png" group-title="All Sports", Willow Sports
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=71a0d47149350b92846f380f637114f8:bf5386127fc245e3525c39060550d621
@@ -215,12 +216,16 @@ https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/alfd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=881660f21b521a54803840a388caaffa:b152a33ccb29c23fc05f8e6379f69551
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rg1wbyohtc/out/v1/e3fc25fcd54141b0a1aa39c1b04c0d7b/cenc.mpd
-https://tvsen5.aynaott.com/willowhd/index.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RwSzp4q/image.jpg" group-title="All Sports", Willow 2
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmb55FMQ/Willow-SPORTS1-Cricbuzz.png" group-title="All Sports", Willow by Cricbuzz
 https://tvsen5.aynaott.com/willowhd/index.m3u8
 https://tvsen7.aynaott.com/Sports1/index.m3u8
 
@@ -367,7 +372,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="All Sports", VIX
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CK80wc5Q/Vi-X-Logo.png" group-title="All Sports", VIX
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -395,7 +400,7 @@ https://cdn.rabta.stream/M-Sports/index.m3u8
 https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="All Sports", ATN 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/q7wL6TNy/ATN-Sports.png" group-title="All Sports", ATN 
 https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8
 
 
@@ -506,7 +511,7 @@ https://webott.viatv.com.np/v0t1/CineplexHD.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="All Sports", 
 
-#EXTINF:-1 tvg-logo="" group-title="All Sports", Trace Sport
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBrkQkk3/Trace-Sports-Stars.png" group-title="All Sports", Trace Sports Star
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 
