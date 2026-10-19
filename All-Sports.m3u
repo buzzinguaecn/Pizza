@@ -231,6 +231,8 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rmb55FMQ/Willow-SPORTS1-Cricbuzz.png" group-title="All Sports", Willow by Cricbuzz
 https://tvsen5.aynaott.com/willowhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmb55FMQ/Willow-SPORTS1-Cricbuzz.png" group-title="All Sports", Willow 2 by Cricbuzz 
 https://tvsen7.aynaott.com/Sports1/index.m3u8
 
 
@@ -829,6 +831,7 @@ http://103.59.176.72:8083/live3/tracks-v1a1/mono.m3u8?token=123
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Sx4trrVy/image.jpg" group-title="All Sports", Star Sports 1 HD
 https://footfytv.pro/proxy/direct?url=https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8
+https://warm-caverns-48629-92fab798385f.herokuapp.com/https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85zmvH5B/image.jpg" group-title="All Sports", Star Sports 1 HINDI
 http://103.59.176.72:8083/ss1_hindi/tracks-v1a1/mono.m3u8?token=123
@@ -877,7 +880,7 @@ http://103.175.73.12:8080/live/68/68_0.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/starsportshd2/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKpZnCCD/image.jpg" group-title="All Sports", Star Sports 2 HD
-http://103.175.73.12:8080/live/67/67_0.m3u8
+https://s3.itcnbd.live/server-6/stream/aW1nL3BsYXkucGhwP3N0cmVhbT0xMTU.m3u8
 
 
 
