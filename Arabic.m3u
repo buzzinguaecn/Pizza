@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 08:17:14AM - 19-10-2026
-# Total Channels: 355
+# Update Time: 05:29:46PM - 19-10-2026
+# Total Channels: 354
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -700,10 +700,6 @@ https://hls.afintl.com/hls/stream.m3u8
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zdi31dy.png" group-title="Arabic",Al Alam
-https://live2.alalam.ir/alalam.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aAGjAoW.png" group-title="Arabic",Al Alam Al Yawm
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b928000.m3u8
 
@@ -793,7 +789,7 @@ https://edge.fastpublish.me/live/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WQKYPKD.png" group-title="Arabic",Alalam News Channel Syria
-http://live2.alalam.ir/live/Alalam/index.m3u8
+http://live2.alalam.ir/alalam.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/a4c125db-ede8-4970-9eed-963948c78651?height=auto&width=512&croppingPoint=&version=1&type=png" group-title="Arabic",Alarabiya
