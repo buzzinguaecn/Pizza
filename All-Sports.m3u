@@ -207,15 +207,19 @@ https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/WzLL5m4Z/Willow-SPORTS1.png" group-title="All Sports", Willow Sports
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WzLL5m4Z/Willow-SPORTS1.png" group-title="All Sports", Willow Sports 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=71a0d47149350b92846f380f637114f8:bf5386127fc245e3525c39060550d621
 https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/alfdweafqm/out/v1/a429fd66def345f7baf21a2a43c12dfd/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WzLL5m4Z/Willow-SPORTS1.png" group-title="All Sports", Willow Sports
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=881660f21b521a54803840a388caaffa:b152a33ccb29c23fc05f8e6379f69551
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rg1wbyohtc/out/v1/e3fc25fcd54141b0a1aa39c1b04c0d7b/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WzLL5m4Z/Willow-SPORTS1.png" group-title="All Sports", Willow Sports 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
@@ -778,6 +782,7 @@ http://103.175.73.12:8080/live/80/80_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PxNJTbZP/image.jpg" group-title="All Sports", Star Sports Select 1
 https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
+https://footfytv.pro/proxy/direct?url=https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/starsportsselect1/master.m3u8
 
 
@@ -802,7 +807,8 @@ http://103.175.73.12:8080/live/282/282_0.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZQMVhmz/image.jpg" group-title="All Sports",Star Sports Select 2HD
-https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
+https://footfytv.pro/proxy/direct?url=https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
+#https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
 
 
 
@@ -819,12 +825,10 @@ https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Sx4trrVy/image.jpg" group-title="All Sports", Star Sports 1
 http://103.59.176.72:8083/live3/tracks-v1a1/mono.m3u8?token=123
-#https://crichd.workspace-sultanarabi161.workers.dev/live/star1in.m3u8
-#https://tvsen7.aynaott.com/sspts1/index.m3u8
-#https://tvsen5.aynaott.com/c9EpzZ6fQBJ3/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Sx4trrVy/image.jpg" group-title="All Sports", Star Sports 1 HD
-http://103.175.73.12:8080/live/65/65_0.m3u8
+https://footfytv.pro/proxy/direct?url=https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85zmvH5B/image.jpg" group-title="All Sports", Star Sports 1 HINDI
 http://103.59.176.72:8083/ss1_hindi/tracks-v1a1/mono.m3u8?token=123
