@@ -1,5 +1,5 @@
 #EXTM3U
-# 🆕 FANCODE PROXY - Updated: 2026-10-20 07:15:52 🟡
+# 🆕 FANCODE PROXY - Updated: 2026-10-20 10:23:20 🟡
 
 
 #EXTINF:-1 tvg-id="4249665" tvg-name="Tasmania Vs Victoria" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249665_53087_TAS_VCT_FC-WEB_1791295173197.jpg" tvg-language="English" group-title="Cricket",ENG | Tasmania Vs Victoria
@@ -10,5 +10,9 @@ https://cinexcricket.com/proxy/universal.php/?url=https://dai-fancode.pages.dev/
 https://cinexcricket.com/proxy/universal.php/?url=https://dai-fancode.pages.dev/mumbai/4249666_english_hls_b5f24432ee17869_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 
-#EXTINF:-1 tvg-id="4249802" tvg-name="Adelaide Strikers Women Vs Perth Scorchers Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Semifinal1web.png" tvg-language="English" group-title="Cricket",ENG | Adelaide Strikers Women Vs Perth Scorchers Women
-https://cinexcricket.com/proxy/universal.php/?url=https://dai-fancode.pages.dev/mumbai/4249802_english_hls_04f2a3915058094_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4249667" tvg-name="New South Wales Vs Western Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249667_53087_WAU_NSW_FC-WEB_1791299730396.jpg" tvg-language="English" group-title="Cricket",ENG | New South Wales Vs Western Australia
+https://cinexcricket.com/proxy/universal.php/?url=https://dai-fancode.pages.dev/mumbai/4249667_english_hls_27a33faf8092749_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+
+#EXTINF:-1 tvg-id="4249803" tvg-name="Sydney Thunder Women Vs Sydney Sixers Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg" tvg-language="English" group-title="Cricket",ENG | Sydney Thunder Women Vs Sydney Sixers Women
+https://cinexcricket.com/proxy/universal.php/?url=https://dai-fancode.pages.dev/mumbai/4249803_english_hls_92b4be285d73803_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
