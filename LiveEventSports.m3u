@@ -1,20 +1,20 @@
 
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
- "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html>
-  <head>
-    <title>503 between bytes timeout</title>
-  </head>
-  <body>
-    <h1>Error 503 between bytes timeout</h1>
-    <p>between bytes timeout</p>
-    <h3>Error 54113</h3>
-    <p>Details: cache-dfw-kdal2120033-DFW 1792648899 1835690673</p>
-    <hr>
-    <p>Varnish cache server</p>
-  </body>
-</html>
+#EXTM3U
+# 👉 All links included in this file have been collected from publicly available sources. If any content owner wishes to have their source removed, please feel free to contact us. We deeply respect your work and opinions, and we will promptly honor your request without any objection.
+# 👉 Please note that neither I nor our team own any of the TV channels listed here. All channels belong to their respective owners. We only collect and share freely available sources so that everyone can enjoy them easily. These streaming links are widely accessible across many platforms on the internet. Our intention is solely for entertainment purposes. 
+# 👉 If you find any of your content or source in our playlist and would like it to be removed, please feel free to contact us via inbox. We will take immediate action. 👈
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
 #
 #
 #
@@ -53,6 +53,14 @@
 # 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Cricket 🟢🟢🟢🟢🟢🟢
 
 
+#EXTINF:-1 tvg-id="B0HN5MNSPC" tvg-name="New Zealand vs. India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e2a60804-e877-4e77-bc40-5f237b95235a/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="SAWARID سواريد - Cricket",New Zealand vs. India
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3125d35cc46b342a0534a9c5ddd6d31:426221d3ffae19a037f5c755508dbf3c
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/meouoxphzm/out/v1/be7934dca1254ed0924242347f93c4e3/cenc.mpd
+
+
 #EXTINF:-1 tvg-id="4249667" tvg-name="New South Wales Vs Western Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249667_53087_WAU_NSW_FC-WEB_1791299730396.jpg" tvg-language="English" group-title="SAWARID سواريد - Cricket",ENG | New South Wales Vs Western Australia
 https://cinexcricket.com/proxy/universal.php/?url=https://dai-fancode.pages.dev/mumbai/4249667_english_hls_27a33faf8021593_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
@@ -88,7 +96,15 @@ https://sonydaimenew.akamaized.net/hls/live/2018457/Golf_Gen2210/ENG/std_lrh-800
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="B0HN5MNSPC" tvg-name="New Zealand vs. India" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e2a60804-e877-4e77-bc40-5f237b95235a/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="SAWARID سواريد - Prime Video Sports",New Zealand vs. India
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3125d35cc46b342a0534a9c5ddd6d31:426221d3ffae19a037f5c755508dbf3c
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bgbz26zmfn/out/v1/b89d7a705a56462e8c4eee6f4fcbc518/cenc.mpd
 
 
 # 🆕 SAWARID سواريد - Prime Video Sports 👉 Updateded Done ✅✅✅✅✅✅
@@ -97,3 +113,355 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1
 # 🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡 Local Channel Updated  🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/q7m81gFX/20260910-1789032174-357.jpg" group-title="FIFA ASEAN Cup 2026", Server
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
+https://playztv-apps.pages.dev/ptv-sports/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z58NNHv9/image.jpg" group-title="All Sports", TALK SPORT
+
+
+#EXTINF:-1 tvg-logo="" group-title="Football", Ban 🆚 Mal
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports", 
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports",
+#🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+#🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵
+#🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+#🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵
+#🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵
+#🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+#🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵
+#🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+#🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+#🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+#🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+#🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+#🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+#🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports", 
+
+
+#EXTINF:-1 tvg-logo="" group-title="All Sports", 
+#🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N08GvLX8/IMG-20260718-WA0008.jpg" group-title="FIFA-26 Highlights", ESP 🆚 ARG 1st Half
+https://img.refooty.com/m3u8/14686-Vtynu.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N08GvLX8/IMG-20260718-WA0008.jpg" group-title="FIFA-26 Highlights", ESP 🆚 ARG-2nd Half
+https://img.refooty.com/m3u8/14688-mRRNn.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N08GvLX8/IMG-20260718-WA0008.jpg" group-title="FIFA-26 Highlights", ESP 🆚 ARG-1st Extra Time
+https://img.refooty.com/m3u8/14689-2eydem3u8-sN8bm.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N08GvLX8/IMG-20260718-WA0008.jpg" group-title="FIFA-26 Highlights", ESP 🆚 ARG-Caremony
+https://img.refooty.com/m3u8/14690-dmzmzm3u8-VsMoJ.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N08GvLX8/IMG-20260718-WA0008.jpg" group-title="FIFA-26 Highlights", ESP 🆚 ARG-Highlight
+https://img.refooty.com/m3u8/14695-0jol9m3u8-seboq.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5NHGj4H7/743175241-1455701746576923-7211260196743869376-n.jpg" group-title="FIFA-26 Highlights", FRANCE 🆚 SPAIN 
+https://img.refooty.com/m3u8/14667-4JfNe.m3u8
+https://france-vs-spain-14-july-2026-jvu6um3u8-Fk2uP.m3u8
+https://img.refooty.com/m3u8/france-vs-spain-14-july-2026-jvu6um3u8-Fk2uP.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZh9X7m3/743175241-1455701746576923-7211260196743869376-n.jpg" group-title="FIFA-26 Highlights", Argentina 🆚 Switzerland
+https://img.refooty.com/m3u8/argentina-vs-switzerland-full-match-11-july-2026-zkpflm3u8-9RVsQ.m3u8
+https://img.refooty.com/m3u8/argentina_3xUio.m3u8
+#🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ys3vWCy/image.jpg" group-title="Sports-Highlights", Super 4 - Match 1 || SL vs BAN
+https://d3pt6y87jk0q7u.cloudfront.net/cpanel/client_14/2025/video/1758398072.mp4
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfYcq5SY/image.jpg" group-title="Sports-Highlights", Match 12 | India vs Oman
+https://d3pt6y87jk0q7u.cloudfront.net/cpanel/client_14/2025/video/1758340183.mp4
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMHwnqqY/image.jpg" group-title="Sports-Highlights", Match 11| SL vs AFG
+https://d3pt6y87jk0q7u.cloudfront.net/cpanel/client_14/2025/video/1758266867.mp4
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26km8nFY/image.jpg" group-title="Sports-Highlights", Match 10 | PAK vs UAE
+https://d3pt6y87jk0q7u.cloudfront.net/cpanel/client_14/2025/video/1758185265.mp4
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DyXVhCks/image.jpg" group-title="Sports-Highlights", Match 9 | BAN vs AFG
+https://d3pt6y87jk0q7u.cloudfront.net/cpanel/client_14/2025/video/1758184952.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Sports-Highlights", 
+
+
+#EXTINF:-1 tvg-logo="" group-title="Sports-Highlights", 
+
+
+#EXTINF:-1 tvg-logo="" group-title="Sports-Highlights", 
+
+
+#EXTINF:-1 tvg-logo="" group-title="Sports-Highlights", 
+
+
+#EXTINF:-1 tvg-logo="" group-title="Sports-Highlights", 
+
+
+#EXTINF:-1 tvg-logo="" group-title="Sports-Highlights", 
+
+
+#EXTINF:-1 tvg-logo="" group-title="Sports-Highlights", 
+
+
+#EXTINF:-1 tvg-logo="" group-title="Sports-Highlights", 
