@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 08:21:01AM - 22-10-2026
-# Total Channels: 354
+# Update Time: 04:48:04PM - 22-10-2026
+# Total Channels: 355
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -1324,6 +1324,14 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6
 https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/960px-Cartoon_Network_Arabic_logo.png" group-title="Arabic",Cartoon Network Arabic
+http://149.100.11.252:8000/play/a056/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Arabic",Spacetoon Arabic
+https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BH1N6TA.png" group-title="Arabic",Dabanga TV
 https://hls.dabangasudan.org/hls/stream.m3u8
 
@@ -1418,8 +1426,4 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c9627573574
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1d25a9Q.png" group-title="Arabic",Seraj TV (1080i)
 https://43869de4e1a0d641.servers.dvcloud.tv/hls/al_aqsa_channel/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Arabic",Spacetoon Arabic
-https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8
 
