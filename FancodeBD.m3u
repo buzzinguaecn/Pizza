@@ -1,5 +1,5 @@
 #EXTM3U
-# 🆕 FANCODE PROXY - Updated: 2026-10-23 18:54:53 🟡
+# 🆕 FANCODE PROXY - Updated: 2026-10-23 19:33:40 🟡
 
 
 #EXTINF:-1 tvg-id="4249697" tvg-name="Zimbabwe Vs Afghanistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249697_53089_AFG_ZIM_FC-WEB.jpg" tvg-language="English" group-title="Cricket",ENG | Zimbabwe Vs Afghanistan
@@ -12,6 +12,10 @@ https://cinexcricket.com/proxy/universal.php/?url=https://dai-fancode.pages.dev/
 
 #EXTINF:-1 tvg-id="4249762" tvg-name="Gambia Vs Uganda" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249762_53093_GAM_UGA_FC-Web_1792493253257.png" tvg-language="English" group-title="Cricket",ENG | Gambia Vs Uganda
 https://cinexcricket.com/proxy/universal.php/?url=https://dai-fancode.pages.dev/mumbai/4249762_english_hls_7196c908bd11643_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+
+#EXTINF:-1 tvg-id="4250266" tvg-name="Al Faisaly Saudi Vs Al Nassr Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250266_53025_ALF_ANF_FC-Web.png" tvg-language="English" group-title="Football",ENG | Al Faisaly Saudi Vs Al Nassr Fc
+https://cinexcricket.com/proxy/universal.php/?url=https://dai-fancode.pages.dev/mumbai/4250266_english_hls_ade98728f479014_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 
 #EXTINF:-1 tvg-id="4249611" tvg-name="Day 5   World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png" tvg-language="English" group-title="Tennis",ENG | Day 5   World Feed
