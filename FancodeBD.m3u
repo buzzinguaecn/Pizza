@@ -1,5 +1,5 @@
 #EXTM3U
-# 🆕 FANCODE PROXY - Updated: 2026-10-23 23:52:53 🟡
+# 🆕 FANCODE PROXY - Updated: 2026-10-24 00:19:30 🟡
 
 
 #EXTINF:-1 tvg-id="4249697" tvg-name="Zimbabwe Vs Afghanistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249697_53089_AFG_ZIM_FC-WEB.jpg" tvg-language="English" group-title="Cricket",ENG | Zimbabwe Vs Afghanistan
@@ -10,12 +10,16 @@ https://cinexcricket.com/proxy/universal.php/?url=https://dai-fancode.pages.dev/
 https://cinexcricket.com/proxy/universal.php/?url=https://dai-fancode.pages.dev/mumbai/4250483_english_hls_48727574d09619_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 
+#EXTINF:-1 tvg-id="4250219" tvg-name="Al Ahli Saudi Fc Vs Al Khaleej Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250219_53025_AAS_AKH_FC-Web.png" tvg-language="English" group-title="Football",ENG | Al Ahli Saudi Fc Vs Al Khaleej Fc
+https://cinexcricket.com/proxy/universal.php/?url=https://dai-fancode.pages.dev/mumbai/4250219_english_hls_02bf778a4694263_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+
+#EXTINF:-1 tvg-id="4250268" tvg-name="Al Qadsiah Fc Vs Al Hilal Sfc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250268_53025_ALQ_AHS_FC-Web.png" tvg-language="English" group-title="Football",ENG | Al Qadsiah Fc Vs Al Hilal Sfc
+https://cinexcricket.com/proxy/universal.php/?url=https://dai-fancode.pages.dev/mumbai/4250268_english_hls_8b67c0225f71380_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+
 #EXTINF:-1 tvg-id="4250156" tvg-name="Court 1   Qf" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg" tvg-language="English" group-title="Badminton",ENG | Court 1   Qf
 https://cinexcricket.com/proxy/universal.php/?url=https://dai-fancode.pages.dev/mumbai/4250156_english_hls_eaffc4881757714_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-
-#EXTINF:-1 tvg-id="4250157" tvg-name="Court 2   Qf" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg" tvg-language="English" group-title="Badminton",ENG | Court 2   Qf
-https://cinexcricket.com/proxy/universal.php/?url=https://dai-fancode.pages.dev/mumbai/4250157_english_hls_5b7e4a7fb27605_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 
 #EXTINF:-1 tvg-id="4249618" tvg-name="Day 5   World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg" tvg-language="English" group-title="Tennis",ENG | Day 5   World Feed
