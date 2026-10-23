@@ -1,13 +1,13 @@
 #EXTM3U
-# Update Time: 02:57:28AM - 23-10-2026
-# Total Channels: 472
+# Update Time: 08:26:20AM - 23-10-2026
+# Total Channels: 468
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
 
 # ============ Sports1 Channels ============
 
-#EXTM3U
+#EXTM3U x-tvg-url="https://epg.kanya.io/us/guide.xml.gz"
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L3RA9Lv.png" group-title="Sports1",5Plus
 http://89.33.29.115:8080/sportplus/index.m3u8
 
@@ -119,7 +119,7 @@ http://168.196.127.137:6001/play/a06v/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://match-images.icdb.tv/5913207f2494844101287828e87625eb.jpg" group-title="Sports1",Azteca Deportes Network
-http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
+http://209.14.115.253:8081/azteca-deportes/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fBpLsbC.png" group-title="Sports1",Bahrain Sports 1 [Not 24/7]
@@ -281,6 +281,10 @@ http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Canal%2B_Sport_2023.svg/revision/latest?cb=20230901182304" group-title="Sports1",Canal+ Sport SK
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?offsetSeconds=0
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png" group-title="Sports1",CazeTV
+http://138.204.86.4:8080/CAZE_TV/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3mEdjuq.png" group-title="Sports1",CBC Sport
@@ -613,20 +617,12 @@ http://91.228.35.249:8001/1:0:1:3D:1964:13E:820000:0:0:0
 http://88.212.15.17/live/esp_4k_atk/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Eurosport_4_2022.svg/revision/latest?cb=20220418053934" group-title="Sports1",Eurosport 4 Polska
-http://57.128.231.171:8080/291/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540" group-title="Sports1",Eurosport
 https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/960px-Extreme_Sports_Channel.svg.png" group-title="Sports1",Extreme Sports Channel
 http://46.32.176.50/extremesport/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/960px-Extreme_Sports_Channel.svg.png" group-title="Sports1",Extreme Sports Channel Polska
-http://57.128.231.171:8080/262/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cjXzWsI.png" group-title="Sports1",F1 Channel
@@ -708,10 +704,6 @@ https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playl
 
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/floracing-white.png" group-title="Sports1",FloRacing
 https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qsLLyn4.png" group-title="Sports1",Foot+
-http://145.239.5.177/556a/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pEuaZVx.png" group-title="Sports1",Football
@@ -820,10 +812,6 @@ https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
 http://15.204.246.24:8080/GolfChannelHD/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZR8cRj8d/Golf-Zone.png" group-title="Sports1",Golf Zone
-http://57.128.231.171:8080/248/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nt9B6jx.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Sports1",Hard Knocks
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418
@@ -870,7 +858,7 @@ https://1853185335.rsc.cdn77.org/K192/tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://papaji.freetvindia.com/media/kabaddi_24x7.png" group-title="Sports1",Kabaddi 24x7
-http://180.188.254.253/live/KABADDI24X7.m3u8
+https://samitaorigin.tangotv.in/KABADDI24X7/SAMITAORIGIN/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdHdOV.png" group-title="Sports1",KHL
@@ -993,6 +981,10 @@ http://hls127.freeott.top:8080/BG_MAX_Sport_4_HD/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I6gsUqD.png" group-title="Sports1",Meridiano TV
 http://181.78.8.199:8000/play/a0fr/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gAMQfUw.png" group-title="Sports1",Milan TV
+http://team-tv.co:81/milan/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ym3su2J.png" group-title="Sports1",MLB
@@ -1873,10 +1865,6 @@ http://dtv.vol.net.ua/UPL-TV/index.m3u8
 http://190.197.41.183/USA_NETWORK/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCw8Pmz.png" group-title="Sports1",V Sport Golf [Not 24/7]
-http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12077/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/960px-Iribvarzesh2022.png" group-title="Sports1",Varzesh TV
 https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
 
@@ -1895,10 +1883,6 @@ https://dethich.pw/thvl4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XoR9zLh.png" group-title="Sports1",Vital Drive
 https://autopilot.catcast.tv/content/37909/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/VoyoSport1.svg" group-title="Sports1",Voyo Sport 1
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus16/live_fullhd?offsetSeconds=0
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/VTV6_logo_2026_final.svg/960px-VTV6_logo_2026_final.svg.png" group-title="Sports1",VTV6
