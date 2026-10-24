@@ -57,6 +57,10 @@
 https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8
 
 
+#EXTINF:-1 tvg-id="tapmad-18287" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17926493471020x576.jpg" group-title="SAWARID سواريد - Football", Rayo Vallecano vs Elche - MATCHDAY 10 - LaLiga 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8
+
+
 #EXTINF:-1 tvg-id="4249598" tvg-name="Charlton Athletic F.c Vs Norwich City F.c." tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249598_52993_CHL_NOR_fc-web.jpg" tvg-language="English" group-title="SAWARID سواريد - Football",ENG | Charlton Athletic F.c Vs Norwich City F.c.
 https://cinexcricket.com/proxy/universal.php/?url=https://dai-fancode.pages.dev/mumbai/4249598_english_hls_9b604f07bf73738_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
@@ -88,14 +92,6 @@ https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1b
 
 #EXTINF:-1 tvg-id="sonyliv-1090550278" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg" group-title="SAWARID سواريد - Cricket", 2nd T20I | India Tour of New Zealand 2026 [Kannada]
 https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa083prod-PlaybackConfig/2119782/cricodi_2410/KAN/master.m3u8?hdnea=exp=1792868409~acl=/*~id=28325060572396203695576858139302~hmac=ff68300154270d314d6dc2805b76b29942a88a86a77e82b14148fd63bed844d1
-
-
-#EXTINF:-1 tvg-id="tapmad-19056" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17923947621020x576.jpg" group-title="SAWARID سواريد - Cricket", New Zealand vs India - 2nd T20I - India Tour of New Zealand 2026 - Server 1
-https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
-
-
-#EXTINF:-1 tvg-id="tapmad-19056" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17923947621020x576.jpg" group-title="SAWARID سواريد - Cricket", New Zealand vs India - 2nd T20I - India Tour of New Zealand 2026 - Server 2
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
 
 
 #EXTINF:-1 tvg-id="B0HL646MJT" tvg-name="New Zealand vs. India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4bdb387d-8b40-409f-b76a-f9b7349d5ea2/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="SAWARID سواريد - Cricket",New Zealand vs. India
