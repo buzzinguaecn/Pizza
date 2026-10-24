@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 02:45:50AM - 24-10-2026
-# Total Channels: 468
+# Update Time: 08:24:04AM - 24-10-2026
+# Total Channels: 465
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -268,11 +268,6 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport7/live_fullhd?o
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Canal%2B_Sport_8.svg/revision/latest?cb=20251106141257" group-title="Sports1",Canal+ Sport 8 SK
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport8/live_fullhd?offsetSeconds=0
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports1",Canal+ Sport 360
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://futbol9865.ultratv13.workers.dev/deportivo111/14.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EOXnU15.png" group-title="Sports1",Canal+ Sport
@@ -706,10 +701,6 @@ https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playl
 https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pEuaZVx.png" group-title="Sports1",Football
-http://31.148.48.15/Futbol_HD/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://assets.antenaplay.ro/2024/02/23/XUKfJwir4MxNeP4nHtG7.png" group-title="Sports1",Formula 1 AntenaPlay [Not 24/7]
 https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8
 
@@ -949,10 +940,6 @@ http://31.148.48.15/Match_Igra_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vhyMb9D.png" group-title="Sports1",Match! Planeta
 https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GQPyHYK.png" group-title="Sports1",Match! Premier
-http://192.162.64.99:5000/play/a02b/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X02s2UE.png" group-title="Sports1",Match! Strana
