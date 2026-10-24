@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 08:24:04AM - 24-10-2026
-# Total Channels: 800
+# Update Time: 03:57:33PM - 24-10-2026
+# Total Channels: 822
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -132,6 +132,10 @@ https://mumt06.tangotv.in/qYyB8fXVASHOMLIVE/index.m3u8
 http://tvsen7.aynascope.net/AssamTalks/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ATN_Samachar.png" group-title="India",ATN Samachar
+https://newsliveindia.com:4433/atn/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eKQs51V.png" group-title="India",Awaaz India TV [Not 24/7]
 https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
 
@@ -140,12 +144,20 @@ https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
 https://mumbai-edge.smartplaytv.in/BADAKHABAR/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bangla_Jago.png" group-title="India",Bangla Jago
+https://banglajagotv.livebox.co.in/banglajagohls/24x7.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BANSAL_NEWS/images/LOGO_HD/image.png" group-title="India",Bansal News
 https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142710_ld_h15_aa.png?lock=720x540" group-title="India",Bharat24
 https://cdn.ottlive.co.in/bharat24/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bharat_AtoZ.png" group-title="India",Bharat AtoZ
+https://live.ekamraott.com/4tv/bharata2z/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHARAT_EXPRESS/images/LOGO_HD/image.png" group-title="India",Bharat Express
@@ -160,6 +172,10 @@ https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8
 https://cdn.pishow.tv/ott/live/339/master.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BHI.png" group-title="India",BHI Channel
+https://server.livelegitpro.in/bhichannel/bhichannel/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpHrRxR5/big_tv_malayalam.png" group-title="India",Big TV 24x7
 https://stream.ottlive.co.in/bigtvmalayalam/index.m3u8
 
@@ -170,6 +186,10 @@ https://cdn.pishow.tv/ott/live/1059/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/brk-news.png" group-title="India",BRK News
 https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BSTV.png" group-title="India",BSTV (India)
+https://samitaorigin.tangotv.in/BSTV/SAMITAORIGIN/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NXD8CPq.png" group-title="India",Chardikla Gurbaani TV
@@ -240,8 +260,16 @@ https://d37d7pfp7vjqhh.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a
 https://mumt03.tangotv.in/Dsly5z3H1STINDIANEWS/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Global_India.png" group-title="India",Global India
+https://server.livelegitpro.in/globalindiatv/globalindiatv/video.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WDLqcWW.png" group-title="India",Global Punjab
 https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Globe_TV.png" group-title="India",Globe TV
+https://mumbai-edge.smartplaytv.in/GlobeTV/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOOD_NEWS_TODAY/images/LOGO_HD/image.png" group-title="India",Good News Today
@@ -414,6 +442,10 @@ https://mumt01.tangotv.in/O5aw8Zn3MATHIMUGAMTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/buT76vR.png" group-title="India",Mahaa News
 https://mumbai-edge.smartplaytv.in/MahaNews/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/mahuakhabar.png" group-title="India",Mahua Khabar
+https://cdn.ottlive.co.in/mahuakhabar/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OC5TQxp.png" group-title="India",Malai Murasu TV
@@ -718,6 +750,10 @@ https://streams.tangotv.in/PUDHARINEWS/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143692_ld_h15_aa.png?lock=720x540" group-title="India",Puthiya Thalaimurai
 https://mumt07.tangotv.in/zHjX9OFlPUTHIYAEXPRESS/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/puthiya-thalaimurai-express-in.png" group-title="India",Puthiya Thalaimurai Express
+https://samitaorigin.tangotv.in/PUTHIYAEXPRESS/SAMITAORIGIN/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/raatdinbangla.png" group-title="India",Raatdin Bangla
@@ -1088,6 +1124,10 @@ https://jmp2.uk/stvp-IN4900002RV
 https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ryC1Y2K4/Capture.png" group-title="India",Hindi Hits
+https://samitaorigin.tangotv.in/HINDIHITS/SAMITAORIGIN/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Insync.png" group-title="India",Insync
 https://mumt04.tangotv.in/m18aqlK4INSYNC/index.m3u8
 
@@ -1138,6 +1178,10 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/in
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUBLIC_MUSIC/images/LOGO_HD/image.png" group-title="India",Public Music
 https://mumt04.tangotv.in/m18aqlK4PUBLICMUSIC/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Za9gNQ.jpg" group-title="India",Punjabi Beats HD
+https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143691_ld_h15_aa.png?lock=720x540" group-title="India",Punjabi Hits
@@ -1261,11 +1305,7 @@ https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png" group-title="India",&TV
-http://103.151.60.162:2122/play/a020/index.m3u8?hls
-
-
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png" group-title="India",&TV HD
-http://202.70.146.135:8000/play/a06c/index.m3u8
+https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png" group-title="India",&xplor HD
@@ -1286,6 +1326,10 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies.smil/chunklist_
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NwOQUDp.png" group-title="India",B4U Bhojpuri
 https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NwOQUDp.png" group-title="India",B4U Bhojpuri Plus
+https://cc-t2mudtkmuz4wb.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t2mudtkmuz4wb/B4U_Bhojpuri/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=720x540" group-title="India",B4U Kadak
@@ -1368,6 +1412,10 @@ https://streams.tangotv.in/WETV/ORIGIN/index.m3u8
 https://cdn.pishow.tv/ott/live/10007/master.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Mahua_Play.png" group-title="India",Mahua Play
+https://cdn.ottlive.co.in/mahuaplay/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143302_ld_h15_aa.png?lock=720x540" group-title="India",Manoranjan Grand
 https://cdn.pishow.tv/ott/live/1011/master.m3u8
 
@@ -1430,6 +1478,10 @@ https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RQhorAG.png" group-title="India",Shubh Cinema TV
 https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://papaji.freetvindia.com/media/1518_FreeTV_Sonar_Bangla.png" group-title="India",Sonar Bangla
+https://samitaorigin.tangotv.in/SONARBANGLA/SAMITAORIGIN/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://papaji.freetvindia.com/media/1056_FreeTV_Soneri_Cinema.png" group-title="India",Soneri Cinema
@@ -1644,6 +1696,10 @@ https://cable91tataplay.akamaized.net/live/dharshantv/index.m3u8
 https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DivyaBhajan.png" group-title="India",Divya Bhajan
+https://jmp2.uk/stvp-IN1600002IQ
+
+
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Divya_Vani.png" group-title="India",Divyavani TV
 https://mumbai-edge.smartplaytv.in/Divyavani/index.m3u8
 
@@ -1656,6 +1712,10 @@ https://samitaorigin.tangotv.in/DUKHNIWARAN/SAMITAORIGIN/index.m3u8
 https://cdn.pishow.tv/ott/live/349/master.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/rDtVRwirMau7LnqmpkNHMrsqCQ7TtWTIbXePXFcY_GWDMs4z64A-w2XBG92t-IV4-C8UoEI=s900-c-k-c0x00ffffff-no-rj" group-title="India",FGN Channel
+https://samitaorigin.tangotv.in/FGNCHANNEL/SAMITAORIGIN/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143091_ld_h15_aa.png?lock=720x540" group-title="India",Goodness TV
 https://mumt07.tangotv.in/zHjX9OFlGOODNESSTV/index.m3u8
 
@@ -1666,6 +1726,10 @@ https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xhbZvzt/cropped-final-logo-300x127.png" group-title="India",Gospel TV India
 https://server.livelegitpro.in:9899/gospeltv/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Grace_TV.png" group-title="India",Grace TV
+https://samitaorigin.tangotv.in/GRACETV/SAMITAORIGIN/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143102_ld_h15_aa.png?lock=720x540" group-title="India",Hare Krsna TV
@@ -1920,6 +1984,10 @@ http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/alrght.png" group-title="India",Alright! TV
+https://d3c7vdfq3tyeyw.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/rusk_media/v1/channel/ruskmedia/germane.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WdSjlPl.png" group-title="India",Amrita TV
 https://ddash74r36xqp.cloudfront.net/master.m3u8
 
@@ -1942,6 +2010,10 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b1
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0029CNNM.png?lock=720x540" group-title="India",Captain
 https://mumbai-edge.smartplaytv.in/captain/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cine_Jomjomat.png" group-title="India",Cine Jomjomat
+https://amg13779-amg13779c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13779-amg13779c1-amgplt0016/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="India",Colors
@@ -2358,6 +2430,10 @@ https://yuppnimresmum.akamaized.net/28072023/smil:zeekannadahd.smil/playlist.m3u
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_MARATHI/images/LOGO_HD/LOGO_HD_image.png" group-title="India",Zee Marathi HD
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeMarathiHD.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022S29Y.png?lock=720x540" group-title="India",Zee Tamil
+https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Tamil/dash/drm/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540" group-title="India",Zee Tamil HD
@@ -2884,6 +2960,10 @@ https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8
 https://streams.tangotv.in/MHONE/ORIGIN/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/mh1_Music.png" group-title="India",MH One
+https://samitaorigin.tangotv.in/MHONE/SAMITAORIGIN/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nandighosha.png" group-title="India",Nandighosha TV
 https://mumt05.tangotv.in/87NeALx2NANDIGHOSHATV/index.m3u8
 
@@ -2950,6 +3030,10 @@ https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zsTxPV9.png" group-title="India",ETV Bal Bharat
 http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TDPsPVkT/Greengoldtv.png" group-title="India",Green Gold TV
+https://cc-szrmqvu8zkg16.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szrmqvu8zkg16/greengold/stream/grngld/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LOGO_HD/image.png" group-title="India",Hungama TV
@@ -3198,6 +3282,10 @@ https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KIEKOt1.png" group-title="India",WeatherSpy (India)
 https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZBCINEMA.png" group-title="India",ZB Cinema
+https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QCRhS1n.png" group-title="India",Zee Cine Classic
