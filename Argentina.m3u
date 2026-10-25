@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 01:56:56AM - 25-10-2026
-# Total Channels: 207
+# Update Time: 08:11:11AM - 25-10-2026
+# Total Channels: 206
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -439,8 +439,9 @@ http://15.204.246.24:8080/elnueveHD/index.m3u8
 https://edgectc.com/CANAL7_MZA/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TrgBAdA.png" group-title="Argentina",El Trece
-http://15.204.246.24:8080/eltreceHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TrgBAdA.png" http-referrer="https://vodgc.net" group-title="Argentina",El Trece
+#EXTVLCOPT:http-referrer=https://vodgc.net
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="Argentina",Encuentro
@@ -696,14 +697,6 @@ http://45.171.64.30:6060/play/a014/index.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="Argentina",Tele Posadas [Not 24/7]
-https://lbgo.bozztv.com/giatv/giatv-teleposadastv/teleposadastv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sfUBb7I.jpeg" group-title="Argentina",Tele Posadas SD [Not 24/7]
-https://iptv.ixfo.com.ar:30443/live/TelePosadasTv/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZDenyAE.png" group-title="Argentina",Telecinco
 https://videohd.live:19360/8016/8016.m3u8
 
@@ -718,6 +711,10 @@ http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe Interior
 http://200.91.32.158:8080/telefehdvalle/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="Argentina",Telefe Internacional
+http://200.115.120.1:8000/play/ca016/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/960px-Telefe_Rosario_%282018%29.png" group-title="Argentina",Telefe Rosario
