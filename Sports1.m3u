@@ -1,13 +1,13 @@
 #EXTM3U
-# Update Time: 01:56:57AM - 25-10-2026
-# Total Channels: 465
+# Update Time: 08:11:12AM - 25-10-2026
+# Total Channels: 466
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
 
 # ============ Sports1 Channels ============
 
-#EXTM3U x-tvg-url="https://epg.kanya.io/us/guide.xml.gz"
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L3RA9Lv.png" group-title="Sports1",5Plus
 http://89.33.29.115:8080/sportplus/index.m3u8
 
@@ -547,6 +547,10 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn-mux/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sports1",ESPN Latin America Colombia
 http://190.61.47.54:8000/play/a004/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sports1",ESPN Latin America Mexico
+http://168.228.44.241:9997/play/a06p/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="Sports1",ESPN Premium (Argentina) HD
