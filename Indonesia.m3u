@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 08:11:11AM - 25-10-2026
-# Total Channels: 6125
+# Update Time: 04:20:29PM - 25-10-2026
+# Total Channels: 6120
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -7156,10 +7156,6 @@ http://ikitv.sqn.at:8000/play/a01l/index.m3u8
 https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M2R3lfg.png" group-title="Indonesia",iNews HD
-https://mncmedia.malingtv.workers.dev/inews.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bD6UHeZ.png" group-title="Indonesia",like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Indonesia",Kompas TV
 https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 
@@ -12684,20 +12680,16 @@ http://extraott.com:900/live/3162523972/3791698850/33005.m3u8
 http://extraott.com:900/live/3162523972/3791698850/13127.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/rcti.png" group-title="Indonesia",06. RCTI 1
-https://bintangstreaming.my.id/000/rcti.php/.m3u8?id=rcti
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mnctv.png" group-title="Indonesia",05. MNCTV 1
-https://bintangstreaming.my.id/000/rcti.php/.m3u8?id=mnctv
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/gtv.png" group-title="Indonesia",08. GTV 1
-https://bintangstreaming.my.id/000/rcti.php/.m3u8?id=gtv
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/INews.png" group-title="Indonesia",15. INEWS 1
-https://bintangstreaming.my.id/000/rcti.php/.m3u8?id=inews
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/sindonews.jpg" group-title="Indonesia",SINDONEWS (MAX)
@@ -13636,10 +13628,6 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtv8/index.m3u8
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png" group-title="Indonesia",GTV (R+)
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="Indonesia",FS 1 🇺🇸
 http://1tv41.icu:8080/live/aQwbj3/140716/1846.ts
 
@@ -14366,14 +14354,6 @@ https://d1vckova5fh9mt.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/in
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/512px-Sin_Po_TV.svg.png" group-title="Indonesia",SINPO TV
 https://popmi.my.id/tes.m3u8?id=19046
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/MNCTV_MNC-Group.png" group-title="Indonesia",MNC TV (R+)
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="Indonesia",iNews (R+)
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/BN_Channel.png" group-title="Indonesia",BN Channel
