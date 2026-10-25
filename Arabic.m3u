@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 08:11:11AM - 25-10-2026
-# Total Channels: 355
+# Update Time: 04:20:28PM - 25-10-2026
+# Total Channels: 356
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -842,6 +842,10 @@ https://ghaasiflu.online/Dijlah/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="Arabic",DW Arabic
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tv.elyssatv.com/logo.png" group-title="Arabic",Elyssa TV
+https://tv.elyssatv.com/live/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="Arabic",France 24 Arabic
