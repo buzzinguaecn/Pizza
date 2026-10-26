@@ -34,7 +34,8 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KcwPJkXB/resized-300x180-transparent.png" group-title="Bangladeshi", BTV National
-https://btv.hridoytv-channel.workers.dev/btv.m3u8
+http://103.135.253.32:8080/BTV/index.m3u8
+#https://btv.hridoytv-channel.workers.dev/btv.m3u8
 #http://103.229.254.25:7001/play/a064/index.m3u8
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvnational1.stream/tracks-v1a1/mono.ts.m3u8
 #http://103.230.105.252:1935/live/btv/index.m3u8
