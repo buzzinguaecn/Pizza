@@ -61,6 +61,7 @@ http://198.195.239.50:8095/starJalsha/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RcS6984/image.jpg" group-title="SAWARID سواريد - Zee5", Star-Jalsha Movies
 https://iptvlive-beta.vercel.app/jalsha-movies/index.m3u8
+https://livetv.shamon-cable.net:8443/Jalsha-Movies/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/jalshaMovies/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RcS6984/image.jpg" group-title="SAWARID سواريد - Zee5", Star Maa Movies HD
@@ -74,6 +75,7 @@ https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCzKNs7B/image.jpg" group-title="SAWARID سواريد - Zee5", Colors Bengali HD
+https://livetv.shamon-cable.net:8443/Colors-bangla/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/colorsBangla/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFNCHHjQ/image.jpg" group-title="SAWARID سواريد - Zee5", Colors Bangla Cinema
