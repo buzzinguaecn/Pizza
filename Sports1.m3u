@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 02:06:55AM - 26-10-2026
-# Total Channels: 466
+# Update Time: 08:11:54AM - 26-10-2026
+# Total Channels: 467
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -61,12 +61,12 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads.xumo_cha
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uAaQDr6.png" group-title="Sports1",Arena4
-http://88.212.15.17/live/arena4/index.m3u8
+http://88.212.7.14/live/arena4/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2qf67zW.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports1",Arena Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://88.212.15.17/live/test_arenasport/playlist.m3u8
+http://88.212.15.50/live/test_arenasport/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/csv6YsL.png" group-title="Sports1",Arena Sport 1 Premium (Serbia)
@@ -79,7 +79,7 @@ http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vhWLdkJ_3C0RZgs4W19uhl8S3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Yq3Jf19.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports1",Arena Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://88.212.15.17/live/test_arenasport_dva/playlist.m3u8
+http://88.212.15.50/live/test_arenasport_dva/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tvarenasport.mk/wp-content/themes/tvarenasport-mk/assets/channels/arena-m1.png" group-title="Sports1",Arena Sport Premium M1
@@ -344,7 +344,7 @@ https://live1.acangroup.org:1929/publiclive/crtv_sport/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%C4%8CT_sport_logo.png/960px-%C4%8CT_sport_logo.png" group-title="Sports1",CT Sport
-http://88.212.15.17/live/test_ctsport_25p/playlist.m3u8
+http://88.212.15.50/live/test_ctsport_25p/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" group-title="Sports1",DAZN Combat
@@ -575,7 +575,7 @@ https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sports1",Eurosport 1 Hungary
-http://88.212.15.17/live/esp1_hun/index.m3u8
+http://88.212.7.14/live/esp1_hun/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sports1",Eurosport 1 Russia
@@ -591,7 +591,7 @@ http://57.128.210.196:8080/264/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sports1",Eurosport 2 Hungary
-http://88.212.15.17/live/esp2_hun/index.m3u8
+http://88.212.7.14/live/esp2_hun/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sports1",Eurosport 2 Russia
@@ -613,7 +613,7 @@ http://91.228.35.249:8001/1:0:1:3D:1964:13E:820000:0:0:0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0o3zjC7.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports1",Eurosport 4K Czechia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/esp_4k_atk/playlist.m3u8
+http://88.212.15.50/live/esp_4k_atk/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540" group-title="Sports1",Eurosport
@@ -820,8 +820,8 @@ https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png" group-title="Sports1",HTV Sports
-https://dethich.pw/htvthethao/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png" group-title="Sports1",HTV Sports (1080i)
+https://vmttv.dpdns.org/tv360/?id=htv-the-thao
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FUTqh2L.png" group-title="Sports1",Inter TV (Italy)
@@ -903,7 +903,7 @@ http://stream.mcquack.net/353/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TQ4uJZk.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Sports1",M4 Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/uatlmvixrr/index.m3u8
+http://88.212.7.14/live/uatlmvixrr/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://msports.pk/wp-content/uploads/2026/02/m-sports-300.png" group-title="Sports1",M Sports
@@ -1253,7 +1253,7 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Sports1",Real Madrid TV English
-http://88.212.15.17/live/real_madrid_tv/index.m3u8
+http://88.212.15.50/live/real_madrid_tv/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BaEyZto.png" group-title="Sports1",Realitatea Sportiva
@@ -1425,22 +1425,22 @@ https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pbk8c4x.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports1",Spiler 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/spiler1/index.m3u8
+http://88.212.7.14/live/spiler1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1e0VsVH.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports1",Spiler 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/spiler2/index.m3u8
+http://88.212.7.14/live/spiler2/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X5X3tKC.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Sports1",Sport1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://88.212.15.17/live/test_sport1_25p/playlist.m3u8
+http://88.212.15.50/live/test_sport1_25p/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X5X3tKC.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Sports1",Sport 1 (Hungary)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/sport1_hun/index.m3u8
+http://88.212.7.14/live/sport1_hun/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zjb8awW.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports1",Sport 1 (Ukraine)
@@ -1455,12 +1455,12 @@ http://stream.mcquack.net/461/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UxflVoU.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Sports1",Sport2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://88.212.15.17/live/test_sport_2/playlist.m3u8
+http://88.212.15.50/live/test_sport_2/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UxflVoU.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Sports1",Sport 2 (Hungary)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/sport2_hun/index.m3u8
+http://88.212.7.14/live/sport2_hun/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vk0j1mY.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports1",Sport 2 (Ukraine)
@@ -1488,7 +1488,7 @@ https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oAtcxNZ.png" group-title="Sports1",Sport (Slovakia)
-http://88.212.15.17/live/test_rtvs_sport_hevc/playlist.m3u8
+http://88.212.15.50/live/test_rtvs_sport_hevc/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2WJE9CM.png" group-title="Sports1",Sport (Uzbekistan)
@@ -1874,6 +1874,10 @@ https://dethich.pw/thvl4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XoR9zLh.png" group-title="Sports1",Vital Drive
 https://autopilot.catcast.tv/content/37909/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/VoyoSport1.svg" group-title="Sports1",Voyo Sport 1 (1080i)
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/VTV6_logo_2026_final.svg/960px-VTV6_logo_2026_final.svg.png" group-title="Sports1",VTV6
