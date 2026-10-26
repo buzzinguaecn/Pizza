@@ -61,6 +61,14 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/
 https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
 
 
+#EXTINF:-1 tvg-id="tapmad-18743" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17924938701020x576.jpg" group-title="SAWARID سواريد - Football", Air Force SC (IRQ) vs Pakhtakor (UZB) - MATCHDAY 3 - AFC Champions League Elite 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+
+
+#EXTINF:-1 tvg-id="tapmad-18733" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17924853151020x576.jpg" group-title="SAWARID سواريد - Football", Al Qadsiah Club (KSA) vs Al Sadd SC (QAT) - MATCHDAY 3 - AFC Champions League Elite 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
+
+
 #EXTINF:-1 tvg-id="4248713" tvg-name="Al Ahli Saudi Fc Vs Al Gharafa" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248713_53053_AAS_AGH_fc-web_1792670285275.jpg" tvg-language="English" group-title="SAWARID سواريد - Football",ENG | Al Ahli Saudi Fc Vs Al Gharafa
 https://cinexcricket.com/proxy/universal.php/?url=https://dai-fancode.pages.dev/mumbai/4248713_english_hls_b2f1127f3745449_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
@@ -82,10 +90,6 @@ https://cinexcricket.com/proxy/universal.php/?url=https://dai-fancode.pages.dev/
 https://cinexcricket.com/proxy/universal.php/?url=https://dai-fancode.pages.dev/mumbai/4250489_english_hls_03580ea31262174_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 
-#EXTINF:-1 tvg-id="4250531" tvg-name="Himachal Highlenders Vs Punjab Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250531_53137_HHL_PBW_FC-Web_1793010710973.png" tvg-language="English" group-title="SAWARID سواريد - Cricket",ENG | Himachal Highlenders Vs Punjab Warriors
-https://cinexcricket.com/proxy/universal.php/?url=https://dai-fancode.pages.dev/mumbai/4250531_english_hls_92c2ef723b55655_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-
 # 🆕 SAWARID سواريد - Cricket 👉 Updateded Done ✅✅✅✅✅✅
 
 
@@ -100,7 +104,15 @@ https://cinexcricket.com/proxy/universal.php/?url=https://dai-fancode.pages.dev/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="B0HJZRQ6JB" tvg-name="Tennis Today Live-Basel-ATP & Vienna-ATP Early Rounds" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5a06d9b7-9e9b-4f4e-b4b7-7b8c3205a4c6/12/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="SAWARID سواريد - Prime Video Sports",Tennis Today Live-Basel-ATP & Vienna-ATP Early Rounds
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
 
 
 #EXTINF:-1 tvg-id="B0FQQXFCMF" tvg-name="Second Serve - Live-Basel-ATP & Vienna-ATP Early Rounds" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.68ccc8db-4407-492d-8b37-369596935fcd/17/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="SAWARID سواريد - Prime Video Sports",Second Serve - Live-Basel-ATP & Vienna-ATP Early Rounds
@@ -108,15 +120,7 @@ https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
-
-
-#EXTINF:-1 tvg-id="B0HJZRQ6JB" tvg-name="Tennis Today Live-Basel-ATP & Vienna-ATP Early Rounds" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5a06d9b7-9e9b-4f4e-b4b7-7b8c3205a4c6/11/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="SAWARID سواريد - Prime Video Sports",Tennis Today Live-Basel-ATP & Vienna-ATP Early Rounds
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
 
 
 # 🆕 SAWARID سواريد - Prime Video Sports 👉 Updateded Done ✅✅✅✅✅✅
