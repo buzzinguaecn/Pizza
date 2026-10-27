@@ -1,4 +1,221 @@
 #EXTM3U
+
+
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", Hindi - India Vs New Zealand - Every Ball Covered
+https://sonucdn-v5.pages.dev/star?id=STEN3
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", English - India Vs New Zealand  - Full HD Coverage
+https://sonucdn-v5.pages.dev/star?id=STEN5
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", Tamil - Live In Tamil, Enjoy Your Language
+https://sonucdn-v5.pages.dev/star?id=STENT
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", Telugu - Live In Telugu, Feel The Match
+https://sonucdn-v5.pages.dev/star?id=STENTU
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", Star Sports Hindi
+https://sonucdn-v5.pages.dev/star?id=STEN3
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", Star Sports English
+https://sonucdn-v5.pages.dev/star?id=STEN5
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", Willow - Premium Cricket, Uninterrupted
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c80205dcd2490ef9386a322c46aef12:0dba6b2d52b76e5dff92fac577e7ac8d
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ntomodyqm3/out/v1/cd61ecc8b6694006a1173974fcfa4e9e/cenc.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", Willow-2- Extra Cricket Backup, Never Miss A Ball
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c80205dcd2490ef9386a322c46aef12:0dba6b2d52b76e5dff92fac577e7ac8d
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ntomodyqm3/out/v1/cd61ecc8b6694006a1173974fcfa4e9e/cenc.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", Willow-3 - Backup Stream, Never Miss A Ball
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d52e23fe7eade15ac5b852ac0a5a23a:5fce44b4d3887f03d32339b27a13637b
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xbks3vyjpt/out/v1/a17d73cc568e4fa4909bf69fb2970a19/cenc.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", Willow-4- Bangladesh Vs Afghanistan, Live Action
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", Cricbuzz - Live Cricket, Made For Fans
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ae9f19dac275f64e9a3d7f35166e5ba:29197b1e858a85b94a3694e69b3ebbf7
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/u4og1rywmm/out/v1/809b1c642b0e456fbebbcdc566e93e26/cenc.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", Cricbuzz-2 - Backup Cricket Stream, Smooth Playback
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9
+https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", TNT - Live Events From Discovery Plus
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", FOX - International Sports, Live And Exclusive
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=01d12ab22d76cfd1129767a3fa6374e9:68d6f01365a1e6e6a14176bfd2760817
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/eqcckaz1wd/out/v1/8a5302d40f3f441484982201ab51a086/cenc.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", SKY - Star Sports 2 HD, Live Cricket Action
+https://daviscup-veto.akamaized.net/f98c8ae68a354ab59a4e28e3dd700d4f/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", All - One Stream, All Matches, Live Scores
+https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8?hdnea=exp=1792859002~acl=/*~id=11468515441064555412790558121845~hmac=62099a46082c1f0bbaabe51a363a829599f67840eb579a411f4c8bf5bd187fb2
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", IOS - iPhone And iPad Friendly, Smooth Playback
+https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1792859002~acl=/*~id=11468515441064555412790558121845~hmac=62099a46082c1f0bbaabe51a363a829599f67840eb579a411f4c8bf5bd187fb2
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", Exp - Multi Quality HD, Works On All Devices
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9
+https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", FC - Fancode India, Full HD HLS Stream
+https://in-mc-flive.fancode.com/mumbai/4249697_english_hls_7444655df2273_1ta-di_h264/720p.m3u8?hdntl=Expires%3D1792839422~_GO%3DGenerated~acl%3D%2Fmumbai%2F4249697_english_hls_7444655df2273_1ta-di_h264%2F*~SessionID%3Dfc-app_sportsguruand_watcho_2a95910b-65f3-48~Signature%3DASgJGVAx9Xdoje_TUv90BdNo6E_Tchyf1vKmWUclAUjQFbRSLmJHWf9dVw1Hp4EJw4vwIeJzUNUK5chyzzUawVhVPx8J
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", FB 1 - Football Stream  ( real Madrid &  Manchester United)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", VETO - Veto OTT, Live Sports Action
+https://daviscup-veto.akamaized.net/f98c8ae68a354ab59a4e28e3dd700d4f/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", SELECT - Star Sports Select, Premium Sports 24X7
+https://sonucdn-v5.pages.dev/star?id=SE1HD
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", U8HINDI - Unite8 Sports Hindi, Feel Every Match
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b23ff5731d06447ab7be814f67d3b38b:84e706fc0f55394eb92147087bd5def7
+https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", U8ENG - Unite8 Sports English, World Class Coverage
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df9392d2092f42079e7d860d8101a790:8a06ae92b631e30b61c03c96fa45b990
+https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_2_HD/dash/Unite8_Sports_2_HD.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", YT-HIN - YouTube Live, Hindi Commentary
+https://www.youtube.com/embed/zJ5NZbDh6GY?autoplay=0
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", SLiV1 - Sony Liv 1, Live Action
+https://sonucdn-v5.pages.dev/star.html?id=STEN1
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", SLiV2 - English Broadcast, Live All Year Round
+https://sonucdn-v5.pages.dev/football/xxx.html
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", YT-ENG - YouTube Live, English Commentary
+https://www.youtube.com/embed/wsysXETXWxA?autoplay=0
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", SLiV3 - Hindi Broadcast, Live All Year Round
+https://sonucdn-v5.pages.dev/star.html?id=STEN3
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", SLiV5 - Sony Liv English 5, Live Action
+https://sonucdn-v5.pages.dev/star.html?id=STEN5
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", S1 - Sony Sports 1 HD, English Live
+https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1792859002~acl=/*~id=11468515441064555412790558121845~hmac=62099a46082c1f0bbaabe51a363a829599f67840eb579a411f4c8bf5bd187fb2
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", S2 - Sony Sports 2 HD, Premium Live Events
+https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1792856138~acl=/*~id=56802292105135609014021090190347~hmac=a39a9910e509ce592304edd5bec2e84d72bc66cd13b5e3e234ddcfedbc96d082
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", S3 - Sony Liv 3, Hindi Commentary
+https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1792859002~acl=/*~id=11468515441064555412790558121845~hmac=62099a46082c1f0bbaabe51a363a829599f67840eb579a411f4c8bf5bd187fb2
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", S4 - Sony Liv 4, Tamil Commentary
+https://sonucdn-v5.pages.dev/star.html?id=STENT
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", S4X - Sony Liv 4, Telugu Commentary
+https://sonucdn-v5.pages.dev/star.html?id=STENTU
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", S5 - Sony Liv 5, English Premium Coverage
+https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8?hdnea=exp=1792859002~acl=/*~id=11468515441064555412790558121845~hmac=62099a46082c1f0bbaabe51a363a829599f67840eb579a411f4c8bf5bd187fb2
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", BANG - Soby Sports Bangla, Football Live
+https://sonucdn-v5.pages.dev/football/x.html
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", RRSHOW - Rohit Sharma Show, Backup Stream
+https://sonucdn-v4.pages.dev/star.html?id=SETHD
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", SETHD - Sony Set HD, Rohit Sharma Show
+https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1791070341~acl=/*~id=76508141478235638358056976133448~hmac=71a0b2715d52551a0019b06ddcc8830274ab416bd9f9b4e952a9d6ac8a33ab28
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", Prime Hindi - INDIA vs NEW ZEALAND
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18e6af4a0daf2a1fdfbdc5b541520c88:ca0b64b84edb4f20eb1e135ff03db4f7
+https://dash-ott.bia-cf.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/mmvlg151u6/out/v1/ab9d1f193c094ee8a9305f983a716f35/cenc.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", Prime English - INDIA vs NEW ZEALAND
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=01501c3401dabab0e68c1d58b2ed5bde:4c1167220c5d1358d630245281ceba58
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/di53wexuc7/out/v1/40b0a31c1c5b4f4aa41286cb1313cf87/cenc.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", iOS User - Hindi
+https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792868449~acl=/*~id=39183153768115659634580807583499~hmac=94bb3c2e2345bf9917ed73694d9d436d6a6bd9a0f858c942d7b6f07b882e889b
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", iOS User - English
+https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792868449~acl=/*~id=39183153768115659634580807583499~hmac=94bb3c2e2345bf9917ed73694d9d436d6a6bd9a0f858c942d7b6f07b882e889b
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", CBS Sports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="27-10-2026", CBS Sports - INDIA Support
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="" group-title="23-10-26", Willow - Premium Cricket, Uninterrupted
