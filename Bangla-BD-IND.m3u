@@ -122,7 +122,8 @@ https://ap02.iqplay.tv:8082/iqb8002/nt589v/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/90D780GV/image.jpg" group-title="Bangladeshi", Channel 24 
 https://drk6xq0vhn.gpcdn.net/live/channel_24_abr/index.m3u8
 http://198.195.239.50:8095/channel24/index.m3u8
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/playlist.m3u8
+https://stream.ottplus.live/live/channel_24_abr/index.m3u8
+#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/playlist.m3u8
 #https://tvsen6.aynaott.com/channel24/index.m3u8
 #https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=3224800.m3u8
 # সাইট হচ্ছেঃ https://119-ar.vercel.app/#channels
@@ -342,13 +343,14 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sxBsKfQD/resized-300x180-ffffff-9.jpg" group-title="Bangladeshi",Ekattor TV
 https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
 http://198.195.239.50:8095/ekattorTv/index.m3u8
+https://playztv-apps.pages.dev/ekattor-tv/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ekattor.stream/playlist.m3u8
 #https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #https://119-ar.vercel.app/#channels
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2ycJtMmp/image.jpg" group-title="Bangladeshi", Nagorik TV
 https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
-
+https://box.bbaria.net:8083/Nagorik_TV/video.m3u8
 
 
 
@@ -453,6 +455,7 @@ https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vm2wyT3q/image.jpg" group-title="Bangladeshi", Azan TV
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
+https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/azantv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTq1dhQ6/image.jpg" group-title="Bangladeshi", Waz TV
