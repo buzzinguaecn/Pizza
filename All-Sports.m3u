@@ -279,6 +279,12 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rg1wbyohtc/
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/buzzinguaecn/Pizza/refs/heads/main/LOGO/SPORTS/Cricbuzz.png" group-title="All Sports", Cricbuzz
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=88108f87e67cd151f9519101fc80c467:7f2ef277964796a9fb76afe361e2344c
+https://cbuzz1.starzplayarabia.com/out/v1/f017da8419e0495784291700c11700a5/index.mpd
+#https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Cricbuzz1.m3u8
 http://bosstv.click:8080/live/18012689/77561563/92704.m3u8
 https://rolextv.one:443/live/8435630013/1234512345/140.m3u8
 http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=809382&extension=m3u8
@@ -289,6 +295,15 @@ http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=809382&e
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9
 https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=037798d4da2472201e564323244afc49:c8888c4644cef0a5f130afa32d919fc4
+https://cbuzz2.starzplayarabia.com/out/v1/c6320ac38c774e66b60dbf4d0e7d16ab/index.mpd
+#https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Cricbuzz2.m3u8
+
+
+
 
 #🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
 
