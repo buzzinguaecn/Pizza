@@ -1,5 +1,5 @@
 #EXTM3U
-# 🆕 FANCODE PROXY - Updated: 2026-10-28 11:47:51 🟡
+# 🆕 FANCODE PROXY - Updated: 2026-10-28 12:47:58 🟡
 
 
 #EXTINF:-1 tvg-id="4249668" tvg-name="Western Australia Vs South Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249668_53087_SAU_WAU_FC-WEB.jpg" tvg-language="English" group-title="Cricket",ENG | Western Australia Vs South Australia
@@ -12,3 +12,11 @@ https://cinexcricket.com/proxy/universal.php/?url=https://dai-fancode.pages.dev/
 
 #EXTINF:-1 tvg-id="4250535" tvg-name="Himachal Highlenders Vs Up Thunderbolts" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250535_53137_HHL_UPT_FC-Web.png" tvg-language="English" group-title="Cricket",ENG | Himachal Highlenders Vs Up Thunderbolts
 https://cinexcricket.com/proxy/universal.php/?url=https://dai-fancode.pages.dev/mumbai/4250535_english_hls_6440259b5676713_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+
+#EXTINF:-1 tvg-id="4250345" tvg-name="Denmark Vs Qatar" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png" tvg-language="English" group-title="Cricket",ENG | Denmark Vs Qatar
+https://cinexcricket.com/proxy/universal.php/?url=https://dai-fancode.pages.dev/mumbai/4250345_english_hls_90ccd33fc091464_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+
+#EXTINF:-1 tvg-id="4250346" tvg-name="Kuwait Vs Kenya" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png" tvg-language="English" group-title="Cricket",ENG | Kuwait Vs Kenya
+https://cinexcricket.com/proxy/universal.php/?url=https://dai-fancode.pages.dev/mumbai/4250346_english_hls_f11c4f0e5f46511_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
