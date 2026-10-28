@@ -53,7 +53,7 @@
 # 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Cricket 🟢🟢🟢🟢🟢🟢
 
 
-#EXTINF:-1 tvg-id="sonyliv-1090550845" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027437/1793076736608450_STCL26_SF_Gujarat_Royals_vs_Punjab_Falcons_landscape_thumb.jpg" group-title="SAWARID سواريد - Cricket", Gujarat Royals vs Punjab Falcons - Semi Final 2 | Salute Tiranga Cricket League (STCL) 2026 [Hindi]
+#EXTINF:-1 tvg-id="sonyliv-1090550845" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027580/1793171987464723_STCL26_SF_Gujarat_Royals_vs_UP_landscape_thumb.jpg" group-title="SAWARID سواريد - Cricket", Gujarat Royals vs UP Dhurandhar - Semi Final 2 | Salute Tiranga Cricket League (STCL) 2026 [Hindi]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2120300/criclive2810/HIN/master.m3u8?hdnea=exp=1793204450~acl=/*~id=64105261433113662272449039450077~hmac=9fed16d61686b1e3b228c692342151522729db2c599e7f2d75cd2ef1187cef51
 
 
@@ -65,8 +65,12 @@ https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15f
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 
 
-#EXTINF:-1 tvg-id="4249668" tvg-name="Western Australia Vs South Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249668_53087_SAU_WAU_FC-WEB.jpg" tvg-language="English" group-title="SAWARID سواريد - Cricket",ENG | Western Australia Vs South Australia
-https://cinexcricket.com/proxy/universal.php/?url=https://dai-fancode.pages.dev/mumbai/4249668_english_hls_a2c3979ec982209_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="B0HKDPRJRS" tvg-name="Australia tour of South Africa 2026 - 3rd Test - South Africa vs Australia" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.20a790a3-51e9-4ec1-9a8b-cb632845af2d/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="SAWARID سواريد - Cricket",Australia tour of South Africa 2026 - 3rd Test - South Africa vs Australia
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d8a8cf63f2cb151902100b0d9e668dd:e75124a72568aee19b04558263d1d050
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/aqmldkpmqa/out/v1/5759ba0348c34e839eb7d42e39731bb9/cenc.mpd
 
 
 #EXTINF:-1 tvg-id="4250526" tvg-name="Bangladesh Vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg" tvg-language="English" group-title="SAWARID سواريد - Cricket",ENG | Bangladesh Vs West Indies
@@ -95,7 +99,15 @@ https://cinexcricket.com/proxy/universal.php/?url=https://dai-fancode.pages.dev/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="B0HKDPRJRS" tvg-name="Australia tour of South Africa 2026 - 3rd Test - South Africa vs Australia" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.20a790a3-51e9-4ec1-9a8b-cb632845af2d/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="SAWARID سواريد - Prime Video Sports",Australia tour of South Africa 2026 - 3rd Test - South Africa vs Australia
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d8a8cf63f2cb151902100b0d9e668dd:e75124a72568aee19b04558263d1d050
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/aqmldkpmqa/out/v1/5759ba0348c34e839eb7d42e39731bb9/cenc.mpd
 
 
 # 🆕 SAWARID سواريد - Prime Video Sports 👉 Updateded Done ✅✅✅✅✅✅
