@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 04:10:45AM - 30-10-2026
-# Total Channels: 459
+# Update Time: 09:23:57AM - 30-10-2026
+# Total Channels: 461
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -773,6 +773,10 @@ http://15.204.246.24:8080/GolfChannelHD/index.m3u8
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TY6sx5W.png" group-title="Sports1",HBCU-GO Sports
+https://a-cdn.klowdtv.com/live3/hbcugo_720p/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nK4UUX4.png" group-title="Sports1",Horse TV
 https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 
@@ -1215,6 +1219,10 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 #EXTVLCOPT:http-referrer=https://iblups.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://live-stream.iblups.com/live/a5ae024a1bbc4a05a68debbc9d379db6bb6a6da3.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.legaseriea.it/assets/radiotv-logo.svg" group-title="Sports1",Radio TV Serie A
+https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index%2Em3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WtLq2C7c/logo-Rally-Tv1.png" group-title="Sports1",Rally TV
