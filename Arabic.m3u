@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 09:23:55AM - 30-10-2026
-# Total Channels: 347
+# Update Time: 05:49:22PM - 30-10-2026
+# Total Channels: 349
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -614,6 +614,10 @@ https://5a8308add0b31.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KYMjRjK.png" group-title="Arabic",LoveWorld Arabic
 https://go5lm6a6dawb-hls-live.5centscdn.com/lwarabic/53132d996b4263ec0d7b602292c46eaf.sdp/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://mahdawioun.tv/wp-content/uploads/2024/03/New-Logo-Color.png" group-title="Arabic",MahdawiounTV
+https://live.mahdawioun.tv/stream/mahdawioun/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2k71w5N/download.png" group-title="Arabic",Makkah TV
@@ -1306,6 +1310,10 @@ https://hls.dabangasudan.org/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D2tOhbE.png" group-title="Arabic",Fujairah TV
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XjBIi0e.png" group-title="Arabic",Hya TV
+https://freem3u.xyz/api/live/play.m3u8?vid=187
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UAbSwYA.png" group-title="Arabic",Kurdsat
