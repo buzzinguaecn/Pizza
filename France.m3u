@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 03:46:23AM - 31-10-2026
-# Total Channels: 198
+# Update Time: 09:08:45AM - 31-10-2026
+# Total Channels: 199
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -134,6 +134,10 @@ https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_la_chaine_T18.svg/500px-Logo_de_la_chaine_T18.svg.png" group-title="France",T18
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WdZWBEd.png" group-title="France",Tebeo TV (576i)
+https://tebeo.streamakaci.tv/tebeo/tebeo-multi/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Oa3Pwbf.png" group-title="France",TeleGohelle
