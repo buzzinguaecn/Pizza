@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 09:08:45AM - 31-10-2026
-# Total Channels: 6131
+# Update Time: 05:23:06PM - 31-10-2026
+# Total Channels: 6132
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -24502,6 +24502,10 @@ https://srs.u-channel.tv/live/uchannel-tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://usmtv.id/wp-content/uploads/2024/01/logo-large-1.png" group-title="Indonesia",USM TV
 https://play.fsa-stream.my.id/hls/siaran.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Indonesia",AXN Asia Indonesia
+http://202.150.165.66:8088/play/301-AXN/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg" group-title="Indonesia",Dens Food Channel [Not 24/7]
