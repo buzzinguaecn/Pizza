@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 02:45:57AM - 01-11-2026
-# Total Channels: 464
+# Update Time: 09:03:57AM - 01-11-2026
+# Total Channels: 478
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -690,6 +690,10 @@ https://tvsen7.aynascope.net/foxsports2/index.m3u8
 http://138.59.227.20:8000/play/a085/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="Sports1",Fox Sports HD
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FhMQrJk.png" group-title="Sports1",Fox Sports News
 https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8
 
@@ -1062,6 +1066,10 @@ https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ORF_Sport%2B.svg/960px-ORF_Sport%2B.svg.png" group-title="Sports1",ORF Sport+
+https://test02.mdn.ors.at/orf/orfs/qxa/manifest.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="Sports1",Ovacion TV [Not 24/7]
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
@@ -1353,6 +1361,38 @@ https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TxQvFnQ.png" group-title="Sports1",Sky Racing 2
 https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ThJHEuN.png" group-title="Sports1",Sky Sport 1
+http://37.49.224.5/stream/44/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cu8yB69.png" group-title="Sports1",Sky Sport 2
+http://37.49.224.5/stream/45/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XYp3Ua3.png" group-title="Sports1",Sky Sport 3
+http://37.49.224.5/stream/46/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KUXs7SQ.png" group-title="Sports1",Sky Sport 4
+http://37.49.224.5/stream/51/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iuTNWh4.png" group-title="Sports1",Sky Sport 7
+http://37.49.224.5/stream/50/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8YjqlRv.png" group-title="Sports1",Sky Sport 8
+http://37.49.224.5/stream/70/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9fLRHSg.png" group-title="Sports1",Sky Sport 9
+http://37.49.224.5/stream/52/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6x2anTA.png" group-title="Sports1",Sky Sport Select
+http://37.49.224.5/stream/53/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9onSfMi.png" group-title="Sports1",Sky Sports 1
@@ -1730,6 +1770,22 @@ http://37.49.224.5:80/stream/3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="Sports1",TNT Sports 4
 http://37.49.224.5:80/stream/4/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" group-title="Sports1",TNT Sports (Argentina)
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" group-title="Sports1",TNT Sports (Argentina) SD
+http://181.78.79.131:8000/play/a0mo
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" group-title="Sports1",TNT Sports (Chile)
+http://209.45.101.130:8040/play/a03s/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Sports1",TNT Sports Premium ArgentinaHD
+http://181.78.79.131:8000/play/a0q9
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/khj869k.png" group-title="Sports1",Tour Spot TV [Not 24/7]
