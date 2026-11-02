@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 03:28:02AM - 02-11-2026
-# Total Channels: 478
+# Update Time: 09:14:22AM - 02-11-2026
+# Total Channels: 479
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -62,6 +62,10 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads.xumo_cha
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Antena_Play_symbol_white_2022.svg/revision/latest/scale-to-width-down/1000?cb=20251128201145" group-title="Sports1",AntenaPlay Events [Not 24/7]
 https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn.as.ro/wp-content/themes/antenasport/images/icons-as/as.svg" group-title="Sports1",AntenaSport
+https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uAaQDr6.png" group-title="Sports1",Arena4
@@ -528,6 +532,10 @@ https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/960px-Esport3.svg.png" group-title="Sports1",Esport3 Originals [Not 24/7]
 https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sports1",Eurosport 1 Germany
+http://90.183.52.46:4000/play/a06v/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sports1",Eurosport 1 Hungary
@@ -1513,10 +1521,6 @@ http://88.212.15.50/live/test_rtvs_sport_hevc/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2WJE9CM.png" group-title="Sports1",Sport (Uzbekistan)
 https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/Sport_Extra_horizontal.svg/revision/latest/scale-to-width-down/1000?cb=20220425110755" group-title="Sports1",Sport Extra
-https://tvextra-hls.b-cdn.net/sportextra/sportextra.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YWic36u.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports1",Sport TV1
