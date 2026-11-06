@@ -12,6 +12,8 @@ http://172.17.50.112:84/ant1001/video.m3u8
 http://172.16.172.115:3255/TSportsHD_sf_nix/index.m3u8
 http://172.16.172.115:3255/TSportsHD_nk_nix/index.m3u8
 http://172.16.172.115:3255/TSportsHD_nk_bdix/index.m3u8
+ 
+
 
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/tlogo.jpg" group-title="Sports",Tspots 1
 http://172.16.172.116:3255/TSportsHD_nk_nix/index.m3u8
@@ -31,10 +33,13 @@ http://172.16.172.115:3255/unite8/index.m3u8
 http://172.16.172.115:3255/shomoytv/index.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260110000735_fimg1.jpg" group-title="Sports",SPORTS 3
 http://172.16.172.115:3255/somy_rc_bdix/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260312214748_1-7-1.jpg" group-title="Sports",PTV 1
 http://172.16.172.115:3255/ptv_bdix/index.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260312214748_1-7-1.jpg" group-title="Sports",PTV 2
 http://172.16.172.115:3255/ptv_nix/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260110000632_fimg1.jpg" group-title="Sports",SPORTS 1
 http://172.16.172.115:3255/spotyfyz_nix/index.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260110000632_fimg1.jpg" group-title="Sports",SPORTS 2
@@ -59,6 +64,8 @@ http://172.16.172.115:3255/ptv/index.m3u8
 http://172.16.172.115:3255/SonyTenCricket/index.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/unnamed.png" group-title="Sports",BeinSports
 http://172.16.172.115:3255/beinspots/index.m3u8
+http://172.16.172.115:3255/bein1/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260109235328_images_3.png" group-title="Sports",Nagorik tv
 http://172.16.172.115:3255/nagorik_r/index.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260312214333_Sony-Sports-Network-gears-up-for-Asia-Cup-2025-with-star-studded-expert-panel.png" group-title="Sports",Sony Ten 1
@@ -84,12 +91,7 @@ http://172.16.172.115:3255/tapmad_combo/index.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260110000435_fimg1.jpg" group-title="Sports",F1
 http://172.16.172.115:3255/sportzfy1/index.m3u8
 
-# --- Sportzfy Channels ---
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260110000632_fimg1.jpg" group-title="Sportzfy",Sportzfy live
-http://172.16.172.115:3255/sportzfy1/index.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260110000735_fimg1.jpg" group-title="Sportzfy",Sportzfy live 2
-http://172.16.172.115:3255/sportfy-2/index.m3u8
-
+ 
 # --- Top Picks Channels ---
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/somoy-news-tv_1.jpg" group-title="Top Picks",somynews
 http://172.16.172.115:3255/somyyt/index.m3u8
@@ -118,37 +120,7 @@ http://172.16.172.115:3255/chnnel-i/index.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/livetv-it-default.jpg" group-title="Top Picks",indiatoday
 http://172.16.172.115:3255/indiatoday/index.m3u8
 
-# --- Prime Play Channels ---
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/tlogo.jpg" group-title="Prime Play",Tspots 2
-http://172.16.172.115:3255/TSportsHD_sf_nix/index.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/tlogo.jpg" group-title="Prime Play",Tspots 1
-http://172.16.172.116:3255/TSportsHD_nk_nix/index.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/tlogo.jpg" group-title="Prime Play",Tspots 3
-http://172.16.172.115:3255/TSportsHD_rc_nix/index.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/tlogo.jpg" group-title="Prime Play",Tspots 4
-http://172.16.172.116:3255/TSportsHD_rc_nix/index.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/tlogo.jpg" group-title="Prime Play",Tspots 5
-http://172.16.172.115:3255/TSportsHD_nk_nix/index.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/tlogo.jpg" group-title="Prime Play",Tspots 6
-http://172.16.172.115:3255/TSportsHD_nk_bdix/index.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/tlogo.jpg" group-title="Prime Play",Tspots 7
-http://172.16.172.115:3255/ant1001/index.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/tlogo.jpg" group-title="Prime Play",SPORTS 8
-http://172.16.172.115:3255/unite8/index.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/tlogo.jpg" group-title="Prime Play",SPORTS 9
-http://172.16.172.115:3255/shomoytv/index.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260110000735_fimg1.jpg" group-title="Prime Play",SPORTS 3
-http://172.16.172.115:3255/somy_rc_bdix/index.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260312214748_1-7-1.jpg" group-title="Prime Play",PTV 1
-http://172.16.172.115:3255/ptv_bdix/index.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260312214748_1-7-1.jpg" group-title="Prime Play",PTV 2
-http://172.16.172.115:3255/ptv_nix/index.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260110000632_fimg1.jpg" group-title="Prime Play",SPORTS 1
-http://172.16.172.115:3255/spotyfyz_nix/index.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260110000632_fimg1.jpg" group-title="Prime Play",SPORTS 2
-http://172.16.172.115:3255/spotyfyz_bdix/index.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260217172937_20260206202629_beIN_SSPORTS_Portada.jpg" group-title="Prime Play",Bein 1 HD
-http://172.16.172.115:3255/bein1/index.m3u8
+ 
 
 # --- News Channels ---
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260301095205_images.png" group-title="News",Aljazeera
@@ -348,6 +320,7 @@ http://172.16.172.115:3255/SONY-BBC/index.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260312173135_images_14.png" group-title="Info",NATGEO-HD
 http://172.16.172.115:3255/NATGEO-HD/index.m3u8
 
-# --- International Channels ---
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260312161441_21fd6c17ca827011f43a6cfb987c1759.jpg" group-title="International",Lotus-TV-HD
+
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260312161441_21fd6c17ca827011f43a6cfb987c1759.jpg" group-title="Info",Lotus-TV-HD
 http://172.16.172.115:3255/Lotus-TV-HD/index.m3u8
+# --- International Channels ---
