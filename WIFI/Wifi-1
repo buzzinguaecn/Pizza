@@ -7,9 +7,12 @@ http://172.16.172.115:9093
 
 
 # --- Sports Channels ---
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/tlogo.jpg" group-title="Sports",T spots HD
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/tlogo.jpg" group-title="Sports",T Spots HD
 http://172.17.50.112:84/ant1001/video.m3u8
 http://172.16.172.115:3255/TSportsHD_sf_nix/index.m3u8
+http://172.16.172.115:3255/TSportsHD_nk_nix/index.m3u8
+http://172.16.172.115:3255/TSportsHD_nk_bdix/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/tlogo.jpg" group-title="Sports",Tspots 1
 http://172.16.172.116:3255/TSportsHD_nk_nix/index.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/tlogo.jpg" group-title="Sports",Tspots 3
@@ -17,9 +20,9 @@ http://172.16.172.115:3255/TSportsHD_rc_nix/index.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/tlogo.jpg" group-title="Sports",Tspots 4
 http://172.16.172.116:3255/TSportsHD_rc_nix/index.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/tlogo.jpg" group-title="Sports",Tspots 5
-http://172.16.172.115:3255/TSportsHD_nk_nix/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/tlogo.jpg" group-title="Sports",Tspots 6
-http://172.16.172.115:3255/TSportsHD_nk_bdix/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/tlogo.jpg" group-title="Sports",Tspots 7
 http://172.16.172.115:3255/ant1001/index.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/tlogo.jpg" group-title="Sports",SPORTS 8
