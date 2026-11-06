@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 10:03:40AM - 06-11-2026
-# Total Channels: 6137
+# Update Time: 07:24:38PM - 06-11-2026
+# Total Channels: 6138
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -6197,7 +6197,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJRJr3BR/2560px-VTV-Indonesia-White-2023-svg.png" group-title="Indonesia",VTV (Indonesia) HD
-http://ikitv.sqn.at:8000/play/a023/index.m3u8
+http://202.150.172.59/VTVHD/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/music/mtv_live.png" group-title="Indonesia",MTV LIVE (V+)
@@ -24322,6 +24322,10 @@ https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI Gorontalo
 https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI HD
+http://202.150.172.59/TVRI/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI Jakarta (576i) [Not 24/7]
