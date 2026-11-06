@@ -16,38 +16,45 @@ http://172.16.172.115:3255/TSportsHD_nk_bdix/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/tlogo.jpg" group-title="Sports",Tspots 1
-http://172.16.172.116:3255/TSportsHD_nk_nix/index.m3u8
+#http://172.16.172.116:3255/TSportsHD_nk_nix/index.m3u8
+#http://172.16.172.115:3255/TSportsHD/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/tlogo.jpg" group-title="Sports",Tspots 3
-http://172.16.172.115:3255/TSportsHD_rc_nix/index.m3u8
+#http://172.16.172.115:3255/TSportsHD_rc_nix/index.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/tlogo.jpg" group-title="Sports",Tspots 4
-http://172.16.172.116:3255/TSportsHD_rc_nix/index.m3u8
+#http://172.16.172.116:3255/TSportsHD_rc_nix/index.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/tlogo.jpg" group-title="Sports",Tspots 5
 
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/tlogo.jpg" group-title="Sports",Tspots 6
 
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/tlogo.jpg" group-title="Sports",Tspots 7
-http://172.16.172.115:3255/ant1001/index.m3u8
+#http://172.16.172.115:3255/ant1001/index.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/tlogo.jpg" group-title="Sports",SPORTS 8
-http://172.16.172.115:3255/unite8/index.m3u8
+#http://172.16.172.115:3255/unite8/index.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/tlogo.jpg" group-title="Sports",SPORTS 9
-http://172.16.172.115:3255/shomoytv/index.m3u8
+#http://172.16.172.115:3255/shomoytv/index.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260110000735_fimg1.jpg" group-title="Sports",SPORTS 3
-http://172.16.172.115:3255/somy_rc_bdix/index.m3u8
+#http://172.16.172.115:3255/somy_rc_bdix/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260312214748_1-7-1.jpg" group-title="Sports",PTV 1
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260312214748_1-7-1.jpg" group-title="Sports",PTV
 http://172.16.172.115:3255/ptv_bdix/index.m3u8
 http://172.16.172.115:3255/ptv_nix/index.m3u8
+http://172.16.172.115:3255/ptv/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260312211539_1200x630wa.jpg" group-title="Sports", A Sports
+http://172.16.172.115:3255/A-SPORTS-HD/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260110000632_fimg1.jpg" group-title="Sports",SPORTS 1
-http://172.16.172.115:3255/spotyfyz_nix/index.m3u8
+#http://172.16.172.115:3255/spotyfyz_nix/index.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260110000632_fimg1.jpg" group-title="Sports",SPORTS 2
-http://172.16.172.115:3255/spotyfyz_bdix/index.m3u8
+#http://172.16.172.115:3255/spotyfyz_bdix/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260217172937_20260206202629_beIN_SSPORTS_Portada.jpg" group-title="Sports",Bein 1 HD
-http://172.16.172.115:3255/bein1/index.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/tlogo.jpg" group-title="Sports",Tspots
-http://172.16.172.115:3255/TSportsHD/index.m3u8
+#http://172.16.172.115:3255/bein1/index.m3u8
+
+ 
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260109235811_unnamed_2.png" group-title="Sports",Star Sports
 http://172.16.172.115:3255/StarSports1/index.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260109235855_unnamed_2.png" group-title="Sports",Star Sports 2
@@ -56,10 +63,8 @@ http://172.16.172.115:3255/StarSports2/index.m3u8
 http://172.16.172.115:3255/StarSportss1/index.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260110000154_Star_Sports_Select_logo_1.png" group-title="Sports",StarSportss2
 http://172.16.172.115:3255/StarSportss2/index.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260312211539_1200x630wa.jpg" group-title="Sports",A-SPORTS-HD
-http://172.16.172.115:3255/A-SPORTS-HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260312214748_1-7-1.jpg" group-title="Sports",PTV
-http://172.16.172.115:3255/ptv/index.m3u8
+
+ 
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/20260110001307_795170c2-ec78-457e-9fa0-54a23d23361c.webp" group-title="Sports",Sony Ten 3
 http://172.16.172.115:3255/SonyTenCricket/index.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.172.115/static/images/unnamed.png" group-title="Sports",BeinSports
