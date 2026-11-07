@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 04:29:42AM - 07-11-2026
-# Total Channels: 200
+# Update Time: 09:39:16AM - 07-11-2026
+# Total Channels: 199
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -285,7 +285,7 @@ https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="France",TV5Monde Info
-https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+http://91.235.255.32:8001/1:0:1:2CA:14B4:13E:820000:0:0:0
 
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/africa24tv.com/wp-content/uploads/2023/12/LOGO-AFRICASPORT-4-HD-sans-fond.png?fit=512%2C107&ssl=1" group-title="France",Africa 24 Sport
@@ -370,6 +370,18 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&star
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FQ0FpXV.png" group-title="France",like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="France",BFM Tech & Co
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE
+
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZYgQTsDhkbaqmPRCPZIf0UgZqF1wa6aG2eo8ti=s176-c-k-c0x00ffffff-no-rj-mo" group-title="France",BTL TV (Netherlands)
+https://cdn.liveplustv.com/v1/live/btl-tv/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v8TiqhH.png" group-title="France",Evandis Gospel TV
+https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EY6TsdV.png" group-title="France",KTO [Not 24/7]
+https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgKaoe4.png" group-title="France",Caillou
@@ -553,7 +565,7 @@ https://test.946985.filegear-sg.me/proxy/803c517b325bfafc
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j31lBL7.png" group-title="France",MCM Pop
-http://188.115.15.121:8000/play/a014
+http://176.65.153.78:8201/play/a070/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EVtWQLd.png" group-title="France",MCM Top (France)
@@ -672,14 +684,6 @@ http://149.62.177.107:9999/France_4/index.m3u8
 http://99.27.51.147:8080/Gulli/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="France",like Gecko) Chrome/154.0.0.0 Safari/537.36" group-title="France",Nickelodeon (France)
-http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png" group-title="France",Nickelodeon Junior
-http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG_1750147033956.png" group-title="France",Pluto TV Kids Classics FR
 https://jmp2.uk/plu-654a58dbf9cc82000868f0fb.m3u8
 
@@ -726,14 +730,6 @@ https://jmp2.uk/plu-611e7811eb9daf000764cbfd.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/611e771e2f5f180007002224/colorLogoPNG.png" group-title="France",Pluto TV Histoire
 https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v8TiqhH.png" group-title="France",Evandis Gospel TV
-https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EY6TsdV.png" group-title="France",KTO [Not 24/7]
-https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GFTAN5Q.png" group-title="France",FashionTV Paris L'Original
