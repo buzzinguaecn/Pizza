@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 03:27:21AM - 09-11-2026
-# Total Channels: 203
+# Update Time: 09:33:21AM - 09-11-2026
+# Total Channels: 200
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -62,10 +62,6 @@ http://192.99.186.30/stream/250/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e7fc8c0d061100083946a9/colorLogoPNG.png" group-title="France",Teen Mom (Germany) FR
 https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="France",TF1
-http://149.62.177.107:9999/TF1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66f55c3955567d0008ef9b68/colorLogoPNG.png" group-title="France",Turbo
@@ -156,12 +152,8 @@ https://tebeo.streamakaci.tv/tebeo/tebeo-multi/playlist.m3u8
 https://videas.agglo-lenslievin.fr/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png" group-title="France",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="France",TMC
-http://151.80.18.177:86/TMC/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png" group-title="France",TMC HD
-http://149.62.177.107:9999/TMC/index.m3u8
+http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X2yd0zL/logo-tv3v.jpg" group-title="France",TV3V
@@ -448,7 +440,7 @@ https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3
 https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EOXnU15.png" group-title="France",Canal+ Sport
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EOXnU15.png" group-title="France",Canal+ Sport (France)
 http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
 
 
@@ -582,10 +574,6 @@ http://176.65.153.78:8201/play/a070/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EVtWQLd.png" group-title="France",MCM Top (France)
 http://185.228.163.146:8000/play/a00g/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/auNdGeW.png" group-title="France",Mezzo
-http://91.228.35.249:8001/1:0:1:422B:2F44:13E:820000:0:0:0:
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H9ytKPN.png" group-title="France",Mezzo Live
