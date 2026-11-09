@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 03:27:21AM - 09-11-2026
-# Total Channels: 217
+# Update Time: 09:33:21AM - 09-11-2026
+# Total Channels: 216
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -574,7 +574,7 @@ https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="Argentina",NET TV
-http://45.134.141.161:2200/ARG/Net_TV/index.m3u8
+http://45.226.205.96:48000/play/a09p/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lJCIqYn.png" group-title="Argentina",NG Federal
@@ -724,10 +724,6 @@ http://45.173.231.22:8000/play/a053/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe Buenos Aires
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe Interior
-http://200.91.32.158:8080/telefehdvalle/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="Argentina",Telefe Internacional
