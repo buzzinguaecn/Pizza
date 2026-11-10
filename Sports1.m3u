@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 08:38:24PM - 09-11-2026
-# Total Channels: 505
+# Update Time: 06:57:35AM - 10-11-2026
+# Total Channels: 508
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -400,6 +400,10 @@ https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64b67f0424ade50008a3be17/colorLogoPNG.png" group-title="Sports1",DAZN Darts x Pluto TV
 https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yFCr5XX.png" group-title="Sports1",DAZN F1
+https://tvorb.net/ZTV/6918-live.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64afe50c5dc16600087f3227/colorLogoPNG.png" group-title="Sports1",DAZN Heldinnen x Pluto TV
@@ -1672,6 +1676,10 @@ http://88.212.15.50/live/test_rtvs_sport_hevc/playlist.m3u8
 https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/Sport_Extra_horizontal.svg/revision/latest/scale-to-width-down/1000?cb=20220425110755" group-title="Sports1",Sport Extra HD
+http://92.180.26.103:80/stream/93/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://sptfm.ro/wp-content/uploads/2021/05/logo-sport-total-fm-01.png" group-title="Sports1",Sport Total FM (576i)
 https://livesptfm.com/SPTFM/Live/playlist.m3u8
 
@@ -1919,6 +1927,10 @@ http://209.45.101.130:8040/play/a03s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Sports1",TNT Sports Premium ArgentinaHD
 http://181.78.79.131:8000/play/a0q9
+
+
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Sports1",TNT Sports Premium HD
+http://205.235.6.29:8000/play/a104/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/khj869k.png" group-title="Sports1",Tour Spot TV [Not 24/7]
