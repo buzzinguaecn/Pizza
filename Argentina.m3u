@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 08:38:23PM - 09-11-2026
-# Total Channels: 216
+# Update Time: 06:57:34AM - 10-11-2026
+# Total Channels: 220
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -117,6 +117,11 @@ https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
 https://edge.enhdtv.com/nexthd/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FHVdMwg.jpeg" http-referrer="https://canal3.cespalarroyito.coop/" group-title="Argentina",Canal 3 Arroyito
+#EXTVLCOPT:http-referrer=https://canal3.cespalarroyito.coop/
+https://envivo.cespalarroyito.coop/live/Canal3Arroyito.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rVDrNIy.png" group-title="Argentina",Canal 3 Formosa
 https://stmvideo6.livecastv.com/agenfor/agenfor/playlist.m3u8
 
@@ -217,8 +222,17 @@ https://stream.arcast.live/ahora/ahora/playlist.m3u8
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0CmJqGe.png" http-referrer="https://canal9riocuarto.com.ar/" group-title="Argentina",Canal 9 Rio Cuarto
+#EXTVLCOPT:http-referrer=https://canal9riocuarto.com.ar/
+https://tv.streamcasthd.com:3249/live/canal9riocuartolive.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/87WCHtd.png" group-title="Argentina",Canal 10 Cordoba
 https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cySdXxP/unnamed-5.png" group-title="Argentina",Canal 10 Goya
+https://tv.streamcasthd.com:3637/live/canal10goyalive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bq29sfG.png" group-title="Argentina",Canal 10 Mar del Plata
@@ -243,6 +257,11 @@ http://arcast.net:1935/mp/mp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NcfMC29.png" group-title="Argentina",Canal 13 San Luis
 https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PaQH5JM.png" http-referrer="https://www.canal20villamaria.com.ar/" group-title="Argentina",Canal 20 Villa Maria
+#EXTVLCOPT:http-referrer=https://www.canal20villamaria.com.ar/
+https://stmvideo3.livecastv.com/canal20/canal20/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Am7yMXg.png" group-title="Argentina",Canal 21 TV
