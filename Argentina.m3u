@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 05:49:10AM - 12-11-2026
-# Total Channels: 219
+# Update Time: 10:48:11AM - 12-11-2026
+# Total Channels: 220
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -488,6 +488,10 @@ https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Argentina",ESPN Latin America Argentina
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn-mux/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="Argentina",ESPN Premium
+http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="Argentina",ESPN Premium HD
