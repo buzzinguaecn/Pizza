@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 09:59:10AM - 13-11-2026
-# Total Channels: 6138
+# Update Time: 07:35:30PM - 13-11-2026
+# Total Channels: 6142
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -14428,6 +14428,10 @@ https://flv.intechmedia.net/live/ch112.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h313/stream.m3u8?app_type=web&userid=lite&chname=BTV
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z1M2Avx.png" group-title="Indonesia",GTV
+https://proxy-v.rctiplus.id/live/web/gtv/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cNj0zNL.png" group-title="Indonesia",iNews
 https://proxy-v.rctiplus.id/live/web/inews/index.m3u8
 
@@ -14444,6 +14448,10 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8
 https://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=dash
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7AX2huE.png" group-title="Indonesia",MNCTV
+https://proxy-v.rctiplus.id/live/web/mnctv/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TOKWJqi.png" group-title="Indonesia",Moji
 https://op-group1-densxvisionhd-1.dens.tv/h/h207/02.m3u8
 
@@ -14452,8 +14460,16 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h207/02.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h37/02.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n0pnMMg.png" group-title="Indonesia",RCTI
+https://proxy-v.rctiplus.id/live/web/rcti/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Riau_TV.png/revision/latest?cb=20181001034314" group-title="Indonesia",Riau TV
 http://122.248.43.242:1935/RIAUTV/_definst_/myStream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lTLsqu2.png" group-title="Indonesia",SindoNews TV
+https://proxy-v.rctiplus.id/live/web/sindonews/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o9Xg7V4.png" group-title="Indonesia",tvOne
