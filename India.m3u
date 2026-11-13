@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 09:59:10AM - 13-11-2026
-# Total Channels: 826
+# Update Time: 07:35:31PM - 13-11-2026
+# Total Channels: 829
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -424,6 +424,10 @@ https://live.jswk.online/IK_RTPM/live/index.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/jantantratv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143237_ld_h9_aa.png?lock=720x540" group-title="India",JK 24x7 News
+https://samitaorigin.tangotv.in/JKL24X7NEWS/SAMITAORIGIN/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/K_News_India.png" group-title="India",K News India
 https://legitpro.co.in/knews/index.m3u8
 
@@ -446,6 +450,10 @@ https://server.thelegitpro.in/kalingatv/kalingatv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KANAK_NEWS/images/LOGO_HD/image.png" group-title="India",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="India",Kanak News
 https://fta.ektv.in/live/669/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/newsbeatkarnataka.png" group-title="India",Karnataka News Beat
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d0f1a078-3293-4f87-80ac-34cff3279b0d/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qfINs2r.png" group-title="India",Kashish News
@@ -768,6 +776,10 @@ https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8
 https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nonstop-bharat-in.png" group-title="India",Non Stop Bharat
+https://mumt07.tangotv.in/zHjX9OFlCHAUKASTV/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NORTH_EAST_LIVE/images/LOGO_HD/image.png" group-title="India",like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" group-title="India",Northeast Live
 https://server.thelegitpro.in/northeastlive/northeastlive/index.fmp4.m3u8
 
@@ -1041,7 +1053,7 @@ https://cdn.pishow.tv/ott/live/387/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tv7bharat.tv/wp-content/uploads/2023/07/Logo-Bharat.jpg" group-title="India",TV7 Bharat
-https://stream.ottlive.co.in/tv7bharat/index.m3u8
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/797fcff8-10d6-4c9c-a409-8d0c4fa5c8dd/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://d3jnkp3lrs2hd5.cloudfront.net/images/100x100/52ac91e7-2c9d-415b-a63f-fb41413105ff.jpg" group-title="India",TV7 National
