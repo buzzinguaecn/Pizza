@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 09:41:24AM - 15-11-2026
-# Total Channels: 351
+# Update Time: 07:06:53PM - 15-11-2026
+# Total Channels: 352
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -1262,6 +1262,10 @@ https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="Arabic",MBC 3 USA
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Arabic",Nickelodeon Arabia (1080i)
+http://85.237.89.159:3342/ar-s/Nickelodeon/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hdsrxvX.png" group-title="Arabic",Taha TV
