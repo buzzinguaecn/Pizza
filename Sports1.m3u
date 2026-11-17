@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 08:13:25PM - 16-11-2026
-# Total Channels: 525
+# Update Time: 07:15:41AM - 17-11-2026
+# Total Channels: 529
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -287,10 +287,6 @@ http://57.129.96.133:888/stream/92/index.m3u8
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?offsetSeconds=0
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png" group-title="Sports1",CazeTV
-http://138.204.86.4:8080/CAZE_TV/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3mEdjuq.png" group-title="Sports1",CBC Sport
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 
@@ -405,10 +401,6 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540" group-title="Sports1",DD Sports HD
 https://cdn.pishow.tv/ott/live/1161/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y1t8xkL.png" group-title="Sports1",Deportes TVC
-http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="Sports1",DeporTV
@@ -765,10 +757,6 @@ http://46.32.176.50/extremesport/index.m3u8
 https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VmaYUcq.png" group-title="Sports1",Fast Sports
-http://s7.merlive.am/Fastsports/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a9ZtP17.png" group-title="Sports1",Fast&FunBox
 https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
 
@@ -852,6 +840,14 @@ https://fontvlive.mediacdn.ru/stream/fontv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.antenaplay.ro/2024/02/23/XUKfJwir4MxNeP4nHtG7.png" group-title="Sports1",Formula 1 AntenaPlay (576i) [Not 24/7]
 https://stream1.antenaplay.ro/promo/formula-1-las-vegas-20-2211/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://assets.antenaplay.ro/2024/02/28/YW9VML2K4hpFUKMHme97.png" group-title="Sports1",Formula 2 AntenaPlay (576i) [Not 24/7]
+https://stream1.antenaplay.ro/promo/formula-2-qatar/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://assets.antenaplay.ro/2024/02/28/1o8H6fCMh1DSC2vuLjo8.png" group-title="Sports1",Formula Academy AntenaPlay [Not 24/7]
+https://stream1.antenaplay.ro/promo/f1-academy-las-vegas-general-2026/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/960px-FOX_wordmark.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Sports1",FOX Central
@@ -1210,6 +1206,10 @@ https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
 https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://assets.antenaplay.ro/2024/10/25/HmBMStln2f1qwN0tAXpG.png" group-title="Sports1",NBA AntenaPlay
+https://stream1.antenaplay.ro/promo/nba-meci/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png" group-title="Sports1",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 
@@ -1376,6 +1376,18 @@ https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-a
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BURPHzI.png" group-title="Sports1",Premier Sports
 https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hROcepe.png" group-title="Sports1",Prima Sport 2 HD
+http://sultanios.alwaysdata.net/vavo.php?ID=3381201599
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/9a/Prima_Sport_3_%282022-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20240205122802" group-title="Sports1",Prima Sport 3 HD
+http://sultanios.alwaysdata.net/vavo.php?ID=2762629881
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lqaIIhc.png" group-title="Sports1",Prima Sport 4 HD
+http://sultanios.alwaysdata.net/vavo.php?ID=3194919143
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Prima_Sport_%28Czech_Republic%29.svg/revision/latest?cb=20260728085614" group-title="Sports1",Prima Sport Czechia
@@ -1655,13 +1667,17 @@ http://88.212.7.14/live/spiler1/index.m3u8
 http://88.212.7.14/live/spiler2/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X5X3tKC.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Sports1",Sport1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X5X3tKC.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Sports1",Sport1 (Czech Republic)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://88.212.15.50/live/test_sport1_25p/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X5X3tKC.png" group-title="Sports1",Sport1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X5X3tKC.png" group-title="Sports1",Sport1 (Czech Republic) HD
 http://88.212.7.14/live/sport1_cz_avc_25p/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tsjt7v9.png" group-title="Sports1",Sport1 (Germany)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/sport1/live.livx/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X5X3tKC.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Sports1",Sport 1 (Hungary)
