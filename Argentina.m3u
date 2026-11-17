@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 08:13:24PM - 16-11-2026
-# Total Channels: 219
+# Update Time: 07:15:40AM - 17-11-2026
+# Total Channels: 220
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -371,6 +371,10 @@ https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oL8SMTL.png" group-title="Argentina",Ciudad TV Resistencia
 https://617c5175c970b.streamlock.net:4444/chacodxdtv/livenew/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Argentina",Comedy Central Latin America
+http://190.93.224.42/COMEDY-CENTRAL/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bNCGzjf.jpeg" group-title="Argentina",Correa Radiovision
