@@ -54,20 +54,6 @@
 # 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Football 🟢🟢🟢🟢🟢🟢
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/El%20Salvador%20Vs%20Saint%20Martin.jpg" group-title="SAWARID سواريد - Football", El Salvador 🆚 Saint Martin - FOX1 SPORTS FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/El%20Salvador%20Vs%20Saint%20Martin.jpg" group-title="SAWARID سواريد - Football", El Salvador 🆚 Saint Martin - HD QUALITY +
-http://162.251.160.53:8089/1121/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/El%20Salvador%20Vs%20Saint%20Martin.jpg" group-title="SAWARID سواريد - Football", El Salvador 🆚 Saint Martin - HD QUALITY + TV
-https://www.rtmpcdn.com/live/29abbc77-a5a8-4306-9ac9-4d765933cc18.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Mexico%20Vs%20Jamaica.jpg" group-title="SAWARID سواريد - Football", Mexico 🆚 Jamaica - CANAL5 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -80,6 +66,11 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Mexico%20Vs%20Jamaica.jpg" group-title="SAWARID سواريد - Football", Mexico 🆚 Jamaica - HD QUALITY + TV
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/60362/load-playlist?&.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Mexico%20Vs%20Jamaica.jpg" group-title="SAWARID سواريد - Football", Mexico 🆚 Jamaica - HD QUALITY +
