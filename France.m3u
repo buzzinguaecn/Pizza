@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 03:09:55AM - 18-11-2026
-# Total Channels: 229
+# Update Time: 05:45:01PM - 18-11-2026
+# Total Channels: 230
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -34,6 +34,10 @@ http://192.99.186.30/stream/68/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7GVp3fW.png" group-title="France",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="France",M6 HD
 http://99.27.51.147:8080/M6/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7GVp3fW.png" group-title="France",M6 SD
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/m6_fr/live.livx/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="France",MTV (France)
@@ -356,8 +360,8 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?end=END
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?end=END&start=LIVE
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YJCcczD.png" group-title="France",like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="France",BFM TV
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YJCcczD.png" group-title="France",BFM TV
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/bfm_tv/live.livx/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vp1oVj3.png" group-title="France",like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="France",BFM Var
@@ -881,7 +885,7 @@ https://jmp2.uk/plu-632c6df43d2bc5000751f621.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k7UImOJ.png" group-title="France",LCP
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/lcp/live.livx/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WbjURLo.png" group-title="France",Museum TV French
