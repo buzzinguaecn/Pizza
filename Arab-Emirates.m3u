@@ -1,5 +1,5 @@
 #EXTM3U
-# Update Time: 03:09:55AM - 18-11-2026
+# Update Time: 05:45:01PM - 18-11-2026
 # Total Channels: 50
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
@@ -116,12 +116,20 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc4976
 https://hls.mbcpersia.live/hls/stream.m3u8
 
 
+#EXTINF:-1 group-title="Arab-Emirates" ,Nickelodeon Arabia (1080i)
+http://85.237.89.159:3342/ar-s/Nickelodeon/index.m3u8
+
+
 #EXTINF:-1 group-title="Arab-Emirates" ,Nour TV
 https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
 
 
 #EXTINF:-1 group-title="Arab-Emirates" ,OSN Movies Action
 http://116.90.120.151:8000/play/a0ax/index.m3u8
+
+
+#EXTINF:-1 group-title="Arab-Emirates" ,Peace TV Bangla
+http://103.135.253.32:8080/Pace-TV-Bangla/index.m3u8
 
 
 #EXTINF:-1 group-title="Arab-Emirates" ,Peace TV Bangla
@@ -193,18 +201,10 @@ https://live-stream.skynewsarabia.com/c-vertical-channel/vertical-stream/index.m
 https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8
 
 
-#EXTINF:-1 group-title="Arab-Emirates" ,Watar Radio
-https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Arab-Emirates" ,Peace TV Bangla
-http://103.135.253.32:8080/Pace-TV-Bangla/index.m3u8
-
-
 #EXTINF:-1 group-title="Arab-Emirates" ,Star World Middle East
 http://85.237.89.159:3342/ar-s/STAR-World-HD/index.m3u8
 
 
-#EXTINF:-1 group-title="Arab-Emirates" ,Nickelodeon Arabia (1080i)
-http://85.237.89.159:3342/ar-s/Nickelodeon/index.m3u8
+#EXTINF:-1 group-title="Arab-Emirates" ,Watar Radio
+https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8
 
