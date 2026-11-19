@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 02:40:52AM - 19-11-2026
-# Total Channels: 534
+# Update Time: 07:56:14AM - 19-11-2026
+# Total Channels: 540
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -16,8 +16,12 @@ https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_gold/live.livx/play
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_live/live.livx/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XNmh01pH/5sport-max-il.png" group-title="Sports1",5Max
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_max/live.livx/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L3RA9Lv.png" group-title="Sports1",5Plus
-http://89.33.29.115:8080/sportplus/index.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_plus/live.livx/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Msfhpqd.png" group-title="Sports1",5Sport 4K
@@ -29,7 +33,7 @@ https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5/live.livx/playlist.
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IQtAKIa.png" group-title="Sports1",5Stars
-http://89.33.29.115:8080/IL_5Stars/index.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_starz/live.livx/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lv53nh4.png" group-title="Sports1",30A Golf Kingdom
@@ -863,7 +867,7 @@ https://stream1.antenaplay.ro/promo/formula-2-qatar/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://assets.antenaplay.ro/2024/02/28/1o8H6fCMh1DSC2vuLjo8.png" group-title="Sports1",Formula Academy AntenaPlay [Not 24/7]
-https://stream1.antenaplay.ro/promo/f1-academy-las-vegas-general-2026/chunklist.m3u8
+https://stream1.antenaplay.ro/promo/f1-academy-las-vegas-20-2211/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/960px-FOX_wordmark.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Sports1",FOX Central
@@ -904,6 +908,10 @@ https://master.tucableip.com/ftvhd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="Sports1",Fubo Sports Network
 https://dnf08l6u6uxnz.cloudfront.net/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="Sports1",Fubo Sports Network HD
+http://107.167.16.138/fubosportsnetwork/index.m3u8?token=test
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="Sports1",FUEL TV
@@ -1270,6 +1278,10 @@ https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_1.m3u8
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JQLhYEs.png" group-title="Sports1",One 2
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_2/live.livx/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7JhaEW5.png" group-title="Sports1",One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
@@ -1304,6 +1316,10 @@ https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J0TY9dG.png" group-title="Sports1",PGA Tour
 https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pickleball_Now.png" group-title="Sports1",Pickleball Now
+https://distro-timesgroup.vgcdn.net/vglive-sk-843549/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qtbSnrY.png" group-title="Sports1",PK Sports
@@ -1408,6 +1424,14 @@ http://sultanios.alwaysdata.net/vavo.php?ID=3194919143
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Prima_Sport_%28Czech_Republic%29.svg/revision/latest?cb=20260728085614" group-title="Sports1",Prima Sport Czechia
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/prima_sport/live_mq?offsetSeconds=0
+
+
+#EXTINF:-1 tvg-logo="https://www.primaplay.ro/uploads/thumb/publisher/b05ce5d64523401d0fc3225c5b629019.png" group-title="Sports1",Prima Sport PPV 1
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuki1%2Fusergendx6kal0r2bsm-got.htm
+
+
+#EXTINF:-1 tvg-logo="https://www.primaplay.ro/uploads/thumb/publisher/a8c4cd410038eab9d207fd2f15d4d1ce.png" group-title="Sports1",Prima Sport PPV 2
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuki2%2Fusergendxpk2s6utg0l-got.htm
 
 
 #EXTINF:-1 tvg-logo="https://prime1tv.com/wp-content/uploads/2025/12/7-1.png" group-title="Sports1",Prime (Syria)
@@ -2039,7 +2063,9 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="Sports1",Trace Sport Stars SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FabFP5A.png" http-referrer="https://trace.plus" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Sports1",Trace Sport Stars SD
+#EXTVLCOPT:http-referrer=https://trace.plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_sd/index.m3u8
 
 
@@ -2163,8 +2189,8 @@ https://fonbet.mediacdn.ru/live/volleyball/playlist.m3u8
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus5/live_fullhd?offsetSeconds=0
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/VoyoSport1.svg" group-title="Sports1",Voyo Sport 1
-http://34.92.70.128/VOYO-SPORT-1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/VoyoSport1.svg" group-title="Sports1",Voyo Sport 1 (1080i)
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/VTV6_logo_2026_final.svg/960px-VTV6_logo_2026_final.svg.png" group-title="Sports1",VTV6
