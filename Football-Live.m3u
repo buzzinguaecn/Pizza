@@ -54,6 +54,18 @@
 # 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Football 🟢🟢🟢🟢🟢🟢
 
 
+#EXTINF:-1 tvg-id="1090555013_ENG" tvg-name="East Bengal FC vs Sporting Club Delhi - 20 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029333/1794695810000511_ISL26_EBFC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg" group-title="SAWARID سواريد - Football", East Bengal FC 🆚 Sporting Club Delhi - 20 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795214817~acl=/*~id=10449215846412396715225671287051~hmac=62de6e9da5bc12459975daa8c36d65e47297f9102574dc54e67239538e0eda85
+
+
+#EXTINF:-1 tvg-id="1090555013_HIN" tvg-name="East Bengal FC vs Sporting Club Delhi - 20 Nov 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029333/1794695810000511_ISL26_EBFC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg" group-title="SAWARID سواريد - Football", East Bengal FC 🆚 Sporting Club Delhi - 20 Nov 2026 [HIN]
+https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795214817~acl=/*~id=10449215846412396715225671287051~hmac=62de6e9da5bc12459975daa8c36d65e47297f9102574dc54e67239538e0eda85
+
+
+#EXTINF:-1 tvg-id="1090555013_BEN" tvg-name="East Bengal FC vs Sporting Club Delhi - 20 Nov 2026 [BEN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029333/1794695810000511_ISL26_EBFC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg" group-title="SAWARID سواريد - Football", East Bengal FC 🆚 Sporting Club Delhi - 20 Nov 2026 [BEN]
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive2011/BEN/std_lrh-800300010.m3u8?hdnea=exp=1795214817~acl=/*~id=10449215846412396715225671287051~hmac=62de6e9da5bc12459975daa8c36d65e47297f9102574dc54e67239538e0eda85
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Western%20Sydney%20Wanderers%20Vs%20Adelaide%20United.jpg" group-title="SAWARID سواريد - Football", Western Sydney Wanderers 🆚 Adelaide United - TNT1UK SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
