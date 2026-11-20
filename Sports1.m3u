@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 05:52:11PM - 19-11-2026
-# Total Channels: 540
+# Update Time: 08:59:45AM - 20-11-2026
+# Total Channels: 538
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -105,11 +105,7 @@ http://88.212.7.14/live/arena4/index.m3u8
 http://88.212.15.50/live/test_arenasport/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/csv6YsL.png" group-title="Sports1",Arena Sport 1 Premium (Serbia)
-http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/csv6YsL.png" group-title="Sports1",Arena Sport 1 Premium (Slovenia)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/csv6YsL.png" group-title="Sports1",Arena Sport 1 Premium
 http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vhWLdkJ_3C0RZgs4W19uhl8S3kU0l__4SxERjFMDgcT6
 
 
@@ -762,7 +758,7 @@ http://103.253.74.210:7070/stream/122/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540" group-title="Sports1",Eurosport (India) HD
-https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8
+http://116.90.120.149:8000/play/a118/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/2b1dkanupt14/1A1Z8Gcn2NkbJRzTjxuj6h/2c14436cdc5b78e746a256e9f0c11a70/eurovision-icon.png" group-title="Sports1",Eurovision Sport
@@ -790,7 +786,7 @@ https://jmp2.uk/plu-68ac5403de4a734954b5ab75.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Sports1",FIFA+
-https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8
+https://95cedebd.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fRklGQVBsdXNFbmdsaXNoX0hMUw/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Sports1",FIFA+ French
@@ -1191,7 +1187,7 @@ https://live.mnb.mn/hls/mnb_sport.stream.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/23824964-562b-4498-9eaa-d6262cb7e0c3/Monster_Jam_Logo_on_Transparent_1500x1000_Casey_Murawski.png" group-title="Sports1",Monster Jam
-https://jmp2.uk/plu-65bcc9c8d77d450008b34c6b.m3u8
+https://wurlspacemob.global.transmit.live/hls/6791101f0b2848c81efe74d7/v1/answermedia_monsterjam_1/vizio_us/latest/main/hls/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuVO9T7.png" group-title="Sports1",Monterrico TV
@@ -1320,6 +1316,10 @@ https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pickleball_Now.png" group-title="Sports1",Pickleball Now
 https://distro-timesgroup.vgcdn.net/vglive-sk-843549/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://pickleballtv.com/wp-content/themes/bootscore-child-main/img/logo/full-logo.svg" group-title="Sports1",Pickleball TV
+https://amg27547-amg27547c1-amgplt0022.playout.now3.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qtbSnrY.png" group-title="Sports1",PK Sports
@@ -1470,10 +1470,6 @@ https://live-stream.iblups.com/live/a5ae024a1bbc4a05a68debbc9d379db6bb6a6da3.m3u
 
 #EXTINF:-1 tvg-logo="https://www.legaseriea.it/assets/radiotv-logo.svg" group-title="Sports1",Radio TV Serie A
 https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6PEevOM.png" group-title="Sports1",Rai Sport
-http://sultanios.alwaysdata.net/vavo.php?ID=843891896
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WtLq2C7c/logo-Rally-Tv1.png" group-title="Sports1",Rally TV
@@ -1887,12 +1883,8 @@ https://dash2.antik.sk/live/sporty_tv/index.m3u8
 https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/960px-Stadium_%28sports_network%29_logo.svg.png" group-title="Sports1",Stadium
-https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m7DvvqF.png" group-title="Sports1",Star Sports 2 Telugu HD
-https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SnZOiER.png" group-title="Sports1",Stadium
+https://wurl120sports.global.transmit.live/hls/6865b0ce3b41686108809e5a/v1/stadium_gracenote/vizio_us/latest/main/hls/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L9jTieL.png" group-title="Sports1",Start Triumf
@@ -1977,7 +1969,7 @@ https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8
 https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Sports1",Tigo Sports (Bolivia)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Sports1",Tigo Sports (Bolivia)
 https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8
 
 
@@ -2193,7 +2185,7 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus5/live_fullhd?offsetS
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/VTV6_logo_2026_final.svg/960px-VTV6_logo_2026_final.svg.png" group-title="Sports1",VTV6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/VTV6_new_logo_2026.webp" group-title="Sports1",VTV6
 https://dethich.pw/vtv6/index.m3u8
 
 
