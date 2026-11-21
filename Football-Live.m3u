@@ -67,6 +67,13 @@ https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115f
 https://chatgpt.hereisman.net/playlist/55418/load-playlist?&.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Newcastle%20United%20Vs%20Arsenal.jpg" group-title="SAWARID سواريد - Football", Newcastle United 🆚 Arsenal - FUBO SPORTS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1
+https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Newcastle%20United%20Vs%20Arsenal.jpg" group-title="SAWARID سواريد - Football", Newcastle United 🆚 Arsenal - SKY SPORTS EPL - FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=
@@ -95,20 +102,8 @@ https://chatgpt.hereisman.net/playlist/60626/load-playlist-multi?&.m3u8
 http://c8.vfruitfairy.com/1456/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Rayo%20Vallecano%20Vs%20Valencia.jpg" group-title="SAWARID سواريد - Football", Rayo Vallecano 🆚 Valencia - D SPORTS2+ FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Rayo%20Vallecano%20Vs%20Valencia.jpg" group-title="SAWARID سواريد - Football", Rayo Vallecano 🆚 Valencia - ESPN DEPORTES+ HD
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/60605/load-playlist-multi?&.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Rayo%20Vallecano%20Vs%20Valencia.jpg" group-title="SAWARID سواريد - Football", Rayo Vallecano 🆚 Valencia - HD QUALITY
-#EXTVLCOPT:http-referrer=https://player.on8on8.com/
-https://live.vivo155.com/live/hd-en-1-4565613.m3u8?txSecret=3d270397d15764124456f144e0b34457&txTime=6B01C995
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Newcastle%20United%20Vs%20Arsenal.jpg" group-title="SAWARID سواريد - Football", Newcastle United 🆚 Arsenal - HD QUALITY 4
+https://www.rtmpcdn.com/live/0a80573d-0eab-44e1-b4f2-2cc2f5e6b1b2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Sevilla%20Vs%20Real%20Betis.jpg" group-title="SAWARID سواريد - Football", Sevilla 🆚 Real Betis - BEIN3 SPORTS FHD
@@ -131,15 +126,16 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Sevilla%20Vs%20Real%20Betis.jpg" group-title="SAWARID سواريد - Football", Sevilla 🆚 Real Betis - FANCODE FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Sevilla%20Vs%20Real%20Betis.jpg" group-title="SAWARID سواريد - Football", Sevilla 🆚 Real Betis - ESPN DEPORTES+ HD
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/60627/load-playlist-multi?&.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Real%20Sociedad%20B%20Vs%20C%C3%A1diz.jpg" group-title="SAWARID سواريد - Football", Real Sociedad B 🆚 Cádiz - LaLiga Hypermotion
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a
-https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/CD%20Castell%C3%B3n%20Vs%20CD%20Eldense.jpg" group-title="SAWARID سواريد - Football", CD Castellón 🆚 CD Eldense - LaLiga Hypermotion
@@ -210,32 +206,16 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/
 http://162.251.160.53:8089/2784/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Chile%20U17%20Vs%20Algeria%20U17.jpg" group-title="SAWARID سواريد - Football", Chile U17 🆚 Algeria U17 - D SPORTS ++ FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Mexico%20U17%20Vs%20Romania%20U17.jpg" group-title="SAWARID سواريد - Football", Mexico U17 🆚 Romania U17 - TUDN MEXICO FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Mexico%20U17%20Vs%20Romania%20U17.jpg" group-title="SAWARID سواريد - Football", Mexico U17 🆚 Romania U17 - HD QUALITY
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live1.quickscoreboardz.com/live/channel12/playlist.m3u8?wsSecret=e9e20885ebd6265eaca96535131c83e2&wsABSTime=1795318765?
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/NEC%20Nijmegen%20Vs%20PSV%20Eindhoven.jpg" group-title="SAWARID سواريد - Football", NEC Nijmegen 🆚 PSV Eindhoven - SportDigital FussBall
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Feyenoord%20Vs%20Excelsior.jpg" group-title="SAWARID سواريد - Football", Feyenoord 🆚 Excelsior - SportDigital FussBall
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/NEC%20Nijmegen%20Vs%20PSV%20Eindhoven.jpg" group-title="SAWARID سواريد - Football", NEC Nijmegen 🆚 PSV Eindhoven - HD QUALITY
-https://www.rtmpcdn.com/live/8dd5bb80-dd70-4d01-9e18-eb4c43e8e1cd.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Dundee%20FC%20Vs%20Heart%20of%20Midlothian.jpg" group-title="SAWARID سواريد - Football", Dundee FC 🆚 Heart of Midlothian - PREMIER1 SPORTS FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Kocaelispor%20Vs%20Fenerbah%C3%A7e.jpg" group-title="SAWARID سواريد - Football", Kocaelispor 🆚 Fenerbahçe - TV QUALITY
@@ -260,18 +240,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Feyenoord%20Vs%20Excelsior.jpg" group-title="SAWARID سواريد - Football", Feyenoord 🆚 Excelsior - SportDigital FussBall
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Dundee%20FC%20Vs%20Heart%20of%20Midlothian.jpg" group-title="SAWARID سواريد - Football", Dundee FC 🆚 Heart of Midlothian - PREMIER1 SPORTS FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 
 
 # 🆕 SAWARID سواريد - Football 👉 Updateded Done ✅✅✅✅✅✅
