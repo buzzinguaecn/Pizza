@@ -55,11 +55,7 @@
 
 
 #EXTINF:-1 tvg-id="1090555335_ENG" tvg-name="Bangladesh A vs Afghanistan A - 21 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029480/1795172675588333_AsiaCup_RisingStar_BAN-vs-AFG_Live_landscape_thumb.jpg" group-title="SAWARID سواريد - Cricket", Bangladesh A 🆚 Afghanistan A - 21 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795309613~acl=/*~id=27115153634000124908143287413708~hmac=26c78b47337162a681ef212e68e669fdb576ff130c4c6104489d31d0521da8a6
-
-
-#EXTINF:-1 tvg-id="1090555331_ENG" tvg-name="Sri Lanka A vs Hong Kong, China - 21 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029479/1795171533377724_AsiaCup_RisingStar_SRI-A_vs_HKC_Live_landscape_thumb.jpg" group-title="SAWARID سواريد - Cricket",Sri Lanka A vs Hong Kong, China - 21 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795309613~acl=/*~id=27115153634000124908143287413708~hmac=26c78b47337162a681ef212e68e669fdb576ff130c4c6104489d31d0521da8a6
+https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795314466~acl=/*~id=91692311239751818862236499753777~hmac=dc117f672ca9c9b568cb9b6569a151292894e12e8098d2dbe2a4e567de40a321
 
 
 #EXTINF:-1 tvg-id="B0HMCN5NM8" tvg-name="ACC Mens Asia Cup Rising Stars 2026 - 6th Match - Bangladesh A vs Afghanistan A" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5a28093f-2e23-4bdb-8aaa-ca038715ae16/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="SAWARID سواريد - Cricket", ACC Mens Asia Cup Rising Stars 2026 - 6th Match - Bangladesh A 🆚 Afghanistan A
@@ -67,7 +63,15 @@ https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=46bbf645122de0df0cd0b19d4487e2ce:45e84957268ce56d53ae6d0fadec5964
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/fceyqwjpo4/out/v1/3d62c2d3722b4801b8c7dce78217ff87/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/fceyqwjpo4/out/v1/3d62c2d3722b4801b8c7dce78217ff87/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="B0HS85SP95" tvg-name="International League T20 2026 - 1st Match - Desert Vipers vs Mi Emirates" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f5566761-b72f-45ad-89b5-d9febee8e5f4/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="SAWARID سواريد - Cricket", International League T20 2026 - 1st Match - Desert Vipers 🆚 Mi Emirates
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=61403ba13e0032108b86ec3078314ec9:ec2ac53d37954d51dd4d9eb11ecf322b
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u7thf3dqfv/out/v1/b6a0f070688648ac849771947211a8fb/cenc.mpd
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/NPL%20Vs%20NPL.jpg" group-title="SAWARID سواريد - Cricket", NPL 🆚 NPL - NPL LIVE FHD
