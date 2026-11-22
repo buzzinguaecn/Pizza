@@ -1885,6 +1885,11 @@ http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/2559/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="All Sports", 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2Sbp4shX/Kvj2fsr4S8.png" group-title="All Sports",  Dazn 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=63659c752b5df41f277460df8f246225:4f2376463fcdb6a10d2a863e8bfd2902
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/at5ay8ceup/out/v1/a494c8de4aad410a9feef3d2892f1484/cenc.mpd
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2Sbp4shX/Kvj2fsr4S8.png" group-title="All Sports",  Dazn 1
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/2531/index.m3u8
