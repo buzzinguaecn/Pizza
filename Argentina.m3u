@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 01:33:08AM - 22-11-2026
-# Total Channels: 220
+# Update Time: 06:56:14AM - 22-11-2026
+# Total Channels: 221
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -522,12 +522,12 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/fx-key/chunks.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png" group-title="Argentina",HGTV Latin America
+http://38.87.224.19:2220/play/a01p/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Argentina",History Latin America South
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/37.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NlKFNHS.png" group-title="Argentina",HTV Argentina
-http://45.134.141.161:2200/ARG/HTV/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" group-title="Argentina",Investigation Discovery Latin America South
@@ -820,6 +820,10 @@ http://181.78.79.131:8000/play/a0mo
 
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Argentina",TNT Sports Premium ArgentinaHD
 http://181.78.79.131:8000/play/a0q9
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3yXRbQy.png" group-title="Argentina",Tooncast
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/69.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3yXRbQy.png" group-title="Argentina",Tooncast Argentina
