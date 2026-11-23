@@ -1,61 +1,73 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/t-sports-l-sports-1.png" group-title="CTG",T sports L - Sports 1
+
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/makkah-live.png" group-title="CONNECT 3", Makkah 
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-110-makkah-live/sf-110-makkah-live/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/madani-tv-bangla.jpg" group-title="CONNECT 3", Madani TV Bangla
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-127-madani-tv-bangla/sf-127-madani-tv-bangla/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/peace-tv.webp" group-title="CONNECT 3", Peace TV Bangla
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-32-peace-tv/sf-32-peace-tv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/t-sports-l-sports-1.png" group-title="CONNECT 3", T sports L - Sports 1
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-1-t-sports-l-sports-1/sf-1-t-sports-l-sports-1/index.m3u8
  
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/t-sports-hd.jpg" group-title="CONNECT 3", T sports HD
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-144-t-sports-hd/sf-144-t-sports-hd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/sports-2.jpg" group-title="CTG",Sports 2
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/sports-2.jpg" group-title="CONNECT 3", Sports 2
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-2-sports-2/sf-2-sports-2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/sports-3.jpg" group-title="CTG", Star Sports Select 1 HD
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/sports-3.jpg" group-title="CONNECT 3",  Star Sports Select 1 HD
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-3-sports-3/sf-3-sports-3/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/sports-4.jpg" group-title="CTG",Sports 4
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/sports-4.jpg" group-title="CONNECT 3", Sports 4
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-4-sports-4/sf-4-sports-4/index.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/btv-news.jpg" group-title="CTG",BTV News
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/btv-news.jpg" group-title="CONNECT 3", BTV News
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-7-btv-news/sf-7-btv-news/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/somoy-tv-hd.png" group-title="CTG",Somoy TV HD
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/somoy-tv-hd.png" group-title="CONNECT 3", Somoy TV HD
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-19-somoy-tv-hd/sf-19-somoy-tv-hd/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/ntv.png" group-title="CTG",NTV
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/ntv.png" group-title="CONNECT 3", NTV
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-9-ntv/sf-9-ntv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/channel-24-hd.png" group-title="CTG",Channel 24 HD
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/channel-24-hd.png" group-title="CONNECT 3", Channel 24 HD
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-20-channel-24-hd/sf-20-channel-24-hd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/jamuna-television.jpg" group-title="CTG",Jamuna Television
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/jamuna-television.jpg" group-title="CONNECT 3", Jamuna Television
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-17-jamuna-television/sf-17-jamuna-television/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/gazi-tv-hd.png" group-title="CTG",Gazi TV HD
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/gazi-tv-hd.png" group-title="CONNECT 3", Gazi TV HD
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-14-gazi-tv-hd/sf-14-gazi-tv-hd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/channel-i-hd.png" group-title="CTG",Channel i HD
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/channel-i-hd.png" group-title="CONNECT 3", Channel i HD
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-8-channel-i-hd/sf-8-channel-i-hd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/dbc-news-hd.png" group-title="CTG",DBC News HD
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/dbc-news-hd.png" group-title="CONNECT 3", DBC News HD
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-12-dbc-news-hd/sf-12-dbc-news-hd/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/atn-bangla.jpg" group-title="CTG",ATN Bangla HD
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/atn-bangla.jpg" group-title="CONNECT 3", ATN Bangla HD
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-122-atn-bangla/sf-122-atn-bangla/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/atn-news.png" group-title="CTG",ATN News
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/atn-news.png" group-title="CONNECT 3", ATN News
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-16-atn-news/sf-16-atn-news/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/rtv-hd.png" group-title="CTG",RTV HD
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/rtv-hd.png" group-title="CONNECT 3", RTV HD
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-27-rtv-hd/sf-27-rtv-hd/index.m3u8
 
 
@@ -63,267 +75,297 @@ https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf
 
 
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/independent-tv.jpg" group-title="CTG",Independent TV
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/independent-tv.jpg" group-title="CONNECT 3", Independent TV
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-22-independent-tv/sf-22-independent-tv/index.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/ekattor-hd.jpg" group-title="CTG",Ekattor HD
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/ekattor-hd.jpg" group-title="CONNECT 3", Ekattor HD
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-13-ekattor-hd/sf-13-ekattor-hd/index.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/my-tv.png" group-title="CTG",My TV
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/my-tv.png" group-title="CONNECT 3", My TV
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-28-my-tv/sf-28-my-tv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/news-24-hd.png" group-title="CTG",News 24 HD
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/news-24-hd.png" group-title="CONNECT 3", News 24 HD
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-11-news-24-hd/sf-11-news-24-hd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/desh-tv.png" group-title="CTG",Desh TV
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/desh-tv.png" group-title="CONNECT 3", Desh TV
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-25-desh-tv/sf-25-desh-tv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/nagorik-tv.jpg" group-title="CTG",Nagorik TV
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/nagorik-tv.jpg" group-title="CONNECT 3", Nagorik TV
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-128-nagorik-tv/sf-128-nagorik-tv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/deepto-tv-hd.jpg" group-title="CTG",Deepto TV HD
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/deepto-tv-hd.jpg" group-title="CONNECT 3", Deepto TV HD
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-15-deepto-tv-hd/sf-15-deepto-tv-hd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/bangla-tv.jpg" group-title="CTG",Rupashi Bangla TV
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/bangla-tv.jpg" group-title="CONNECT 3", Rupashi Bangla TV
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/ekhon-tv-hd.png" group-title="CTG",Ekhon TV HD
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/ekhon-tv-hd.png" group-title="CONNECT 3", Ekhon TV HD
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-24-ekhon-tv-hd/sf-24-ekhon-tv-hd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/movie-bangla.png" group-title="CTG",Movie Bangla
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/movie-bangla.png" group-title="CONNECT 3", Movie Bangla
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-142-movie-bangla/sf-142-movie-bangla/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/duronto-tv-hd.png" group-title="CTG",Duronto TV HD
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/duronto-tv-hd.png" group-title="CONNECT 3", Duronto TV HD
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-95-duronto-tv-hd/sf-95-duronto-tv-hd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/cartoon-network.png" group-title="CTG",Cartoon Network
-https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-89-cartoon-network/sf-89-cartoon-network/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/nick.png" group-title="CTG",Nick
-https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-90-nick/sf-90-nick/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/nick-jr.png" group-title="CTG",Nick Jr.
-https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-91-nick-jr/sf-91-nick-jr/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/etv-bal-bharat.webp" group-title="CTG",ETV Bal Bharat
-https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-96-etv-bal-bharat/sf-96-etv-bal-bharat/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/pogo.png" group-title="CTG",Pogo
-
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/sonic.png" group-title="CTG",Sonic
-https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-99-sonic/sf-99-sonic/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/sony-yay.png" group-title="CTG",Sony YAY!
-https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-100-sony-yay/sf-100-sony-yay/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/super-hungama.png" group-title="CTG",Super Hungama
-https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-101-super-hungama/sf-101-super-hungama/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/zee-bangla-hd.png" group-title="CTG",Zee Bangla HD
-https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-34-zee-bangla-hd/sf-34-zee-bangla-hd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/star-jalsha-hd.png" group-title="CTG",Star Jalsha HD
-https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-33-star-jalsha-hd/sf-33-star-jalsha-hd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/zee-tv-hd.jpg" group-title="CTG",Zee TV HD
-https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-61-zee-tv-hd/sf-61-zee-tv-hd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/star-plus-hd.png" group-title="CTG",Star Plus HD
-https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-57-star-plus-hd/sf-57-star-plus-hd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/sony-set-hd.png" group-title="CTG",Sony Entertainment HD
-https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-53-sony-set-hd/sf-53-sony-set-hd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/colors-hd.jpg" group-title="CTG",Colors HD
-https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-124-colors-hd/sf-124-colors-hd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/tv-hd.png" group-title="CTG",&TV HD
-
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/hum-masala.png" group-title="CTG",HUM Masala
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/hum-masala.png" group-title="CONNECT 3", HUM Masala
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-47-hum-masala/sf-47-hum-masala/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/ary-digital.png" group-title="CTG",ARY Digital
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/ary-digital.png" group-title="CONNECT 3", ARY Digital
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-45-ary-digital/sf-45-ary-digital/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/colors-bangla-hd.jpg" group-title="CTG",Colors Bangla HD
-https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-133-colors-bangla-hd/sf-133-colors-bangla-hd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/sony-aath.png" group-title="CTG",Sony AATH
-https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-35-sony-aath/sf-35-sony-aath/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/sun-bangla-hd.png" group-title="CTG",Sun Bangla HD
-https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-41-sun-bangla-hd/sf-41-sun-bangla-hd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/enter-10-bangla.png" group-title="CTG",Enter 10 Bangla
-
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/colors-bangla-cinema.png" group-title="CTG",Colors Bangla Cinema
-https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-38-colors-bangla-cinema/sf-38-colors-bangla-cinema/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/jalsha-movies-hd.jpg" group-title="CTG",Jalsha Movies HD
-https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-37-jalsha-movies-hd/sf-37-jalsha-movies-hd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/zee-bangla-cinema-hd.png" group-title="CTG",Zee Bangla Cinema HD
-https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-40-zee-bangla-cinema-hd/sf-40-zee-bangla-cinema-hd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/star-bharat-hd.png" group-title="CTG",Star Bharat HD
-
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/sony-sab.png" group-title="CTG",Sony SAB
-
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/sony-max-hd.png" group-title="CTG",Sony Max HD
-https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-51-sony-max-hd/sf-51-sony-max-hd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/zee-cinema-hd.png" group-title="CTG",Zee Cinema HD
-https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-60-zee-cinema-hd/sf-60-zee-cinema-hd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/star-gold-hd.png" group-title="CTG",Star GOLD HD
-https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-54-star-gold-hd/sf-54-star-gold-hd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/star-gold-2-hd.png" group-title="CTG",Star Gold 2 HD
-https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-55-star-gold-2-hd/sf-55-star-gold-2-hd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/star-gold-select-hd.png" group-title="CTG",Star Gold Select HD
-https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-129-star-gold-select-hd/sf-129-star-gold-select-hd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/colors-cineplex-hd.png" group-title="CTG",Colors Cineplex HD
-https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-46-colors-cineplex-hd/sf-46-colors-cineplex-hd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/pictures.png" group-title="CTG",&Pictures
-https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-43-pictures/sf-43-pictures/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/prive-hd.png" group-title="CTG",&Prive HD
-https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-62-prive-hd/sf-62-prive-hd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/hungama.png" group-title="CTG",Hungama
-https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-101-super-hungama/sf-101-super-hungama/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/sony-max.png" group-title="CTG",Sony Pix HD
-https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-46-colors-cineplex-hd/sf-46-colors-cineplex-hd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/geo-news.png" group-title="CTG",GEO News HD
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/geo-news.png" group-title="CONNECT 3", GEO News HD
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-86-geo-news/sf-86-geo-news/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/zing.png" group-title="CTG",Zing
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/zee-bangla-hd.png" group-title="CONNECT 3", Zee Bangla HD
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-34-zee-bangla-hd/sf-34-zee-bangla-hd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/star-jalsha-hd.png" group-title="CONNECT 3", Star Jalsha HD
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-33-star-jalsha-hd/sf-33-star-jalsha-hd/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/enter-10-bangla.png" group-title="CONNECT 3", Enter 10 Bangla
+
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/colors-bangla-cinema.png" group-title="CONNECT 3", Colors Bangla Cinema
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-38-colors-bangla-cinema/sf-38-colors-bangla-cinema/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/jalsha-movies-hd.jpg" group-title="CONNECT 3", Jalsha Movies HD
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-37-jalsha-movies-hd/sf-37-jalsha-movies-hd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/zee-bangla-cinema-hd.png" group-title="CONNECT 3", Zee Bangla Cinema HD
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-40-zee-bangla-cinema-hd/sf-40-zee-bangla-cinema-hd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/colors-bangla-hd.jpg" group-title="CONNECT 3", Colors Bangla HD
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-133-colors-bangla-hd/sf-133-colors-bangla-hd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/sangeet-bangla.jpg" group-title="CONNECT 3", Sangeet Bangla
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-137-sangeet-bangla/sf-137-sangeet-bangla/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/sony-aath.png" group-title="CONNECT 3", Sony AATH
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-35-sony-aath/sf-35-sony-aath/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/sun-bangla-hd.png" group-title="CONNECT 3", Sun Bangla HD
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-41-sun-bangla-hd/sf-41-sun-bangla-hd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/zee-tv-hd.jpg" group-title="CONNECT 3", Zee TV HD
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-61-zee-tv-hd/sf-61-zee-tv-hd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/star-plus-hd.png" group-title="CONNECT 3", Star Plus HD
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-57-star-plus-hd/sf-57-star-plus-hd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/sony-set-hd.png" group-title="CONNECT 3", Sony Entertainment HD
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-53-sony-set-hd/sf-53-sony-set-hd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/colors-hd.jpg" group-title="CONNECT 3", Colors HD
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-124-colors-hd/sf-124-colors-hd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/cartoon-network.png" group-title="CONNECT 3", Cartoon Network
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-89-cartoon-network/sf-89-cartoon-network/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/nick.png" group-title="CONNECT 3", Nick
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-90-nick/sf-90-nick/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/nick-jr.png" group-title="CONNECT 3", Nick Jr.
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-91-nick-jr/sf-91-nick-jr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/etv-bal-bharat.webp" group-title="CONNECT 3", ETV Bal Bharat
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-96-etv-bal-bharat/sf-96-etv-bal-bharat/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/pogo.png" group-title="CONNECT 3", Pogo
+
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/sonic.png" group-title="CONNECT 3", Sonic
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-99-sonic/sf-99-sonic/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/sony-yay.png" group-title="CONNECT 3", Sony YAY!
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-100-sony-yay/sf-100-sony-yay/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/super-hungama.png" group-title="CONNECT 3", Super Hungama
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-101-super-hungama/sf-101-super-hungama/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/tv-hd.png" group-title="CONNECT 3", &TV HD
+
+
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/star-bharat-hd.png" group-title="CONNECT 3", Star Bharat HD
+
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/sony-sab.png" group-title="CONNECT 3", Sony SAB
+
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/sony-max-hd.png" group-title="CONNECT 3", Sony Max HD
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-51-sony-max-hd/sf-51-sony-max-hd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/zee-cinema-hd.png" group-title="CONNECT 3", Zee Cinema HD
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-60-zee-cinema-hd/sf-60-zee-cinema-hd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/star-gold-hd.png" group-title="CONNECT 3", Star GOLD HD
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-54-star-gold-hd/sf-54-star-gold-hd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/star-gold-2-hd.png" group-title="CONNECT 3", Star Gold 2 HD
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-55-star-gold-2-hd/sf-55-star-gold-2-hd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/star-gold-select-hd.png" group-title="CONNECT 3", Star Gold Select HD
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-129-star-gold-select-hd/sf-129-star-gold-select-hd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/colors-cineplex-hd.png" group-title="CONNECT 3", Colors Cineplex HD
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-46-colors-cineplex-hd/sf-46-colors-cineplex-hd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/pictures.png" group-title="CONNECT 3", &Pictures
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-43-pictures/sf-43-pictures/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/prive-hd.png" group-title="CONNECT 3", &Prive HD
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-62-prive-hd/sf-62-prive-hd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/hungama.png" group-title="CONNECT 3", Hungama
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-101-super-hungama/sf-101-super-hungama/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/sony-max.png" group-title="CONNECT 3", Sony Pix HD
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-46-colors-cineplex-hd/sf-46-colors-cineplex-hd/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/zing.png" group-title="CONNECT 3", Zing
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-132-zing/sf-132-zing/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/t-sports-hd.jpg" group-title="CTG",T sports HD
-https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-144-t-sports-hd/sf-144-t-sports-hd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/star-sports-1.png" group-title="CTG",Star Sports 1
+
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/star-sports-1.png" group-title="CONNECT 3", Star Sports 1
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-74-star-sports-1/sf-74-star-sports-1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/star-sports-2.png" group-title="CTG",Star Sports 2
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/star-sports-2.png" group-title="CONNECT 3", Star Sports 2
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-75-star-sports-2/sf-75-star-sports-2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/sony-ten-cricket.jpg" group-title="CTG",Sony Ten Cricket
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/sony-ten-cricket.jpg" group-title="CONNECT 3", Sony Ten Cricket
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-76-sony-ten-cricket/sf-76-sony-ten-cricket/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/sony-sports-ten-1.png" group-title="CTG",Sony Sports Ten 1
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/sony-sports-ten-1.png" group-title="CONNECT 3", Sony Sports Ten 1
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-77-sony-sports-ten-1/sf-77-sony-sports-ten-1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/sony-sports-ten-2.png" group-title="CTG",Sony Sports Ten 2
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/sony-sports-ten-2.png" group-title="CONNECT 3", Sony Sports Ten 2
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-78-sony-sports-ten-2/sf-78-sony-sports-ten-2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/sony-sports-ten-3.jpg" group-title="CTG",Sony Sports Ten 3
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/sony-sports-ten-3.jpg" group-title="CONNECT 3", Sony Sports Ten 3
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/sony-sports-ten-4.png" group-title="CTG",Sony Sports Ten 4
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/sony-sports-ten-4.png" group-title="CONNECT 3", Sony Sports Ten 4
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-80-sony-sports-ten-4/sf-80-sony-sports-ten-4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/sony-sports-ten-5.png" group-title="CTG",Sony Sports Ten 5
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/sony-sports-ten-5.png" group-title="CONNECT 3", Sony Sports Ten 5
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-81-sony-sports-ten-5/sf-81-sony-sports-ten-5/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/a-sports-hd.png" group-title="CTG",A Sports HD
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/a-sports-hd.png" group-title="CONNECT 3", A Sports HD
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-83-a-sports-hd/sf-83-a-sports-hd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/ptv.png" group-title="CTG",PTV
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/ptv.png" group-title="CONNECT 3", PTV
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-85-ptv/sf-85-ptv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/euro-sport-hd.png" group-title="CTG",Euro Sport HD
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/euro-sport-hd.png" group-title="CONNECT 3", Euro Sport HD
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-87-euro-sport-hd/sf-87-euro-sport-hd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/star-sports-select-1-hd.png" group-title="CTG",Star Sports Select 1 HD
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/star-sports-select-1-hd.png" group-title="CONNECT 3", Star Sports Select 1 HD
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-130-star-sports-select-1-hd/sf-130-star-sports-select-1-hd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/star-sports-select-2-hd.png" group-title="CTG",Star Sports Select 2 HD
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/star-sports-select-2-hd.png" group-title="CONNECT 3", Star Sports Select 2 HD
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-131-star-sports-select-2-hd/sf-131-star-sports-select-2-hd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/ten-sports-hd.png" group-title="CTG",Ten Cricket HD
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/ten-sports-hd.png" group-title="CONNECT 3", Ten Cricket HD
 
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/dazn.png" group-title="CTG",DAZN
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/dazn.png" group-title="CONNECT 3", DAZN
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-141-dazn/sf-141-dazn/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/axn.png" group-title="CTG",AXN
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/axn.png" group-title="CONNECT 3", AXN
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/flix-hd.png" group-title="CTG",&Flix HD
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/flix-hd.png" group-title="CONNECT 3", &Flix HD
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-63-flix-hd/sf-63-flix-hd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/dw-news.jpg" group-title="CTG",DW News
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/dw-news.jpg" group-title="CONNECT 3", DW News
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-65-dw-news/sf-65-dw-news/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/lotus-tv.jpg" group-title="CTG",Lotus TV
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/lotus-tv.jpg" group-title="CONNECT 3", Lotus TV
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-66-lotus-tv/sf-66-lotus-tv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/mn-hd.jpg" group-title="CTG",MN+ HD
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/mn-hd.jpg" group-title="CONNECT 3", MN+ HD
 https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-67-mn-hd/sf-67-mn-hd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/mnx.png" group-title="CTG",MNX
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/mnx.png" group-title="CONNECT 3", MNX
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-68-mnx/sf-68-mnx/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/movies-now.png" group-title="CTG",Movies Now
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/movies-now.png" group-title="CONNECT 3", Movies Now
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-69-movies-now/sf-69-movies-now/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/romedy-now.jpg" group-title="CTG",Romedy NOW
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/romedy-now.jpg" group-title="CONNECT 3", Romedy NOW
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-70-romedy-now/sf-70-romedy-now/index.m3u8+
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/star-movies-hd.png" group-title="CTG",Star Movies HD
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/star-movies-hd.png" group-title="CONNECT 3", Star Movies HD
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-71-star-movies-hd/sf-71-star-movies-hd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/zee-cafe-hd.jpg" group-title="CTG",Zee Cafe HD
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/zee-cafe-hd.jpg" group-title="CONNECT 3", Zee Cafe HD
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-72-zee-cafe-hd/sf-72-zee-cafe-hd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/star-movies-select-hd.png" group-title="CTG",Star Movies Select HD
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/star-movies-select-hd.png" group-title="CONNECT 3", Star Movies Select HD
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-73-star-movies-select-hd/sf-73-star-movies-select-hd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/al-jazeera.png" group-title="CTG",Al Jazeera
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/al-jazeera.png" group-title="CONNECT 3", Al Jazeera
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-123-al-jazeera/sf-123-al-jazeera/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/love-nature-hd.jpg" group-title="CTG",Love Nature HD
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/love-nature-hd.jpg" group-title="CONNECT 3", Love Nature HD
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-126-love-nature-hd/sf-126-love-nature-hd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/9xm.png" group-title="CTG",9XM
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/9xm.png" group-title="CONNECT 3", 9XM
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-102-9xm/sf-102-9xm/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/zing-music.jpg" group-title="CTG",Zing Music
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/zing-music.jpg" group-title="CONNECT 3", Zing Music
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-138-zing-music/sf-138-zing-music/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/b4u-music.png" group-title="CTG",B4U Music
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/b4u-music.png" group-title="CONNECT 3", B4U Music
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-105-b4u-music/sf-105-b4u-music/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/baallee.jpg" group-title="CTG",Baallee
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/baallee.jpg" group-title="CONNECT 3", Baallee
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-106-baallee/sf-106-baallee/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/zoom-music.png" group-title="CTG",Zoom Music
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/zoom-music.png" group-title="CONNECT 3", Zoom Music
+ 
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/sangeet-bangla.jpg" group-title="CTG",Sangeet Bangla
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/animal-planet-hd.png" group-title="CTG",Animal Planet HD
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/discovery-hd.png" group-title="CTG",Discovery HD
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/animal-planet-hd.png" group-title="CONNECT 3", Animal Planet HD
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-111-animal-planet-hd/sf-111-animal-planet-hd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/bbc-earth-hd.png" group-title="CTG",BBC Earth HD
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/discovery-hd.png" group-title="CONNECT 3", Discovery HD
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-112-discovery-hd/sf-112-discovery-hd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/cnn.png" group-title="CTG",CNN
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/bbc-earth-hd.png" group-title="CONNECT 3", BBC Earth HD
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-113-bbc-earth-hd/sf-113-bbc-earth-hd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/history-tv-18-hd.jpg" group-title="CTG",History TV 18 HD
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/cnn.png" group-title="CONNECT 3", CNN
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-114-cnn/sf-114-cnn/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/nat-geo.png" group-title="CTG",Nat Geo HD
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/history-tv-18-hd.jpg" group-title="CONNECT 3", History TV 18 HD
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-115-history-tv-18-hd/sf-115-history-tv-18-hd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/nat-geo-wild.png" group-title="CTG",Nat Geo Wild
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/nat-geo.png" group-title="CONNECT 3", Nat Geo HD
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-116-nat-geo/sf-116-nat-geo/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/national-geographic.png" group-title="CTG",National Geographic
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/nat-geo-wild.png" group-title="CONNECT 3", Nat Geo Wild
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-117-nat-geo-wild/sf-117-nat-geo-wild/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/sony-bbc-earth.png" group-title="CTG",Sony BBC Earth
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/national-geographic.png" group-title="CONNECT 3", National Geographic
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-118-national-geographic/sf-118-national-geographic/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/tlc-hd.png" group-title="CTG",TLC HD
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/sony-bbc-earth.png" group-title="CONNECT 3", Sony BBC Earth
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-119-sony-bbc-earth/sf-119-sony-bbc-earth/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/travel-xp.png" group-title="CTG",Travel XP.
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/tlc-hd.png" group-title="CONNECT 3", TLC HD
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-120-tlc-hd/sf-120-tlc-hd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/peace-tv.webp" group-title="CTG",Peace TV Bangla
+#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/travel-xp.png" group-title="CONNECT 3", Travel XP.
+https://c3box.tv/_sf-node-media/CfEj9Qnp/dev-536731bbf252f915254355515bf62e7c/sf-121-travel-xp/sf-121-travel-xp/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/makkah-live.png" group-title="CTG",Makkah Live
-
-#EXTINF:-1 tvg-logo="https://c3box.tv/channel-logos/madani-tv-bangla.jpg" group-title="CTG",Madani TV Bangla
+##### Sever https://c3box.tv/
