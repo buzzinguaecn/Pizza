@@ -55,7 +55,7 @@
 
 
 #EXTINF:-1 tvg-id="1090555986_ENG" tvg-name="Sri Lanka A vs Bangladesh A - 23 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029679/1795357669078765_ACRS26_SL_A_VS_BAN_A_landscape_thumb.jpg" group-title="SAWARID سواريد - Cricket", Sri Lanka A 🆚 Bangladesh A - 23 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive2311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795472516~acl=/*~id=46493251526086821157701328559245~hmac=72c05d0d479b7b0a1c38d10ce0b170f8119df27866125da23b7f180b79220852
+https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive2311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795485240~acl=/*~id=87384354044877592510393152435924~hmac=0a8137c21cdf714dbe4ae918eaef89dabfae6044300e78bd637cc141289de916
 
 
 #EXTINF:-1 tvg-id="B0HQPR4M9Q" tvg-name="Bangladesh tour of South Africa 2026 - 2nd Test - South Africa vs Bangladesh" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.97eae418-93c7-40e2-b2d6-6a81327b83bc/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="SAWARID سواريد - Cricket", Bangladesh tour of South Africa 2026 - 2nd Test - South Africa 🆚 Bangladesh
@@ -63,7 +63,7 @@ https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive2311/ENG/std_lrh
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef575f9bbbc7bd252eb629553c04b572:036c3c66e6cb484e0c57d37763f65bca
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/xqyqdravz1/out/v1/0a61d15fb7af4fd98f565cabbc5d9dd8/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xqyqdravz1/out/v1/0a61d15fb7af4fd98f565cabbc5d9dd8/cenc.mpd
 
 
 #EXTINF:-1 tvg-id="B0HMP693D5" tvg-name="ACC Mens Asia Cup Rising Stars 2026 - 10th Match - Sri Lanka A vs Bangladesh A" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b6a3654f-b3f5-4f6c-860d-97284070caf9/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="SAWARID سواريد - Cricket", ACC Mens Asia Cup Rising Stars 2026 - 10th Match - Sri Lanka A 🆚 Bangladesh A
@@ -128,30 +128,14 @@ https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/uhw2zj4lre/out/v1/b28f140503c54c0b8c863d2a2d190f7f/cenc.mpd
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/BBL%20Women%27s%20Vs%20BBL%20Women%27s.jpg" group-title="SAWARID سواريد - Cricket", BBL Women's 🆚 BBL Women's - WILLOW SPORTS FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Italia%20T10%20League%20Vs%20Italia%20T10%20League.jpg" group-title="SAWARID سواريد - Cricket", Italia T10 League 🆚 Italia T10 League - UNBEATEN FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f91b8bf06f3e791e41238b4190311c9e:eff5b8fafef1f8b3d988be38ff7e539e
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ilhybzuiyi/out/v1/04f4624f561f4dd69467e1e219f03568/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/BBL%20Women%27s%20Vs%20BBL%20Women%27s.jpg" group-title="SAWARID سواريد - Cricket", BBL Women's 🆚 BBL Women's - FANCODE FHD
-#EXTVLCOPT:http-referrer=https://www.primevideo.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a99uhtrbys/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/BBL%20Women%27s%20Vs%20BBL%20Women%27s.jpg" group-title="SAWARID سواريد - Cricket", BBL Women's 🆚 BBL Women's - WILLOW CRICBUZZ
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/BBL%20Women%27s%20Vs%20BBL%20Women%27s.jpg" group-title="SAWARID سواريد - Cricket", BBL Women's 🆚 BBL Women's - WILLOW FHD ALT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f91b8bf06f3e791e41238b4190311c9e:eff5b8fafef1f8b3d988be38ff7e539e
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ilhybzuiyi/out/v1/04f4624f561f4dd69467e1e219f03568/cenc.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Italia%20T10%20League%20Vs%20Italia%20T10%20League.jpg" group-title="SAWARID سواريد - Cricket", Italia T10 League 🆚 Italia T10 League - SandBrix HD
+https://amssandbrix.sandbrix.live/sandbrix/streams/mk139q1Mi9bHznBA775016895861.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/ILT20%20Vs%20ILT20.jpg" group-title="SAWARID سواريد - Cricket", ILT20 🆚 ILT20 - WILLOW FHD
