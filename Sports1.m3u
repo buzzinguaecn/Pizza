@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 07:46:15PM - 23-11-2026
-# Total Channels: 527
+# Update Time: 06:34:51AM - 24-11-2026
+# Total Channels: 519
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -135,7 +135,7 @@ http://168.196.127.137:6001/play/a06v/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://match-images.icdb.tv/5913207f2494844101287828e87625eb.jpg" group-title="Sports1",Azteca Deportes Network
-http://209.14.115.253:8081/azteca-deportes/index.m3u8
+http://38.194.226.190:8000/play/a02r/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fBpLsbC.png" group-title="Sports1",Bahrain Sports 1 [Not 24/7]
@@ -346,14 +346,6 @@ http://45.142.104.86/stream/15/index.m3u8
 http://23.237.104.106:8080/DAZN_3/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m7ga8bU.png" group-title="Sports1",DAZN 4
-http://23.237.104.106:8080/DAZN_4/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HD2XaeS.png" group-title="Sports1",DAZN 5
-http://23.237.104.106:8080/DAZN_5/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" group-title="Sports1",DAZN Combat
 https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
 
@@ -395,7 +387,7 @@ https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-45
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" group-title="Sports1",DSports 2
-http://187.102.208.209:8000/play/a0bq/index.m3u8
+http://45.134.141.161:2200/ARG/DTV_SP2/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Sports1",DSports
@@ -524,11 +516,6 @@ http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd-deportes_c.png" group-title="Sports1",ESPN Deportes HD
 http://168.228.44.241:9998/play/a0dz/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8P8N2Ov.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/145.0.0.0 Safari/537.36" group-title="Sports1",ESPN Extra Latin America
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sports1",ESPN Latin America
@@ -793,16 +780,16 @@ https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playl
 https://fonstreams.mediacdn.ru/stream/fontvclear/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://assets.antenaplay.ro/2024/02/23/XUKfJwir4MxNeP4nHtG7.png" group-title="Sports1",Formula 1 AntenaPlay (576i) [Not 24/7]
-https://stream1.antenaplay.ro/promo/formula-1-las-vegas-20-2211/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://assets.antenaplay.ro/2024/02/23/XUKfJwir4MxNeP4nHtG7.png" group-title="Sports1",Formula 1 AntenaPlay [Not 24/7]
+https://stream1.antenaplay.ro/promo/formula-1-qatar-27-2911/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://assets.antenaplay.ro/2024/02/28/YW9VML2K4hpFUKMHme97.png" group-title="Sports1",Formula 2 AntenaPlay (576i) [Not 24/7]
 https://stream1.antenaplay.ro/promo/formula-2-qatar/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://assets.antenaplay.ro/2024/02/28/1o8H6fCMh1DSC2vuLjo8.png" group-title="Sports1",Formula Academy AntenaPlay [Not 24/7]
-https://stream1.antenaplay.ro/promo/f1-academy-las-vegas-20-2211/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/960px-FOX_wordmark.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Sports1",FOX
+https://lilac19.pontiscloud.com/live/gt/FOX/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/960px-FOX_wordmark.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Sports1",FOX Central
@@ -810,7 +797,7 @@ http://181.78.106.127:5000/play/a009/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png" group-title="Sports1",Fox Deportes
-http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports1",Fox Sports 1
@@ -879,10 +866,6 @@ https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7FQxaII.png" group-title="Sports1",GEM Fit
 https://ca-rt.onetv.app/gemfit/index-0.m3u8?token=onetv202
-
-
-#EXTINF:-1 tvg-logo="https://www.gemgroup.tv/assets/images/channels/icon_34.png" group-title="Sports1",GEM Sport
-https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/IR+-+GEM+Sport/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tS7Ub7i.png" group-title="Sports1",Glory Kickboxing Poland
@@ -1109,10 +1092,6 @@ http://team-tv.co:81/milan/index.m3u8
 https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uMI1ySO.png" group-title="Sports1",MLB Strike Zone
-http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qxco1eW.png" group-title="Sports1",MMA TV
 http://31.148.48.15/M1_Global/index.m3u8
 
@@ -1143,10 +1122,6 @@ http://195.178.110.110/movistar/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cFTR4kC.png" group-title="Sports1",MRTV Sports [Not 24/7]
 https://mrtvott.com/cache/MRTV-SPORT/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SEQFh0P.png" group-title="Sports1",MSG
-http://23.237.104.106:8080/USA_MSG/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wLjSSo2.jpg" group-title="Sports1",Multivision Sports [Not 24/7]
@@ -1182,7 +1157,7 @@ https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png" group-title="Sports1",NFL Network
-http://198.58.104.90:8989/nfl/index.m3u8
+https://tvsen6.aynaott.com/nfl/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://assets.antenaplay.ro/2024/10/25/SN0nevshXwKDcZ2Tw1jm.png" group-title="Sports1",NHL AntenaPlay (576i) [Not 24/7]
@@ -1925,16 +1900,8 @@ https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8
 https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UrsLSRs.png" group-title="Sports1",Tigo Sports (Costa Rica)
-https://live20.bozztv.com/akamaissh101/ssh101/livetigocr/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Sports1",Tigo Sports (El Salvador)
 http://45.167.2.101:8000/play/a0pp/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Sports1",Tigo Sports (Guatemala)
-http://45.5.119.43:4000/play/a05t/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Sports1",Tigo Sports (Honduras)
