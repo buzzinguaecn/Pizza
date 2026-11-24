@@ -55,15 +55,23 @@
 
 
 #EXTINF:-1 tvg-id="1090556049_ENG" tvg-name="NorthEast United vs Sporting Club Delhi - 24 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029517/1795024918000181_ISL26_NorthEast_United_vs_Sporting_Club_Delhi_landscape_thumb.jpg" group-title="SAWARID سواريد - Football", NorthEast United 🆚 Sporting Club Delhi - 24 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795575028~acl=/*~id=67155290689856821422247776252787~hmac=33a00eab522cdffaa8afd938c3ec087cc2c138b3c1b9f157a1ea62a6738b8312
+https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795579879~acl=/*~id=70329318163427287811349206265871~hmac=ec1db76e64aa38b2aad1d42994fff65f6f8670402ae58f6891cd53a9862e88b1
 
 
 #EXTINF:-1 tvg-id="1090556049_HIN" tvg-name="NorthEast United vs Sporting Club Delhi - 24 Nov 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029517/1795024918000181_ISL26_NorthEast_United_vs_Sporting_Club_Delhi_landscape_thumb.jpg" group-title="SAWARID سواريد - Football", NorthEast United 🆚 Sporting Club Delhi - 24 Nov 2026 [HIN]
-https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795575028~acl=/*~id=67155290689856821422247776252787~hmac=33a00eab522cdffaa8afd938c3ec087cc2c138b3c1b9f157a1ea62a6738b8312
+https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795579879~acl=/*~id=70329318163427287811349206265871~hmac=ec1db76e64aa38b2aad1d42994fff65f6f8670402ae58f6891cd53a9862e88b1
 
 
 #EXTINF:-1 tvg-id="tapmad-19568" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951598181020x576.jpg" group-title="SAWARID سواريد - Football", East Bengal FC (IND) 🆚 Al Hussein (JOR) - MATCHDAY 5 - AFC Champions League Two 2026/27
 https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
+
+
+#EXTINF:-1 tvg-id="tapmad-19788" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951666271020x576.jpg" group-title="SAWARID سواريد - Football", Shabab Al Ahli (UAE) 🆚 Al Qadsiah Club (KSA) - MATCHDAY 5 - AFC Champions League Elite 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8
+
+
+#EXTINF:-1 tvg-id="tapmad-19573" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951601401020x576.jpg" group-title="SAWARID سواريد - Football", Al Seeb Club (OMA) 🆚 Al Shorta (IRQ) - MATCHDAY 5 - AFC Champions League Two 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Ratchaburi%20Vs%20Johor%20Darul%20Ta%27zim.jpg" group-title="SAWARID سواريد - Football", Ratchaburi 🆚 Johor Darul Ta'zim - TAPMAD - AQ
@@ -156,7 +164,7 @@ https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a154
 https://live200.kravonstreamdelivery.com/live/channel16.m3u8?
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/East%20Bengal%20FC%20Vs%20Al-Hussein%20Irbid.jpg" group-title="SAWARID سواريد - Football", East Bengal FC 🆚 Al-Hussein Irbid - LOW SERVER
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/East%20Bengal%20FC%20Vs%20Al-Hussein%20Irbid.jpg" group-title="SAWARID سواريد - Football", East Bengal FC 🆚 Al-Hussein Irbid - SD STREAM
 http://193.47.62.41/hls/S666A.m3u8
 
 
@@ -186,6 +194,32 @@ http://193.47.62.41/hls/S666AAAAA.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Brazil%20U17%20Vs%20Tanzania%20U17.jpg" group-title="SAWARID سواريد - Football", Brazil U17 🆚 Tanzania U17 - SD STREAM
+http://193.47.62.41/hls/E444AAAA.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Algeria%20U17%20Vs%20Montenegro%20U17.jpg" group-title="SAWARID سواريد - Football", Algeria U17 🆚 Montenegro U17 - HD STREAM
+https://live200.kravonstreamdelivery.com/live/channel18.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Algeria%20U17%20Vs%20Montenegro%20U17.jpg" group-title="SAWARID سواريد - Football", Algeria U17 🆚 Montenegro U17 - SD STREAM
+http://193.47.62.41/hls/KIKIKIAAAA.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Honduras%20U17%20Vs%20Colombia%20U17.jpg" group-title="SAWARID سواريد - Football", Honduras U17 🆚 Colombia U17 - FOX - AQ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Honduras%20U17%20Vs%20Colombia%20U17.jpg" group-title="SAWARID سواريد - Football", Honduras U17 🆚 Colombia U17 - SERVER HD
+https://live200.kravonstreamdelivery.com/live/channel24.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Honduras%20U17%20Vs%20Colombia%20U17.jpg" group-title="SAWARID سواريد - Football", Honduras U17 🆚 Colombia U17 - SD STREAM
+http://193.47.62.41/hls/KIKIKIAAAAQQQ.m3u8
 
 
 # 🆕 SAWARID سواريد - Football 👉 Updateded Done ✅✅✅✅✅✅
