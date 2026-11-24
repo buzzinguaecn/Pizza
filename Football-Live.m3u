@@ -54,12 +54,12 @@
 # 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Football 🟢🟢🟢🟢🟢🟢
 
 
-#EXTINF:-1 tvg-id="tapmad-19768" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951652401020x576.jpg" group-title="SAWARID سواريد - Football", Kyoto Sanga F.C. (JPN) 🆚 FC Pohang Steelers (KOR) - MATCHDAY 5 - AFC Champions League Elite 2026/27
-https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
+#EXTINF:-1 tvg-id="1090556049_ENG" tvg-name="NorthEast United vs Sporting Club Delhi - 24 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029517/1795024918000181_ISL26_NorthEast_United_vs_Sporting_Club_Delhi_landscape_thumb.jpg" group-title="SAWARID سواريد - Football", NorthEast United 🆚 Sporting Club Delhi - 24 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795569561~acl=/*~id=66405609806477374664353383323127~hmac=97a9515d9e64e1f6409465a8e7423813df939a2d5b0c51c9635694becdfb5f20
 
 
-#EXTINF:-1 tvg-id="tapmad-19763" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951645181020x576.jpg" group-title="SAWARID سواريد - Football", Daejeon Hana Citizen FC (KOR) 🆚 Beijing FC (CHN) - MATCHDAY 5 - AFC Champions League Elite 2026/27
-https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
+#EXTINF:-1 tvg-id="1090556049_HIN" tvg-name="NorthEast United vs Sporting Club Delhi - 24 Nov 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029517/1795024918000181_ISL26_NorthEast_United_vs_Sporting_Club_Delhi_landscape_thumb.jpg" group-title="SAWARID سواريد - Football", NorthEast United 🆚 Sporting Club Delhi - 24 Nov 2026 [HIN]
+https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795569561~acl=/*~id=66405609806477374664353383323127~hmac=97a9515d9e64e1f6409465a8e7423813df939a2d5b0c51c9635694becdfb5f20
 
 
 #EXTINF:-1 tvg-id="tapmad-19783" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951656921020x576.jpg" group-title="SAWARID سواريد - Football", Cong An Ha Noi (VIE) 🆚 Vissel Kobe (JPN) - MATCHDAY 5 - AFC Champions League Elite 2026/27
@@ -84,6 +84,44 @@ https://www.rtmpcdn.com/live/236806a923eca1f04e0dbbc31fefe770fbdf8a4d2dc60fe773e
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Kyoto%20Sanga%20FC%20Vs%20Pohang%20Steelers.jpg" group-title="SAWARID سواريد - Football", Kyoto Sanga FC 🆚 Pohang Steelers - SD STREAM
 http://193.47.62.41/hls/3GGGA.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Ratchaburi%20Vs%20Johor%20Darul%20Ta%27zim.jpg" group-title="SAWARID سواريد - Football", Ratchaburi 🆚 Johor Darul Ta'zim - TAPMAD - AQ
+https://multiregion-asia-cdn.tapmad.com/v1/01a154e351d61ea557841e1612cf79/01a154e3809215fc60e91e1786b098/main.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Ratchaburi%20Vs%20Johor%20Darul%20Ta%27zim.jpg" group-title="SAWARID سواريد - Football", Ratchaburi 🆚 Johor Darul Ta'zim - SD STREAM
+http://193.47.62.41/hls/KIKIKIA.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Shanghai%20Port%20Vs%20Buriram%20United.jpg" group-title="SAWARID سواريد - Football", Shanghai Port 🆚 Buriram United - TAPMAD - AQ
+https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Shanghai%20Port%20Vs%20Buriram%20United.jpg" group-title="SAWARID سواريد - Football", Shanghai Port 🆚 Buriram United - SD STREAM
+http://193.47.62.41/hls/KIKIKIAA.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/C%C3%B4ng%20An%20H%C3%A0%20N%E1%BB%99i%20Vs%20Vissel%20Kobe.jpg" group-title="SAWARID سواريد - Football", Công An Hà Nội 🆚 Vissel Kobe - TAPMAD - AQ
+https://multiregion-asia-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/C%C3%B4ng%20An%20H%C3%A0%20N%E1%BB%99i%20Vs%20Vissel%20Kobe.jpg" group-title="SAWARID سواريد - Football", Công An Hà Nội 🆚 Vissel Kobe - SD STREAM
+http://193.47.62.41/hls/KIKIKI.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Costa%20Rica%20U17%20Vs%20Ireland%20U17.jpg" group-title="SAWARID سواريد - Football", Costa Rica U17 🆚 Ireland U17 - HD STREAM
+https://live200.kravonstreamdelivery.com/live/channel23.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Costa%20Rica%20U17%20Vs%20Ireland%20U17.jpg" group-title="SAWARID سواريد - Football", Costa Rica U17 🆚 Ireland U17 - SD STREAM
+http://193.47.62.41/hls/KIKIKIAAA.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Japan%20U17%20Vs%20Serbia%20U17.jpg" group-title="SAWARID سواريد - Football", Japan U17 🆚 Serbia U17 - VIX TN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd
 
 
 # 🆕 SAWARID سواريد - Football 👉 Updateded Done ✅✅✅✅✅✅
