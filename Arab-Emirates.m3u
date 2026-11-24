@@ -1,5 +1,5 @@
 #EXTM3U
-# Update Time: 07:46:15PM - 23-11-2026
+# Update Time: 06:34:50AM - 24-11-2026
 # Total Channels: 50
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
@@ -58,6 +58,10 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarab
 
 #EXTINF:-1 group-title="Arab-Emirates" ,Alarabiya
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8
+
+
+#EXTINF:-1 group-title="Arab-Emirates" ,Alarabiya
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/al_arabiya/live.livx/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Arab-Emirates" ,Cartoon Network Arabic
@@ -126,10 +130,6 @@ https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
 
 #EXTINF:-1 group-title="Arab-Emirates" ,OSN Movies Action
 http://116.90.120.151:8000/play/a0ax/index.m3u8
-
-
-#EXTINF:-1 group-title="Arab-Emirates" ,Peace TV Bangla
-http://103.135.253.32:8080/Pace-TV-Bangla/index.m3u8
 
 
 #EXTINF:-1 group-title="Arab-Emirates" ,Peace TV Bangla
