@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 07:40:19PM - 24-11-2026
-# Total Channels: 50
+# Update Time: 04:43:24AM - 25-11-2026
+# Total Channels: 51
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -126,6 +126,10 @@ http://85.237.89.159:3342/ar-s/Nickelodeon/index.m3u8
 
 #EXTINF:-1 group-title="Arab-Emirates" ,Nour TV
 https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
+
+
+#EXTINF:-1 group-title="Arab-Emirates" ,NTV UAE HD
+https://stream.logichost.in/NTV/live/chunklist_w833817414.m3u8
 
 
 #EXTINF:-1 group-title="Arab-Emirates" ,OSN Movies Action
