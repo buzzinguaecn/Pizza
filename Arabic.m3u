@@ -1,6 +1,6 @@
 #EXTM3U
-# Update Time: 04:43:24AM - 25-11-2026
-# Total Channels: 353
+# Update Time: 07:23:56PM - 25-11-2026
+# Total Channels: 354
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
 # 👉 Inbox Us:  👈
@@ -22,6 +22,10 @@ https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="Arabic",2M Monde HD
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/2m_monde/live.livx/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/3.16%20Channel.jpeg" group-title="Arabic",3.16 Channel
+https://316hls.wns.live/hls/stream.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t7CaTu3.png" group-title="Arabic",Afaq TV
