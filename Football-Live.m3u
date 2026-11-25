@@ -54,12 +54,24 @@
 # 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Football 🟢🟢🟢🟢🟢🟢
 
 
-#EXTINF:-1 tvg-id="tapmad-19578" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955099691020x576.jpg" group-title="SAWARID سواريد - Football", Melbourne Victory FC (AUS) 🆚 The Cong - Viettel FC (VIE) - MATCHDAY 5 - AFC Champions League Two 2026/27
-https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19803" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17953641901020x576.jpg" group-title="SAWARID سواريد - Football", Gamba Osaka (JPN) 🆚 Port FC (THA) - MATCHDAY 5 - AFC Champions League Elite 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8
+
+
+#EXTINF:-1 tvg-id="tapmad-19798" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17953645351020x576.jpg" group-title="SAWARID سواريد - Football", Kashima Antlers (JPN) 🆚 Jeonbuk Hyundai Motors FC (KOR) - MATCHDAY 5 - AFC Champions League Elite 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
 
 
 #EXTINF:-1 tvg-id="4249025" tvg-name="Melbourne Victory Vs The Cong   Viettel Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249025_53057_MLV_CV_fc-web_1789025065668.jpg" tvg-language="English" group-title="SAWARID سواريد - Football", ENG | Melbourne Victory 🆚 The Cong   Viettel Fc
 https://cinearena.fun/proxy/universal.php/?url=https://in-mc-vod.fancode.com/mumbai/4249025_english_hls_1a5ecea1e44694_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+
+#EXTINF:-1 tvg-id="4248758" tvg-name="Kashima Antlers Vs Jeonbuk Motors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248758_53053_ANL_JNB_fc-web.jpg" tvg-language="English" group-title="SAWARID سواريد - Football", ENG | Kashima Antlers 🆚 Jeonbuk Motors
+https://cinearena.fun/proxy/universal.php/?url=https://in-mc-vod.fancode.com/mumbai/4248758_english_hls_df11de56b866843_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+
+#EXTINF:-1 tvg-id="4248759" tvg-name="Gamba Osaka Vs Port Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248759_53053_OSK_PFC_fc-web.jpg" tvg-language="English" group-title="SAWARID سواريد - Football", ENG | Gamba Osaka 🆚 Port Fc
+https://cinearena.fun/proxy/universal.php/?url=https://in-mc-vod.fancode.com/mumbai/4248759_english_hls_8e543051a454617_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Melbourne%20Victory%20Vs%20Th%E1%BB%83%20C%C3%B4ng%20-%20Viettel.jpg" group-title="SAWARID سواريد - Football", Melbourne Victory 🆚 Thể Công - Viettel - TAPMAD - AQ
@@ -76,6 +88,26 @@ https://in-mc-vod.fancode.com/mumbai/4249025_english_hls_1a5ecea1e44694_1ta-di_h
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Melbourne%20Victory%20Vs%20Th%E1%BB%83%20C%C3%B4ng%20-%20Viettel.jpg" group-title="SAWARID سواريد - Football", Melbourne Victory 🆚 Thể Công - Viettel - SD STREAM
 http://193.47.62.41/hls/FRFRFR.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Kashima%20Antlers%20Vs%20Jeonbuk%20Hyundai%20Motors.jpg" group-title="SAWARID سواريد - Football", Kashima Antlers 🆚 Jeonbuk Hyundai Motors - SPORTDIGITAL AQ
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/102539/102539_264_live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Kashima%20Antlers%20Vs%20Jeonbuk%20Hyundai%20Motors.jpg" group-title="SAWARID سواريد - Football", Kashima Antlers 🆚 Jeonbuk Hyundai Motors - SD STREAM
+http://193.47.62.50/hls/ZTTTA.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Kashima%20Antlers%20Vs%20Jeonbuk%20Hyundai%20Motors.jpg" group-title="SAWARID سواريد - Football", Kashima Antlers 🆚 Jeonbuk Hyundai Motors - FANCODE AQ (IND)
+https://in-mc-vod.fancode.com/mumbai/4248758_english_hls_df11de56b866843_1ta-di_h264/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Gamba%20Osaka%20Vs%20Port%20FC.jpg" group-title="SAWARID سواريد - Football", Gamba Osaka 🆚 Port FC - SD STREAM
+http://193.47.62.50/hls/ZTTT.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Gamba%20Osaka%20Vs%20Port%20FC.jpg" group-title="SAWARID سواريد - Football", Gamba Osaka 🆚 Port FC - FANCODE AQ (IND)
+https://in-mc-vod.fancode.com/mumbai/4248759_english_hls_8e543051a454617_1ta-di_h264/index.m3u8
 
 
 # 🆕 SAWARID سواريد - Football 👉 Updateded Done ✅✅✅✅✅✅
