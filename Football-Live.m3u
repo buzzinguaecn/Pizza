@@ -54,28 +54,12 @@
 # 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Football 🟢🟢🟢🟢🟢🟢
 
 
-#EXTINF:-1 tvg-id="tapmad-19643" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955975461020x576.jpg" group-title="SAWARID سواريد - Football", Tai Po FC (HKG) 🆚 Adelaide United FC (AUS) - MATCHDAY 5 - AFC Champions League Two 2026/27
-https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8
-
-
-#EXTINF:-1 tvg-id="tapmad-19638" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955970941020x576.jpg" group-title="SAWARID سواريد - Football", BG Pathum United (THA) 🆚 Lion City Sailors FC (SGP) - MATCHDAY 5 - AFC Champions League Two 2026/27
-https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
-
-
-#EXTINF:-1 tvg-id="tapmad-19633" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955967701020x576.jpg" group-title="SAWARID سواريد - Football", Preah Khan Reach Svay Rieng FC (CAM) 🆚 FC Machida Zelvia (JPN) - MATCHDAY 5 - AFC Champions League Two 2026/27
-https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
-
-
 #EXTINF:-1 tvg-id="4249027" tvg-name="Bg Pathum United Vs Lion City Sailors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249027_53057_PNU_LIO_fc-web_1789025065671.jpg" tvg-language="English" group-title="SAWARID سواريد - Football", ENG | Bg Pathum United 🆚 Lion City Sailors
 https://cinearena.fun/proxy/universal.php/?url=https://in-mc-vod.fancode.com/mumbai/4249027_english_hls_18036fa1e376406_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 
 #EXTINF:-1 tvg-id="4249028" tvg-name="Tai Po Fc Vs Adelaide United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249028_53057_WTP_ADL_fc-web_1789025066041.jpg" tvg-language="English" group-title="SAWARID سواريد - Football", ENG | Tai Po Fc 🆚 Adelaide United
 https://cinearena.fun/proxy/universal.php/?url=https://in-mc-vod.fancode.com/mumbai/4249028_english_hls_0cb4703b5963817_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-
-#EXTINF:-1 tvg-id="4249030" tvg-name="Preah Khan Reach Svay Rieng Fc Vs Machida Zelvia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249030_53057_PRK_MZ_fc-web_1789025065494.jpg" tvg-language="English" group-title="SAWARID سواريد - Football", ENG | Preah Khan Reach Svay Rieng Fc 🆚 Machida Zelvia
-https://cinearena.fun/proxy/universal.php/?url=https://in-mc-vod.fancode.com/mumbai/4249030_english_hls_21a64821f080481_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/3936.png" group-title="SAWARID سواريد - Football", BG Pathum United 🆚 Lion City Sailors TAPMAD - AQ
@@ -134,36 +118,24 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1
 https://live3979.zundrixmediapipeline.com/live/channel12.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Tampines%20Rovers%20Vs%20Shanghai%20Shenhua.jpg" group-title="SAWARID سواريد - Football", Tampines Rovers 🆚 Shanghai Shenhua - TAPMAD - AQ
-https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/3943.png" group-title="SAWARID سواريد - Football", China U17 🆚 Fiji U17 HD STREAM
+https://live3979.zundrixmediapipeline.com/live/channel17.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Tampines%20Rovers%20Vs%20Shanghai%20Shenhua.jpg" group-title="SAWARID سواريد - Football", Tampines Rovers 🆚 Shanghai Shenhua - SD STREAM
-http://193.47.62.41/hls/WAWAWAAA.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/3944.png" group-title="SAWARID سواريد - Football", Morocco U17 🆚 Spain U17 TSN SPORTS - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Kuching%20City%20Vs%20Phnom%20Penh%20Crown.jpg" group-title="SAWARID سواريد - Football", Kuching City 🆚 Phnom Penh Crown - TAPMAD - AQ
-https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Kuching%20City%20Vs%20Phnom%20Penh%20Crown.jpg" group-title="SAWARID سواريد - Football", Kuching City 🆚 Phnom Penh Crown - FANCODE [IND]
-https://in-mc-vod.fancode.com/mumbai/4249032_english_hls_a51be743a28523_1ta-di_h264/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Kuching%20City%20Vs%20Phnom%20Penh%20Crown.jpg" group-title="SAWARID سواريد - Football", Kuching City 🆚 Phnom Penh Crown - SD STREAM
-http://193.47.62.41/hls/WAWAWAA.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Gangwon%20FC%20Vs%20Kitchee%20SC.jpg" group-title="SAWARID سواريد - Football", Gangwon FC 🆚 Kitchee SC - TAPMAD - AQ
-https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Gangwon%20FC%20Vs%20Kitchee%20SC.jpg" group-title="SAWARID سواريد - Football", Gangwon FC 🆚 Kitchee SC - FANCODE [IND]
-https://in-mc-vod.fancode.com/mumbai/4249031_english_hls_eca20e0fdd32083_1ta-di_h264/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Gangwon%20FC%20Vs%20Kitchee%20SC.jpg" group-title="SAWARID سواريد - Football", Gangwon FC 🆚 Kitchee SC - SD STREAM
-http://193.47.62.41/hls/WAWAWA.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/3944.png" group-title="SAWARID سواريد - Football", Morocco U17 🆚 Spain U17 D Sports ES - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/BG%20Pathum%20United%20Vs%20Lion%20City%20Sailors.jpg" group-title="SAWARID سواريد - Football", BG Pathum United 🆚 Lion City Sailors - TAPMAD - AQ
@@ -198,8 +170,32 @@ https://in-mc-vod.fancode.com/mumbai/4249030_english_hls_21a64821f080481_1ta-di_
 https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20Zealand%20U17%20Vs%20Belgium%20U17.jpg" group-title="SAWARID سواريد - Football", New Zealand U17 🆚 Belgium U17 - SM IPTV Live
-https://live3979.zundrixmediapipeline.com/live/channel16.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20Zealand%20U17%20Vs%20Belgium%20U17.jpg" group-title="SAWARID سواريد - Football", New Zealand U17 🆚 Belgium U17 - FOX SPORTS - AQ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20Zealand%20U17%20Vs%20Belgium%20U17.jpg" group-title="SAWARID سواريد - Football", New Zealand U17 🆚 Belgium U17 - HD SERVER
+https://live3979.zundrixmediapipeline.com/live/channel16.m3u8?
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Vietnam%20U17%20Vs%20Mali%20U17.jpg" group-title="SAWARID سواريد - Football", Vietnam U17 🆚 Mali U17 - SM IPTV LIVE
+https://live3979.zundrixmediapipeline.com/live/channel1.m3u8?
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Uzbekistan%20U17%20Vs%20Italy%20U17.jpg" group-title="SAWARID سواريد - Football", Uzbekistan U17 🆚 Italy U17 - D Sports ES - AQ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Uzbekistan%20U17%20Vs%20Italy%20U17.jpg" group-title="SAWARID سواريد - Football", Uzbekistan U17 🆚 Italy U17 - HD STREAM
+https://live3979.zundrixmediapipeline.com/live/channel12.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Jamaica%20U17%20Vs%20C%C3%B4te%20d%27Ivoire%20U17.jpg" group-title="SAWARID سواريد - Football", Jamaica U17 🆚 Côte d'Ivoire U17 - HD STREAM
+https://live3979.zundrixmediapipeline.com/live/channel18.m3u8
 
 
 # 🆕 SAWARID سواريد - Football 👉 Updateded Done ✅✅✅✅✅✅
