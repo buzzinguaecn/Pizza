@@ -54,68 +54,8 @@
 # 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Football 🟢🟢🟢🟢🟢🟢
 
 
-#EXTINF:-1 tvg-id="4249027" tvg-name="Bg Pathum United Vs Lion City Sailors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249027_53057_PNU_LIO_fc-web_1789025065671.jpg" tvg-language="English" group-title="SAWARID سواريد - Football", ENG | Bg Pathum United 🆚 Lion City Sailors
-https://cinearena.fun/proxy/universal.php/?url=https://in-mc-vod.fancode.com/mumbai/4249027_english_hls_18036fa1e376406_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-
-#EXTINF:-1 tvg-id="4249028" tvg-name="Tai Po Fc Vs Adelaide United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249028_53057_WTP_ADL_fc-web_1789025066041.jpg" tvg-language="English" group-title="SAWARID سواريد - Football", ENG | Tai Po Fc 🆚 Adelaide United
-https://cinearena.fun/proxy/universal.php/?url=https://in-mc-vod.fancode.com/mumbai/4249028_english_hls_0cb4703b5963817_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/3936.png" group-title="SAWARID سواريد - Football", BG Pathum United 🆚 Lion City Sailors TAPMAD - AQ
-https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/3936.png" group-title="SAWARID سواريد - Football", BG Pathum United 🆚 Lion City Sailors FANCODE [IND]
-https://in-mc-vod.fancode.com/mumbai/4249027_english_hls_18036fa1e376406_1ta-di_h264/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/3937.png" group-title="SAWARID سواريد - Football", Preah Khan Reach Svay Rieng FC 🆚 Machida Zelvia FANCODE [IND]
-https://in-mc-vod.fancode.com/mumbai/4249030_english_hls_21a64821f080481_1ta-di_h264/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/3937.png" group-title="SAWARID سواريد - Football", Preah Khan Reach Svay Rieng FC 🆚 Machida Zelvia TAPMAD - AQ
-https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/3938.png" group-title="SAWARID سواريد - Football", Tai Po 🆚 Adelaide United TAPMAD - AQ
-https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/3938.png" group-title="SAWARID سواريد - Football", Tai Po 🆚 Adelaide United FANCODE [IND]
-https://in-mc-vod.fancode.com/mumbai/4249028_english_hls_0cb4703b5963817_1ta-di_h264/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/3939.png" group-title="SAWARID سواريد - Football", New Zealand U17 🆚 Belgium U17 FOX SPORTS - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/3939.png" group-title="SAWARID سواريد - Football", New Zealand U17 🆚 Belgium U17 HD SERVER
-https://live3979.zundrixmediapipeline.com/live/channel16.m3u8?
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/3940.png" group-title="SAWARID سواريد - Football", Vietnam U17 🆚 Mali U17 PlayZ TV LIVE
-https://live3979.zundrixmediapipeline.com/live/channel1.m3u8?
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/3941.png" group-title="SAWARID سواريد - Football", Jamaica U17 🆚 Côte d'Ivoire U17 HD STREAM
-https://live3979.zundrixmediapipeline.com/live/channel18.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/3942.png" group-title="SAWARID سواريد - Football", Uzbekistan U17 🆚 Italy U17 D Sports ES - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/3942.png" group-title="SAWARID سواريد - Football", Uzbekistan U17 🆚 Italy U17 HD STREAM
-https://live3979.zundrixmediapipeline.com/live/channel12.m3u8
+#EXTINF:-1 tvg-id="1090556384_ENG" tvg-name="FC Kairat Almaty vs Mjällby AIF - 26 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029772/1794811512327892_UECL_26_FC-Kairat-Almaty-vs-Mjallby-AIF_live_landscape_thumb.jpg" group-title="SAWARID سواريد - Football", FC Kairat Almaty 🆚 Mjällby AIF - 26 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795755252~acl=/*~id=85194078198049787645598751198490~hmac=107bdfc5852c7367c2123947c00a2e3a027f68f4e53703fc7bff1868178604b9
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/3943.png" group-title="SAWARID سواريد - Football", China U17 🆚 Fiji U17 HD STREAM
@@ -138,36 +78,44 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/BG%20Pathum%20United%20Vs%20Lion%20City%20Sailors.jpg" group-title="SAWARID سواريد - Football", BG Pathum United 🆚 Lion City Sailors - TAPMAD - AQ
-https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/3944.png" group-title="SAWARID سواريد - Football", Morocco U17 🆚 Spain U17 FOX SPORTS - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/BG%20Pathum%20United%20Vs%20Lion%20City%20Sailors.jpg" group-title="SAWARID سواريد - Football", BG Pathum United 🆚 Lion City Sailors - FANCODE [IND]
-https://in-mc-vod.fancode.com/mumbai/4249027_english_hls_18036fa1e376406_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/4001.png" group-title="SAWARID سواريد - Football", Abha 🆚 Al-Shabab HD STREAM
+https://live3979.zundrixmediapipeline.com/live/channel8.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/BG%20Pathum%20United%20Vs%20Lion%20City%20Sailors.jpg" group-title="SAWARID سواريد - Football", BG Pathum United 🆚 Lion City Sailors - SD STREAM
-http://193.47.62.41/hls/WAWAWAAAA.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/3945.png" group-title="SAWARID سواريد - Football", FC Kairat Almaty 🆚 Mjällby AIF TNT SPORTS - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Tai%20Po%20Vs%20Adelaide%20United.jpg" group-title="SAWARID سواريد - Football", Tai Po 🆚 Adelaide United - TAPMAD - AQ
-https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/3945.png" group-title="SAWARID سواريد - Football", FC Kairat Almaty 🆚 Mjällby AIF SPORT 2 CZ - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Tai%20Po%20Vs%20Adelaide%20United.jpg" group-title="SAWARID سواريد - Football", Tai Po 🆚 Adelaide United - SD STREAM
-http://193.47.62.41/hls/WAWAWAAAAQQ.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/3945.png" group-title="SAWARID سواريد - Football", FC Kairat Almaty 🆚 Mjällby AIF SONYLIV ENG - AQ
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795748537~acl=/*~id=69004804089144406230493982079733~hmac=ba7fa616632786d17cd3e0464ae172b3c459308d569fa4ff7f4477b39408c6e4
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Tai%20Po%20Vs%20Adelaide%20United.jpg" group-title="SAWARID سواريد - Football", Tai Po 🆚 Adelaide United - FANCODE [IND]
-https://in-mc-vod.fancode.com/mumbai/4249028_english_hls_0cb4703b5963817_1ta-di_h264/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Preah%20Khan%20Reach%20Svay%20Rieng%20FC%20Vs%20Machida%20Zelvia.jpg" group-title="SAWARID سواريد - Football", Preah Khan Reach Svay Rieng FC 🆚 Machida Zelvia - FANCODE [IND]
-https://in-mc-vod.fancode.com/mumbai/4249030_english_hls_21a64821f080481_1ta-di_h264/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Preah%20Khan%20Reach%20Svay%20Rieng%20FC%20Vs%20Machida%20Zelvia.jpg" group-title="SAWARID سواريد - Football", Preah Khan Reach Svay Rieng FC 🆚 Machida Zelvia - TAPMAD - AQ
-https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/3967.png" group-title="SAWARID سواريد - Football", Olympiacos FC 🆚 AC Milan TNT SPORTS - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20Zealand%20U17%20Vs%20Belgium%20U17.jpg" group-title="SAWARID سواريد - Football", New Zealand U17 🆚 Belgium U17 - FOX SPORTS - AQ
@@ -196,6 +144,76 @@ https://live3979.zundrixmediapipeline.com/live/channel12.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Jamaica%20U17%20Vs%20C%C3%B4te%20d%27Ivoire%20U17.jpg" group-title="SAWARID سواريد - Football", Jamaica U17 🆚 Côte d'Ivoire U17 - HD STREAM
 https://live3979.zundrixmediapipeline.com/live/channel18.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Jamaica%20U17%20Vs%20C%C3%B4te%20d%27Ivoire%20U17.jpg" group-title="SAWARID سواريد - Football", Jamaica U17 🆚 Côte d'Ivoire U17 - SD STREAM
+http://193.47.62.41/hls/QTTT.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Al-Fateh%20Vs%20Al-Riyadh.jpg" group-title="SAWARID سواريد - Football", Al-Fateh 🆚 Al-Riyadh - SD STREAM
+http://193.47.62.41/hls/QTTTAAA.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Morocco%20U17%20Vs%20Spain%20U17.jpg" group-title="SAWARID سواريد - Football", Morocco U17 🆚 Spain U17 - TSN SPORTS - AQ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Morocco%20U17%20Vs%20Spain%20U17.jpg" group-title="SAWARID سواريد - Football", Morocco U17 🆚 Spain U17 - D Sports ES - AQ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Morocco%20U17%20Vs%20Spain%20U17.jpg" group-title="SAWARID سواريد - Football", Morocco U17 🆚 Spain U17 - FOX SPORTS - AQ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Morocco%20U17%20Vs%20Spain%20U17.jpg" group-title="SAWARID سواريد - Football", Morocco U17 🆚 Spain U17 - SD STREAM
+http://193.47.62.55/hls/QYYYQ.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/China%20U17%20Vs%20Fiji%20U17.jpg" group-title="SAWARID سواريد - Football", China U17 🆚 Fiji U17 - HD STREAM
+https://live3979.zundrixmediapipeline.com/live/channel17.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/China%20U17%20Vs%20Fiji%20U17.jpg" group-title="SAWARID سواريد - Football", China U17 🆚 Fiji U17 - SD STREAM
+http://193.47.62.55/hls/QYYY.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Abha%20Vs%20Al-Shabab.jpg" group-title="SAWARID سواريد - Football", Abha 🆚 Al-Shabab - HD STREAM
+https://live3979.zundrixmediapipeline.com/live/channel8.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Abha%20Vs%20Al-Shabab.jpg" group-title="SAWARID سواريد - Football", Abha 🆚 Al-Shabab - SD STREAM
+http://193.47.62.55/hls/QYYYQQ.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/FC%20Kairat%20Almaty%20Vs%20Mj%C3%A4llby%20AIF.jpg" group-title="SAWARID سواريد - Football", FC Kairat Almaty 🆚 Mjällby AIF - TNT SPORTS - AQ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/FC%20Kairat%20Almaty%20Vs%20Mj%C3%A4llby%20AIF.jpg" group-title="SAWARID سواريد - Football", FC Kairat Almaty 🆚 Mjällby AIF - SPORT 2 CZ - AQ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/FC%20Kairat%20Almaty%20Vs%20Mj%C3%A4llby%20AIF.jpg" group-title="SAWARID سواريد - Football", FC Kairat Almaty 🆚 Mjällby AIF - SONYLIV ENG - AQ
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795748537~acl=/*~id=69004804089144406230493982079733~hmac=ba7fa616632786d17cd3e0464ae172b3c459308d569fa4ff7f4477b39408c6e4
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Tajikistan%20U17%20Vs%20Senegal%20U17.jpg" group-title="SAWARID سواريد - Football", Tajikistan U17 🆚 Senegal U17 - SD STREAM
+http://193.47.62.50/hls/GTGTGTAA.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Croatia%20U17%20Vs%20Cuba%20U17.jpg" group-title="SAWARID سواريد - Football", Croatia U17 🆚 Cuba U17 - SD STREAM
+http://193.47.62.50/hls/GTGTGTA.m3u8
 
 
 # 🆕 SAWARID سواريد - Football 👉 Updateded Done ✅✅✅✅✅✅
