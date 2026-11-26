@@ -54,15 +54,11 @@
 
 
 #EXTINF:-1 tvg-id="1090556385_ENG" tvg-name="Olympiacos FC vs AC Milan - MD 5 - 26 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028403/1793601374540623_UEL26_MD5_Olympiacos-vs-Milan_live_landscape_thumb.jpg" group-title="SAWARID سواريد - Football", Olympiacos FC 🆚 AC Milan - MD 5 - 26 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795757078~acl=/*~id=06042113821981050918177560231620~hmac=dbf424b7413f2f6b5f8696f516832d77910270ff8d5d330dee85920d72cbbab3
+https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795757687~acl=/*~id=02789019399791868912177759718168~hmac=bf122dd703e22bebd926f82f0b76a3f892de3753274d0a3a5b7e87f0ede74ad3
 
 
 #EXTINF:-1 tvg-id="1090556391_ENG" tvg-name="Celta vs Bournemouth - 26 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029126/1793611880670259_UEL26_MD5_Real-Club-Celta-vs-AFC-Bournemouth_live_landscape_thumb.jpg" group-title="SAWARID سواريد - Football", Celta 🆚 Bournemouth - 26 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795757078~acl=/*~id=06042113821981050918177560231620~hmac=dbf424b7413f2f6b5f8696f516832d77910270ff8d5d330dee85920d72cbbab3
-
-
-#EXTINF:-1 tvg-id="1090556384_ENG" tvg-name="FC Kairat Almaty vs Mjällby AIF - 26 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029772/1794811512327892_UECL_26_FC-Kairat-Almaty-vs-Mjallby-AIF_live_landscape_thumb.jpg" group-title="SAWARID سواريد - Football", FC Kairat Almaty 🆚 Mjällby AIF - 26 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795757078~acl=/*~id=06042113821981050918177560231620~hmac=dbf424b7413f2f6b5f8696f516832d77910270ff8d5d330dee85920d72cbbab3
+https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795757687~acl=/*~id=02789019399791868912177759718168~hmac=bf122dd703e22bebd926f82f0b76a3f892de3753274d0a3a5b7e87f0ede74ad3
 
 
 #EXTINF:-1 tvg-id="tapmad-19866" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17953681111020x576.jpg" group-title="SAWARID سواريد - Football", Celta 🆚 Bournemouth - MATCHDAY 5 - UEFA Europa League 2026/27
@@ -95,6 +91,90 @@ https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115f
 
 #EXTINF:-1 tvg-id="tapmad-19859" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17953661291020x576.jpg" group-title="SAWARID سواريد - Football", Marseille 🆚 Levski Sofia - MATCHDAY 5 - UEFA Europa League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/3945.png" group-title="SAWARID سواريد - Football", FC Kairat Almaty 🆚 Mjällby AIF TNT SPORTS - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/3945.png" group-title="SAWARID سواريد - Football", FC Kairat Almaty 🆚 Mjällby AIF SPORT 2 CZ - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/3945.png" group-title="SAWARID سواريد - Football", FC Kairat Almaty 🆚 Mjällby AIF SONYLIV ENG - AQ
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795748537~acl=/*~id=69004804089144406230493982079733~hmac=ba7fa616632786d17cd3e0464ae172b3c459308d569fa4ff7f4477b39408c6e4
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/3946.png" group-title="SAWARID سواريد - Football", Croatia U17 🆚 Cuba U17 PlayZ TV LIVE
+https://live3979.zundrixmediapipeline.com/live/channel20.m3u8?
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/3947.png" group-title="SAWARID سواريد - Football", Tajikistan U17 🆚 Senegal U17 PlayZ TV LIVE
+https://live3979.zundrixmediapipeline.com/live/channel7.m3u8?
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/3955.png" group-title="SAWARID سواريد - Football", Al Faisaly 🆚 Diriyah HD STREAM
+https://live3979.zundrixmediapipeline.com/live/channel25.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/3956.png" group-title="SAWARID سواريد - Football", AFC Ajax 🆚 FC Thun PARAMOUNT+ - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=623d596898e5f4169e62539e5c4f447e:1a01316502ded7f382a5551fdf691f5e
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yghxvsuppm/out/v1/8a02db478d9c494cbc40b7c32d73eca6/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/3957.png" group-title="SAWARID سواريد - Football", Beşiktaş JK 🆚 Hapoel Be'er Sheva PARAMOUNT+ - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a551b3d6acde3b8129a73c8959cba2c8:b34fa2c92050fc7fcdee926bb22f3e86
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cxta6wlwp1/out/v1/96c7261ded824ca39d451e33d3e6d875/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/3964.png" group-title="SAWARID سواريد - Football", GNK Dinamo Zagreb 🆚 Bayer 04 Leverkusen Sky Top Event- AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/3967.png" group-title="SAWARID سواريد - Football", Olympiacos FC 🆚 AC Milan TNT SPORTS - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/3967.png" group-title="SAWARID سواريد - Football", Olympiacos FC 🆚 AC Milan SONYLIV ENG - AQ
+https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795756470~acl=/*~id=50236481453523645919997976854260~hmac=ec26bf2778036912b1862271a24a730e1e62125e8c77d283be676b4030b59feb
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/3970.png" group-title="SAWARID سواريد - Football", Red Bull Salzburg 🆚 FC Ararat-Armenia PARAMOUNT+ - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56db58581457bc29323829704e03eb9c:8492ac31e4cc01715f635d9046cae882
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m4v9zavrrq/out/v1/b9eadbd704274095b943c5f08e333fd7/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/3972.png" group-title="SAWARID سواريد - Football", SK Brann 🆚 AGF PARAMOUNT+ - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b28f616e925e9978a13e3feb08e57c8:4f9c5372dcef094324f67e0fab2c2817
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6urbdoci3k/out/v1/a3c0af7f01ee43adb93a41b5b628270f/cenc.mpd
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Uzbekistan%20U17%20Vs%20Italy%20U17.jpg" group-title="SAWARID سواريد - Football", Uzbekistan U17 🆚 Italy U17 - D Sports ES - AQ
@@ -227,23 +307,23 @@ http://193.47.62.50/hls/I555A.m3u8
 
 
 #EXTINF:-1 tvg-id="1090556383_ENG" tvg-name="Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="SAWARID سواريد - Cricket", Sri Lanka A 🆚 India A - Semi-Final - 26 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795757078~acl=/*~id=06042113821981050918177560231620~hmac=dbf424b7413f2f6b5f8696f516832d77910270ff8d5d330dee85920d72cbbab3
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795757687~acl=/*~id=02789019399791868912177759718168~hmac=bf122dd703e22bebd926f82f0b76a3f892de3753274d0a3a5b7e87f0ede74ad3
 
 
 #EXTINF:-1 tvg-id="1090556383_HIN" tvg-name="Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="SAWARID سواريد - Cricket", Sri Lanka A 🆚 India A - Semi-Final - 26 Nov 2026 [HIN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795757078~acl=/*~id=06042113821981050918177560231620~hmac=dbf424b7413f2f6b5f8696f516832d77910270ff8d5d330dee85920d72cbbab3
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795757687~acl=/*~id=02789019399791868912177759718168~hmac=bf122dd703e22bebd926f82f0b76a3f892de3753274d0a3a5b7e87f0ede74ad3
 
 
 #EXTINF:-1 tvg-id="1090556383_TAM" tvg-name="Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="SAWARID سواريد - Cricket", Sri Lanka A 🆚 India A - Semi-Final - 26 Nov 2026 [TAM]
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795757078~acl=/*~id=06042113821981050918177560231620~hmac=dbf424b7413f2f6b5f8696f516832d77910270ff8d5d330dee85920d72cbbab3
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795757687~acl=/*~id=02789019399791868912177759718168~hmac=bf122dd703e22bebd926f82f0b76a3f892de3753274d0a3a5b7e87f0ede74ad3
 
 
 #EXTINF:-1 tvg-id="1090556383_TEL" tvg-name="Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="SAWARID سواريد - Cricket", Sri Lanka A 🆚 India A - Semi-Final - 26 Nov 2026 [TEL]
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795757078~acl=/*~id=06042113821981050918177560231620~hmac=dbf424b7413f2f6b5f8696f516832d77910270ff8d5d330dee85920d72cbbab3
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795757687~acl=/*~id=02789019399791868912177759718168~hmac=bf122dd703e22bebd926f82f0b76a3f892de3753274d0a3a5b7e87f0ede74ad3
 
 
 #EXTINF:-1 tvg-id="1090556383_KAN" tvg-name="Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="SAWARID سواريد - Cricket", Sri Lanka A 🆚 India A - Semi-Final - 26 Nov 2026 [KAN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795757078~acl=/*~id=06042113821981050918177560231620~hmac=dbf424b7413f2f6b5f8696f516832d77910270ff8d5d330dee85920d72cbbab3
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795757687~acl=/*~id=02789019399791868912177759718168~hmac=bf122dd703e22bebd926f82f0b76a3f892de3753274d0a3a5b7e87f0ede74ad3
 
 
 #EXTINF:-1 tvg-id="B0HQTF8G33" tvg-name="ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7e40d3e7-4438-4ed4-bd7a-fa6405891d29/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="SAWARID سواريد - Cricket", ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A 🆚 India A
