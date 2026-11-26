@@ -1,5 +1,5 @@
 #EXTM3U
-# Update Time: 07:23:57PM - 25-11-2026
+# Update Time: 04:16:50AM - 26-11-2026
 # Total Channels: 525
 # 👉 All links included in this file have been collected from publicly available sources.
 # 👉 If any content owner wishes to have their source removed, please contact us.
@@ -374,6 +374,10 @@ https://cdn.pishow.tv/ott/live/1161/master.m3u8
 http://158.172.155.130:8000/play/a09y/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5zMxDYq.png" group-title="Sports1",Digi Sport 1 (576i)
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fkuruk1.xn--okq6e.shop%2Fkuk1%2Fusergendx419snx12kdgwqrnd.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KWDUi3v.png" group-title="Sports1",Digi Sport 2 (576i)
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Fkuruk1.xn--okq6e.shop%2Fkuk2%2Fusergendx0ul1ltsDx9lgcdwqrnd-got.htm
 
@@ -680,10 +684,6 @@ http://57.128.210.196:8080/263/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Eurosport_3_2022.svg/revision/latest?cb=20220418054130" group-title="Sports1",Eurosport 3 Polska
 https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F5121596371c5191ed9b35
-
-
-#EXTINF:-1 tvg-logo="https://web02.antik.sk/assets/img/channels/645a85b97a8257d6702639d6e540fe5b.svg" group-title="Sports1",Eurosport 4K Romania
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://web02.antik.sk/assets/img/channels/645a85b97a8257d6702639d6e540fe5b.svg" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports1",Eurosport 4K Czechia
