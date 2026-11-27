@@ -55,7 +55,7 @@
 
 
 #EXTINF:-1 tvg-id="1090556911_ENG" tvg-name="Pakistan A vs Bangladesh A - Semi-Final - 27 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029940/1795599539816102_ACC_Rising_Star_SF_PAK_vs_BAN_live_landscape_thumb.jpg" group-title="SAWARID سواريد - Cricket", Pakistan A 🆚 Bangladesh A - Semi-Final - 27 Nov 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795817974~acl=/*~id=67121209055712936975261769970341~hmac=ad9b0d291a835ae541acbf612cba924a8cbb01a7055b8b46d35b0cc9b4ec0eaf
+https://sonydaime.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795819797~acl=/*~id=06627040925163024626196216838162~hmac=b934728ef2094045e03a82b4370d2f2244cd7ce4ed7290a39d30388f7c0ff5cb
 
 
 #EXTINF:-1 tvg-id="tapmad-20136" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17948132271020x576.jpg" group-title="SAWARID سواريد - Cricket", Australia 🆚 England - 3rd T20I - England Tour of Australia 2026 - Server 1
@@ -75,7 +75,7 @@ https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=74042336c8b0ea8aec8cfff587323e45:a0b6920e1735c7245036a2c53067fd49
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ihqh5jfdov/out/v1/77912028521b4e1eaf700aa1f1d57cb2/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ihqh5jfdov/out/v1/77912028521b4e1eaf700aa1f1d57cb2/cenc.mpd
 
 
 #EXTINF:-1 tvg-id="B0HF8SZPDP" tvg-name="ACC Mens Asia Cup Rising Stars 2026 - 2nd Semi-Final - Pakistan A vs Bangladesh A" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a47e043e-afc3-4407-8de2-d093b5d5a7e9/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="SAWARID سواريد - Cricket", ACC Mens Asia Cup Rising Stars 2026 - 2nd Semi-Final - Pakistan A 🆚 Bangladesh A
@@ -83,7 +83,7 @@ https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ihqh
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=24dea51a9817383c884a175a7bc74549:86e7bd926119ff53f5eda7457afd8ee3
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7bkbqed1bj/out/v1/cc1b68d926844c0e9440675578e2a82b/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/7bkbqed1bj/out/v1/cc1b68d926844c0e9440675578e2a82b/cenc.mpd
 
 
 #EXTINF:-1 tvg-id="B0HHNTM81F" tvg-name="Womens Big Bash League 2026 - 36th Match - Perth Scorchers Women vs Hobart Hurricanes Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0c11668b-875a-41bc-bfa0-2a719f259d6e/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="SAWARID سواريد - Cricket", Womens Big Bash League 2026 - 36th Match - Perth Scorchers Women 🆚 Hobart Hurricanes Women
@@ -220,6 +220,20 @@ https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Perth%20Scorchers%20Women%20Vs%20Hobart%20Hurricanes%20Women.jpg" group-title="SAWARID سواريد - Cricket", Perth Scorchers Women 🆚 Hobart Hurricanes Women - FANCODE [IND]
 https://in-mc-vod.fancode.com/mumbai/4250421_english_hls_c58bc13b0511119_1ta-di_h264/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Italia%20T10%20Vs%20Italia%20T10.jpg" group-title="SAWARID سواريد - Cricket", Italia T10 🆚 Italia T10 - UNBEATEN FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Italia%20T10%20Vs%20Italia%20T10.jpg" group-title="SAWARID سواريد - Cricket", Italia T10 🆚 Italia T10 - SM IPTV LIVE
+https://amssandbrix.sandbrix.live/sandbrix/streams/mk139q1Mi9bHznBA775016895861.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Italia%20T10%20Vs%20Italia%20T10.jpg" group-title="SAWARID سواريد - Cricket", Italia T10 🆚 Italia T10 - TAMASHA PRO AQ
+https://cdn03lhr-n.tamashaweb.com:8087/appcast/t10-italia-SVOD-abr/playlist.m3u8
 
 
 # 🆕 SAWARID سواريد - Cricket 👉 Updateded Done ✅✅✅✅✅✅
