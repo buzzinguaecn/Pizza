@@ -1,5 +1,5 @@
 #EXTM3U
-# 🆕 FANCODE PROXY - Updated: 2026-11-27 22:02:53 🟡
+# 🆕 FANCODE PROXY - Updated: 2026-11-27 23:07:53 🟡
 
 
 #EXTINF:-1 tvg-id="4251056" tvg-name="Dubai Capitals Vs Sharjah Warriorz" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4251056_53162_SW_DC_FC-APP.jpg" tvg-language="English" group-title="Cricket",ENG | Dubai Capitals Vs Sharjah Warriorz
@@ -10,9 +10,12 @@ https://cinearena.fun/proxy/universal.php/?url=https://in-mc-vod.fancode.com/mum
 https://cinearena.fun/proxy/universal.php/?url=https://in-mc-vod.fancode.com/mumbai/4250912_english_hls_ec5b6fa4b856063_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 
-#EXTINF:-1 tvg-id="4250969" tvg-name="Al Qadsiah Fc Vs Al Fayha Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250969_53025_ALQ_ALF_FC-App_1795077050712.png" tvg-language="English" group-title="Football",ENG | Al Qadsiah Fc Vs Al Fayha Fc
-https://cinearena.fun/proxy/universal.php/?url=https://in-mc-vod.fancode.com/mumbai/4250969_english_hls_b5ac3c348099958_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-
-#EXTINF:-1 tvg-id="4250887" tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Andalucia-Costa-Del-Sol-Open-De-Espana_1080_x_810.jpg" tvg-language="English" group-title="Golf",ENG | Day 2
-https://cinearena.fun/proxy/universal.php/?url=https://in-mc-vod.fancode.com/mumbai/4250887_english_hls_b929dd0f7222378_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="139523" tvg-name="Practice 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-QATAR_fc-web_1795503370459.jpg" group-title="Formula 1",[DRM] ENG | Practice 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"k":"oxLTILxPpoluyl4sQ91PUw","kid":"ThYjmTq3RqShugAHqjlL-g","kty":"oct"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
+#EXTVLCOPT:http-referrer=https://fancode.com/
+#EXTHTTP:{"user-agent":"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1","referer":"https://fancode.com/"}
+https://cinearena.fun/proxy/universal.php/?url=https://in-mc-flive.fancode.com/mumbai/139523_english_dash_69256_1drmta-di_h264/index.mpd
