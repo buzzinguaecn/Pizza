@@ -65,42 +65,6 @@ https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15f
 https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
 
 
-#EXTINF:-1 tvg-id="4249863" tvg-name="Macarthur Vs Melbourne City" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249863_53101_MAC_MLC_fc-Web_1792223292524.jpg" tvg-language="English" group-title="SAWARID سواريد - Football", ENG | Macarthur 🆚 Melbourne City
-https://cinearena.fun/proxy/universal.php/?url=https://in-mc-vod.fancode.com/mumbai/4249863_english_hls_eb299d9e9a55254_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/3993.png" group-title="SAWARID سواريد - Football", Macarthur FC 🆚 Melbourne City TNT SPORTS - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/3993.png" group-title="SAWARID سواريد - Football", Macarthur FC 🆚 Melbourne City SPORTDIGITAL FUSSBALL AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/3993.png" group-title="SAWARID سواريد - Football", Macarthur FC 🆚 Melbourne City SPOTV AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/3993.png" group-title="SAWARID سواريد - Football", Macarthur FC 🆚 Melbourne City SD STREAM
-https://www.rtmpcdn.com/live/b9149b1d-db70-42f9-a0b9-1581ad9ee25e.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/3993.png" group-title="SAWARID سواريد - Football", Macarthur FC 🆚 Melbourne City FANCODE [IND]
-https://in-mc-vod.fancode.com/mumbai/4249863_english_hls_eb299d9e9a55254_1ta-di_h264/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Macarthur%20FC%20Vs%20Melbourne%20City.jpg" group-title="SAWARID سواريد - Football", Macarthur FC 🆚 Melbourne City - TNT SPORTS - AQ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
@@ -186,6 +150,10 @@ https://cinearena.fun/proxy/universal.php/?url=https://in-mc-vod.fancode.com/mum
 
 #EXTINF:-1 tvg-id="4250422" tvg-name="Perth Scorchers Women Vs Hobart Hurricanes Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250422_53125_PS-W_HB-W_fc-web_1793352701259.jpg" tvg-language="English" group-title="SAWARID سواريد - Cricket", ENG | Perth Scorchers Women 🆚 Hobart Hurricanes Women
 https://cinearena.fun/proxy/universal.php/?url=https://in-mc-vod.fancode.com/mumbai/4250422_english_hls_67b5a84f4627685_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+
+#EXTINF:-1 tvg-id="4251148" tvg-name="Rome Gladiators Vs Venice Livewires" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4251148_53165_RG_VL_fc-app.jpg" tvg-language="English" group-title="SAWARID سواريد - Cricket", ENG | Rome Gladiators 🆚 Venice Livewires
+https://cinearena.fun/proxy/universal.php/?url=https://in-mc-vod.fancode.com/mumbai/4251148_english_hls_35f56b44af61919_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 
 #EXTINF:-1 tvg-id="4250957" tvg-name="Sub Saharan Africa Vs Europe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Test_Twenty_2026FC-WEB.jpg" tvg-language="English" group-title="SAWARID سواريد - Cricket", ENG | Sub Saharan Africa 🆚 Europe
@@ -383,6 +351,26 @@ https://in-mc-vod.fancode.com/mumbai/139987_english_hls_d24b6feeea4926_1ta-di_h2
 
 
 # 🆕 SAWARID سواريد - Motorsport 👉 Updateded Done ✅✅✅✅✅✅
+
+
+# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
+# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Motorsports 🟢🟢🟢🟢🟢🟢
+
+
+#EXTINF:-1 tvg-id="139658" tvg-name="Practice Session" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2-QATAR_fc-web.jpg" group-title="SAWARID سواريد - Motorsports",[DRM] ENG | Practice Session
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"k":"kdgZ0GJvHWVGpCeedWiuDQ","kid":"mmhduijgT4iSkxeyI3xeeg","kty":"oct"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
+#EXTVLCOPT:http-referrer=https://fancode.com/
+#EXTHTTP:{"user-agent":"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1","referer":"https://fancode.com/"}
+https://cinearena.fun/proxy/universal.php/?url=https://in-mc-flive.fancode.com/mumbai/139658_english_dash_66854_1drmta-di_h264/index.mpd
+
+
+# 🆕 SAWARID سواريد - Motorsports 👉 Updateded Done ✅✅✅✅✅✅
 
 
 # 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
