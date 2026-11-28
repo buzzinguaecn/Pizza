@@ -1,5 +1,5 @@
 #EXTM3U
-# 🆕 FANCODE PROXY - Updated: 2026-11-28 21:07:28 🟡
+# 🆕 FANCODE PROXY - Updated: 2026-11-28 22:18:01 🟡
 
 
 #EXTINF:-1 tvg-id="4251151" tvg-name="Brescia Lions Vs Rome Gladiators" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Brescia-Lions-vs-Rome-Gladiators_web.png" tvg-language="English" group-title="Cricket",ENG | Brescia Lions Vs Rome Gladiators
@@ -20,17 +20,6 @@ https://cinearena.fun/proxy/universal.php/?url=https://in-mc-vod.fancode.com/mum
 
 #EXTINF:-1 tvg-id="4250017" tvg-name="Preston North End F.c. Vs Norwich City F.c." tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250017_52993_PST_NOR_fc-web.jpg" tvg-language="English" group-title="Football",ENG | Preston North End F.c. Vs Norwich City F.c.
 https://cinearena.fun/proxy/universal.php/?url=https://in-mc-vod.fancode.com/mumbai/4250017_english_hls_0f3078357e4413_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-
-#EXTINF:-1 tvg-id="4247698" tvg-name="Real Betis Vs Rayo Vallecano" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247698_53004_RB_RVL_FC-Web.png" group-title="Football",[DRM] ENG | Real Betis Vs Rayo Vallecano
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"k":"JxQdEQqnIIktjRd9eCyw0g","kid":"V7RoRxcmMpy1cNNpB_B2bQ","kty":"oct"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-#EXTHTTP:{"user-agent":"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1","referer":"https://fancode.com/"}
-https://cinearena.fun/proxy/universal.php/?url=https://in-mc-flive.fancode.com/out/v1/ap-south-1/4247698_english_924643/ad-drm-h264/master.mpd
 
 
 #EXTINF:-1 tvg-id="4250972" tvg-name="Al Ettifaq Vs Al Hilal Sfc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250972_53025_ETT_AHS_FC-App_1795077051526.png" tvg-language="English" group-title="Football",ENG | Al Ettifaq Vs Al Hilal Sfc
@@ -56,12 +45,12 @@ https://cinearena.fun/proxy/universal.php/?url=https://in-mc-flive.fancode.com/o
 https://cinearena.fun/proxy/universal.php/?url=https://in-mc-vod.fancode.com/mumbai/4250888_english_hls_2b8e33f44e79993_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 
-#EXTINF:-1 tvg-id="139524" tvg-name="Practice 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-QATAR_fc-web_1795503370459.jpg" group-title="Formula 1",[DRM] ENG | Practice 3
+#EXTINF:-1 tvg-id="139660" tvg-name="Sprint Race" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2-QATAR_fc-web.jpg" group-title="Motorsports",[DRM] ENG | Sprint Race
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"k":"qeEYAO3asUcWEWaGK2tdog","kid":"BR1cwBdITZqkAkGN0sIwgg","kty":"oct"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"k":"3G7J3B0nDnar5HE6pNmpuA","kid":"XfSOer5OS0-GrLNnSdPvbw","kty":"oct"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
 #EXTHTTP:{"user-agent":"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1","referer":"https://fancode.com/"}
-https://cinearena.fun/proxy/universal.php/?url=https://in-mc-flive.fancode.com/mumbai/139524_english_dash_87060_1drmta-di_h264/index.mpd
+https://cinearena.fun/proxy/universal.php/?url=https://in-mc-flive.fancode.com/mumbai/139660_english_dash_23323_1drmta-di_h264/index.mpd
