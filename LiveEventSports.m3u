@@ -97,7 +97,15 @@ https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc0642156
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e9184bb9fed0727a24a8954562d7eb6:54182ee50af7097cf46a8fa7c3cb7626
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/vmx0zl2u76/out/v1/36c58b0cecc44790ac48987a20387786/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vmx0zl2u76/out/v1/36c58b0cecc44790ac48987a20387786/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="B0HNTGNHPD" tvg-name="International League T20 2026 - 9th Match - Desert Vipers vs Mi Emirates" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5e704ed4-69c3-4acc-9099-df9d999ae4c7/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="SAWARID سواريد - Cricket", International League T20 2026 - 9th Match - Desert Vipers 🆚 Mi Emirates
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=93eeb44d1f28ed952f0122a4c9e213af:ad2fd224bbd23bb898ec346ebf1bd59f
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/72h1hddob2/out/v1/2f42cd5273e24fe2951db3b1d0dc6679/cenc.mpd
 
 
 #EXTINF:-1 tvg-id="4250424" tvg-name="Sydney Sixers Women Vs Sydney Thunder Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250424_53125_ST-W_SS-W_fc-web_1793352702043.jpg" tvg-language="English" group-title="SAWARID سواريد - Cricket", ENG | Sydney Sixers Women 🆚 Sydney Thunder Women
@@ -108,12 +116,12 @@ https://cinearena.fun/proxy/universal.php/?url=https://in-mc-vod.fancode.com/mum
 https://cinearena.fun/proxy/universal.php/?url=https://in-mc-vod.fancode.com/mumbai/4251150_english_hls_666ea1ad9275139_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 
-#EXTINF:-1 tvg-id="4251088" tvg-name="Majees Titans Vs Mustafa Fragrance House Strikers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4251088_53163_YSG_MUT_fc-App.jpg" tvg-language="English" group-title="SAWARID سواريد - Cricket", ENG | Majees Titans 🆚 Mustafa Fragrance House Strikers
-https://cinearena.fun/proxy/universal.php/?url=https://in-mc-vod.fancode.com/mumbai/4251088_english_hls_41cecff58216504_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-
 #EXTINF:-1 tvg-id="4251057" tvg-name="Mi Emirates Vs Desert Vipers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4251057_53162_MIE_DV_FC-APP.jpg" tvg-language="English" group-title="SAWARID سواريد - Cricket", ENG | Mi Emirates 🆚 Desert Vipers
 https://cinearena.fun/proxy/universal.php/?url=https://in-mc-vod.fancode.com/mumbai/4251057_english_hls_532c94c02873604_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+
+#EXTINF:-1 tvg-id="4250913" tvg-name="Sohar Smashers Women Vs Ghubra Giants Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg" tvg-language="English" group-title="SAWARID سواريد - Cricket", ENG | Sohar Smashers Women 🆚 Ghubra Giants Women
+https://cinearena.fun/proxy/universal.php/?url=https://in-mc-vod.fancode.com/mumbai/4250913_english_hls_5dc23e5c3848724_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Sydney%20Thunder%20Women%20Vs%20Sydney%20Sixers%20Women.jpg" group-title="SAWARID سواريد - Cricket", Sydney Thunder Women 🆚 Sydney Sixers Women - WILLOW - AQ
@@ -249,6 +257,14 @@ https://in-mc-vod.fancode.com/mumbai/139988_english_hls_eced0baf6984020_1ta-di_h
 # 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Prime Video Sports 🟢🟢🟢🟢🟢🟢
 
 
+#EXTINF:-1 tvg-id="B0HS7JZ7Y2" tvg-name="Hong Kong" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.861ca683-1911-4c5c-8c1c-e1b85fa5786c/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="SAWARID سواريد - Prime Video Sports",Hong Kong
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
+
+
 #EXTINF:-1 tvg-id="B0HJZBRWBB" tvg-name="Motul Grand Prix of Valencia, Qualifying" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.9e67cc49-6312-4364-95b0-82f28b3e8981/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="SAWARID سواريد - Prime Video Sports",Motul Grand Prix of Valencia, Qualifying
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -262,7 +278,7 @@ https://a182live-emt-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
 
 #EXTINF:-1 tvg-id="B0HLWGFBXD" tvg-name="Womens Big Bash League 2026 - 38th Match - Sydney Thunder Women vs Sydney Sixers Women" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.7b6a596e-9394-466d-a5c3-4593b3c77600/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="SAWARID سواريد - Prime Video Sports", Womens Big Bash League 2026 - 38th Match - Sydney Thunder Women 🆚 Sydney Sixers Women
@@ -270,15 +286,23 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e9184bb9fed0727a24a8954562d7eb6:54182ee50af7097cf46a8fa7c3cb7626
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vmx0zl2u76/out/v1/36c58b0cecc44790ac48987a20387786/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vmx0zl2u76/out/v1/36c58b0cecc44790ac48987a20387786/cenc.mpd
 
 
-#EXTINF:-1 tvg-id="B0HS7JZ7Y2" tvg-name="Hong Kong" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.861ca683-1911-4c5c-8c1c-e1b85fa5786c/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="SAWARID سواريد - Prime Video Sports",Hong Kong
+#EXTINF:-1 tvg-id="B0HPWD257D" tvg-name="Italia: Third/Fourth Place Playoff" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.ef4b47d5-6e1e-4fed-98de-9dcc93755568/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="SAWARID سواريد - Prime Video Sports",Italia: Third/Fourth Place Playoff
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="B0HNTGNHPD" tvg-name="International League T20 2026 - 9th Match - Desert Vipers vs Mi Emirates" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.5e704ed4-69c3-4acc-9099-df9d999ae4c7/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="SAWARID سواريد - Prime Video Sports", International League T20 2026 - 9th Match - Desert Vipers 🆚 Mi Emirates
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=93eeb44d1f28ed952f0122a4c9e213af:ad2fd224bbd23bb898ec346ebf1bd59f
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/72h1hddob2/out/v1/2f42cd5273e24fe2951db3b1d0dc6679/cenc.mpd
 
 
 # 🆕 SAWARID سواريد - Prime Video Sports 👉 Updateded Done ✅✅✅✅✅✅
@@ -291,20 +315,7 @@ https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzli
 
 
 #EXTINF:-1 tvg-id="1090557000_ENG" tvg-name="Mubadala Abu Dhabi Sail GP - Day 1 - 28 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030172/1795785171790736_Sail-GP_Mubadala-Abu-Dhabi_Day-1_live_landscape_thumb.jpg" group-title="SAWARID سواريد - Sailing",Mubadala Abu Dhabi Sail GP - Day 1 - 28 Nov 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2120301/Sail_Mub2811/ENG/master.m3u8?hdnea=exp=1795909432~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=ebe0de820aa0fded2f2c784a2c66a05f8b63e20f80e302e5545cb3a2d90f6467
+https://sonydaime.akamaized.net/hls/live/2120301/Sail_Mub2811/ENG/master.m3u8?hdnea=exp=1795911233~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=68eb9cbaaeb7ef227ac555b49e7225cdac1d713e5e348f19cd2256dbd0a461c3
 
 
 # 🆕 SAWARID سواريد - Sailing 👉 Updateded Done ✅✅✅✅✅✅
-
-
-# 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
-
-
-# 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Tennis 🟢🟢🟢🟢🟢🟢
-
-
-#EXTINF:-1 tvg-id="1090556998_ENG" tvg-name="Men's & Women's Singles - Final - 28 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030044/1795694818521427_AO_wildcard_playoffs_2027_Womens_and_Mens_Singles_Final_landscape_thumb.jpg" group-title="SAWARID سواريد - Tennis",Men's & Women's Singles - Final - 28 Nov 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2120299/Tennis_A2811/ENG/master.m3u8?hdnea=exp=1795909432~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=ebe0de820aa0fded2f2c784a2c66a05f8b63e20f80e302e5545cb3a2d90f6467
-
-
-# 🆕 SAWARID سواريد - Tennis 👉 Updateded Done ✅✅✅✅✅✅
