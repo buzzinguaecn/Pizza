@@ -53,6 +53,22 @@
 # 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Football 🟢🟢🟢🟢🟢🟢
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/4367.png" group-title="SAWARID سواريد - Football", Central Coast Mariners 🆚 Auckland FC SPORTDIGITAL FUSSBALL AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/4367.png" group-title="SAWARID سواريد - Football", Central Coast Mariners 🆚 Auckland FC TNT SPORTS AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Central%20Coast%20Mariners%20Vs%20Auckland%20FC.jpg" group-title="SAWARID سواريد - Football", Central Coast Mariners 🆚 Auckland FC - TNT3UK SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -76,6 +92,10 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1
 
 
 #EXTINF:-1 tvg-id="tapmad-19214" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17954154321020x576.jpg" group-title="SAWARID سواريد - Cricket", Melbourne Renegades 🆚 Melbourne Stars - Group Stage - Women's Big Bash League 2026
+https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
+
+
+#EXTINF:-1 tvg-id="tapmad-19215" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17954155681020x576.jpg" group-title="SAWARID سواريد - Cricket", Sydney Thunder 🆚 Sydney Sixers - Group Stage - Women's Big Bash League 2026
 https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
 
 
@@ -457,7 +477,7 @@ http://193.47.62.41/hls/DSSSAAA.m3u8
 
 
 #EXTINF:-1 tvg-id="1090556998_ENG" tvg-name="Men's & Women's Singles - Final - 28 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030044/1795694818521427_AO_wildcard_playoffs_2027_Womens_and_Mens_Singles_Final_landscape_thumb.jpg" group-title="SAWARID سواريد - Tennis",Men's & Women's Singles - Final - 28 Nov 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2120299/Tennis_A2811/ENG/master.m3u8?hdnea=exp=1795902229~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=db26581aa570d96ac45655c7e14c4fe5b83ae82e6a9b6efee161ad0237901c76
+https://sonydaime.akamaized.net/hls/live/2120299/Tennis_A2811/ENG/master.m3u8?hdnea=exp=1795904030~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=f6fd412b0d271ab70c0b4f71b9b420f834319a503f2b5016ac25ae508dcd333b
 
 
 # 🆕 SAWARID سواريد - Tennis 👉 Updateded Done ✅✅✅✅✅✅
