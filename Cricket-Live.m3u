@@ -54,56 +54,24 @@
 # 🟢🟢🟢🟢🟢🟢 SAWARID سواريد - Cricket 🟢🟢🟢🟢🟢🟢
 
 
-#EXTINF:-1 tvg-id="B0HNTGNHPD" tvg-name="International League T20 2026 - 9th Match - Desert Vipers vs Mi Emirates" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5e704ed4-69c3-4acc-9099-df9d999ae4c7/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="SAWARID سواريد - Cricket", International League T20 2026 - 9th Match - Desert Vipers 🆚 Mi Emirates
+#EXTINF:-1 tvg-id="B0HR5RY8HJ" tvg-name="International League T20 2026 - 10th Match - Dubai Capitals vs Gulf Giants" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.90587d79-619b-40b6-9918-14226a0b34cb/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="SAWARID سواريد - Cricket", International League T20 2026 - 10th Match - Dubai Capitals 🆚 Gulf Giants
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=93eeb44d1f28ed952f0122a4c9e213af:ad2fd224bbd23bb898ec346ebf1bd59f
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/72h1hddob2/out/v1/2f42cd5273e24fe2951db3b1d0dc6679/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=7da4cf4e5d70d08dc105a46fe42944f1:70b38fae5d9baf9b4cedfd568bb442a6
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hew9euaay4/out/v1/fab4c018765d4574982ac6d67a51923a/cenc.mpd
 
 
 #EXTINF:-1 tvg-id="4251151" tvg-name="Brescia Lions Vs Rome Gladiators" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Brescia-Lions-vs-Rome-Gladiators_web.png" tvg-language="English" group-title="SAWARID سواريد - Cricket", ENG | Brescia Lions 🆚 Rome Gladiators
 https://cinearena.fun/proxy/universal.php/?url=https://in-mc-vod.fancode.com/mumbai/4251151_english_hls_acdf23ee4415372_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 
-#EXTINF:-1 tvg-id="4251057" tvg-name="Mi Emirates Vs Desert Vipers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4251057_53162_MIE_DV_FC-APP.jpg" tvg-language="English" group-title="SAWARID سواريد - Cricket", ENG | Mi Emirates 🆚 Desert Vipers
-https://cinearena.fun/proxy/universal.php/?url=https://in-mc-vod.fancode.com/mumbai/4251057_english_hls_532c94c02873604_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-
 #EXTINF:-1 tvg-id="4250913" tvg-name="Sohar Smashers Women Vs Ghubra Giants Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg" tvg-language="English" group-title="SAWARID سواريد - Cricket", ENG | Sohar Smashers Women 🆚 Ghubra Giants Women
 https://cinearena.fun/proxy/universal.php/?url=https://in-mc-vod.fancode.com/mumbai/4250913_english_hls_5dc23e5c3848724_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/ILT%20T20%20Vs%20ILT%20T20.jpg" group-title="SAWARID سواريد - Cricket", ILT T20 🆚 ILT T20 - WILLOW - AQ
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=93eeb44d1f28ed952f0122a4c9e213af:ad2fd224bbd23bb898ec346ebf1bd59f
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/72h1hddob2/out/v1/2f42cd5273e24fe2951db3b1d0dc6679/cenc.mpd
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/ILT%20T20%20Vs%20ILT%20T20.jpg" group-title="SAWARID سواريد - Cricket", ILT T20 🆚 ILT T20 - TNT SPORTS - AQ
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/ILT%20T20%20Vs%20ILT%20T20.jpg" group-title="SAWARID سواريد - Cricket", ILT T20 🆚 ILT T20 - TAMASHA PRO AQ
-https://cdn03lhr-n.tamashaweb.com:8087/appcast/ILT-S05-SVOD-abr/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/ILT%20T20%20Vs%20ILT%20T20.jpg" group-title="SAWARID سواريد - Cricket", ILT T20 🆚 ILT T20 - UNITE8 HIN HD
-http://103.205.132.29:8081/Unite8-sports-1/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/ILT%20T20%20Vs%20ILT%20T20.jpg" group-title="SAWARID سواريد - Cricket", ILT T20 🆚 ILT T20 - ZEE ZEST IN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ffa2f9e64ca542f9a13f6ebc11292468:ac0b546c754884618e5b2c2c986e4735
-https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Zest_SD/dash/Zee_Zest_SD.mpd
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/ILT%20T20%20Vs%20ILT%20T20.jpg" group-title="SAWARID سواريد - Cricket", ILT T20 🆚 ILT T20 - UNITE8 SPORTS IN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d5859726f4804398b37aa6eb9d571a4f:11c43967054ad1765d919f854889912f
-https://d1iwj24qiokrul.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd
+#EXTINF:-1 tvg-id="4251058" tvg-name="Gulf Giants Vs Dubai Capitals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4251058_53162_GG_DC_FC-APP.jpg" tvg-language="English" group-title="SAWARID سواريد - Cricket", ENG | Gulf Giants 🆚 Dubai Capitals
+https://cinearena.fun/proxy/universal.php/?url=https://in-mc-vod.fancode.com/mumbai/4251058_english_hls_eefd7de0ee19658_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Italia%20T10%20Vs%20Italia%20T10.jpg" group-title="SAWARID سواريد - Cricket", Italia T10 🆚 Italia T10 - SM IPTV LIVE

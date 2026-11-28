@@ -55,15 +55,15 @@
 
 
 #EXTINF:-1 tvg-id="1090557001_ENG" tvg-name="Chennaiyin FC vs Mumbai City FC - 28 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030150/1795772821080275_ISL26_ChennaiyinFC_vs_MumbaiCityFC_landscape_thumb.jpg" group-title="SAWARID سواريد - Football", Chennaiyin FC 🆚 Mumbai City FC - 28 Nov 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2120306/Footlive2811/ENG/master.m3u8?hdnea=exp=1795923829~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=15a7c88af6880e6ee7bf03449959d74449396099fc817b6a7c89869bdd25c01c
+https://sonydaime.akamaized.net/hls/live/2120306/Footlive2811/ENG/master.m3u8?hdnea=exp=1795925609~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=5e98cf1f1e1f7e50c10b11dee61184098ffe11ca1f9e775420088232873b94e5
 
 
 #EXTINF:-1 tvg-id="1090557001_HIN" tvg-name="Chennaiyin FC vs Mumbai City FC - 28 Nov 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030150/1795772821080275_ISL26_ChennaiyinFC_vs_MumbaiCityFC_landscape_thumb.jpg" group-title="SAWARID سواريد - Football", Chennaiyin FC 🆚 Mumbai City FC - 28 Nov 2026 [HIN]
-https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795917393~acl=/*~id=75054477103545070874122648723000~hmac=e6e775da1265352704fdbf6fcab63b8ca5d0f9f8a48b202dfc9b57ea204567e6
+https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795919824~acl=/*~id=87916976050075188700731390463067~hmac=bb27d76ece14ca6e123b98958c75c77e70378361e5ff048f09c0034310e05377
 
 
 #EXTINF:-1 tvg-id="1090557001_TAM" tvg-name="Chennaiyin FC vs Mumbai City FC - 28 Nov 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030150/1795772821080275_ISL26_ChennaiyinFC_vs_MumbaiCityFC_landscape_thumb.jpg" group-title="SAWARID سواريد - Football", Chennaiyin FC 🆚 Mumbai City FC - 28 Nov 2026 [TAM]
-https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795917393~acl=/*~id=75054477103545070874122648723000~hmac=e6e775da1265352704fdbf6fcab63b8ca5d0f9f8a48b202dfc9b57ea204567e6
+https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795919824~acl=/*~id=87916976050075188700731390463067~hmac=bb27d76ece14ca6e123b98958c75c77e70378361e5ff048f09c0034310e05377
 
 
 #EXTINF:-1 tvg-id="tapmad-20265" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17956776771020x576.jpg" group-title="SAWARID سواريد - Football", Al-Hazem 🆚 Al-Nassr - MATCHDAY 13 - Saudi Pro League 2026/27
@@ -72,6 +72,10 @@ https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea
 
 #EXTINF:-1 tvg-id="tapmad-20251" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17956804561020x576.jpg" group-title="SAWARID سواريد - Football", Betis 🆚 Rayo Vallecano - MATCHDAY 14 - LaLiga 2026/27
 https://t-prod-bd.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
+
+
+#EXTINF:-1 tvg-id="tapmad-20266" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17956779141020x576.jpg" group-title="SAWARID سواريد - Football", Al-Ettifaq 🆚 Al-Hilal - MATCHDAY 13 - Saudi Pro League 2026/27
+https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 
 
 #EXTINF:-1 tvg-id="4250971" tvg-name="Al Hazem Fc Vs Al Nassr Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250971_53025_HAZ_ANF_FC-App_1795077051519.png" tvg-language="English" group-title="SAWARID سواريد - Football", ENG | Al Hazem Fc 🆚 Al Nassr Fc
@@ -93,44 +97,8 @@ https://cinearena.fun/proxy/universal.php/?url=https://in-mc-vod.fancode.com/mum
 https://cinearena.fun/proxy/universal.php/?url=https://in-mc-flive.fancode.com/out/v1/ap-south-1/4247698_english_924643/ad-drm-h264/master.mpd
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/4031.png" group-title="SAWARID سواريد - Football", Hertha BSC 🆚 Karlsruher SC SKY BUNDESLIGA - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=42650c79c7a241e79d18488fef3d75da:42c319fd698c3914b7bfbaa38d08e41e
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oi4rnidcwc/out/v1/0e3c984eb7284664919152f18e7915b1/cenc.mpd
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/4032.png" group-title="SAWARID سواريد - Football", Holstein Kiel 🆚 1. FC Kaiserslautern SKY BUNDESLIGA - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eb5d2d0b9a495fd6d6e3564017b4114c:e6c14d3d9c6b4f3933991cb90324f1da
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uvs2xhdiej/out/v1/433bf6d117f7498bbec46459d95e4856/cenc.mpd
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/4033.png" group-title="SAWARID سواريد - Football", SG Dynamo Dresden 🆚 FC St. Pauli beIN SPORTS - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/4638.png" group-title="SAWARID سواريد - Football", Al-Hazem 🆚 Al-Nassr SPORTDIGITAL FUSSBALL - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/4638.png" group-title="SAWARID سواريد - Football", Al-Hazem 🆚 Al-Nassr FOX DESPORTS HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+#EXTINF:-1 tvg-id="4250972" tvg-name="Al Ettifaq Vs Al Hilal Sfc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250972_53025_ETT_AHS_FC-App_1795077051526.png" tvg-language="English" group-title="SAWARID سواريد - Football", ENG | Al Ettifaq 🆚 Al Hilal Sfc
+https://cinearena.fun/proxy/universal.php/?url=https://in-mc-vod.fancode.com/mumbai/4250972_english_hls_c2c855bfe850786_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/4639.png" group-title="SAWARID سواريد - Football", Blackburn Rovers 🆚 Charlton Athletic PLAYZ TV LIVE
@@ -181,6 +149,38 @@ https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2811/HIN/std_lrh
 https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795916779~acl=/*~id=37231020905388299657628168043808~hmac=56e2936b7a948864abe2725acd97ed9f43991aace5275a27fbda12b676eb6ff4
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/4171.png" group-title="SAWARID سواريد - Football", Frosinone 🆚 Parma PARAMOUNT+ - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c74afb61c9ed0eb91595e1afbe43d7f1:aa1acd988dee6106039eac115c49f79d
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/deut0uoays/out/v1/dc0b396f73ed4c8db8bfc70c985798d5/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/4171.png" group-title="SAWARID سواريد - Football", Frosinone 🆚 Parma FUBO SPORTS - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e09a0900100e5ac77d4adb45a602a86b:7da511a38053d3e150d38f47ac7d8298
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yukpgzjukf/out/v1/e9584c6de0d145a9ac1b36ddf7795081/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/4171.png" group-title="SAWARID سواريد - Football", Frosinone 🆚 Parma DAZN ITALIA - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d03a51b92c10882ddc7fc23f1c1c182e:1729453ea2188cc9fea59a572dc440ba
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fxdzg12g3i/out/v1/4165e1e7162c4c81b3a64b1f45094210/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/4171.png" group-title="SAWARID سواريد - Football", Frosinone 🆚 Parma SPORT 2 CZ - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/4643.png" group-title="SAWARID سواريد - Football", Al-Ettifaq 🆚 Al-Hilal FOX SPORTS - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -195,6 +195,42 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/4200.png" group-title="SAWARID سواريد - Football", 1. FSV Mainz 05 🆚 1. FC Union Berlin SHAHID EN/AR - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=50a7f3afc00a40b38face4db639d0e4c:ad7000691326064706281a700b7d6714
+https://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4ae93/index.mpd
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/6537.png" group-title="SAWARID سواريد - Football", Hamburger SV 🆚 FC Bayern München beIN ENGLISH - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/4646.png" group-title="SAWARID سواريد - Football", Bodø/Glimt 🆚 KFUM Oslo HD STREAM
+https://live1.quickscoreboardz.com/live/channel18/playlist.m3u8?wsSecret=bb6fb17e307bad9b72ab4ea942992409&wsABSTime=1795919112
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/4649.png" group-title="SAWARID سواريد - Football", Millwall 🆚 Burnley HD STREAM
+https://live3979.zundrixmediapipeline.com/live/channel22.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/4650.png" group-title="SAWARID سواريد - Football", Queens Park Rangers 🆚 Sheffield United HD STREAM
+https://live3979.zundrixmediapipeline.com/live/channel10.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/4653.png" group-title="SAWARID سواريد - Football", West Bromwich Albion 🆚 Bristol City HD STREAM
+https://live1.quickscoreboardz.com/live/channel67/playlist.m3u8?wsSecret=35f8e49410c8c7bbf6514e368d84278d&wsABSTime=1795919111
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/easykity/jakson/main/posters/4655.png" group-title="SAWARID سواريد - Football", Wrexham 🆚 Portsmouth HD STREAM
+https://live1.quickscoreboardz.com/live/channel66/playlist.m3u8?wsSecret=f2221122317774f1f32a7c57b4d30247&wsABSTime=1795919484
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Hertha%20BSC%20Vs%20Karlsruher%20SC.jpg" group-title="SAWARID سواريد - Football", Hertha BSC 🆚 Karlsruher SC - SKY BUNDESLIGA - AQ
@@ -341,6 +377,40 @@ http://193.47.62.41/hls/R777AAAAA.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a
 https://cache4.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Frosinone%20Vs%20Parma.jpg" group-title="SAWARID سواريد - Football", Frosinone 🆚 Parma - HD SERVER
+https://chatgpt.hereisman.net/playlist/61251/load-playlist
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Chennaiyin%20FC%20Vs%20Mumbai%20City%20FC.jpg" group-title="SAWARID سواريد - Football", Chennaiyin FC 🆚 Mumbai City FC - SONYLIV ENG - AQ
+https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795916779~acl=/*~id=37231020905388299657628168043808~hmac=56e2936b7a948864abe2725acd97ed9f43991aace5275a27fbda12b676eb6ff4
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Chennaiyin%20FC%20Vs%20Mumbai%20City%20FC.jpg" group-title="SAWARID سواريد - Football", Chennaiyin FC 🆚 Mumbai City FC - SONYLIV HIN - AQ
+https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795916779~acl=/*~id=37231020905388299657628168043808~hmac=56e2936b7a948864abe2725acd97ed9f43991aace5275a27fbda12b676eb6ff4
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Chennaiyin%20FC%20Vs%20Mumbai%20City%20FC.jpg" group-title="SAWARID سواريد - Football", Chennaiyin FC 🆚 Mumbai City FC - SONYLIV TAM - AQ
+https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795916779~acl=/*~id=37231020905388299657628168043808~hmac=56e2936b7a948864abe2725acd97ed9f43991aace5275a27fbda12b676eb6ff4
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Al-Ettifaq%20Vs%20Al-Hilal.jpg" group-title="SAWARID سواريد - Football", Al-Ettifaq 🆚 Al-Hilal - FOX SPORTS - AQ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Al-Ettifaq%20Vs%20Al-Hilal.jpg" group-title="SAWARID سواريد - Football", Al-Ettifaq 🆚 Al-Hilal - SPORTDIGITAL FUSSBALL - AQ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Hamburger%20SV%20Vs%20FC%20Bayern%20M%C3%BCnchen.jpg" group-title="SAWARID سواريد - Football", Hamburger SV 🆚 FC Bayern München - beIN ENGLISH - AQ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 
 # 🆕 SAWARID سواريد - Football 👉 Updateded Done ✅✅✅✅✅✅
