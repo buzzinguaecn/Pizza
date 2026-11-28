@@ -59,7 +59,11 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=93eeb44d1f28ed952f0122a4c9e213af:ad2fd224bbd23bb898ec346ebf1bd59f
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/72h1hddob2/out/v1/2f42cd5273e24fe2951db3b1d0dc6679/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/72h1hddob2/out/v1/2f42cd5273e24fe2951db3b1d0dc6679/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="4251151" tvg-name="Brescia Lions Vs Rome Gladiators" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Brescia-Lions-vs-Rome-Gladiators_web.png" tvg-language="English" group-title="SAWARID سواريد - Cricket", ENG | Brescia Lions 🆚 Rome Gladiators
+https://cinearena.fun/proxy/universal.php/?url=https://in-mc-vod.fancode.com/mumbai/4251151_english_hls_acdf23ee4415372_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 
 #EXTINF:-1 tvg-id="4251057" tvg-name="Mi Emirates Vs Desert Vipers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4251057_53162_MIE_DV_FC-APP.jpg" tvg-language="English" group-title="SAWARID سواريد - Cricket", ENG | Mi Emirates 🆚 Desert Vipers
@@ -68,34 +72,6 @@ https://cinearena.fun/proxy/universal.php/?url=https://in-mc-vod.fancode.com/mum
 
 #EXTINF:-1 tvg-id="4250913" tvg-name="Sohar Smashers Women Vs Ghubra Giants Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg" tvg-language="English" group-title="SAWARID سواريد - Cricket", ENG | Sohar Smashers Women 🆚 Ghubra Giants Women
 https://cinearena.fun/proxy/universal.php/?url=https://in-mc-vod.fancode.com/mumbai/4250913_english_hls_5dc23e5c3848724_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Sydney%20Thunder%20Women%20Vs%20Sydney%20Sixers%20Women.jpg" group-title="SAWARID سواريد - Cricket", Sydney Thunder Women 🆚 Sydney Sixers Women - WILLOW - AQ
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7e9184bb9fed0727a24a8954562d7eb6:54182ee50af7097cf46a8fa7c3cb7626
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vmx0zl2u76/out/v1/36c58b0cecc44790ac48987a20387786/cenc.mpd
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Sydney%20Thunder%20Women%20Vs%20Sydney%20Sixers%20Women.jpg" group-title="SAWARID سواريد - Cricket", Sydney Thunder Women 🆚 Sydney Sixers Women - SKY CRICKET - AQ
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=7bnkGmSODWhSvD7xUkjZYw&e=2075749396&scheme=https
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Sydney%20Thunder%20Women%20Vs%20Sydney%20Sixers%20Women.jpg" group-title="SAWARID سواريد - Cricket", Sydney Thunder Women 🆚 Sydney Sixers Women - WILLOW HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Sydney%20Thunder%20Women%20Vs%20Sydney%20Sixers%20Women.jpg" group-title="SAWARID سواريد - Cricket", Sydney Thunder Women 🆚 Sydney Sixers Women - TAPMAD - AQ
-https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Sydney%20Thunder%20Women%20Vs%20Sydney%20Sixers%20Women.jpg" group-title="SAWARID سواريد - Cricket", Sydney Thunder Women 🆚 Sydney Sixers Women - FANCODE [IND]
-https://in-mc-vod.fancode.com/mumbai/4250424_english_hls_5f98ce686243433_1ta-di_h264/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Sydney%20Thunder%20Women%20Vs%20Sydney%20Sixers%20Women.jpg" group-title="SAWARID سواريد - Cricket", Sydney Thunder Women 🆚 Sydney Sixers Women - SD STREAM
-http://193.47.62.41/hls/DSSSAA.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/ILT%20T20%20Vs%20ILT%20T20.jpg" group-title="SAWARID سواريد - Cricket", ILT T20 🆚 ILT T20 - WILLOW - AQ
